@@ -1,0 +1,706 @@
+﻿ru_0,"Клиент:%s Ресурс:%u"
+ru_1,"Загрузите последнюю версию Teon"
+ru_2,"Подключение к серверу игры... (готово)"
+ru_3,"Обновление патча (%s, %u->%u) %u%%, ожидайте..."
+ru_4,"Обновление патча (%s, %u->%u), ожидайте..."
+ru_5,"Подключение к серверу..."
+ru_6,"Подключение к серверу... (подключено)"
+ru_7,"Подключение к серверу... (ошибка)"
+ru_8,"Подключение к серверу... (ошибка протокола)"
+ru_9,"Не удалось подключиться, повторите попытку"
+ru_10,"Подключение к серверу... (установление связи)"
+ru_11,"Извлечение ресурсов игры..."
+ru_12,"Подключение к серверу патчей..."
+ru_13,"Подключение к серверу патчей... (получение обновлений)"
+ru_14,"Подключение к серверу патчей... (ошибка)"
+ru_15,"Не удалось обновить, повторите попытку"
+ru_16,"Получение обновлений... (%u/%u) %s"
+ru_17,"Обновление патча (полное обновление, %u->%u), ожидайте..."
+ru_18,"Обновление патча (частичное обновление, %u->%u), ожидайте..."
+ru_19,"Обновить не удалось (неизвестный код обновления:%s)"
+ru_20,"Обновить не удалось, перезапустите. (недействительный код обновления:%s)"
+ru_21,"Извлечение патча (%s, %u->%u), ожидайте..(%d%%)"
+ru_22,"Обновить не удалось, перезапустите программу (не удалось извлечь)."
+ru_23,"Не удалось установить патч обновления, возникла ошибка. Будет произведена повторная загрузка."
+ru_24,"Не удалось установить патч обновления, попробуйте загрузить патч"
+ru_25,"Освободите место (как минимум %fG), коснитесь экрана и перезапустите обновление"
+ru_26,"Недостаточно свободного места, обновление отменено"
+ru_27,　Подтвердить　|　Отмена　
+ru_28,　OK　
+ru_29,"Не удалось войти в Google Play, проверьте статус соответствующих компонентов."
+ru_30,"\fKКлиент:%s Ресурс:%u"
+ru_31,"Аккаунт уже существует"
+ru_32,"Неверный пароль"
+ru_33,"Аккаунт заблокирован, обратитесь по адресу cs@lakoo.com\nУкажите в заголовке письма «Teon-ACC» и сообщите информацию об аккаунте."
+ru_34,"Кто-то уже вошел в этот аккаунт"
+ru_35,"Неверный аккаунт или пароль"
+ru_36,"Код ошибки:%d"
+ru_37,"Войти не удалось, %s"
+ru_38,"Аккаунт и пароль не могут быть пустыми. Введите данные еще раз."
+ru_39,"Новый пароль отличается от проверочного пароля. Введите пароли еще раз."
+ru_40,"Не удается получить данные аккаунта от Google Play. Повторите попытку"
+ru_41,"\fKАкк."
+ru_42,"\fKПар."
+ru_43,"\fKВход"
+ru_44,"\fKРег."
+ru_45,"\fKОтмена"
+ru_46,"\fKПар,"
+ru_47,"\fKGoogle"
+ru_48,Уведомление
+ru_49,Дворянин
+ru_50,Рыцарь
+ru_51,Эльф
+ru_52,Маг
+ru_53,"Темный эльф"
+ru_54,Рыцарь-дракон
+ru_55,Иллюзионист
+ru_56,"Неизвестный класс"
+ru_57,Герой
+ru_58,Сумка
+ru_59,Навык
+ru_60,Задание
+ru_61,Лок.
+ru_62,Соц.
+ru_63,Всего
+ru_64,Помощь
+ru_65,Выйти
+ru_66,Информация
+ru_67,Готово
+ru_68,Отмена
+ru_69,"Настройка закладки"
+ru_70,"Добавить закладку"
+ru_71,ЗАКЛАДКА
+ru_72,"Подтвердить удаление закладки"
+ru_73,"Подтвердите удаление закладки «%s»"
+ru_74,"Отправить сообщение"
+ru_75,Чат
+ru_76,"Хотите выйти?"
+ru_77,"Перезапустить | Выйти "
+ru_78,Оживить
+ru_79,"Вы мертвы"
+ru_80,"Ожить в городе | Выйти из игры "
+ru_81,"Связь разорвана, причина:%u"
+ru_82,Отключено
+ru_83,"Выберите неидентиф. предмет"
+ru_84,Вес
+ru_85,"\fKГерой"
+ru_86,"\fKЗакр"
+ru_87,"\fKСорт"
+ru_88,Законопослушный
+ru_89,Хаотичный
+ru_90,Нейтральный
+ru_91,ЛС
+ru_92,Почта
+ru_93,Блокировать
+ru_94,Удалить
+ru_95,"Имя игрока"
+ru_96,"Название клана"
+ru_97,Обращение
+ru_98,Класс
+ru_99,Уровень
+ru_100,"Добавить друга"
+ru_101,Уведомление:
+ru_102,"Название клана:"
+ru_103,Глава:
+ru_104,Замок:
+ru_105,Член:
+ru_106,"Добро пожаловать в новый клан!"
+ru_107,Купить
+ru_108,Настройка
+ru_109,"Успешный вход"
+ru_110,"Введите количество:"
+ru_111,Магазин
+ru_112,Итого
+ru_113,"\fK Купить"
+ru_114,"\fK Продать"
+ru_115,"Создать персонажа"
+ru_116,"Введите имя персонажа"
+ru_117,"Распределите очки параметров:автоматически/вручную"
+ru_118,"Подтвердите свои очки параметров"
+ru_119,"Этот класс еще не вышел, выберите еще раз."
+ru_120,"Остались очки параметров, распределите их"
+ru_121,"Системная ошибка, введите еще раз."
+ru_122,"Это имя уже существует, введите другое."
+ru_123,"Неподходящее имя, повторите попытку"
+ru_124,"Не удалось создать (неверное распределение параметров), повторите попытку"
+ru_125,"Не удалось создать (превышен лимит количества символов), повторите попытку"
+ru_126,"Неподходящее имя, повторите попытку"
+ru_127,"Неверная информация о персонаже, повторите попытку"
+ru_128,Команда
+ru_129,"Добавить друга"
+ru_130,Торговля
+ru_131,ЛС
+ru_132,Чат
+ru_133,"Активная атака"
+ru_134,Подписка
+ru_135,"Недействительный тип"
+ru_136,"Создать команду"
+ru_137,Выйти
+ru_138,"Превышен лимит символов (0-%d)."
+ru_139,"Торговля отменена"
+ru_140,"Успешная торговля"
+ru_141,Торговля
+ru_142,"Введите количество:"
+ru_143,"\f7 Откр."
+ru_144,"\f7 Закр."
+ru_145,"\fK Резервировать."
+ru_146,"\fK Подтвердить"
+ru_147,"Мои предметы \f=(Берегитесь мошенников)"
+ru_148,Рынок
+ru_149,"Предмет продан"
+ru_150,Продается
+ru_151,Купить
+ru_152,Продать
+ru_153,Получить
+ru_154,Предмет
+ru_155,Имя
+ru_156,"Оставшееся время"
+ru_157,Цена
+ru_158,Статус
+ru_159,"\fKКупить"
+ru_160,"\fKОтменено"
+ru_161,"\fKПолучить"
+ru_162,"Поиск по имени"
+ru_163,"Превышен лимит длины слов"
+ru_164,"Количество предметов:"
+ru_165,"\fKВсе"
+ru_166,Цена:
+ru_167,Итого:
+ru_168,"Срок действия предложения:"
+ru_169,"12 ч."
+ru_170,"24 ч."
+ru_171,"48 ч."
+ru_172,"Плата за обработку"
+ru_173,"\fK Продать"
+ru_174,"\fK Отменено"
+ru_175,"Введите количество"
+ru_176,"Введите цену"
+ru_177,"\f3 Проклято\n"
+ru_178,"\f2 Благословлено\n"
+ru_179,"\f>Класс:"
+ru_180,"\f>Все классы"
+ru_181,"\f>[Дворянин]"
+ru_182,"\f>[Рыцарь]"
+ru_183,"\f>[Эльф]"
+ru_184,"\f>[Маг]"
+ru_185,"%s\f>Урон (М/Б):%d/%d\n"
+ru_186,"%s\f>%sКБ:%d\n"
+ru_187,"%s\f>Материал:%s\nВес:%u\n"
+ru_188,"\f3Не для продажи\n"
+ru_189,"\f2Нельзя повредить\n"
+ru_190,"\f>Двуручное оружие\n"
+ru_191,"%s\f3Нельзя заколдовать\n"
+ru_192,"%s\f2Безоп. колд.:%d\n"
+ru_193,"%s\f>%sЗаколд.:%+d\n"
+ru_194,"%s\f>%sЛом.:%d\n"
+ru_195,"%s\f>%sБонус к попад.:%+d\n"
+ru_196,"%s\f>%sУрон:%+d\n"
+ru_197,"%s\f>%sДист.попад.:%+d\n"
+ru_198,"%s\f>%sДист.урон:%+d\n"
+ru_199,"%s\f>%sСил:%+d\n"
+ru_200,"%s\f>%sЛов:%+d\n"
+ru_201,"%s\f>%sТел:%+d\n"
+ru_202,"%s\f>%sМуд:%+d\n"
+ru_203,"%s\f>%sИнт:%+d\n"
+ru_204,"%s\f>%sХар:%+d\n"
+ru_205,"%s\f>%sУд:%+d\n"
+ru_206,"%s\f>%sОЗ:%+d\n"
+ru_207,"%s\f>%sОМ:%+d\n"
+ru_208,"%s\f>%sСопр.магии:%+d\n"
+ru_209,"%s\f>%sСопр.заморозке:%+d%%\n"
+ru_210,"%s\f>%sСопр.параличу:%+d%%\n"
+ru_211,"%s\f>%sСопр.гипнозу:%+d%%\n"
+ru_212,"%s\f>%sСопр.слепоте:%+d%%\n"
+ru_213,"%s\f>%sСопр.оглуш.:%+d%%\n"
+ru_214,"%s\f>%sСопр.связ.:%+d%%\n"
+ru_215,"\f2Тянуть ОЗ\n"
+ru_216,"\f2Тянуть ОМ\n"
+ru_217,"%s\f>%sВосст.ОЗ:%+d\n"
+ru_218,"%s\f>%sВосст.ОМ:%+d\n"
+ru_219,"%s\f>%sСЗ:%+d\n"
+ru_220,"\f2Эффект ускорения\n"
+ru_221,"%s\f>Питание:%d\n"
+ru_222,"%s\f>Область освещения:%d\n"
+ru_223,"%s\f>%sСопр.огню:%+d%%\n"
+ru_224,"%s\f>%sСопр.воде:%+d%%\n"
+ru_225,"%s\f>%sСопр.ветру:%+d%%\n"
+ru_226,"%s\f>%sСопр.земле:%+d%%\n"
+ru_227,"%sНе идентифицировано"
+ru_228,"\fKИсп"
+ru_229,"\fKУдалить"
+ru_230,"\fKОтмена"
+ru_231,"\fKОЗ"
+ru_232,"\fKМС"
+ru_233,"\fKОпыт"
+ru_234,"\fKУр"
+ru_235,Кланы:
+ru_236,Название:
+ru_237,"\fKБлижний бой"
+ru_238,"\fKСила заклинаний"
+ru_239,"\fKКласс брони"
+ru_240,"\fKСопротивление магии"
+ru_241,"\fKСкорость"
+ru_242,"\fKВероятность уклонения"
+ru_243,"\fKЗащита от огня"
+ru_244,"\fKЗащита от воды"
+ru_245,"\fKЗащита от ветра"
+ru_246,"\fKЗащита от земли"
+ru_247,"\fKГолод"
+ru_248,"\fKСИЛ"
+ru_249,"\fKТЕЛ"
+ru_250,"\fKЛОВ"
+ru_251,"\fKИНТ"
+ru_252,"\fKМУД"
+ru_253,"\fKХАР"
+ru_254,"\fKОсталось"
+ru_255,"\fKОбращение"
+ru_256,"\fKОЧКИ"
+ru_257,"\fKПараметры"
+ru_258,"\fKВзять"
+ru_259,"\fKСумка"
+ru_260,Герой
+ru_261,"\fKДобавить"
+ru_262,"\fKОтправить"
+ru_263,"\f8Имя пользователя  Сообщение"
+ru_264,f9Общие
+ru_265,f9Близко
+ru_266,f9Мир
+ru_267,f9Клан
+ru_268,f9Команда
+ru_269,f9ЛС
+ru_270,f9Система
+ru_271,"\fQОбщий"
+ru_272,"\fQБлизко"
+ru_273,"\fQМир"
+ru_274,"\fQКлан"
+ru_275,"\fQКоманда"
+ru_276,"\fQЛС"
+ru_277,"\fQСистема"
+ru_278,НОРМ
+ru_279,КРИК
+ru_280,МИР
+ru_281,Клан
+ru_282,КОМАНДА
+ru_283,ЛС
+ru_284,СНАРЯЖЕНИЕ
+ru_285,"\fKПараметры"
+ru_286,"\fKВзять"
+ru_287,"\fKСумка"
+ru_288,СУМКА
+ru_289,"\f2Нельзя использовать"
+ru_290,"\f2Неверное действие, выберите подходящее оружие"
+ru_291,"\f2Неверное действие, выберите подходящую броню"
+ru_292,"\f2Неверное действие, выберите подходящий аксессуар"
+ru_293,"\fKОК"
+ru_294,"\fKМАКС"
+ru_295,"\f2Неверный слова"
+ru_296,"\f2Превышен лимит длины текста, повторите попытку."
+ru_297,"Версия клиента:%u (%s) Версия ресурса:%u Версия клиента:%u"
+ru_298,"Неверная команда"
+ru_299,"\f3Ошибка|"
+ru_300,"\f>Внутренн.|"
+ru_301,"\fFМир|"
+ru_302,"\fCКлан|"
+ru_303,"\fUКоманда|"
+ru_304,"\faТорговля|"
+ru_305,"\f<Союз|"
+ru_306,"\fHКрик|"
+ru_307,"\fKРазговор|"
+ru_308,"\fPЛичное сообщение|"
+ru_309,"\fKСИЛ"
+ru_310,"\fKТЕЛ"
+ru_311,"\fKЛОВ"
+ru_312,"\fKМУД"
+ru_313,"\fKИНТ"
+ru_314,"\fKХАР"
+ru_315,"\fKОсталось"
+ru_316,"\fKЗавершить"
+ru_317,"\fKОтмена"
+ru_318,НАВЫК
+ru_319,"\fKОбщий"
+ru_320,"\fQОбычный"
+ru_321,"\fKКласс"
+ru_322,"\fQКласс"
+ru_323,f7Расстояние:%u
+ru_324,"\f7Расстояние:весь экран"
+ru_325,"\fPИспользование МС:%u"
+ru_326,"\fHИспользование предметов:%s"
+ru_327,"\fHИспользование предметов:нет"
+ru_328,"\fKИсп"
+ru_329,СОЦ.
+ru_330,"\fQДруг"
+ru_331,"\fQКоманда"
+ru_332,"\fQКлан"
+ru_333,"\fQПочта"
+ru_334,"\fQЗаблокировано"
+ru_335,"\fKОК"
+ru_336,"\fKОтмена"
+ru_337,Склад
+ru_338,Хранилище:
+ru_339,Инвентарь:
+ru_340,"\fKСохранить"
+ru_341,"\fKТащить"
+ru_342,Да
+ru_343,Нет
+ru_344,"Фоновая музыка:"
+ru_345,"Звуковые эффекты:"
+ru_346,"\fKКлан:"
+ru_347,"\fKКласс:"
+ru_348,"\fKОЗ:"
+ru_349,"\fKОМ:"
+ru_350,"\fKУровень:"
+ru_351,"\fKКБ:"
+ru_352,"\fKСИЛ:"
+ru_353,"\fKЛОВ:"
+ru_354,"\fKТЕЛ:"
+ru_355,"\fKМУД:"
+ru_356,"\fKХАР:"
+ru_357,"\fKИНТ:"
+ru_358,"\f>Начало"
+ru_359,"\fKДворянин"
+ru_360,"\fKРыцарь"
+ru_361,"\fKМаг"
+ru_362,"\fKЭльф"
+ru_363,"\f>Выбор класса"
+ru_364,"\f>Назад"
+ru_365,"\f>Создать"
+ru_366,"\fKВведите имя персонажа"
+ru_367,"\f>Вручную"
+ru_368,"\fKОсталось"
+ru_369,"\f>Отмена"
+ru_370,"\f>Готово"
+ru_371,"Длина имени ограничена (1-%d симв.)"
+ru_372,"\f7Создать персонажа"
+ru_373,"\f:Дворянин"
+ru_374,"\f:Рыцарь"
+ru_375,"\f:Маг"
+ru_376,"\f:Эльф"
+ru_377,"\f>Авто"
+ru_378,"\f>Авто"
+ru_379,"\f>Авто"
+ru_380,"\f>Авто"
+ru_381,"\f>Авто"
+ru_382,"\f>Авто"
+ru_383,"\f>Авто"
+ru_384,"\f>Авто"
+ru_385,"　　         　     Наследники древних благородных династий, они прирожденные вожди кланов и воины. Могут использовать большинство видов оружия и брони."
+ru_386,"　　         　       Верные, отважные и могучие Рыцари, символы людской стойкости, клянутся бороться со злом и защищать невинных."
+ru_387,"　　　     Они овладели древними секретами волшебства и теперь атакуют врагов смертоносными заклинаниями!"
+ru_388,"　      Эльфы стремятся вернуть мир и свободу в здешние земли. Они тренируются в разных дисциплинах и используют много видов оружия и заклинаний."
+ru_389,"ТЕЛ:влияет на рост ОЗ при повышении уровня и на скорость восстановления ОЗ/ОМ.\nСИЛ:влияет на урон, наносимый в бою, и на способность переносить тяжести.\nМУД:влияет на сопротивление магии и на рост ОМ при повышении уровня.\nИНТ:определяет силу заклинаний.\nЛОВ:определяет точность атак, особенно при использовании оружия дальнего боя, например, луков.\nХАР:определяет, сколько собак или прирученных животных можно взять одновременно. Этот параметр важен для принцев."
+ru_390,"Действительно удалить выбранного персонажа %s?"
+ru_391,"\f=[НОРМАЛЬНЫЙ]"
+ru_392,"\f2[БЕЗОПАСНЫЙ]"
+ru_393,"\f3[Убийство]"
+ru_394,"\f6!!!Неверный регион!!!"
+ru_395,"Последний канал:\fW%s"
+ru_396,"Нет выбранной цели, действие прервано"
+ru_397,"Зрение эльфа:"
+ru_398,Выгнать
+ru_399,"Добавить друга"
+ru_400,"\fKПокупки в игре"
+ru_401,КБ:%d
+ru_402,"\fKВведите имя или закладку:"
+ru_403,"Введите количество предметов:"
+ru_404,"Введите количество:"
+ru_405,"\f3Вы возвращаетесь в нормальное состояние."
+ru_406,"Вы очень воодушевлены."
+ru_407,"Вы чувствуете связь с духами людей и леса. "
+ru_408,"Вы очень воодушевлены."
+ru_409,"Этот предмет можно использовать только до уровня %u."
+ru_410,"\fGВас парализовало. Вы не можете двигаться."
+ru_411,"\fGВы окаменели и не можете двигаться."
+ru_412,"\fGЗагипнотизирован"
+ru_413,"\faЗаморожен"
+ru_414,"\faВ коме"
+ru_415,"\faСвязан"
+ru_416,"\fGВосст. после связ."
+ru_417,"- "
+ru_418,"Лок:(%u,%u)"
+ru_419,"Начало работы сервера:%02d-%02d-%02d %02d:%02d:%02d"
+ru_420,"Текстура:всего=%u загружено=%u (%uKB) макс=%uKB,"
+ru_421,Недоступно
+ru_422,"\f3Что!"
+ru_423,"Ошибка:файл не найден"
+ru_424,"\fPКоличество:%u"
+ru_425,"\fKВведите текст:"
+ru_426,"\fKВведите название:"
+ru_427,Назад
+ru_428,"Объявление по серверу"
+ru_429,"\f3Описание не найдено!"
+ru_430,"Вступите в клан"
+ru_431,Выйти
+ru_432,"\f2Ваша мудрость растет."
+ru_433,"Введите название клана:"
+ru_434,"%s\f3Перезарядка:%.1f сек.\n"
+ru_435,"%s\f=Набор:[%s]\n"
+ru_436,"Текст не может быть пустым"
+ru_437,"Введите эл. адрес в правильном формате"
+ru_438,"Говорите медленнее"
+ru_439,"Google Play:"
+ru_440,Выход
+ru_441,"\fKДостичь"
+ru_442,"Тех. работы на сервере"
+ru_443,"Повторное сообщение"
+ru_444,"Не удалось запустить (%d):обнаружен ROOT"
+ru_445,"Запустить не удалось (%d):обнаружен симулятор"
+ru_446,"Запустить не удалось (%d):обнаружено подозрительное приложение:%s "
+ru_447,"Запустить не удалось (%d):не удается прочитать данные игры"
+ru_448,"\fKГотово"
+ru_449,"Закр. / откр."
+ru_450,"\f9Удалить"
+ru_451,"Подтвердить удаление предмета"
+ru_452,"Подтверждаете удаление «%s»?"
+ru_453,"Обнаружен взлом. Симулятор/средства автоматизации"
+ru_454,"\f=Завершение действия платежа:%s\n"
+ru_455,"\fKНачало игры"
+ru_456,"\fKВосстановление аккаунта"
+ru_457,"\f9ДОСТ."
+ru_458,"В настоящий момент сервер переполнен. Позиция в очереди:%d"
+ru_459,"Не удается прочитать информацию о подписке, повторите попытку"
+ru_460,"Подождите появления окна подписки\nПосле завершения процесса подписки нажмите ОК, чтобы перезапустить приложение"
+ru_461,"Срок действия вашей подписки скоро истечет, продлить сейчас? (Льготный период:%d сек.)"
+ru_462,Подписка
+ru_463,"Вы вошли как гость. В случае удаления игры Teon с устройства ваши данные не будут сохранены"
+ru_464,"Привязка аккаунта"
+ru_465,"Не удается привязать аккаунт, проверьте, вошли ли вы в игру"
+ru_466,"После привязки аккаунта Teon перезапустится"
+ru_467,"Не удается привязать аккаунт:уже используется"
+ru_468,"Подключение к серверу аккаунтов..."
+ru_469,"Ур. %d"
+ru_470,"Действительно остановить удаление выбранного персонажа %s?"
+ru_471,(Удалить)
+ru_472,"\fKЭтот персонаж будет удален в"
+ru_473,"\f=Нажмите кнопку «Удалить» еще раз, чтобы отменить"
+ru_474,"Аккаунт не существует"
+ru_475,"Восстановить можно только привязанные аккаунты\n Для других пользователей:нажмите «Начало игры»"
+ru_476,　Восстановить　|　Отмена　
+ru_477,"\fKОбновить"
+ru_478,Ранг
+ru_479,Кл./Ур.
+ru_480,ЛИДЕР
+ru_481,СТРАЖ
+ru_482,ЭЛИТА
+ru_483,НОВ.
+ru_484,"Действительно выйти из клана?"
+ru_485,"Введите новое название:"
+ru_486,"Введите новое звание:"
+ru_487,　GUR　|　ELT　|　TRN　
+ru_488,"Глава клана инициировал роспуск клана. Клан будет распущен в %s"
+ru_489,"Изм. название"
+ru_490,Изм.звание
+ru_491,Распустить
+ru_492,"Отм. роспуск"
+ru_493,"\f=Уведомление клана:"
+ru_494,"Действительно отменить роспуск клана?"
+ru_495,"Действительно выгнать игрока %s?"
+ru_496,"Введите новое уведомление клана:"
+ru_497,Выгнать
+ru_498,EULA
+ru_499,"\f>Welcome to the world of Teon. To provide you with a stable and fair gaming environment, we (Lakoo Games) ask that you take the time to read through and follow the player code of conduct. By creating a character and entering Teon, you accept all the terms and conditions below. Questions or concerns regarding the player code of conduct can be directed to cs@lakoo.com.\n\n\f=[Account Security]\n\n\f>1. Players use Google accounts to log on to Teon. Our server cannot distinguish if a verified Google account is logged in by its rightful owner or another person.\n2. We strongly recommend players to enhance the security measures to protect the Google accounts used for playing Teon. Players can visit our official website (teon.lakoo.com) and read through the Google Account Security Instruction page for more detailed information.\n3. We strongly recommend players to activate the two-step verification feature.\n4. Each purchased downloading of Teon client can only be used for one Google account.\n\n\f=[Character Names]\n\n\f>Your character name might just be a handle at the beginning. As you explore into the game, however, it will play an increasingly important role. It will represent your characteristics, reputation, and ability. Please make sure to value this right of yours\nand give your characters beautiful names.\nYou can select your character and clan names freely. To secure and maintain the gaming environment, however, you may not use any names (non-exhaustive):\nThat incorporates 'swear' words or which are otherwise offensive, defamatory, vulgar, obscene, hateful, or racially, ethnically or otherwise objectionable;\nRelated to drugs, sex, alcohol, or criminal activity;\nThat fall into any other special category (e.g. Belonging to another person with the intent to impersonate that person, including without limitation a ""Game Master"" or any other employee or agent of Lakoo Games). Such behaviors could and will lead to a suspension of your account.\n\n\f=[Selling of Items]\n\n\f>1. We will not take initiative to interfere the trade of items or gold that are generated from proper channels, in the game or in the ""real world"".\n2. We do not recommend players to purchase or sell items or gold for ""real"" money.\n3. Should a player insist on trading outside the game, he or she must bear all risks of loss or damage caused. We will not participate or settle any disputes caused by trades outside the game.\n4. If any trades are associated with using or exploiting errors in design and/or ""program bugs"", we will backtrack the trades and fix the abnormal output.\n5. We do not provide any forms of account history inquiry services. Should a player need to take legal action and thus request for the relevant records to present as evidence,\nplease contact us with the email address corresponding to the in-game character and provide us the legal documents and a colored copy of your personal ID.\n\n\f=[Game Masters (GM)]\n\n\f>1. In-game GM list: TeonGM01 - TeonGM09; GM01 - GM99; Judgment Scythe.\nAny of those who declare themselves as GM but not included in the list above are impostors. Please report them to us ASAP.\n2. The name of a GM is always displayed in special yellow or black color.\n3. GMs will not ask for your account information in the game, forums or by any other means. Please beware of scam/fraud.\n4. GMs or Lakoo employees will not sell good or items to players inside or outside the game. Any of those who are trying to sell gold or items in the name of GMs are most likely scammers. Please report them to us ASAP.\n\n\f=[PvP Rules]\n\n\f>In the world of Teon, eliminating opponents (taking out hostile players or being taken out by other players) is considered a part of the game content instead of harassment.\nWhile playing the game, a player has to activate the PvP mode to attack another player. When a player takes out another, it leaves a system record which modifies the attacker's lawful value. Meanwhile, there are sanctuaries in the game where PvP activities are forbidden.\nWe do not judge how do players behave in PvP activities. If, however, such activities have severely affected your normal gaming experience,\nyou may contact a GM and we will handle accordingly as the case might be.\n\n\f=[Prohibited behaviors while playing Teon]\n\n\f>Prohibited behaviors related to ""Chat Channels""\n1. Posting and spreading information on trading virtual items outside game or with real ""money"".\n2. Repeatedly posting similar messages that disrupt the normal flow of dialogue in Chat or otherwise act in a manner that negatively affects other users.\n3. Including without limitation: Words that are offensive, defamatory, vulgar, obscene, hateful, or racially, ethnically or otherwise objectionable; or related to drugs, sex, alcohol, or criminal activity;\n4. Exploiting font colors to mislead other players. For example: Pretend to send system message about the monsters that will drop certain loot.\n5. Pass yourself off as an official employee; spreading rumors and/or trying to harm the gaming environment.\n6. Posting messages that are irrelevant to Teon that disrupt the normal flow of dialogue in Chat or otherwise act in a manner that negatively affects other users.\n\nOther prohibited behaviors\n1. Pass yourself off as a GM to conduct scam/fraud by spreading rumors.\n2. Spreading info on any non-official Teon clients, third-party program, and/or other exploits.\n3. Cheat or utilize Teon ""exploits"" in any way to obtain a competitive advantage over other players.\n4. Using any non-official client/program to cheat, including without limitation: Auto-combat, auto-leveling, auto-potion, auto-questing, game accelerating, or/and any other behaviors that are not intended by the initial design.\nLakoo Games may, in its sole and absolute discretion, take whatever action it deems necessary to preserve the integrity of Teon. Violation of any of the Rules of Conduct set forth above may result in actions being taken by Lakoo Games, effective immediately or at a time determined by Lakoo Games, which may include without limitation:\n\f3 Forced disconnection from the game server\nTemporarily suspending your access to Teon,\nChange of character names,\nRetrieving items and currencies,\nPermanently suspending your access to Teon.\n\n\f=[Requests that will not be accepted by Teon team]\n\n\f>1. Recovery of any loss or damage caused by the player's own carelessness. For example: Normally conducted in-game trades, in which the player didn't inspect the items carefully.\n2. Recovery of any loss or damage caused by offline trades.\n3. Unreasonable requests on cancellation of a suspension issued for the violation of the code of conduct.\nPlayers may inquire about the reason of suspension and cooperate with our employees to apply for a re-evaluation.\n4. Recovery any loss or damage caused by normal gameplay. For example: Gear enhancement failure, items and experience points lost upon death.\n5. Recovery any loss or damage caused by carelessly believing in rumors and other false information. Please take our official website as the only reliable source of information.\n6. Any false information that is forged to deceive the official staff.\n\n\f=[Important Information]\n\n\f>Lakoo Games reserves the right to modify the player code of conduct based on the development and demands of Teon. Should the code of conduct be modified, we will publish the modification on Teon's official website and players will not receive a notification individually. Please pay attention to the announcements on our official website.\nThis code of conduct comes into effect on November 10th, 2016."
+ru_500,Выбрать
+ru_501,"Босс:%s появился (%s) [ %s]"
+ru_502,"Покупка в игре привязана к другому аккаунту, нажмите «ОК», чтобы получить доп. информацию,"
+ru_503,Отчет
+ru_504,Персонаж-цель
+ru_505,"Тип отчета"
+ru_506,Бот
+ru_507,Прочие
+ru_508,"Дополнение:(100 символов)"
+ru_509,"Вопрос Локи"
+ru_510,"A | B | C | D "
+ru_511,"Я понимаю и принимаю"
+ru_512,"Локальный аккаунт"
+ru_513,"\n(Номер для справок:%s),"
+ru_514,"Не удалось проверить подписку:неизвестная ошибка"
+ru_515,"Ошибка проверки аккаунта подписки"
+ru_516,"Неудачная проверка аккаунта подписки"
+ru_517,"Аккаунт подписки и аккаунт игры не совпадают"
+ru_518,"Аккаунт подписки и аккаунт игры не совпадают"
+ru_519,"Данный аккаунт подписки уже подключен к другому аккаунту игры"
+ru_520,"%s\f=Минимальный уровень:%d\n"
+ru_521,"%s\f=Максимальный уровень:%d\n"
+ru_522,"%s\f=Место использования:%s (%u,%u)\n"
+ru_523,"Доступ к аккаунту закрыт до %s."
+ru_524,"Доступ к аккаунту закрыт на постоянной основе"
+ru_525,"(Причина:%s)\nПожалуйста, напишите нам на cs@lakoo.com\nПожалуйста, сообщите подробную информацию об аккаунте. Тема:Teon-Account Issue"
+ru_526,"Подтвердите удаление предмета"
+ru_527,"Действительно удалить %s?"
+ru_528,"Служба поддержки"
+ru_529,"Вопросы и ответы"
+ru_530,"Вопросы и ответы"
+ru_531,"Select a feedback category"
+ru_532,"Description of the problem"
+ru_533,"Official website: teon.lakoo.com"
+ru_534,"Contact: cs@lakoo.com"
+ru_535,"Please select a category of your feedback"
+ru_536,Submit
+ru_537,"The content is %d longer than the character limit."
+ru_538,"You have to bind your game account before submitting any feedback"
+ru_539,"Thanks! We’ll reply ASAP. (Custom service only in English and Chinese)"
+ru_540,ID
+ru_541,"Character name"
+ru_542,"Character level"
+ru_543,"Character class"
+ru_544,"Client Version"
+ru_545,ACC:
+ru_546,CHAR:
+ru_547,Keyword:
+ru_548,Notice:
+ru_549,DESC:
+ru_550,"Enter your account that your character is bound to"
+ru_551,"Enter your character name in the game here"
+ru_552,"Keywords of your feedback"
+ru_553,"The prompt system error message"
+ru_554,"Describe the time when the issue occurred, how did it happen and your expected solutions"
+ru_555,Bug
+ru_556,Charge
+ru_557,Problem
+ru_558,Advice
+ru_559,"Character problem"
+ru_560,"Can't log in"
+ru_561,"\fP Стоимость ОЗ:%u"
+ru_562,Сбр.интрф.
+ru_563,Влево
+ru_564,Вправо
+ru_565,"Игре Teon требуется разрешение на доступ к аккаунту и ресурсам игры"
+ru_566,Сообщения
+ru_567,Объявления
+ru_568,Обновления
+ru_569,"Выберите, чтобы посмотреть"
+ru_570,Содержание
+ru_571,"Выберите объявление слева, чтобы посмотреть"
+ru_572,"Цели, которую вы ищете, нет в данном регионе"
+ru_573,Версия
+ru_574,"\fKВРЕМ."
+ru_575,"\fQВРЕМ."
+ru_576,"Вас атакует: \f3%s\f=."
+ru_577,НПДТ:
+ru_578,Управление
+ru_579,Настройки
+ru_580,"Код активации"
+ru_581,"Введите код активации."
+ru_582,Подтвердить
+ru_583,Повтор
+ru_584,"Правила кода активации:"
+ru_585,"Выберите сервер"
+ru_586,Сервер
+ru_587,"Сначала выберите сервер!"
+ru_588,Действие
+ru_589,"%s появился [%s] %s "
+ru_590,"Комиссионный магазин"
+ru_591,"Скрепленная клятва (15 дней) после покупки будет распечатана. К ее длительности будет добавлено 360 часов."
+ru_592,"Можно отдать на комиссию еще раз или получить предмет, если его не купили за 6 часа."
+ru_593,"*Возврат покупки не предусмотрен. Проверьте цену."
+ru_594,"Осталось %s"
+ru_595,"Опять на комиссию"
+ru_596,Получить
+ru_597,"На комиссию"
+ru_598,"Выберите предмет для комиссионной продажи."
+ru_599,"На комиссии"
+ru_600,"Срок комиссии истек."
+ru_601,Оружие
+ru_602,Броня
+ru_603,Предмет
+ru_604,"Одноручный меч"
+ru_605,"Двуручный меч"
+ru_606,"Ударное оружие"
+ru_607,Кинжал
+ru_608,Посох
+ru_609,Лук
+ru_610,Копье
+ru_611,"Одноручное копье"
+ru_612,"Двуручное ударное оружие"
+ru_613,Шлем
+ru_614,Доспехи
+ru_615,Дублет
+ru_616,Плащ
+ru_617,Перчатки
+ru_618,Обувь
+ru_619,Щит
+ru_620,Пояс
+ru_621,Ожерелье
+ru_622,Кольцо
+ru_623,Серьги
+ru_624,Перчатки
+ru_625,Стрела
+ru_626,Посох
+ru_627,Самоцвет
+ru_628,Зелье
+ru_629,Свиток
+ru_630,"Книга заклинаний"
+ru_631,Материал
+ru_632,Прочее
+ru_633,"Цена за ед.:"
+ru_634,Кол-во:
+ru_635,"Сортировать по цене"
+ru_636,Всего
+ru_637,"Проданное кол-во"
+ru_638,Выручка
+ru_639,"Всего выручки:"
+ru_640,"Забрать все"
+ru_641,"Забрать выручку"
+ru_642,"Комиссионный коэфф.:"
+ru_643,Продано
+ru_644,"Поиск не дал результата."
+ru_645,Все
+ru_646,"Подождите появления окна оплаты."
+ru_647,"Проверка оплаты на сервере... Подождите."
+ru_648,"Срок обработки истек. Обратитесь в службу поддержки."
+ru_649,"Ошибка верификации. Код ошибки: %d."
+ru_650,"Оплата верифицирована. Просмотрите."
+ru_651,"Если вы совершите еще одну покупку, система попытается верифицировать предыдущую неудачную покупку (вплоть до 3 раз)."
+ru_652,"Не удалось завершить процесс оплаты. Проверьте статус подключенного аккаунта."
+ru_653,"*Возврат комиссионной покупки не предусмотрен. Проверьте цену."
+ru_654,"Комплект брони"
+ru_655,"Перед оплатой подключите свой аккаунт."
+ru_656,盟徽
+ru_657,請為你盟徽設定旗號
+ru_658,修改盟徽
+ru_659,"盟徽規則:\n修改盟徽會收取金幣，分為1檔(免費)，2檔(400000)，3檔(600000)"
+ru_660,正在與伺服器綁定付費紀錄，請稍候。
+ru_661,綁定付費紀錄成功
+ru_662,付費訂單紀錄不存在
+ru_663,付費訂單紀錄已過期
+ru_664,使用
+ru_665,Teon秀
+ru_666,兌換
+ru_667,紋飾
+ru_668,預設
+ru_669,背景
+ru_670,人物
+ru_671,效果
+ru_672,所需消耗物品數量不足
+ru_673,時長
+ru_674,無法在已兌換的欄位保存Teon秀
+ru_675,無法兌換已擁有的Teon秀組合
+ru_676,會員專屬Teon秀
+ru_677,"將要在第 %hhu 欄兌換Teon秀，消耗 %d 件物品："
+ru_678,"1.魔法染料可兌換不同時效不同組合的Teon秀。\n2.固定組合的魔法染料可以兌換指定的Teon秀。\n3.每個角色有3個欄位，預設欄位不可更改。"
+ru_679,"背景 %hhu，人物 %hhu，效果 %hhu"
+ru_680,"持續時間：%hhu 天"
+ru_681,保存成功
+ru_682,兌換成功，Teon秀組合已生效
+ru_683,確認兌換
+ru_684,所需消耗物品數量不足
+ru_685,"紋飾持續時間：%hhu 天"
+ru_686,"將要兌換 %hhu 號紋飾，消耗 %d 件物品："
+ru_687,玩家資料
+ru_688,玩家資料
+ru_689,Teon秀
+ru_690,保存
+ru_691,兌換
+ru_692,下一套
+ru_693,上一套
+ru_694,過期時間
+ru_695,王
+ru_696,騎
+ru_697,法
+ru_698,精
+ru_699,魔法染料
+ru_700,預設造型，無需兌換
+ru_701,"\f2你獲得 %s"
+ru_702,抽獎
+ru_703,鎖定快捷鍵
+ru_704,NPC
+ru_705,Отмена

@@ -1,0 +1,1084 @@
+﻿it_0,"Anche se normalmente non possiede alcun potere, c'è ancora una remota possibilità che uccida l'avversario."
+it_1,NULL
+it_2,"Pugnale del novizio. Un buon pugnale per principianti."
+it_3,"Il pugnale di mithril possiede poteri magici che ti aiutano e recuperare PM."
+it_4,"Un pugnale in oricalco che non può essere danneggiato."
+it_5,NULL
+it_6,NULL
+it_7,NULL
+it_8,"Qualcuno ha maledetto la spada di Bran"
+it_9,NULL
+it_10,"Questa spada possiede capacità di colpire più elevate delle altre lame e può pugnalare tra le piastre d'armatura dei tuoi nemici."
+it_11,"La spada elfica è stata creata dal più onorevole degli elfi anziani. "
+it_12,"Questa è una speciale spada lunga potenziata."
+it_13,NULL
+it_14,NULL
+it_15,"Questa spada del novizio a una mano è ottima per i principianti."
+it_16,"Una spada speciale con grande resistenza ai danni. "
+it_17,NULL
+it_18,"La shamshir è in oricalco, un metallo leggendario e indistruttibile."
+it_19,NULL
+it_20,NULL
+it_21,NULL
+it_22,"Questa spada del novizio a due mani è ideale per i principianti."
+it_23,NULL
+it_24,NULL
+it_25,NULL
+it_26,"Il bastone usato da Bran può evocare lampi con cui annientare i nemici."
+it_27,NULL
+it_28,"La spada fu usata dal cavaliere della morte durante la sua caccia ai draghi. Racchiude nella sua lama tutto il loro rancore."
+it_29,"La spada del demone velocizza i tuoi movimenti ma riduce continuamente i tuoi HP."
+it_30,NULL
+it_31,NULL
+it_32,NULL
+it_33,"L'artiglio è fatto in bronzo di scarsa qualità."
+it_34,NULL
+it_35,"L'artiglio è fabbricato in acciaio molto forte e resistente."
+it_36,NULL
+it_37,NULL
+it_38,NULL
+it_39,NULL
+it_40,NULL
+it_41,NULL
+it_42,NULL
+it_43,NULL
+it_44,NULL
+it_45,NULL
+it_46,NULL
+it_47,NULL
+it_48,NULL
+it_49,"Questa lancia del novizio è ideale per i principianti."
+it_50,NULL
+it_51,NULL
+it_52,NULL
+it_53,NULL
+it_54,NULL
+it_55,"La spada elfica è stata creata dal più onorevole degli elfi anziani e aumenta il tuo livello di destrezza. "
+it_56,"L'arco elfico è stato creato dal più onorevole degli elfi anziani e aumenta il tuo livello di destrezza. "
+it_57,NULL
+it_58,NULL
+it_59,NULL
+it_60,NULL
+it_61,NULL
+it_62,NULL
+it_63,NULL
+it_64,"Un bastone che recupera velocemente PM."
+it_65,"Un bastone del novizio, buono per principianti."
+it_66,"Il bastone è impregnato di magia di Beleth. Potenzia l'incantesimo e la velocità di recupero dei PM."
+it_67,"Il bastone magico di Baphomet possiede la forza dell'oscurità che infligge gravi danni ai nemici."
+it_68,"Aumenta PI."
+it_69,"Quando attacca, questo bastone magico prende i PM del nemico."
+it_70,"Aumenta i danni degli attacchi magici."
+it_71,"Ciò diminuisce i tuoi punti magici ma aumenta i danni d'attacco."
+it_72,"Ascia del novizio, ottima per principianti."
+it_73,"Balestra di pietra del novizio, buona per principianti."
+it_74,"Arco del novizio, ottimo per principianti."
+it_75,"Non è possibile fare magie quando lo usi."
+it_76,"La spada elfica è stata creata dal più onorevole degli elfi anziani e aumenta i tuoi PI."
+it_77,"La spada elfica è stata creata dal più onorevole degli elfi anziani e aumenta i tuoi HP."
+it_78,"Questo elmo magico ti permette di usare solo la metà di PM necessari per lanciare incantesimi"
+it_79,"Questo elmo aumenta la RM. Più alto il numero di incantesimi lanciati, maggiore sarà la resistenza."
+it_80,"Un elmo speciale per cavalieri che ti permette di usare la metà di PM per lanciare incantesimi curativi."
+it_81,"Un elmo speciale per cavalieri che ti permette di usare la metà di PM per lanciare urgenza."
+it_82,"Un elmo speciale per cavalieri che ti permette di usare la metà di PM per lanciare incantesimi rafforzanti."
+it_83,"Il Cappuccio magico di Svipdag aumenta l'intelligenza."
+it_84,"Solo un principe o una principessa può indossarlo. Aumenta intelligenza e carisma. Se chi lo indossa muore, gli cadrà dalla testa."
+it_85,"Il Cappuccio magico di Sauroner aumenta la velocità del recupero di PM. "
+it_86,"Quest'elmo di pelle del novizio è ideale per i principianti"
+it_87,"Il Cappuccio magico di Skuld aumenta il limite massimo di PM e la velocità del recupero di PM."
+it_88,"L'elmo degli antichi elfi aumenta la destrezza. "
+it_89,"Ciò ti permette di vedere al buio. "
+it_90,"Il Cappuccio magico di Endor aumenta il limite massimo di PM"
+it_91,"Qualcuno ha maledetto l'elmo di Bran."
+it_92,"Possiede il misterioso potere della formica regina e aumenta la RM e il limite massimo di HP."
+it_93,"Possiede il misterioso potere della formica regina e aumenta la RM e il limite massimo di PM."
+it_94,"Il mantello terrestre offre una maggior resistenza contro gli attacchi terrestri."
+it_95,"Questo mantello ti offre una maggior velocità di recupero di PM"
+it_96,"Questo mantello aumenta la resistenza magica. Quando lanci un incantesimo, il potere della resistenza aumenta."
+it_97,"Il mantello d'acqua offre una maggior resistenza contro gli attacchi d'acqua."
+it_98,"Il mantello del vento offre una maggior resistenza contro gli attacchi di vento."
+it_99,"Il mantello di fuoco offre una maggior resistenza contro gli attacchi di fuoco."
+it_100,". Questo mantello aumenta la velocità di recupero di HP degli elfi."
+it_101,"Il mantello è fatto di argento e offre una maggior resistenza contro gli incantesimi."
+it_102,"Diventi invisibile ai mostri e ad altri giocatori dopo averlo indossato. Non funziona durante attacchi."
+it_103,"Il farsetto del novizio offre una buona protezione ai principianti.。"
+it_104,"Può essere indossato sotto l'armatura."
+it_105,"Questa cotta di maglia aumenta la resistenza magica. Più alto il numero di incantesimi lanciati, maggiore il potere della resistenza."
+it_106,"Questa armatura ti offre grande resistenza contro gli incantesimi di veleno e di luce."
+it_107,"L'armatura di pelle del novizio è ottima per i principianti."
+it_108,"Qualcuno ha maledetto l'armatura di Bran."
+it_109,"La tonaca possiede magia dell'anziano oscuro che aumenta la velocità di recupero di PM."
+it_110,"Guanti con un forte spirito."
+it_111,"I guanti dello spirito dell'elfo acquatico aumentano la resistenza agli attacchi d'acqua. "
+it_112,"I guanti di pelle del novizio sono ottimi per i principianti."
+it_113,"I guanti dello spirito dell'elfo terrestre aumentano la resistenza agli attacchi terrestri."
+it_114,"I guanti dello spirito dell'elfo di fuoco aumentano la resistenza agli attacchi di fuoco."
+it_115,"Qualcuno ha maledetto i guanti di Bran."
+it_116,"I guanti con il sangue di un orco aumentano la FOR."
+it_117,"I guanti dello spirito dell'elfo del vento aumentano la resistenza agli attacchi del vento. "
+it_118,"Questi stivali offrono una debole resistenza contro l'incantesimo della pergamena d'armatura."
+it_119,"I sandali di pelle del novizio sono solo per principianti."
+it_120,"Qualcuno ha maledetto gli stivali di Bran."
+it_121,"Il sandali con la magia dell'anziano oscuro aumentano la velocità del recupero di PM."
+it_122,"La palla di cristallo usa lo spirito del potere magico di Balrog per aumentare il limite di PM. "
+it_123,"Offre un gran potere di difesa contro la magia delle frecce di luce."
+it_124,"Lo scudo offre una gran difesa contro la magia di luce."
+it_125,"Questo scudo può proteggere tutto il corpo e ha grandi poteri di difesa contro le armi lanciate. Richiede l'uso di entrambe le mani e ciò impedisce a chi la usa di trasportare altre armi."
+it_126,"Lo scudo di pelle del novizio è uno scudo ideale per principianti."
+it_127,"Questo scudo è creato dagli elfi e aumenta la RM"
+it_128,"Questo scudo aumenta la tua RM."
+it_129,"Questo amuleto aumenta il tuo INC."
+it_130,"Questo amuleto aumenta la tua DES."
+it_131,"Questo amuleto aumenta leggermente i tuoi HP."
+it_132,"Questo amuleto aumenta la tua FOR."
+it_133,"Questo amuleto aumenta la tua INT."
+it_134,"Questo amuleto aumenta la tua SAG."
+it_135,"Questo amuleto aumenta la tua COS."
+it_136,"Questo amuleto ha il simbolo di uno scheletro inquietante. Resistenza agli incantesimi"
+it_137,"Usandolo insieme alla bacchetta del polimorfo puoi diventare il mostro che vuoi."
+it_138,"L'anello del novizio è ideale per principianti."
+it_139,"Indossando questo anello, puoi convocare liberamente il mostro che desideri."
+it_140,"Usandolo insieme alla pergamena del teletrasporto puoi recarti al luogo precedentemente segnalato."
+it_141,"Attrezza questa cintura per aumentare i tuoi HP."
+it_142,"Attrezza questa cintura per aumentare i tuoi HP e i tuoi PM."
+it_143,"Attrezza questa cintura per aumentare i tuoi PM."
+it_144,"Ciò aumenta la tua potenza e rafforza il tuo spirito."
+it_145,"La pergamena della protezione evita che la tua attrezzatura scompaia nel caso in cui un incantesimo non funzioni."
+it_146,"Il tomo sacro contiene messaggi d'espiazione."
+it_147,"Contiene i componenti per la cura di tutti i veleni."
+it_148,"Il flauto magico per evocare mostri."
+it_149,"Entrambi sono appropriati come regalo o come offerta."
+it_150,"Aumenta la concentrazione e l'efficacia degli incantesimi ma funziona solamente durante il lancio di incantesimi."
+it_151,"Le azioni diventeranno più rapide per un periodo di tempo."
+it_152,"Recupera alcuni HP."
+it_153,"Cura tutti i veleni."
+it_154,"Recupera un maggior numero di HP."
+it_155,"Agisce più velocemente della pozione verde per un certo periodo di tempo. Funziona solo con i cavalieri."
+it_156,"La pozione magica arancione nella bottiglia può essere usata per recuperare HP."
+it_157,"Cibo speciale per gli elfi. Creato mischiando cibo elfico all'energia della foresta. Dopo averlo mangiato, tutte le azioni saranno più rapide per un determinato periodo di tempo. Funziona solo con gli elfi. "
+it_158,"\f3【內部測試物品】\n+1等級卷軸。閱讀卷軸後會升 1 等級。"
+it_159,"\f3【內部測試物品】\n-1等級卷軸。閱讀卷軸後會降 1 等級。"
+it_160,"\f3【內部測試物品】\n+10K正義值卷軸。閱讀後增加 10000 點正義值。"
+it_161,"\f3【內部測試物品】\n-10K正義值卷軸。閱讀後減少 10000 點正義值。"
+it_162,"Pozione della morte. Muori immediatamente dopo averla bevuta."
+it_163,"Una vecchia bacchetta di vimini che ti permette di creare alcuni mostri ma non di controllarli. "
+it_164,"Una potente bacchetta magica di legno che può evocare fulmini per attaccare il nemico.  "
+it_165,"Una vecchia e orrenda bacchetta di legno che può trasformare il bersaglio in un mostro a caso oppure in un mostro specifico se usata con l'anello del cambiamento."
+it_166,"Una bacchetta magica di cristallo che può obbligare l'obiettivo a spostarsi entro una certa distanza. "
+it_167,"Antica pozione di recupero di HP usata dagli antichi."
+it_168,"Una potente pozione di recupero di HP usata dagli antichi."
+it_169,"La migliore pozione di recupero di HP usata dagli antichi."
+it_170,"Nonostante dopo averla bevuta verrai temporaneamente accecato, sarai in grado di vedere cose speciali. "
+it_171,"Bevendo la pozione, recupererai alcuni poteri magici. "
+it_172,"Dopo averlo mangiato, avrai meno fame. Non è possibile recuperare HP quando sei affamato. "
+it_173,"Si dice che la carne di occhio fluttuante aumenti la destrezza."
+it_174,"Lanciando incantesimi su armature ne puoi aumentare e rafforzare la difesa"
+it_175,"Distrugge l'armatura che indossi. "
+it_176,"La pergamena del teletrasporto ti teletrasporta al villaggio più vicino. "
+it_177,"Lanciando incantesimi su armi ne puoi aumentare e rafforzare il potere di attacco. "
+it_178,"Fai risorgere persone o mostri.。"
+it_179,"Una pergamena piena di strane rune che possono trasformarti temporaneamente in un mostro. La trasformazione influirà sulla tua velocità di attacco e di movimento e impedirà ad alcuni mostri di prendere l'iniziativa per attaccarti."
+it_180,"Teletrasporta ad un posto a caso oppure al posto desiderato se viene usato anche l'anello del teletrasporto. "
+it_181,"Dopo averlo usato, spezzi la maledizione dell'oggetto."
+it_182,"Usalo per conoscere le funzioni degli oggetti."
+it_183,"La chiave per una porta del secondo piano di un luogo malvagio."
+it_184,"L'animale indossa il collare, quindi è addomesticato. È possibile scambiare animali sostituendone i collari."
+it_185,"Questo oggetto possiede la capacità di riparare le armi danneggiate."
+it_186,"Il succo di melma può corrodere gli oggetti."
+it_187,"Mithril scuro raffinato usato per creare oggetti."
+it_188,"Un blocco di mithril scuro e grezzo usato per la raffinazione."
+it_189,"La lega formata da mithril scuro è un metallo dal processo di raffinazione molto complicato."
+it_190,"Una piastra elegante creata dagli elfi. Può ridurre i danni alle armi. "
+it_191,"Il sangue degli orchi è la fonte della potenza degli orchi."
+it_192,"Le ali elfiche possono essere usate per teletrasportare al villaggio più vicino. "
+it_193,"\f3【內部測試物品】\n召喚怪物魔杖。使用一次召喚一隻怪物。"
+it_194,"\f3【內部測試物品】\n重置技能藥水。使用一次能夠重置所有已學的技能。"
+it_195,"Una bacchetta di gemme misteriose capace di rubare poteri magici."
+it_196,"Questo elmo di pelle (costituzione) è frutto di grande maestria elfica."
+it_197,"Questo antico elmo elfico (destrezza) è frutto di laboriosa maestria elfica."
+it_198,"La sciarpa rosso sangue simboleggia i cavalieri caduti."
+it_199,"Scatola di tesori delle attività. Ottieni un oggetto raro a caso dopo l'uso."
+it_200,"Un pacco benedetto che contiene un giuramento scritto col potere di Teon.\nAttenzione: \nL'effetto dura 1 giorno e non può essere prolungato né abbinato a pacchetti uguali o simili."
+it_201,"Un pacco benedetto che contiene un giuramento scritto col potere di Teon.\nAttenzione: \nL'effetto dura 15 giorni e non può essere prolungato né abbinato a pacchetti uguali o simili."
+it_202,"Un pacco benedetto che contiene un giuramento scritto col potere di Teon.\nAttenzione: \nL'effetto dura 30 giorni e non può essere prolungato né abbinato a pacchetti uguali o simili."
+it_203,"Un pacco benedetto che contiene un giuramento scritto col potere di Teon.\nAttenzione: \nL'effetto dura per un certo periodo di tempo e non può essere prolungato né abbinato a pacchetti uguali o simili."
+it_204,"Chiavi in legno degli inferi."
+it_205,"Sangue di creature maligne ha infettato le chiavi nere."
+it_206,"寫滿詭異符文的卷軸，使用後可在一段時間內變\f=為死亡騎士。"
+it_207,"Bottiglia piena di una pozione magica blu che aumenta il recupero di magia."
+it_208,"Il gregge di Pan è il preferito degli dei per via delle particolari ossa allungate."
+it_209,"Lo spirito del giardino elfico è appassito e ora è in decomposizione."
+it_210,"L'orco sciamano ha lanciato un incantesimo di polvere d'ossa!"
+it_211,"Le antiche credenze degli orchi."
+it_212,"Le antiche credenze degli orchi sembrano perdute."
+it_213,"Guarda! È la Grande Zucca! Ciò significa che ci saranno premi speciali!"
+it_214,"Per tutte le zucche! È un oggetto di Halloween!"
+it_215,"Un antico reperto degli orchi!\nQuesto oggetto serve per un compito. "
+it_216,"Il cuore di pietra degli elfi! \nQuesto oggetto serve per un compito."
+it_217,"Una benedizione del dio delle acque. \nQuesto oggetto serve per un compito."
+it_218,"Una lettera di Attila per gli orchi! \nQuesto oggetto serve per un compito."
+it_219,"Un antico incantesimo che lancia nebbia! \nQuesto oggetto serve per un compito."
+it_220,"Oggetto per antichi incantesimi di nebbia! \nUn oggetto necessario per lanciare antichi incantesimi di nebbia."
+it_221,"La benedizione della dea della luna! \nQuesto oggetto serve per un compito."
+it_222,"Ali elfiche benedette. \nQuesto oggetto serve per un compito."
+it_223,"Una pergamena magica con rune che possono trasformarti in mostro per un periodo di tempo. "
+it_224,"紅色的毛絨聖誕帽子\n活動道具"
+it_225,"紅色的毛絨聖誕襪\n活動道具"
+it_226,一份珍貴的聖誕節禮物
+it_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福。
+it_228,"Una mappa che segnala il luogo del tesoro.Questa potrebbe essere una trappola."
+it_229,"Un frammento della mappa del tesoro. Sembra che nasconda un gran segreto!"
+it_230,"Una mappa che nasconde un gran tesoro: corre voce che si tratti di tutto il bottino del capo dei pirati.Questa potrebbe essere una trappola."
+it_231,新年福氣袋，滿載祝福與願望。
+it_232,農歷腊月，家家戶戶都為歡度新年而制的年糕。
+it_233,一份珍貴的新年禮盒
+it_234,一份珍貴的新年禮盒，藏有幸運女神的祝福。
+it_235,新年紅爆竹，人們常常用它驅趕年獸。
+it_236,新年變形卷軸，使用後可變成特殊怪物造型。
+it_237,"Non elimina le maledizioni. Possibilità di ridurre il livello di potenziamento dell'attrezzatura dell'obiettivo."
+it_238,"Una pergamena magica con rune che possono trasformarti in un mostro avanzato per un periodo di tempo. L'effetto magico può durare 15 minuti."
+it_239,"Si dice che il congegno magico di Meilin perduto nell'isola promessa possa essere scambiato per una pergamena potenziata"
+it_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
+it_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
+it_242,"Materiale usato per la funzione polimorfa. Usato per ottenere una pergamena polimorfa avanzata e lacera."
+it_243,"Teon, dio della creazione, avvertiva la bontà degli avventurieri nella Terra di Edin e impregnò l'anello della sua grande potenza."
+it_244,"Un regalo da parte di Olivia. Puoi aprire questa scatola regalo e ricevere risorse ogni volta che il tuo personaggio raggiunge un certo livello."
+it_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo."
+it_246,"La luce della protezione che ricevi dopo aver pregato nel Tempio di Parth ti permette di rimanere presso l'isola del cielo. Tuttavia, col passare del tempo, la luce si affievolirà fino a sparire."
+it_247,"Un anello che porta pace e speranza. Se chi lo indossa già crede in Teon e possiede il Giuramento mensile, riceverà la benedizione di Teon, che aumenta la sua capacità di trasporto del 15%."
+it_248,"Un'arma potente che apparteneva a Zese. Usala per contrastare gli attacchi nemici.
+Oggetto di una missione"
+it_249,"Limitato alla missione di miglioramento. Si può utilizzare solo per migliorare l'arma della missione."
+it_250,以死神瑪麗亞之名，前往邪惡洞窟誅殺邪惡生物，在有效時間內，保護冒險者不受邪惡氣息侵襲。
+it_251,NULL
+it_252,NULL
+it_253,NULL
+it_254,NULL
+it_255,NULL
+it_256,NULL
+it_257,NULL
+it_258,NULL
+it_259,NULL
+it_260,NULL
+it_261,NULL
+it_262,NULL
+it_263,NULL
+it_264,NULL
+it_265,NULL
+it_266,NULL
+it_267,NULL
+it_268,NULL
+it_269,NULL
+it_270,NULL
+it_271,NULL
+it_272,NULL
+it_273,NULL
+it_274,NULL
+it_275,NULL
+it_276,NULL
+it_277,NULL
+it_278,NULL
+it_279,NULL
+it_280,NULL
+it_281,NULL
+it_282,NULL
+it_283,NULL
+it_284,NULL
+it_285,NULL
+it_286,NULL
+it_287,NULL
+it_288,NULL
+it_289,NULL
+it_290,NULL
+it_291,NULL
+it_292,NULL
+it_293,NULL
+it_294,NULL
+it_295,NULL
+it_296,NULL
+it_297,NULL
+it_298,NULL
+it_299,NULL
+it_300,NULL
+it_301,NULL
+it_302,NULL
+it_303,NULL
+it_304,NULL
+it_305,NULL
+it_306,NULL
+it_307,NULL
+it_308,NULL
+it_309,NULL
+it_310,NULL
+it_311,NULL
+it_312,NULL
+it_313,NULL
+it_314,NULL
+it_315,NULL
+it_316,NULL
+it_317,NULL
+it_318,NULL
+it_319,NULL
+it_320,NULL
+it_321,NULL
+it_322,NULL
+it_323,NULL
+it_324,NULL
+it_325,NULL
+it_326,NULL
+it_327,NULL
+it_328,NULL
+it_329,NULL
+it_330,NULL
+it_331,NULL
+it_332,NULL
+it_333,NULL
+it_334,NULL
+it_335,NULL
+it_336,NULL
+it_337,NULL
+it_338,NULL
+it_339,NULL
+it_340,NULL
+it_341,NULL
+it_342,NULL
+it_343,NULL
+it_344,NULL
+it_345,NULL
+it_346,NULL
+it_347,NULL
+it_348,NULL
+it_349,NULL
+it_350,NULL
+it_351,NULL
+it_352,NULL
+it_353,NULL
+it_354,NULL
+it_355,NULL
+it_356,NULL
+it_357,NULL
+it_358,NULL
+it_359,NULL
+it_360,NULL
+it_361,NULL
+it_362,NULL
+it_363,NULL
+it_364,NULL
+it_365,NULL
+it_366,NULL
+it_367,NULL
+it_368,NULL
+it_369,NULL
+it_370,NULL
+it_371,NULL
+it_372,NULL
+it_373,NULL
+it_374,NULL
+it_375,NULL
+it_376,NULL
+it_377,NULL
+it_378,NULL
+it_379,NULL
+it_380,NULL
+it_381,NULL
+it_382,NULL
+it_383,NULL
+it_384,NULL
+it_385,NULL
+it_386,NULL
+it_387,NULL
+it_388,NULL
+it_389,NULL
+it_390,NULL
+it_391,NULL
+it_392,NULL
+it_393,NULL
+it_394,NULL
+it_395,NULL
+it_396,NULL
+it_397,NULL
+it_398,NULL
+it_399,NULL
+it_400,NULL
+it_401,NULL
+it_402,NULL
+it_403,NULL
+it_404,NULL
+it_405,NULL
+it_406,NULL
+it_407,NULL
+it_408,NULL
+it_409,NULL
+it_410,NULL
+it_411,NULL
+it_412,NULL
+it_413,NULL
+it_414,NULL
+it_415,NULL
+it_416,NULL
+it_417,NULL
+it_418,NULL
+it_419,NULL
+it_420,NULL
+it_421,NULL
+it_422,NULL
+it_423,NULL
+it_424,NULL
+it_425,NULL
+it_426,NULL
+it_427,NULL
+it_428,NULL
+it_429,NULL
+it_430,NULL
+it_431,NULL
+it_432,NULL
+it_433,NULL
+it_434,NULL
+it_435,NULL
+it_436,NULL
+it_437,NULL
+it_438,NULL
+it_439,NULL
+it_440,NULL
+it_441,NULL
+it_442,NULL
+it_443,NULL
+it_444,NULL
+it_445,NULL
+it_446,NULL
+it_447,NULL
+it_448,NULL
+it_449,NULL
+it_450,NULL
+it_451,NULL
+it_452,NULL
+it_453,NULL
+it_454,NULL
+it_455,NULL
+it_456,NULL
+it_457,NULL
+it_458,NULL
+it_459,NULL
+it_460,NULL
+it_461,NULL
+it_462,NULL
+it_463,NULL
+it_464,NULL
+it_465,NULL
+it_466,NULL
+it_467,NULL
+it_468,NULL
+it_469,NULL
+it_470,NULL
+it_471,NULL
+it_472,NULL
+it_473,NULL
+it_474,NULL
+it_475,NULL
+it_476,NULL
+it_477,NULL
+it_478,NULL
+it_479,NULL
+it_480,NULL
+it_481,NULL
+it_482,NULL
+it_483,NULL
+it_484,NULL
+it_485,NULL
+it_486,NULL
+it_487,NULL
+it_488,"Effetto/i: trasformazione in un Cavaliere della morte. AC -4, Recupero PS -7"
+it_489,"Effetto/i: trasformazione in Bran. AC -4, Recupero PS -7"
+it_490,"Effetto/i:  AC -3"
+it_491,"Effetto/i:  AC -3"
+it_492,"Effetto/i:  AC -1, PS+5"
+it_493,"Effetto/i:  AC -3"
+it_494,"Effetto/i:  AC -2, PS +10"
+it_495,"Effetto/i:  PM +50"
+it_496,"Effetto/i:  AC -3"
+it_497,"Effetto/i: AC -2 , RM + 10"
+it_498,"Servo e proteggo il mio paese col mio scudo e la mia legione!\n-Giuramento del cavaliere cremisi"
+it_499,"Lama di speranza della pace. "
+it_500,"Un paio di guanti di pelle creati da un elfo artigiano.。"
+it_501,"Attrezzando questo elmo puoi usare la potenza dell'incantesimo, creare armi magiche e scoperte"
+it_502,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello 4. Abilità (Classe) \nEffetto: Probabilità di diminuire la CA dell'obiettivo del 50%% in base al tuo proprio livello. \nRequisito d'apprendimento: \nElfo: livello 40"
+it_503,"È un bastone orribile che confonde la gente. Beleth venne tentato dal bastone mentre si esercitava in segreto con le arti magiche e diventò estremamente malvagio. Il recupero di PM aumenterà. "
+it_504,"Per combattere l'invasione degli orchi, i maestri fabbri elfici utilizzarono questo prezioso materiale trovato nella collina di Drake per forgiare lo spacca-cotta e causare danni ai morti viventi."
+it_505,"Una misteriosa pergamena con poteri straordinari che possono rafforzare gli oggetti di fuoco. "
+it_506,"Croccante, delizioso e nutriente, favorisce la circolazione sanguigna. "
+it_507,"Fantastici stivali che ti permettono di respirare liberamente sott'acqua."
+it_508,"Una normale lanterna che può illuminare grandi aree."
+it_509," Il mantello è impermeabile e molto resistente."
+it_510,"Il tomo reale contiene le testimonianze di tutte le conoscenze reali. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Convoca membri della stessa gilda alla tua posizione attuale. \nRequisito d'apprendimento: \nReale: Livello 30 "
+it_511,"Una chiave di rame."
+it_512,"Smeraldo d'alta qualità."
+it_513,"Un frutto dalla forma ricurva e dalla polpa morbida. Ti permette di placare la tensione e di mantenere la calma. "
+it_514,"Collare per addomesticare gli animali."
+it_515,"Aumenta per sempre la tua costituzione dopo l'uso."
+it_516,"Uno speciale anello magico con il cuore dell'acqua blu che, se indossato, aumenta la difesa dagli attacchi di acqua."
+it_517,"Zaffiro perfetto."
+it_518,"Diamante normale."
+it_519,"Il pugnale con la benedizione della magia fortunata può causare gravi danni all'obiettivo."
+it_520,"Questo documento raro possiede proprietà magiche. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Fa risorgere l'obiettivo morto e ne recupera completamente gli HP. \nRequisito d'apprendimento: \nMago: Livello 32"
+it_521,"Le pietre di cristallo provengono dalle benedizioni della dea della luna che contengono attributi d'acqua \nCategoria: Livello di abilità 5 (classe) \nEffetto: Può ridurre del 50%% l'effetto della cura dell'obiettivo per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 50"
+it_522,"Un normale elmo di ferro."
+it_523,"Un'elegante ascia d'argento. Provoca danni in più ai morti viventi."
+it_524,"Nonostante non esista più, la gente spera ancora che nasca una nuova era per Camelot. 。"
+it_525,"Queste antiche e rare scritture possiedono speciali poteri magici. \nCategoria: livello di abilità 2 (classe) \nEffetto: Fa risorgere l'obiettivo morto e ne recupera completamente gli HP. \nRequisito d'apprendimento: \nMago: Livello 32 "
+it_526,"Una normale candela che illumina una piccola area."
+it_527,"L'anello d'oro abbagliante aumenta la RM se indossato. "
+it_528,"Un vino di frutta distillato mediante un processo di fermentazione naturale ha un gusto puro e leggero. "
+it_529,"Il cristallo del vento ha ricevuto le benedizioni dalla dea della luna, che gli conferiscono attributi del vento.  \nCategoria: livello di abilità 4 (classe) \nEffetto: Aumenta di 2 punti la probabilità di colpire degli attacchi lunghi e di 3 punti i danni degli attacchi lunghi per te e per i membri della tua squadra. \nRequisito d'apprendimento: \nElfo: Livello 40"
+it_530,"Una freccia creata seguendo modelli antichi."
+it_531,"Baphomet è caduto nell'oscurità mentre praticava la magia oscura. Mentre si trasformava, ha tagliato le corna che aveva in testa e le ha forgiate in un bastone. Attrezzando questo oggetto, puoi lanciare incantesimi."
+it_532,"Una potente alabarda. "
+it_533,"Galahad è morto. È diventato il cavaliere della morte con l'elmo delle zanne.\nEffetto/i: trasformazione in un Cavaliere della morte. AC -4, Recupero PS -7"
+it_534,"Il tomo segreto reale contiene tutte le gesta dei re. Puoi imparare da esse. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Aumenta l'attacco fisico di 5 punti per te e per i membri della tua squadra. \nRequisito d'apprendimento: \nReale: Livello 50"
+it_535,"Ovviamente, il mantello elfico verde scuro piace all'elfo amante della natura."
+it_536,"Un vecchio elmo giallo con due corna.\nEffetto/i:  AC -1, PS+5"
+it_537,"Questa cerbottana si basa su un antico modello."
+it_538,"L'elmo elfico della destrezza con benedizioni della dea degli elfi."
+it_539,"I codardi non meritano di ricevere l'onorevole titolo di cavaliere! \nIl codice di cavalleria dei cavalieri."
+it_540,"La cotta di maglia elfica è più leggera e pratica rispetto a quella di mithril."
+it_541,"Confortevole armatura del novizio in pelle."
+it_542,"Armatura leggera e resistente in legno"
+it_543,"In origine un semplice bastone rinsecchito, una volta macchiato con il sangue magico del serpente gigante dorato, ora possiede grandi poteri magici."
+it_544,"Una potente asta."
+it_545,"I guanti di lana in seta d'oro offrono una buona resistenza contro il freddo. "
+it_546,"Il colore blu ceruleo dello zaffiro perfetto è uguale a quello del cielo o del mare."
+it_547,"Ogni movimento del cavaliere della morte semina la disperazione tra la gente.\nEffetto/i: trasformazione in un Cavaliere della morte. AC -4, Recupero PS -7"
+it_548,"Questo magico liquido salvavita può far risorgere i morti.。"
+it_549,"La parte superiore è un pettorale d'acciaio mentre la parte inferiore è fatta di cotta di maglia. "
+it_550,"Scudo in pelle dura del novizio。"
+it_551,"I misteriosi cristalli intagliati di antiche scritture elfiche contengono incredibili poteri magici! \nCategoria: Livello di abilità 2 (classe) \nEffetto: Rafforza del 10%% il potere di difesa di tutti gli attributi a chi lancia l'incantesimo. \nRequisito d'apprendimento: \nElfo: Livello 20"
+it_552,"Il raro libro d'incantesimi di Edin possiede abilità magiche intermedie. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Può recuperare gli HP dell'obiettivo e danneggiare i morti viventi. \nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24"
+it_553,"Questo amuleto del carisma ha un potere instabile. "
+it_554,"L'elmo elfico della costituzione è stato benedetto della dea degli elfi."
+it_555,"L'anello d'oro possiede una gran difesa magica."
+it_556,"Antichi libri magici contenenti incantesimi rari.\nCategoria: Livello di abilità 1 (classe) \nEffetto: Causa danni all'obiettivo e può congelarlo per 16 secondi. L'obiettivo congelato non può essere attaccato né si può muovere. \nRequisito d'apprendimento: \nMago: Livello 28 "
+it_557,"Una normale ascia. "
+it_558,"La spada corta degli incantesimi, benedetta dagli elfi, infligge danni in più ai morti viventi. "
+it_559,"Una freccia d'oro che può causare gravi danni. "
+it_560,"L'anello di gemme del novizio."
+it_561,"La spada corta della destrezza, benedetta dagli elfi, infligge danni in più ai morti viventi."
+it_562,"Guanti magici con poteri terrestri che rafforzano il recupero di PM e aumentano la difesa contro gli attacchi terrestri."
+it_563,"Una chiave di legno grigia-marrone. "
+it_564,"Alcuni segni incisi sulla lama le permettono di muoversi liberamente e naturalmente con straordinaria eleganza. "
+it_565,"Un frutto dalla pelle dura e dalla polpa dolce. Dopo averlo mangiato ti senti ringiovanito e pieno d'energia. "
+it_566,"Giustizia! Una lunga spada elegante e incorruttibile. Provoca danni in più ai morti viventi."
+it_567,"Il mantello magico del tempio della neve contiene incisioni di rune magiche del teletrasporto."
+it_568,"Un blocco di cristalli argentei."
+it_569,"Un'ascia da battaglia ricurva. Simboleggia uno spirito folle e impavido. Attrezzando questo oggetto puoi andare più veloce ma ricevere danni in più dal nemico."
+it_570,"Diamante d'alta qualità."
+it_571,"Un inquietante scudo d'ossa.\nEffetto/i:  AC -2, PS +10"
+it_572,"Un amuleto benedetto dell'Isola promessa."
+it_573,"Questo misterioso cristallo intagliato di antiche scritture elfiche contiene incredibili poteri magici! \nCategoria: Livello di abilità 1 (classe) \nEffetto: Chi lancia l'incantesimo può essere teletrasportato all'albero del mondo. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_574,"Un blocco di mithril grezzo scuro."
+it_575,"Un raro libro d'incantesimi  \nCategoria: Livello di abilità 4 (classe) \nEffetto: Aumenta del 20% gli HP dell'obiettivo e il valore massimo di PM per un periodo di tempo. Gli effetti spariscono dopo un nuovo accesso.  \nRequisito d'apprendimento: \nMago: Livello 40"
+it_576,"Un diamante puro e perfetto."
+it_577,"Una normale luce che illumina aree di medie dimensioni."
+it_578,"Una pozione magica blu in bottiglia che può velocizzare il recupero di PM."
+it_579,"Una misteriosa pergamena che contiene il potere magico di una divinità! Può rafforzare gli oggetti di vento."
+it_580,"L'affilato artiglio di Scatha è un materiale raro e pregiato. "
+it_581,"Normali guanti di pelle."
+it_582,"Una gran spada affilata dalla strepitosa potenza."
+it_583,"Un normale elmo di ferro con protezione magica.\nEffetto/i:  AC -3"
+it_584,"Questo prezioso libro contiene incantesimi di divinità e demoni. \nCategoria: Livello di abilità 6 (comune) \nEffetto: Trasforma il cadavere obiettivo in zombie. Lo zombie seguirà e aiuterà chi lancia l'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_585,"Una chiave nera.。"
+it_586,"Essenza dell'anima del golem."
+it_587,"Cristallo terrestre originato dalle benedizioni della dea della luna e che contiene attributi terrestri! \nCategoria: Livello di abilità 4 (classe) \nEffetto: Possibilità di impedire all'avversario di attaccare qualsiasi obiettivo per 16 secondi.\nRequisito d'apprendimento: \nElfo: Livello 40"
+it_588,"Una collana di gemme magiche che illumina l'oscurità."
+it_589,"Un normale pugnale facile da usare e da trasportare. 。"
+it_590,"Una freccia di mithril scuro che può causare gravi danni."
+it_591,"La cotta di maglia è fatta di cristalli azzurri morbidi."
+it_592,"Il raro libro di incantesimi è stato creato da Teon. Contiene il potere di incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Trova mostri e giocatori nascosti sullo schermo rendendoli visibili e danneggiandoli. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_593,"Questa preziosa pergamena può rafforzare gli accessori"
+it_594,"Morbida pelle di animali."
+it_595,"Carne fresca."
+it_596,"Un normale arco lungo."
+it_597,"Questa pietra speciale può riparare le armi danneggiate."
+it_598,"L'antica pergamena magica è piena di strani incantesimi capaci di distruggere armature."
+it_599,"Una lunga lancia con un becco da corvo e spuntoni affilati"
+it_600,"In origine era un utile strumento agricolo ma è stata trasformata in un'arma mortale."
+it_601,"Questo amuleto della saggezza è danneggiato e contiene un potere instabile."
+it_602,"Cristallo del vento originato dalle benedizioni della dea della luna. Vanta attributi del vento. \nCategoria: livello di abilità 3 (classe) \nEffetto: Aumenta del 50%% per un certo periodo di tempo la velocità di movimento di chi lancia l'incantesimo. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_603,"Cristallo d'acqua originato dalle benedizioni della dea della luna. Vanta attributi d'acqua. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Recupera un certo numero di HP dei membri della squadra. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_604,"Questi antichi libri di incantesimi provengono dalle benedizioni di Teon. Contengono il potere di incantesimi avanzati. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Evoca una baionetta gigante creata dalla luce dei cieli per pugnalare un obiettivo infliggendo danni mortali. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_605,"Una normale spada corta di ferro."
+it_606,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Lancia una freccia magica che infligge danni all'obiettivo. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_607,"Un pezzo di mithril."
+it_608,"Il codice di cavalleria del cavaliere include le abilità di lotta, le regole di comportamento e la loro vera fonte di potenza. \nCategoria: Livello di abilità 2 (classe) \nEffetto: possibilità di far rimbalzare l'attacco fisico contro l'assalitore. Funziona solo con una spada a due mani. \nRequisito d'apprendimento: \nCavaliere: Livello 50"
+it_609,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Può far recuperare alcuni HP e danneggiare i morti viventi.  \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_610,"Forte liquore distillato di cereali come l'orzo. Ha un gusto ricco e caldo."
+it_611,"Questa è una chiave d'oro preziosa e brillante."
+it_612,"Armatura del cavaliere coraggioso - Visiera di ferro.\nEffetto/i:  AC -3"
+it_613,"La squama di Scatha è un materiale pregiato e raro. "
+it_614,"Armatura del cavaliere coraggioso - Scudo di ferro.\nEffetto/i:  AC -3"
+it_615,"Il Foulard del cavaliere."
+it_616,"Danno magico +3\nQuesto antico bastone dello stregone può proteggere chi lo usa."
+it_617,"Questa armatura di pelle possiede spalliere chiodate."
+it_618,"Può attaccare e infliggere gravi danni a chi indossa un'armatura di acciaio. "
+it_619,"Questa antica pergamena può far risorgere i morti."
+it_620,"Delizioso biscotto elfico. Offre un effetto di accelerazione ad elfo di livello 2."
+it_621,"Questa spada corta della costituzione è stata benedetta dagli elfi. Provoca danni in più ai morti viventi. "
+it_622,"Metalli raffinati d'alta qualità."
+it_623," Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Benedetto dal potere divino, chi lancia un incantesimo ottiene movimenti più rapidi. \nRequisito d'apprendimento: \nMago: Livello 28"
+it_624,"Non esiste arma che Nestor non sappia usare, anche questa unica lama ricurva. Provoca danni in più ai morti viventi."
+it_625,"Un tradizionale strumento musicale di Edin."
+it_626,"Queste antiche scritture conferiscono poteri magici. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Rende invisibile chi lancia l'incantesimo, ma gli effetti svaniscono immediatamente una volta completato un attacco. \nRequisito d'apprendimento: \nMago: Livello 32"
+it_627,"Il tomo del segreto reale contiene tutte le conoscenze dei re dall'inizio dei tempi. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Segnala un obiettivo nemico per 45 secondi, rivelandone la posizione agli alleati dell'attaccante. L'obiettivo riceve danni aggiuntivi dagli attacch. \nRequisito d'apprendimento: \nReale: Livello 15"
+it_628,"I misteriosi incantesimi incisi all'interno ti permettono di cambiare sembianze."
+it_629,"La squama di dragone terrestre contiene potere terrestre. "
+it_630,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Provoca un forte attacco di ghiaccio che causa danni ai nemici in una piccola area. \nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24"
+it_631,"Un pezzo di oro grezzo. "
+it_632,"Stivali di Beleth. Sono un prodotto artigianale esclusivo. "
+it_633,"L'ala bianca è lucente e possiede un gran potere di difesa. Può anche aumentare il recupero di PM. "
+it_634,"Fornisce difesa e ferisce i nemici che ti attaccano.\nEffetto/i:  AC -3"
+it_635,"Queste antiche scritture conferiscono poteri magici. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Possibilità di imprigionare l'avversario con la magia e di impedirgli di usare la magia per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 32"
+it_636,"Questo amuleto ti calma la mente."
+it_637,"Nonostante l'arco sia piccolo, il suo potere d'attacco non è da sottovalutare."
+it_638,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Possibilità di paralizzare tutti i nemici sullo schermo. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_639,"Pelle raffinata d'alta qualità."
+it_640,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Possibilità di far perdere il controllo dei mostri al nemico.\nRequisito d'apprendimento: \nMago: Livello 30"
+it_641,"I coltelli affilati su entrambi i lati dell'alabarda e le sue punte uncinate lo rendono difficile da schivare."
+it_642,"Un pezzo di platino grezzo."
+it_643,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Scatena terremoti vicino a chi lancia l'incantesimo causando danni ai nemici che si trovano ad un'unità di distanza. \nRequisito d'apprendimento: \nMago: Livello 32"
+it_644,"Ci sono alcuni documenti con strani incantesimi e simboli."
+it_645,"Un'armatura comune usata da soldati."
+it_646,"Questa piastra è solida e durevole."
+it_647,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Teletrasporto ad un posto a caso oppure a un posto specifico in caso di uso dell'anello del teletrasporto. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_648,"Questa è una spada eccellente, capace di uccidere demoni e mostri."
+it_649,"I cristalli del vento provengono dalle benedizioni della dea della luna che contengono attributi del vento. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Aumento di 6 punti della probabilità di colpire durante gli attacchi a lungo raggio. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_650,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: usa la magia per evocare una fonte di luce che illumina un'area intorno a chi lancia l'incantesimo per 3600 secondi. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_651,"La sua forma assomiglia a due foglie verdi sovrapposte e adornate con acqua che scorre."
+it_652,"L'anziano oscuro pratica le arti magiche in modo strano: cerca sempre l'essenza della magia recandosi nel luogo da cui si sente attratto. Il tuo recupero di PM aumenterà."
+it_653,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: livello di abilità 4 (classe) \nEffetto: crea uno scudo protettivo invisibile. Respingerà ogni attacco per 12 secondi. L'incantesimo finisce quando ne lanci un altro. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_654,"Può essere usato per creare armi più potenti che infliggono danni in più ai morti viventi. "
+it_655,"L'amuleto di cristallo viola è profondo e intelligente."
+it_656,"Pezzo sottile di armatura a piastre lucente."
+it_657,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 6 (comune) \nEffetto: benedice armi per aumentare il valore d'attacco e la probabilità di colpire. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_658,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni!  \nCategoria: Livello di abilità 6 (comune) \nEffetto: L'incantesimo aumenta del 50% la velocità dell'obiettivo per 20 minuti. L'incantesimo non può essere lanciato di nuovo mentre è ancora attivo sull'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_659,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: \nRequisito d'apprendimento: \nMago: Livello 28"
+it_660,"Lo stocco possiede una lama affilata che infligge danni in più ai morti viventi."
+it_661,"Sulla pergamena sono incise rune magiche del teletrasporto. Puoi farti teletrasportare alla città più vicina."
+it_662,"L'occhio di Scatha è un materiale pregiato e raro."
+it_663,"Cristalli d'acqua originati dalle benedizioni della dea della luna. Contiene il potere di attributi d'acqua. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Fa risorgere l'obiettivo morto e ne recupera completamente la forza fisica. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_664,"Una strana mazza di ferro con simboli sconosciuti."
+it_665,"Il codice di cavalleria del cavaliere include le abilità di lotta, le regole di comportamento e la loro vera fonte di potenza. \nCategoria: Livello di abilità 2 (classe) \nEffetto: L'armatura sviluppa spuntoni magici che possono danneggiare le armi dei nemici. \nRequisito d'apprendimento: \nCavaliere: Livello 60"
+it_666,"È duro e resistente."
+it_667,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Aumenta la capacità di carico personale per un certo periodo di tempo permettendoti di trasportare più oggetti. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_668,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Ti fa temere dai nemici grazie al rilevamento magico delle loro paure più intime.\nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24"
+it_669,"La lama è forgiata dagli elfi e causa danni in più ai morti viventi."
+it_670,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 3 (classe) \nEffetto: \nRequisito d'apprendimento: \nMago: Livello 36"
+it_671,"Un mago si è rovesciato una pozione magica sulla tunica e ciò l'ha resa molto forte e maleodorante.\nEffetto/i:  PM +50"
+it_672,"Un delizioso frutto rosso brillante."
+it_673,"Elmo elfico di pelle morbida."
+it_674,"Giacca di legno dura."
+it_675,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Converte 34 HP in 12 PM. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_676,"Ascia da battaglia gigantesca e pensante forgiata con acciaio pregiato."
+it_677,"Questo libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Possibilità di indebolire i morti viventi rendendoli facili da uccidere oppure una possibilità del 5%% di farli infuriare. \nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24 "
+it_678,"Bafometto voleva diventare un cavaliere dall'armatura scintillante prima di venire trasformato in demone.\nEffetto: Possibilità di essere immune alla paralisi quando lo si indossa."
+it_679,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Evoca meteore per distruggere i tuoi nemici causando gravi danni entro la distanza di un'unità dall'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_680,"La pozione magica blu può essere usata come antidoto per veleni."
+it_681,"La pozione magica intensa può essere usata per recuperare alcuni punti HP. "
+it_682,"Questa elegante armatura di seta dorata è stata rubata da Bran.\nEffetto/i: trasformazione in Bran. AC -4, Recupero PS -7"
+it_683,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 5 (comune) \nEffetto: Recupera una gran quantità di forza fisica e infligge danni ai morti viventi. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_684,"Un filo lungo e sottile.。"
+it_685,"Uno spesso scudo di pelle.\nEffetto/i:  AC -3"
+it_686,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Evoca una grande vortice causando danni ai nemici entro due unità di distanza da chi lancia l'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 28"
+it_687,"Uno dei 13 capolavori del mastro ferraio elfico. Durante la produzione, è arrivata l'invasione degli orchi. Solo la lama era finita. Potrebbe essere modellata in un'arma più potente, capace di infliggere più danni ai morti viventi. "
+it_688,"Un normale rubino. "
+it_689,"Armatura del cavaliere coraggioso - Guanto di ferro. \nEffetto/i:  AC -3"
+it_690,"Una stoffa rossa fuoco d'alta qualità. "
+it_691,"Una mazza di legno chiodata molto pericolosa."
+it_692,"Un arco duro di legno, preferito dagli orchi."
+it_693,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: Livello di abilità 5 (classe) \nEffetto: La difesa aumenta di 10 punti per un periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_694,"Un frutto giallo aspro."
+it_695,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Assorbe alcuni punti HP dall'obiettivo e li aggiunge ai tuoi. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_696,"Danno magico +1\nUn elegante bastone in quercia pregiata."
+it_697,"Un potente scudo della torre."
+it_698,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono potenti abilità magiche. \nCategoria: livello di abilità 4 (classe) \nEffetto: Scambia posizione tra chi lancia l'incantesimo e l'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_699,"Una potente arma per novizi. "
+it_700,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono potenti abilità magiche. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Scatena un tempesta di fiamme vicino a chi lancia l'incantesimo causando danni ai nemici che si trovano ad un'unità di distanza. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_701,"Un elmo di ferro inciso con con cerchi protettivi che assorbono i danni magici. Per ogni avanzamento di livello di potenziamento, Resistenza Magica +1."
+it_702,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: livello di abilità 4 (classe) \nEffetto: CA diminuisce di 7 punti per te e per i membri della tua squadra. \nRequisito d'apprendimento: \nElfo: Livello 40"
+it_703,"Un blocco di ferro."
+it_704,"Questi preziosi libri magici contengono la grande potenza degli dei e dei demoni e conoscenze magiche avanzate. \nCategoria: Livello di abilità 5 (comune) \nEffetto: Evoca un'ombra scura che può accecare i nemici per 32 secondi. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_705,"Una pergamena misteriosa che si dice provenga da Teon e che protegge l'attrezzatura dai danni durante il processo di rafforzamento."
+it_706,"Un arco lungo migliorato."
+it_707,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Permette a chi lancia l'incantesimo di recuperare HP e poteri magici anche in caso di sovraccarico di oggetti. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_708,"Uno smeraldo perfetto."
+it_709,"Un misterioso tomo sacro scritto in una lingua antica."
+it_710,"Un altro pezzo di armatura rubata da Bran a una delle sue vittime.\nEffetto/i: trasformazione in Bran. AC -4, Recupero PS -7"
+it_711,"Una piccola sciabola liscia."
+it_712,"Un farsetto di pelle con chiodi inclinati sulle spalle per impedire ai nemici di avvicinarsi.\nEffetto/i:  AC -3 "
+it_713,"Un raro documento che contiene conoscenze ed esperimenti magici.\nCategoria: Livello di abilità 1 (classe)\nEffetto: Guarisce tutti i membri della gilda sullo schermo\nRequisito d'apprendimento:\nMago: Livello 28"
+it_714,"Quando si tratta di materiali rari come l'oricalco, anche il mastro ferraio elfico impiega del tempo per completare la sua creazione. Può creare armi più potenti che infliggono danni in più ai morti viventi. 。"
+it_715,"Una grossa ascia, ideale per falciare i nemici. "
+it_716,"Un piccolo scudo protettivo. "
+it_717,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 5 (comune) \nEffetto: Evoca lampi per annientare i nemici. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_718,"Questo elmo del vento è instabile ma può accelerare gli incantesimi"
+it_719,"Un comodo cappuccio che aiuta a celare il volto di uno stregone.\nEffetto/i:  PM +50"
+it_720,"Questo amuleto è danneggiato e instabile."
+it_721,"Rubino d'alta qualità."
+it_722,"Si dice che questa lama provenga da un paese molto lontano. Provoca gravi danni ai nemici."
+it_723,"Blocco d'oro."
+it_724,"Il magico mantello terrestre è ricamato con lussureggianti foreste. Aumenta il recupero di magia e la difesa contro gli attacchi con attributi terrestri."
+it_725,"Dopo la caduta nell'oscurità di Galahad, le sue mani insanguinate formarono questi guanti maledetti. \nEffetto/i: trasformazione in un Cavaliere della morte. AC -4, Recupero PS -7"
+it_726,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Possibilità di far rimbalzare gli attacchi magici per un periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 50 "
+it_727,"Un paio di comodi sandali del novizio in pelle."
+it_728,"Quando l'abile elfo artigiano scoprì che l'arco e le frecce tradizionali non erano in grado di trafiggere la pelle spessa degli orchi, creò questa potente balestra capace di perforare diversi materiali."
+it_729,"Lancia usata dagli orchi guardie."
+it_730,"La pozione magica viola raddoppia la tua velocità. Funziona solo con i cavalieri. "
+it_731,"La squama di drago di fuoco contiene il potere del fuoco"
+it_732,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Probabilità del 33% di aumentare i danni dell'attacco fisico di 1,5 volte. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_733,"Armatura del cavaliere coraggioso - Cotta in maglia di ferro a piastre.\nEffetto/i:  AC -3"
+it_734,"Questa pergamena può rivelare gli attributi degli oggetti. "
+it_735,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Rende visibili mostri e giocatori nascosti. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16 "
+it_736,"Questo amuleto è decrepito e instabile."
+it_737,"Un simbolo di virtù e coraggio."
+it_738,"Questa lastra d'oro è creata da un esperto."
+it_739,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Lancia 3 frecce in una volta ferendo i nemici  Funziona solo con un arco. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_740,"La protezione preferita dagli elfi. "
+it_741,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono conoscenze magiche avanzate. \nCategoria: livello di abilità 4 (classe) \nEffetto: Teletrasporta chi lancia l'incantesimo e gli obiettivi entro 4 unità di distanza e verso una posizione a caso. Chi lancia l'incantesimo può usare anche l'anello del teletrasporto per andare ad una posizione specifica. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_742,"Un'armatura creata dalle ossa dei guerrieri defunti. \nEffetto/i:  AC -2, PS +10"
+it_743,"Questo mantello magico aumenta il recupero di PM e la resistenza al fuoco."
+it_744,"La lama è a forma di mezzaluna. "
+it_745,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Lancia uno scudo magico protettivo che respinge gli attacchi per 16 secondi. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_746,"I cristalli d'acqua provengono dalle benedizioni della dea della luna e contengono attributi d'acqua. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Raddoppia l'effetto della cura magica dell'obiettivo per un certo periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_747,"Un elegante mantello rosso."
+it_748,"Sulla cintura sono incise strane rune magiche. "
+it_749,"Sembra che il coltello di legno sia usato per riti."
+it_750,"Una raffinatissima stoffa bianca come l'avorio."
+it_751,"Aumenta il tuo livello di intelligenza dopo l'uso."
+it_752,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi.\nCategoria: Livello di abilità 4 (comune) \nEffetto: Assorbe gli HP dall'obiettivo e li aggiunge ai tuoi. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_753,"Uccide tutti i nemici con quest'arma a lungo raggio. "
+it_754,"Farsetto di pelle morbida con cintura. "
+it_755,"La pergamena mostra rune magiche che possono teletrasportarti presso altri posti a caso."
+it_756,"Armatura spessa e resistente."
+it_757,"I cristalli d'acqua provengono dalle benedizioni della dea della luna e contengono attributi d'acqua. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Protegge l'obiettivo con magia d'acqua e aumenta la probabilità di evasione.\nRequisito d'apprendimento: \nElfo: Livello 40"
+it_758,"Stivali marroni alti e morbidi."
+it_759,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono conoscenze magiche avanzate. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Cambia la forma del tuo avversario per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_760,"Bran lo rubò a un guerriero da lui ingannato e ucciso.\nEffetto/i: trasformazione in Bran. AC -4, Recupero PS -7"
+it_761,"Gemme magiche colorate."
+it_762,"Questo elmo magico ti consente di accelerare il tuo incantesimo."
+it_763,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Aumenta di 5 punti i danni fisici per te e per la tua squadra. Diminuisce di 10 CA e bilancia l'incantesimo di recupero. \nRequisito d'apprendimento: \nMago: Livello 28"
+it_764,"Il tomo segreto reale contiene tutte le conoscenze dei re dall'inizio dei tempi. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Rafforza la difesa magica e le possibilità di colpire per te e per la tua squadra. \nRequisito d'apprendimento: \nReale: Livello 40"
+it_765,"Il tomo segreto reale contiene tutte le conoscenze dei re dall'inizio dei tempi. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Aumenta la difesa di 8 punti per te e per i membri della tua squadra. \nRequisito d'apprendimento: \nReale: Livello 55"
+it_766,"Un blocco di ferro."
+it_767,"Il Cappuccio morbido di Skuld rinforza il recupero di PM."
+it_768,"Un cuore di Drake insanguinato."
+it_769,"Una normale freccia."
+it_770,"Un frutto fresco e delizioso. (Sì, il pomodoro è veramente un frutto). "
+it_771,"Questa misteriosa pergamena può eliminare le maledizioni dall'attrezzatura."
+it_772,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Probabilità di diminuire la velocità di movimento dell'obiettivo del 25%. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_773,"La spada del cavaliere rosso."
+it_774,"Il suo potere è molto instabile a causa dei danni subiti."
+it_775,"Un biglietto per il traghetto per un passeggero."
+it_776,"Stivali di pelle morbida."
+it_777,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono conoscenze magiche avanzate. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Evoca fulmini e tempeste per attaccare i nemici ad un'unità di distanza dall'obiettivo dell'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_778,"Questa pergamena rafforza e aggiorna la tua armatura."
+it_779,"Un normale zaffiro."
+it_780,"Il potere di questo amuleto decrepito è molto instabile."
+it_781,"I cristalli del vento provengono dalle benedizioni della dea della luna che contengono attributi del vento. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Possibilità di far perdere all'obiettivo l'abilità di schivare attacchi remoti per un periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_782,"Un'elegante freccia d'argento."
+it_783,"Sulla cintura sono incise antiche scritture che le conferiscono i poteri dell'anima. "
+it_784,"Sandali di pelle morbida.\nEffetto/i:  AC -3"
+it_785,"I cristalli del vento provengono dalle benedizioni della dea della luna che contengono attributi del vento. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Vieni trasportato immediatamente ad un punto che non contiene ostacoli. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_786,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Forma uno scudo protettivo e diminuisce la CA di 2 punti. Impossibile lanciare un altro incantesimo finché il precedente non è finito. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_787,"Lastra di mithril."
+it_788,"Un comodo farsetto del novizio."
+it_789,"Una misteriosa pergamena che rinforza l'attrezzatura con attributi d'acqua."
+it_790,"Il meticoloso lavoro di Nestor ha reso questa scimitarra molto potente."
+it_791,"Farina di grano."
+it_792,"Uno dei migliori tra i 13 capolavori del mastro ferraio elfico. Si dice che abbia impiegato 10 anni a forgiarlo. Una divinità che ammirava la gran maestria dell'artigiano benedisse personalmente questo arco. Non preoccuparti di rimanere senza frecce, questo arco ti offrirà frecce magiche. "
+it_793,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono conoscenze magiche avanzate. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Crea un enorme scudo protettivo per la zona obiettivo. Chi si trova là riceve solamente la metà dei danni degli attacchi nemici per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_794,"Un comune elmo da cavaliere di Edin."
+it_795,"Un tridente unico. Trafigge in profondità i nemici finché non muoiono dissanguati. "
+it_796,"Questi antichi raccolti riescono anche a giocare scherzi alla mente dopo averli mangiati."
+it_797,"Questa preziosa pergamena rafforza e aggiorna la tua armatura."
+it_798,"La caduta di Galahad nell'oscurità ne ha infettato anche l'armatura, riempiendola di malvagità.\nEffetto/i: trasformazione in un Cavaliere della morte. AC -4, Recupero PS -7"
+it_799,"Scudo del cavaliere d'argento che brilla alla luce del sole. "
+it_800,"Cappuccio morbido di Svipdag."
+it_801,"Lastra di platino."
+it_802,"Cappuccio morbido di Sauroner."
+it_803,"La spada corta della resistenza magica, benedetta dagli elfi, infligge danni in più ai morti viventi."
+it_804,"Sangue fresco d'orco."
+it_805,"Il colletto del mantello impermeabile è decorato con ossa di animali.\nEffetto/i:  AC -3"
+it_806,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Lancia palle di fuoco bruciando i nemici che si trovano a un'unità di distanza dall'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_807,"Cappuccio morbido di Endor."
+it_808,"Una normale spada a due lame molto facile da usare. "
+it_809,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Evoca un potente elfo con il tuo stesso attributo. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_810,"Re Artù ordinò alla gente di creare l'arma più forte al mondo nella speranza di poter affrontare gli dei. Ma quando venne imprigionato da Teon nella Torre di Babele la lama della rovina scomparve, fino ad ora. "
+it_811,"Un ramo pieno di energia e di forza vitale. Può eliminare i veleni e farti recuperare HP."
+it_812,"L'elmo della velocità accelera i tuoi incantesimi."
+it_813,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 6 (comune) \nEffetto: Possibilità di disperdere la magia dei nemici con il potere del vento. Può eliminarne tutte le abilità magiche dei nemici.\nRequisito d'apprendimento: \nMago: Livello 24\nElfo: Livello 48"
+it_814,"Una pietra dura e fredda."
+it_815,"Sulla pergamena sono intagliate rune magiche che possono teletrasportare un gruppo presso una città vicina."
+it_816,"Una pozione gialla che aumenta concentrazione e SP."
+it_817,"Una palla di cristallo magica creata nel calore dell'oceano."
+it_818,"Un materiale pregiato e raro."
+it_819,"Questi guanti magici possiedono attributi del vento che rafforzano il recupero di magia e aumentano la difesa contro attacchi di attributi del vento. "
+it_820,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Aumenta di 4 punti l'attacco fisico dell'obiettivo. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_821,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 5 (comune) \nEffetto: Possibilità di stregare l'obiettivo e di farti seguire da lui. Quanto minore la forza fisica dell'obiettivo, tanto maggiore la possibilità di successo degli incantesimi. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_822,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: livello di abilità 4 (classe) \nEffetto: Evoca una vorticosa tempesta di neve contro i tuoi nemici entro 5 unità di distanza da chi lancia l'incantesimo. Possibilità di congelare gli obiettivi. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_823,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 5 (comune) \nEffetto: Possibilità di assorbire il valore magico dell'obiettivo e di convertirne il 50% per te. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_824,"La cotta di maglia ad anelli degli orchi è regolabile in modo da poter essere usata da orchi di ogni dimensione.\nEffetto/i:  AC -3"
+it_825,"Una lancia resistente."
+it_826,"Il lungo raggio e la lama affilata la rendono mortale. Provoca danni in più ai morti viventi."
+it_827,"Questi guanti aumentano la resistenza all'acqua."
+it_828,"Questi antichi libri racchiudono magici viaggi in cerca di poteri sovrumani."
+it_829,"Piastra di mithril scuro e resistente. "
+it_830,"Un paio di larghi guanti del novizio in pelle. "
+it_831,"Uno speciale anello magico abbinato al cristallo delle fiamme può aumentare la resistenza al fuoco."
+it_832,"Questa spada è una delle più acclamate creazioni di Nestor."
+it_833,"Una pietra turchese. "
+it_834,"La sua lama affilata fende agilmente l'aria causando danni in più ai morti viventi."
+it_835,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Lancia una freccia magica infuocata contro il nemico. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_836,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Lancia un incantesimo di vento per cambiare le condizioni circostanti dei nemici. Probabilità di diminuire la velocità dell'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_837,"Dopo la sua morte, l'anima di Galahad venne tentata dal male e cadde nell'oscurità, che lo trasformò nel cavaliere della morte. La sua furia forgiò una spada di fuoco spietata che può attivare abilità magiche di livello 8."
+it_838,"L'ascia di acciaio dal manico corto è usata dai cacciatori. "
+it_839,"Sull'anello dell'evocazione sono incisi misteriosi incantesimi. Dopo averlo indossato è possibile invocare un tipo di mostro. "
+it_840,"Si dice che il mantello dell'invisibilità sia stato tessuto in seta magica di ghiaccio. Se lo indossi, diventi invisibile. Puoi muoverti ma non puoi fare altro mentre lo indossi."
+it_841,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Lancia un incantesimo del vento che aumenta la destrezza dell'obiettivo di 5 punti. Non è possibile moltiplicare gli effetti dell'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_842,"Lancia resistente della fanteria."
+it_843,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Aumenta del 50% la difesa di chi lancia l'incantesimo \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_844,"Frammenti di cristallo dell'anima."
+it_845,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Aumenta i danni in generale e provoca danni in più ai morti viventi. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 18 \nCavaliere: Livello 50"
+it_846,"Una chiave rossa."
+it_847,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Teletrasporta chi lancia l'incantesimo e i membri della stessa gilda entro 1 unità di distanza e verso una posizione a caso. Puoi anche usare l'anello del teletrasporto per andare a una posizione specifica. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_848,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Ottieni una percentuale di recupero di PM più alto del solito. L'incantesimo termina quando combatti o ti muovi. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_849,"Il cristallo puro e trasparente incastonato nel bastone può portare conforto all'anima del mago. Il bastone favorisce il recupero di PM."
+it_850,"Guanti di pelle morbida."
+it_851,"Sembra che questo tessuto possa assorbire i danni magici. Per ogni avanzamento di livello di potenziamento, Resistenza Magica +2."
+it_852,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Crea una forza magica che provoca danni ai nemici che si trovano ad un'unità di distanza da chi lancia l'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_853,"Una normale spadona."
+it_854,"Questi guanti magici possiedono attributi del fuoco che rafforzano il recupero di magia e aumentano la difesa contro attacchi con attributi di fuoco."
+it_855,"Una corona d'oro luccicante."
+it_856,"Questo amuleto è preferito dagli orchi per la sua capacità di aumentare gli HP."
+it_857,"Un elmo fatto d'ossa.\nEffetto/i:  AC -2, PS +10"
+it_858,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Lancia un incantesimo terrestre per far spuntare stalagmiti sotto i tuoi nemici ferendoli. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_859,"Aumenta il tuo livello di carisma."
+it_860,"Un comodo farsetto."
+it_861,"Una piuma completa."
+it_862,"Ciò rafforza il recupero magico."
+it_863,"Un amuleto raffinato e incantevole."
+it_864,"Incisa con rune di protezione, questa armatura offre resistenza ai danni magici. Per ogni avanzamento di livello di potenziamento, Resistenza Magica +1."
+it_865,"Aumenta il tuo livello di saggezza."
+it_866,"Questi preziosi libri di contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 5 (comune) \nEffetto: Disperde le maledizioni con luce sacra. Disperde le maledizioni dell'obiettivo.\nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40  "
+it_867,"Foulard dei cavalieri rossi. Un simbolo della loro devozione alla sconfitta di tutti i mali.\nEffetto/i: AC -2 , RM + 10"
+it_868,"Queste antiche scritture magiche contengono la conoscenza dei poteri magici. \nRequisito d'apprendimento: \nMago: Livello 32"
+it_869,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Aumento di 6 punti del potere di difesa dell'obiettivo. Non può essere lanciato più volte sullo stesso obiettivo. \nRequisito d'apprendimento: \nElfo: Livello 30"
+it_870,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Lancia un pugnale formato dal vento contro il nemico. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_871,"Un elegante pugnale di mithril."
+it_872,"Un materiale pregiato e raro."
+it_873,"Succo estratto da vomito. Ha un odore alquanto disgustoso."
+it_874,"Questo amuleto della destrezza è decrepito. Il suo potere è molto instabile."
+it_875,"I cristalli del vento provengono dalle benedizioni della dea della luna che contengono attributi eolici. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Possibilità di diminuire la velocità di attacco del nemico per un periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_876,"Delizioso granturco. "
+it_877,"La croce d'oro su questo mantello scarlatto è il simbolo dell'onore e del coraggio del cavaliere."
+it_878,"Il codice di cavalleria del cavaliere ne guida l'onore, l'impegno e la fonte della propria potenza. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Aumenta la possibilità di schivare. Funziona solo se lo scudo è attrezzato. \nRequisito d'apprendimento: \nCavaliere: Livello 50"
+it_879,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Usa la magia per curare l'obiettivo e depurarne il corpo. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_880,"Un bouquet di fiori."
+it_881,"Un cotta di maglia di orco guerriero."
+it_882,"Questi guanti magici possiedono attributi d'acqua che rafforzano il recupero di magia e aumentano la difesa contro attacchi con attributi d'acqua."
+it_883,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Usa la magia per creare tossine. Possibilità di avvelenare l'obiettivo. Viene continuamente danneggiato dalle tossine finché l'incantesimo non svanisce. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_884,"Un enorme rubino incastonato nello scudo d'argento come un occhio malefico."
+it_885,"Pelle d'animale d'alta qualità."
+it_886,"Il bastone magico è rafforzato con acciaio. Può assorbire una notevole quantità di potere magico dall'avversario."
+it_887,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Crea un cerchio di energia. I giocatori che si trovano in questo cerchio possono aumentare la velocità di recupero di HP.  \nRequisito d'apprendimento: \n Mago: Livello 32"
+it_888,"L'osso di Scatha è un materiale pregiato e raro."
+it_889,"Questi preziosi libri di contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 6 (comune) \nEffetto: Lancia un incantesimo che provoca esplosioni sull'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_890,"Un cappello rotondo di pelle con uno spuntone che sembra un corno.\nEffetto/i:  AC -3"
+it_891,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Usa la magia per creare un muro di fuoco che ferisce i nemici che lo toccano. \nRequisito d'apprendimento: \nMago: Livello 32"
+it_892,"Questo farsetto di pelle è stato rafforzato."
+it_893,"Questa pergamena magica segnala la posizione dei mostri."
+it_894,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: È possibile cambiare sullo schermo l'area di teletrasporto stabilita da chi lancia l'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_895,"Una spada corta degli orchi guerrieri."
+it_896,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: livello di abilità 6 (comune) \nEffetto: lancia un incantesimo di fuoco che aumenta la forza dell'obiettivo di 5 punti. Non è possibile lanciare questo incantesimo più volte sullo stesso obiettivo. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_897,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 5 (classe) \nEffetto: possibilità di impedire l'uso della magia a tutti i giocatori e NPC sullo schermo per 16 secondi. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_898,"Una normale chiave per stanze di locanda."
+it_899,"La pozione magica verde aumenta temporaneamente la velocità di movimento per un periodo di tempo."
+it_900,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 4 (classe) \nEffetto: Evoca un elfo con i tuoi stessi attributi. \nRequisito d'apprendimento: \nElfo: Livello 40"
+it_901,"Un mantello d'acqua magico che aumenta il recupero di PM e la resistenza all'acqua."
+it_902,"Un'elegante spada d'argento che infligge danni in più ai morti viventi."
+it_903,"Una freccia d'oricalco che può causare gravi danni ai nemici."
+it_904,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 1 (classe) \nEffetto: Aumenta del 10% la difesa magica \nRequisito d'apprendimento: \nElfo: Livello 10"
+it_905,"Questo pugnale provoca danni in più ai morti viventi."
+it_906,"Un pesante pugnale corto."
+it_907,"Questo elmo magico ti conferisce la visione notturna."
+it_908,"Aumenta il tuo livello di destrezza."
+it_909,"L'intensa pozione magica nella bottiglia può essere usata per recuperare un numero notevole di HP."
+it_910,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Lancia un incantesimo di terra che cambia la topografia di un'area rallentando i nemici che si trovano ad un'unità di distanza dall'obiettivo dell'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_911,"Una misteriosa pergamena magica che rafforza gli oggetti con attributi terrestri."
+it_912,"Yumi è un pregiatissimo arco che consente una tensione perfetta per scoccare le frecce. Si dice che sia l'arco più perfetto in tutta Edin."
+it_913,"Un inquietante filo di ragnatela con un'aura malefica attorno ad esso."
+it_914,"Questi preziosi libri magici contengono la grande potenza degli dei e dei demoni e conoscenze magiche avanzate. \nCategoria: Livello di abilità 5 (comune) \nEffetto: Evoca una mummia che spunta dalla terra per attaccare i tuoi nemici. Possibilità di paralizzare l'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_915,"Sull'anello del teletrasporto sono incisi misteriosi incantesimi che possono teletrasportarti ad un'area specifica precedentemente segnalata."
+it_916,"Bran trovò questo misterioso bastone in mare."
+it_917,"Gli esperimenti di Nestor hanno modificato le abilità di questo bastone."
+it_918,"Un elegante mantello.\nEffetto/i:  AC -1, PS+5"
+it_919,"La tonaca divina di Niviane."
+it_920,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Fa risorgere l'obiettivo morto facendogli recuperare gli HP e il 25% dell'esperienza perduta.  \nRequisito d'apprendimento: \nMago: Livello 40"
+it_921,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello 4. Abilità (Classe) \nEffetto: Probabilità di diminuire la MR dell'obiettivo del 75%. La RM viene ripristinata dopo aver preso danni magici. \nRequisito d'apprendimento: \nElfo: livello 40"
+it_922,"Una piastra rara."
+it_923,"Questo elmo è fatto di ramoscelli."
+it_924,"L'armatura sdrucita di Re Attila."
+it_925,"Contiene misteriose pietre d'energia."
+it_926,"Questo amuleto di rune speciali ti conferisce una forza straordinaria."
+it_927,"Questi orecchini magici personalizzati sono bellissimi ed eleganti."
+it_928,"Uno scudo d'argento con incisioni di incantesimi che ti rendono immune a incantesimi paralizzanti."
+it_929,"La pozione magica intensa può aumentare temporaneamente la tua velocità di movimento."
+it_930,"Il sangue di Scatha è raro e molto ricercato per via dei sui tanti usi."
+it_931,"Gli stivali che Bran si fece fare su misura.\nEffetto/i: trasformazione in Bran. AC -4, Recupero PS -7"
+it_932,"Orribile cintura di troll con un teschio magico che ti permette di portare più oggetti."
+it_933,"Creata da elfi ferrai, quest'armatura è robusta ma molto leggera."
+it_934,"La cintura è danneggiata rendendo il suo potere molto instabile."
+it_935,"Una lettera."
+it_936,"La pozione magica rossa ti aiuta a recuperare alcuni punti HP."
+it_937,"Questa preziosa pergamena ti aiuta a rafforzare e ad aggiornare le tue armi."
+it_938,"Apparentemente non potente come l'ascia, la spada corta del nano è altrettanto forte e letale."
+it_939,"Questo mantello magico aumenta il recupero di PM e la resistenza al vento."
+it_940,"Questa tonaca è stata intessuta con fili magici."
+it_941,"Questo farsetto è stato rubato appena creato. Su esso sono incise rune. Per ogni avanzamento di livello di fortificazione, Resistenza Magica +1."
+it_942,"Una cotta di maglia d'acciaio resistente."
+it_943,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 6 (comune) \nEffetto: Divide e ferisce un gruppo di nemici con un incantesimo terrestre. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_944,"Indossando questo elmo magico, puoi lanciare incantesimi curativi intermedi e superiore."
+it_945,"Una delle armi preferite dai pescatori."
+it_946,"Il bastone magico personalizzato ti permette di assorbire il potere magico dei nemici."
+it_947,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 1 (classe) \nEffetto: Converte 8 punti dei tuoi HP in 2 PM. \nRequisito d'apprendimento: \nElfo: Livello 10"
+it_948,"Questi guanti magici rafforzano i tuoi oggetti."
+it_949,"Si dice che le corna di Pan siano la fonte dei suoi poteri magici."
+it_950,"Un'agile spada corta usata dagli elfi. Provoca danni in più ai morti viventi."
+it_951,"Ali elfiche benedette. Quando le indossi, ti riporteranno alla foresta degli elfi."
+it_952,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Lancia frecce di ghiaccio che feriscono i nemici. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 8 \nCavaliere: Livello 50"
+it_953,"Un cristallo raro e trasparente."
+it_954,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Possibilità di scambiare una volta l'arma di chi lancia l'incantesimo con un'arma magica superiore. Non può essere ripetuto sulla stessa arma. \nRequisito d'apprendimento: \nMago: Livello 40"
+it_955,"Pelliccia morbida di Cerbero."
+it_956,"Questa cintura aumenta il recupero fisico e magico."
+it_957,"Questa cintura è danneggiata per cui il suo potere è instabile."
+it_958,"Un normale smeraldo."
+it_959,"Un raro mantello magico che aumenta il recupero di magia."
+it_960,"Un ottimo tessuto blu."
+it_961,"I cristalli del vento provengono dalle benedizioni della dea della luna, che contengono attributi eolici. \nCategoria: Livello di abilità 5 (classe) \nEffetto: Aumenta di 6 punti la probabilità di colpire a lungo raggio\nRequisito d'apprendimento: \nElfo: Livello 50"
+it_962,"Una mappa del terreno."
+it_963,"La cintura è circondata da un alone mortale. "
+it_964,"Ciò può aumentare il recupero di PM."
+it_965,"Frammento di spirito spezzato."
+it_966,"Una piccola catasta di polvere. Nessuno sa di cosa sia fatta."
+it_967,"Una normale squama."
+it_968,"Combustibile per una lampada."
+it_969,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Diminuisce CA di 3 punti. Non puoi lanciare più volte. \nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24"
+it_970,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 2 (classe) \nEffetto: Aumenta la costituzione di 3 punti. L'incantesimo non può essere ripetuto. \nRequisito d'apprendimento: \nElfo: Livello 20"
+it_971,"Una robusta lancia elfica che infligge danni in più ai morti viventi."
+it_972,"Armatura del cavaliere coraggioso - Sabaton di ferro.\nEffetto/i:  AC -3"
+it_973,"La pozione magica bianca ti aiuta a recuperare HP. "
+it_974,"Grande scudo resistente."
+it_975,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Lancia fulmini causando danni ai nemici che si trovano di fronte a te. \nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24"
+it_976,"Uno scudo spesso e robusto.\nEffetto/i:  AC -1, PS+5"
+it_977,"Un vecchio scudo di legno."
+it_978,"Un raffinato arco di legno creato da un abile elfo artigiano."
+it_979,"Il tomo segreto reale contiene tutte le conoscenze dei re dall'inizio dei tempi. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Ti teletrasporta a un compagno di gilda specifico. \nRequisito d'apprendimento: \nReale: Livello 45"
+it_980,"Questi preziosi libri contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 5 (comune) \nEffetto: Lancia spuntoni di ghiaccio all'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
+it_981,"Uno scudo di ferro con incisioni di antichi incantesimi.\nEffetto/i:  AC -3"
+it_982,"Giacca di pelle morbida."
+it_983,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 2 (comune) \nEffetto: Aumenta di 2 punti l'attacco dell'arma dell'obiettivo. \nRequisito d'apprendimento: \nReale: Livello 20 \nMago: Livello 8 \nElfo: Livello 16"
+it_984,"Una preziosa chiave splendente."
+it_985,"Canotta di pelle morbida.\nEffetto/i:  AC -3"
+it_986,"Cappello rotondo di pelle morbida.\nEffetto/i:  AC -3"
+it_987,"Aumenta la forza."
+it_988,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Evoca mostri che combattono per te. Il numero di mostri evocati dipende dal livello di carisma di chi lancia l'incantesimo. Il livello di chi lancia l'incantesimo influisce sul tipo di mostri evocati. \nRequisito d'apprendimento: \nMago: Livello 28"
+it_989,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Lancia spine giganti con un incantesimo terrestre, pugnalando i nemici che si trovano ad un'unità di distanza dall'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_990,"Elmo di pelle morbido."
+it_991,"Questo amuleto magico aumenta destrezza."
+it_992,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Massimizza il valore d'attacco ravvicinato dell'arma di chi lancia l'incantesimo per un periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_993,"La spada dell'invasore è un'arma creata da Re Attila."
+it_994,"Questi preziosi libri di contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 6 (comune) \nEffetto: Questo incantesimo può diminuire il valore dell'attacco fisico ravvicinato e la probabilità di colpire dell'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
+it_995,"Un uovo di gallina sana."
+it_996,"Poiché è di oricalco, non può essere danneggiato e causa danni in più ai morti viventi."
+it_997,"Questa cintura aumenta il recupero di HP."
+it_998,"Uno speciale anello magico che aumenta la difesa dagli attacchi con attributi di vento."
+it_999,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Possibilità di far addormentare i nemici entro una distanza di un'unità per 32 secondi. Se attaccati, i nemici si sveglieranno. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_1000,"Un rubino perfetto. "
+it_1001,"Una luccicante squama di drago d'acqua."
+it_1002,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Possibilità di danneggiare l'arma dell'avversario. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
+it_1003,"Ogni pezzo di argento incastonato in questo mantello scuro mostra incisioni magiche che aumentano il recupero di magia."
+it_1004,"Questo anello speciale aumenta la resistenza terrestre."
+it_1005,"Sembra che questo tessuto possa assorbire i danni magici."
+it_1006,"Queste acque pure hanno un potere misterioso. "
+it_1007,"Questi rari libri di incantesimi provengono dalle benedizioni di Teon. Contengono incantesimi superiori. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Impedisce ai nemici di usare qualsiasi pozione per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_1008,"Una piastra d'argento brillante."
+it_1009,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Permette a chi lancia l'incantesimo di recuperare HP e poteri magici anche in caso di sovraccarico di oggetti. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_1010,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Aumenta del 50%% per 30 minuti la velocità di chi lancia l'incantesimo. Lanciando di nuovo l'incantesimo, gli effetti non aumentano. \nRequisito d'apprendimento: \nMago: Livello 28"
+it_1011,"Un elegante filo di mithril."
+it_1012,"Comodi stivaletti."
+it_1013,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Aumento di 6 punti del valore d'attacco ravvicinato di chi lancia l'incantesimo. \nRequisito d'apprendimento: \nElfo: Livello 50"
+it_1014,"Una squama di drago del vento. "
+it_1015,"I cristalli d'acqua provengono dalle benedizioni della dea della luna e contengono attributi d'acqua. \nCategoria: Livello di abilità 4 (classe) \nEffetto: Aumenta il tasso di recupero di HP dell'obiettivo. Più alto il livello, maggiore il recupero (max. 15). \nRequisito d'apprendimento: \nElfo: Livello 40"
+it_1016,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 3 (comune) \nEffetto: Possibilità di accecare l'obiettivo per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 12 \nElfo: Livello 24"
+it_1017,"Queste antiche scritture contengono la conoscenza dei poteri magici. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Possibilità di far ammalare il nemico diminuendone la difesa di 12 punti e la probabilità di colpire di 6 punti. \nRequisito d'apprendimento: \nMago: Livello 28"
+it_1018,"Cotta di maglia a squame resistente."
+it_1019,"Un materiale pregiato e raro."
+it_1020,"Amuleto dello scheletro fatto di ossa di varie creature."
+it_1021,"Un'alabarda con spuntoni che la rendono più letale."
+it_1022,"L'ala dorata della formica regina gigante possiede un gran potere di difesa magica."
+it_1023,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco! \nCategoria: Livello di abilità 4 (classe) \nEffetto: Aumenta di 4 punti il valore di attacco fisico per te e per la tua squadra. \nRequisito d'apprendimento: \nElfo: Livello 40"
+it_1024,"Un'arma che può facilmente spaccare la testa del tuo nemico."
+it_1025,"Cotta robusta in maglia di ferro a piastre."
+it_1026,"Ciò rende il tuo corpo forte e sano."
+it_1027,"Uno dei 13 capolavori del mastro ferraio elfico. Quest'armatura unica è durevole e fatta d'oricalco."
+it_1028,"Un pezzo di corteccia."
+it_1029,"Un pezzo di platino brillante."
+it_1030,"Armatura di pelle morbida."
+it_1031,"Le frecce di mithril causano gravi danni."
+it_1032,"Il codice di cavalleria del cavaliere include le abilità di lotta, le regole di comportamento e la loro vera fonte di potenza. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Possibilità di stordire il nemico. Funziona solo con una spada a due mani. \nRequisito d'apprendimento: \nCavaliere: Livello 50"
+it_1033,"Il codice di cavalleria del cavaliere include le abilità di lotta, le regole di comportamento e la loro vera fonte di potenza. \nCategoria: Livello di abilità 1 (classe) \nEffetto: Diminuisce la CA e riduce i danni. Più alto il livello, più danni vengono ridotti. \nRequisito d'apprendimento: \nCavaliere: Livello 50"
+it_1034,"Guscio di scorpione."
+it_1035,"Una larga cintura d'orco."
+it_1036,"Cotta di maglia di ferro robusta."
+it_1037,"Zanne orribili di lupi mannari indeboliti.\nOggetto della missione"
+it_1038,"Questa pietra alimenta la meridiana. \nOggetto della missione"
+it_1039,"Un frammento di tempo di pietra che alimenta la meridiana. \nOggetto della missione"
+it_1040,"La pozione divina illumina e ha un aroma che conforta l'anima. \nOggetto della missione"
+it_1041,"La piuma di un'arpia indebolita che ti dona l'abilità del volo.\nOggetto della missione"
+it_1042,"Cibo preferito dagli orsogufi indeboliti.\nOggetto della missione"
+it_1043,"Un delizioso biscotto alla vaniglia. \nOggetto della missione"
+it_1044,"Le radici di questa pianta offrono effetti curativi. \nOggetto della missione"
+it_1045,"La pozione curativa di Leah è molto potente. \nOggetto della missione"
+it_1046,"Casse d'imballaggio di Justina. \nOggetto della missione"
+it_1047,"Le casse rubate di Leah. \nOggetto della missione"
+it_1048,"Una spada rotta da cui puoi ricavare un'arma potente. \nOggetto della missione"
+it_1049,"Cristallo dell'anima di un mostro. \nOggetto della missione"
+it_1050,"Soffice pelle di lupo. \nOggetto della missione"
+it_1051,"Disgustoso sangue di ghul.\nOggetto della missione"
+it_1052,"Pelle del cacciatore.  \nOggetto della missione"
+it_1053,"Frammenti d'ossa sparsi."
+it_1054,"Una leggera piuma di grifone. "
+it_1055,"La polvere raffinata si trova con la benedizione dello spirito."
+it_1056,"Questo misterioso solvente è stato raffinato da un alchimista e può essere usato per molti scopi."
+it_1057,"Si dice che, dopo aver accumulato un certo numero di questi rari distintivi a Edin, possa scambiarli con alcuni oggetti esclusivi.\nOggetto della missione"
+it_1058,"Sandali in pelle chiodata.\nEffetto/i:  AC -3"
+it_1059,"Un piastra rara la cui forgiatura richiede anni.。\nOggetto della missione"
+it_1060,"La piastra degli inferi è molto rara ad Edin.\nOggetto della missione"
+it_1061,"Queste inquietanti ossa dei morti viventi ne contengono la temibile potenza. \nOggetto della missione"
+it_1062,"Pelle macchiata di sangue che contiene strani numeri simili a coordinate. \n(X:32758)\nOggetto della missione"
+it_1063,"Pelle macchiata di sangue che contiene strani numeri simili a coordinate. \n(Y:32745)\nOggetto della missione"
+it_1064,"Il midollo di scheletro mago possiede un'aura di morte.\nOggetto della missione"
+it_1065,"Un cristallo dell'anima divina con una potente aura!\nOggetto della missione"
+it_1066,"Un orribile cuore di Golem.\nOggetto della missione"
+it_1067,"Questo cristallo dell'anima è pieno del potere malefico delle anime morte.\nOggetto della missione"
+it_1068,"Questa è la mappa dettagliata del sotterraneo dell'isola promessa (primo e secondo piano). \nCoordinate (32678,32726).\nOggetto della missione"
+it_1069,"Scritture trovate in tunnel. \nOggetto della missione"
+it_1070,"Contiene energia potente e misteriosa.\nOggetto della missione"
+it_1071,"Il cristallo dell'anima è contaminato da un'aura malefica.\nOggetto della missione"
+it_1072,"Il cavaliere della morte dona potere alla sua legione di scheletri.\nOggetto della missione"
+it_1073,"Un meteorite che si trova in alto nel cielo.\nOggetto della missione"
+it_1074,"Corroso dal male.\nOggetto della missione"
+it_1075,"Zanne affilate di licantropo.\nOggetto della missione"
+it_1076,"Un disgustoso fluido dei ghul. \nOggetto della missione"
+it_1077,"Carne dura che non va a male.\nOggetto della missione"
+it_1078,"Una scatola di merci impacchettate.\nOggetto della missione"
+it_1079,"Una quantità notevole di cibo.\nOggetto della missione"
+it_1080,"Un'inquietante scatola di pietra magica"
+it_1081,"Un giuramento scritto tra il mondo e il suo creatore, TEON."
+it_1082,"Antica moneta di platino che puoi cambiare con i mercanti"

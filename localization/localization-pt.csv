@@ -1,0 +1,706 @@
+﻿pt_0,"Cliente:%s Recurso:%u"
+pt_1,"Baixe o novo Teon"
+pt_2,"Conectando ao servidor do jogo... (pronto)"
+pt_3,"Atualizando patch (%s, %u->%u) %u%%, aguarde..."
+pt_4,"Atualizando patch (%s, %u->%u), aguarde..."
+pt_5,"Conectando ao servidor..."
+pt_6,"Conectando ao servidor... (conectado)"
+pt_7,"Conectando ao servidor... (falha)"
+pt_8,"Conectando ao servidor... (falha de protocolo)"
+pt_9,"Falha na conexão, tente de novo"
+pt_10,"Conectando ao servidor... (handshaking)"
+pt_11,"Extraindo recursos do jogo..."
+pt_12,"Conectando ao servidor de patch..."
+pt_13,"Conectando ao servidor de patch... (recebendo atualizações)"
+pt_14,"Conectando ao servidor de patch... (falha)"
+pt_15,"Falha na atualização, tente de novo"
+pt_16,"Recebendo atualizações... (%u/%u) %s"
+pt_17,"Atualizando patch (atualização completa, %u->%u), aguarde..."
+pt_18,"Atualizando patch (atualização parcial, %u->%u), aguarde..."
+pt_19,"Falha na atualização, reinicie (código de atualização desconhecido:%s)"
+pt_20,"Falha na atualização, reinicie (código de atualização inválido:%s)"
+pt_21,"Extraindo patch (%s, %u->%u), aguarde...(%d%%)"
+pt_22,"Falha na atualização, reinicie (falha na extração)"
+pt_23,"Falha na atualização do patch, erro durante a atualização. O Download/Recarregamento será reiniciado"
+pt_24,"Falha na atualização do patch, tente baixar o patch novamente"
+pt_25,"Libere espaço de armazenamento (pelo menos %fG). Toque na tela e reinicie a atualização"
+pt_26,"Sem espaço de armazenamento disponível o suficiente. Atualização cancelada"
+pt_27,　Confirmar　|　Cancelar　
+pt_28,　OK　
+pt_29,"Não é possível conectar ao Google Play. Verifique o status dos componentes relacionados."
+pt_30,"\fKCliente:%s Recurso:%u"
+pt_31,"A conta já existe"
+pt_32,"A senha está incorreta"
+pt_33,"Conta bloqueada, por favor, contate cs@lakoo.com\nInsira Teon-ACC no assunto do e-mail e forneça as informações da conta."
+pt_34,"Está conta já está conectada"
+pt_35,"Conta ou senha inválidas"
+pt_36,"Código de erro:%d"
+pt_37,"Falha no login, %s"
+pt_38,"A conta e a senha não podem ficar em branco. Insira novamente."
+pt_39,"Sua nova senha e a confirmação de senha são diferentes. Insira as senhas novamente."
+pt_40,"Não é possível obter os dados da conta do Google Play. Tente de novo"
+pt_41,"\fKConta"
+pt_42,"\fKSenha"
+pt_43,"\fKLogin"
+pt_44,"\fKRegistro"
+pt_45,"\fKCancelar"
+pt_46,"\fKSenha,"
+pt_47,"\fKGoogle"
+pt_48,Aviso
+pt_49,Real
+pt_50,Cavaleiro
+pt_51,Elfo
+pt_52,Mago
+pt_53,"Elfo Negro"
+pt_54,"Cavaleiro do Dragão"
+pt_55,Ilusionista
+pt_56,"Classe Desconhecida"
+pt_57,Personagem
+pt_58,Bolsa
+pt_59,Habilidade
+pt_60,Missão
+pt_61,Loc
+pt_62,Soc
+pt_63,Geral
+pt_64,Ajuda
+pt_65,Sair
+pt_66,Informações
+pt_67,Concluído
+pt_68,Cancelar
+pt_69,"Configuração dos Favoritos"
+pt_70,"Adicionar Favorito"
+pt_71,FAVORITOS
+pt_72,"Confirmar exclusão de favorito"
+pt_73,"Confirmar exclusão de favorito '%s'"
+pt_74,"Enviar Mensagem"
+pt_75,Chat
+pt_76,"Você deseja sair?"
+pt_77,"Reiniciar | Sair "
+pt_78,Reviver
+pt_79,"Você morreu"
+pt_80,"Ressurgir na cidade | Sair do jogo "
+pt_81,"Desconectado. Motivo:%u"
+pt_82,Desconectado
+pt_83,"Selecionar item não identificado"
+pt_84,Peso
+pt_85,"\fKPersonagem"
+pt_86,"\fKBloquear"
+pt_87,"\fKOrdenar"
+pt_88,Legal
+pt_89,Caótico
+pt_90,Neutro
+pt_91,MP
+pt_92,Correio
+pt_93,Bloquear
+pt_94,Excluir
+pt_95,"Nome do Jogador"
+pt_96,"Nome do Clã"
+pt_97,Título
+pt_98,Classe
+pt_99,Nível
+pt_100,"Adicionar Amigo"
+pt_101,Aviso:
+pt_102,"Nome do Clã:"
+pt_103,Líder:
+pt_104,Castelo:
+pt_105,Membro:
+pt_106,"Bem-vindo ao novo Clã!"
+pt_107,Comprar
+pt_108,Configuração
+pt_109,"Sucesso no Login"
+pt_110,"Inserir quantidade:"
+pt_111,Loja
+pt_112,Total
+pt_113,"\fK Comprar"
+pt_114,"\fK Vender"
+pt_115,"Criar Personagem"
+pt_116,"Insira o nome do personagem"
+pt_117,"Distribuir pontos das suas estatísticas:Automático/Manual"
+pt_118,"Confirmar pontos de estatísticas personalizados"
+pt_119,"Esta Classe não foi liberada. Selecione novamente."
+pt_120,"Os pontos de estatísticas permanecem. Processe após a distribuição"
+pt_121,"Erro do sistema. Insira novamente."
+pt_122,"Este nome já existe. Insira novamente."
+pt_123,"Nome inválido, tente de novo"
+pt_124,"Falha na criação (distribuição de estatísticas inválida), tente de novo"
+pt_125,"Falha na criação (o número de personagens atingiu o limite), tente de novo"
+pt_126,"Nome inválido, tente de novo"
+pt_127,"Informações inválidas do personagem, tente de novo"
+pt_128,Equipe
+pt_129,"Adicionar Amigo"
+pt_130,Negociar
+pt_131,MP
+pt_132,Chat
+pt_133,"Ataque ativo"
+pt_134,Seguindo
+pt_135,"Tipo inválido"
+pt_136,"Criar Equipe"
+pt_137,Sair
+pt_138,"Limite de personagens (0-%d) excedido."
+pt_139,"Negociação Cancelada"
+pt_140,"Negociado com Sucesso"
+pt_141,Negociar
+pt_142,"Inserir quantidade:"
+pt_143,"\f7 Desbloquear"
+pt_144,"\f7 Bloquear"
+pt_145,"\fK Bloquear"
+pt_146,"\fK Confirmar"
+pt_147,"Meus itens \f=(Cuidado com golpes/esquemas/fraudes)"
+pt_148,Mercado
+pt_149,"Item Vendido"
+pt_150,"À venda"
+pt_151,Comprar
+pt_152,Vender
+pt_153,Coletar
+pt_154,Item
+pt_155,Nome
+pt_156,"Tempo Restante"
+pt_157,Preço
+pt_158,Status
+pt_159,"\fKComprar"
+pt_160,"\fK Cancelado"
+pt_161,"\fKColetar"
+pt_162,"Pesquisar por nome"
+pt_163,"O tamanho das palavras excede o limite"
+pt_164,"Quantidade de itens:"
+pt_165,"\fKTodos"
+pt_166,Preço:
+pt_167,"Preço total:"
+pt_168,"Horário do encerramento da oferta:"
+pt_169,"12 hr"
+pt_170,"24 hr"
+pt_171,"48 hr"
+pt_172,"Taxa de processamento:"
+pt_173,"\fK Vender"
+pt_174,"\fK Cancelado"
+pt_175,"Inserir quantidade"
+pt_176,"Inserir preço"
+pt_177,"\f3 Amaldiçoado\n"
+pt_178,"\f2 Abençoado "
+pt_179,"\f>Classe:"
+pt_180,"\f>Todas as Classes"
+pt_181,"\f>[Real]"
+pt_182,"\f>[Cavaleiro]"
+pt_183,"\f>[Elfo]"
+pt_184,"\f>[Mago]"
+pt_185,"%s\f>Dano (S/L):%d/%d\n"
+pt_186,"%s\f>%sCA:%d\n"
+pt_187,"%s\f>Material:%s\nPeso:%u\n"
+pt_188,"\f3Não pode ser negociado\n"
+pt_189,"\f2Não pode ser danificado "
+pt_190,"\f>Arma de duas mãos "
+pt_191,"%s\f3Não pode ser encantado "
+pt_192,"%s\f2Encanto de Proteção:%d\n"
+pt_193,"%s\f>%sEncanto:%+d\n"
+pt_194,"%s\f>%sQuebrar:%d\n"
+pt_195,"%s\f>%sBônus de Acerto:%+d\n"
+pt_196,"%s\f>%sDano:%+d\n"
+pt_197,"%s\f>%sAcerto Remoto:%+d\n"
+pt_198,"%s\f>%sDano Remoto:%+d\n"
+pt_199,"%s\f>%sFOR:%+d\n"
+pt_200,"%s\f>%sDES:%+d\n"
+pt_201,"%s\f>%sCON:%+d\n"
+pt_202,"%s\f>%sSAB:%+d\n"
+pt_203,"%s\f>%sINT:%+d\n"
+pt_204,"%s\f>%sCAR:%+d\n"
+pt_205,"%s\f>%sSOR:%+d\n"
+pt_206,"%s\f>%sHP:%+d\n"
+pt_207,"%s\f>%sMP:%+d\n"
+pt_208,"%s\f>%sMR:%+d\n"
+pt_209,"%s\f>%sResistência a Congelamento:%+d%%\n"
+pt_210,"%s\f>%sResistência a Paralisia:%+d%%\n"
+pt_211,"%s\f>%sResistência a Hipnose:%+d%%\n"
+pt_212,"%s\f>%sResistência a Cegueira:%+d%%\n"
+pt_213,"%s\f>%sResistência a Atordoamento:%+d%%\n"
+pt_214,"%s\f>%sResistência a Cegueira:%+d%%\n"
+pt_215,"\f2Tirar HP\n"
+pt_216,"\f2Tirar MP\n"
+pt_217,"%s\f>%sRecuperação de HP:%+d\n"
+pt_218,"%s\f>%sRecuperação de MP:%+d\n"
+pt_219,"%s\f>%sSP:%+d\n"
+pt_220,"\f2Efeito de Aceleração\n"
+pt_221,"%s\f>Nutrição:%d\n"
+pt_222,"%s\f>Área de Iluminação:%d\n"
+pt_223,"%s\f>%sResistência a Fogo:%+d%%\n"
+pt_224,"%s\f>%sResistência a Água:%+d%%\n"
+pt_225,"%s\f>%sResistência a Vento:%+d%%\n"
+pt_226,"%s\f>%sResistência a Terra:%+d%%\n"
+pt_227,"%sNão Identificado"
+pt_228,"\fKUsar"
+pt_229,"\fKDescartar"
+pt_230,"\fKCancelar"
+pt_231,"\fKHP"
+pt_232,"\fKMP"
+pt_233,"\fKExp"
+pt_234,"\fKNv"
+pt_235,Clã:
+pt_236,Título:
+pt_237,"\fKCorpo a corpo"
+pt_238,"\fKPoder de Encanto"
+pt_239,"\fKClasse da Armadura"
+pt_240,"\fKResistência Mágica"
+pt_241,"\fKVelocidade"
+pt_242,"\fKTaxa de Esquiva"
+pt_243,"\fKDefesa contra Fogo"
+pt_244,"\fKDefesa contra Água"
+pt_245,"\fKDefesa contra Vento"
+pt_246,"\fKDefesa contra Terra"
+pt_247,"\fKFome"
+pt_248,"\fKFOR"
+pt_249,"\fKCON"
+pt_250,"\fKDES"
+pt_251,"\fKINT"
+pt_252,"\fKSAB"
+pt_253,"\fKCAR"
+pt_254,"\fKRestante"
+pt_255,"\fKTítulo"
+pt_256,"\fKPONTOS"
+pt_257,"\fKEstatísticas"
+pt_258,"\fKEquipar"
+pt_259,"\fKBolsa"
+pt_260,Estatísticas
+pt_261,"\fKAdicionar"
+pt_262,"\fKEnviar"
+pt_263,"\f8Mensagem para Nome de Usuário"
+pt_264,"\f9Geral"
+pt_265,"\f9Perto"
+pt_266,"\f9Mundo"
+pt_267,"\f9Clã"
+pt_268,"\f9Equipe"
+pt_269,"\f9PM"
+pt_270,"\f9Sistema"
+pt_271,"\fQGeral"
+pt_272,"\fQPerto"
+pt_273,"\fQMundo"
+pt_274,"\fQClã"
+pt_275,"\fQEquipe"
+pt_276,"\fQPM"
+pt_277,"\fQSistema"
+pt_278,NORMA
+pt_279,GRITAR
+pt_280,MUNDO
+pt_281,Clã
+pt_282,EQUIPE
+pt_283,PM
+pt_284,EQUIPAMENTO
+pt_285,"\fKEstatísticas"
+pt_286,"\fKEquipar"
+pt_287,"\fKBolsa"
+pt_288,BOLSA
+pt_289,"\f2Não é possível operar"
+pt_290,"\f2Operação inválida, escolha uma arma apropriada"
+pt_291,"\f2Operação inválida, escolha uma armadura apropriada"
+pt_292,"\f2Operação inválida, escolha um acessório apropriado"
+pt_293,"\fKOK"
+pt_294,"\fKMÁXIMO"
+pt_295,"\f2Palavras Inválidas"
+pt_296,"\f2O tamanho do texto excede o limite, insira novamente."
+pt_297,"Versão do Cliente:%u (%s) Versão do Recurso:%u Versão do Cliente:%u"
+pt_298,"Comando Inválido"
+pt_299,"\f3Erro|"
+pt_300,"\f>Interno|"
+pt_301,"\fFMundo|"
+pt_302,"\fCClã|"
+pt_303,"\fUEquipe|"
+pt_304,"\faNegociar|"
+pt_305,"\f<União|"
+pt_306,"\fHGritar|"
+pt_307,"\fKFalar|"
+pt_308,"\fPMensagem Privada|"
+pt_309,"\fKFOR"
+pt_310,"\fKCON"
+pt_311,"\fKDES"
+pt_312,"\fKSAB"
+pt_313,"\fKINT"
+pt_314,"\fKCAR"
+pt_315,"\fKRestaurar Pontos"
+pt_316,"\fKConcluir"
+pt_317,"\fKCancelar"
+pt_318,HABILIDADE
+pt_319,"\fKComum"
+pt_320,"\fQComum"
+pt_321,"\fKClasse"
+pt_322,"\fQClasse"
+pt_323,"\f7Distância:%u"
+pt_324,"\f7Distância:Tela Cheia"
+pt_325,"\fPConsumo de MP:%u"
+pt_326,"\fHConsumo de Item:%s"
+pt_327,"\fHConsumo de Item:Zero"
+pt_328,"\fKUSAR"
+pt_329,SOC
+pt_330,"\fQAmigo"
+pt_331,"\fQEquipe"
+pt_332,"\fQClã"
+pt_333,"\fQCorreio"
+pt_334,"\fQBloqueado"
+pt_335,"\fKOK"
+pt_336,"\fKCancelar"
+pt_337,Armazém
+pt_338,Armazenamento:
+pt_339,Inventário:
+pt_340,"\fKLoja"
+pt_341,"\fKTirar"
+pt_342,Sim
+pt_343,Não
+pt_344,BGM:
+pt_345,Efeitos:
+pt_346,"\fKClã:"
+pt_347,"\fKClasse:"
+pt_348,"\fKHP:"
+pt_349,"\fKMP:"
+pt_350,"\fKNível:"
+pt_351,"\fKAC:"
+pt_352,"\fKFOR:"
+pt_353,"\fKDES:"
+pt_354,"\fKCON:"
+pt_355,"\fKSAB:"
+pt_356,"\fKCAR:"
+pt_357,"\fKINT:"
+pt_358,"\f>Iniciar"
+pt_359,"\fKReal"
+pt_360,"\fKCavaleiro"
+pt_361,"\fKMago"
+pt_362,"\fKElfo"
+pt_363,"\f>Seleção de Classe"
+pt_364,"\f>Retornar"
+pt_365,"\f>Criar"
+pt_366,"\fKInsira o Nome do Personagem"
+pt_367,"\f>Manual"
+pt_368,"\fKRestante"
+pt_369,"\f>Cancelar"
+pt_370,"\f>Concluído"
+pt_371,"O tamanho do nome é limitado (1-%d caracteres)"
+pt_372,"\f7Criar Personagem"
+pt_373,"\f:Real"
+pt_374,"\f:Cavaleiro"
+pt_375,"\f:Mago"
+pt_376,"\f:Elfo"
+pt_377,"\f>Automático"
+pt_378,"\f>Automático"
+pt_379,"\f>Automático"
+pt_380,"\f>Automático"
+pt_381,"\f>Automático"
+pt_382,"\f>Automático"
+pt_383,"\f>Automático"
+pt_384,"\f>Automático"
+pt_385,"　         　　     Herdeiros da honra e da coragem da linhagem nobre, eles são líderes de clãs e guerreiros natos. Eles podem equipar a maioria das armas e armaduras."
+pt_386,"　　         　       Um símbolo da determinação do povo, os leais, corajosos e poderosos Cavaleiros juraram derrotar todo o mal e defender os inocentes."
+pt_387,"　　　     Eles dominaram o antigo conhecimento da magia, permitindo que ataquem inimigos com encantos mortais!"
+pt_388,"　      Os Elfos lutam para restaurar a paz e a liberdade em todas as terras. Eles são treinados para serem guerreiros equilibrados, capazes de usar diferentes tipos de armas e encantos."
+pt_389,"CON:Controla quanto de HP você ganha ao subir de nível e também a velocidade de recuperação do HP/MP.\nFOR:Afeta o dano de combate e sua habilidade no transporte de itens.\nSAB:Afeta sua resistência mágica natural e também a quantidade de MP obtido em cada nível.\nINT:Determina seu poder de encanto, que afeta o nível de sucesso do impacto de seus encantos.\nDES:Determina a precisão do seu ataque, especialmente com armas de disparo, como arcos.\nCAR:Afeta a quantidade de cães ou animais domados que você pode possuir ao mesmo tempo. Também é importante para Príncipes."
+pt_390,"Você deseja excluir o personagem selecionado \"%s\"?"
+pt_391,"\f=[NORMAL]"
+pt_392,"\f2[SEGURO]"
+pt_393,"\f3[PK]"
+pt_394,"\f6Região inválida!"
+pt_395,"Canal Recente:\fW%s"
+pt_396,"Nenhum alvo selecionado. Ação cancelada"
+pt_397,"Visão do Elfo:"
+pt_398,Expulsar
+pt_399,"Adicionar Amigo"
+pt_400,"\fKIAP"
+pt_401,AC:%d
+pt_402,"\fKInsira o nome do favorito:"
+pt_403,"Inserir quantidade de itens:"
+pt_404,"Inserir quantidade:"
+pt_405,"\f3Você retorna para um estado normal."
+pt_406,"Você se sente muito empolgado."
+pt_407,"Você se sente conectado aos espíritos das pessoas e da floresta. "
+pt_408,"Você se sente muito empolgado."
+pt_409,"Apenas jogadores abaixo do nível %u podem usar este item."
+pt_410,"\fGVocê está paralisado. Não pode se mover."
+pt_411,"\fGVocê está petrificado. Não pode se mover."
+pt_412,"\fGHipnotizado"
+pt_413,"\faCongelado"
+pt_414,"\\Entrou em coma"
+pt_415,"\faRestringido"
+pt_416,"\fGRecuperação de restrição"
+pt_417,"s "
+pt_418,"Loc:(%u, %u)"
+pt_419,"Início do Servidor:%02d-%02d-%02d %02d:%02d:%02d"
+pt_420,"Textura:Contagem=%u Carregado=%u (%uKB) Máximo=%uKB,"
+pt_421,n/a
+pt_422,"\f3O quê!"
+pt_423,"Erro:Arquivo não encontrado"
+pt_424,"\fPQuantidade:%u"
+pt_425,"\fKInsira o texto:"
+pt_426,"\fKInsira o título:"
+pt_427,Voltar
+pt_428,"Comunicado do Servidor"
+pt_429,"\f3Descrição não encontrada!"
+pt_430,"Participe do Clã"
+pt_431,Sair
+pt_432,"\f2Sua sabedoria está aumentando."
+pt_433,"Insira o nome do Clã:"
+pt_434,"%s\f3Tempo de recarga:%.1f seg.\n"
+pt_435,"%s\f=Definir:[%s]\n"
+pt_436,"O texto de entrada não pode ficar em branco"
+pt_437,"Insira um formato de e-mail válido"
+pt_438,"Por favor, fale mais devagar"
+pt_439,"Google Play:"
+pt_440,Sair
+pt_441,"\fKConquistar"
+pt_442,"Manutenção do Servidor"
+pt_443,"Mensagem repetida"
+pt_444,"Falha ao iniciar (%d):ROOT detectado"
+pt_445,"Falha ao iniciar (%d):Simulador detectado"
+pt_446,"Falha ao iniciar (%d):Aplicativo suspeito detectado:%s "
+pt_447,"Falha ao iniciar (%d):Impossível ler os dados do jogo"
+pt_448,"\fKConcluído"
+pt_449,"Bloquear / Desbloquear"
+pt_450,"\f9Descartar"
+pt_451,"Confirmar Descarte de Item"
+pt_452,"Confirmar Descarte de '%s'?"
+pt_453,"Hacking detectado. Simulador/ferramentas de automatização"
+pt_454,"\f=Fim do Pagamento:%s\n"
+pt_455,"\fKIniciar Jogo"
+pt_456,"\fKRecuperação de Conta"
+pt_457,"\f9CONQ"
+pt_458,"O servidor está cheio neste momento. Posição na fila:%d"
+pt_459,"Não é possível ler as informações da assinatura, tente de novo"
+pt_460,"Por favor, espere a janela de assinatura ser aberta.\nPressione OK para reiniciar depois que o processo de assinatura for concluído."
+pt_461,"Sua assinatura vai expirar em breve. Renovar agora? (Período de Carência:%d seg.)"
+pt_462,Assinatura
+pt_463,"Você está conectado como visitante. Os dados não serão preservados depois que o Teon for desinstalado"
+pt_464,"Vinculação de Conta"
+pt_465,"Não é possível vincular as informações da conta. Verifique o status de login"
+pt_466,"O Teon será reiniciado depois que a vinculação da conta for concluída"
+pt_467,"Não é possível vincular as informações da conta. A conta já está em uso"
+pt_468,"Conectando ao servidor de contas..."
+pt_469,"Nv %d"
+pt_470,"Você deseja parar a exclusão do personagem selecionado \"%s\"?"
+pt_471,(Excluir)
+pt_472,"\fKEste personagem será excluído em"
+pt_473,"\f=Pressione novamente o botão Excluir para cancelar"
+pt_474,"A conta não existe"
+pt_475,"A recuperação de conta só pode ser usada com contas vinculadas.\nOutros usuários devem pressionar Iniciar Jogo."
+pt_476,　Recuperar　|　Cancelar　
+pt_477,"\fKAtualizar"
+pt_478,Classificação
+pt_479,Cls/Nv
+pt_480,LDR
+pt_481,GUR
+pt_482,ELT
+pt_483,TRN
+pt_484,"Você deseja mesmo sair do Clã?"
+pt_485,"Inserir novo título:"
+pt_486,"Inserir nova classificação:"
+pt_487,　GUR　|　ELT　|　TRN　
+pt_488,"O líder do Clã iniciou a dispensa deste Clã, que entrará em vigor em %s"
+pt_489,"Editar Título"
+pt_490,"Editar Classificação"
+pt_491,Dispensar
+pt_492,"Dispensar Clã"
+pt_493,"\f=Aviso do Clã:"
+pt_494,"Você deseja mesmo cancelar a dispensa do Clã?"
+pt_495,"Você deseja mesmo expulsar o jogador \"%s\"?"
+pt_496,"Inserir novo aviso do Clã:"
+pt_497,Expulsar
+pt_498,EULA
+pt_499,"\f>Welcome to the world of Teon. To provide you with a stable and fair gaming environment, we (Lakoo Games) ask that you take the time to read through and follow the player code of conduct. By creating a character and entering Teon, you accept all the terms and conditions below. Questions or concerns regarding the player code of conduct can be directed to cs@lakoo.com.\n\n\f=[Account Security]\n\n\f>1. Players use Google accounts to log on to Teon. Our server cannot distinguish if a verified Google account is logged in by its rightful owner or another person.\n2. We strongly recommend players to enhance the security measures to protect the Google accounts used for playing Teon. Players can visit our official website (teon.lakoo.com) and read through the Google Account Security Instruction page for more detailed information.\n3. We strongly recommend players to activate the two-step verification feature.\n4. Each purchased downloading of Teon client can only be used for one Google account.\n\n\f=[Character Names]\n\n\f>Your character name might just be a handle at the beginning. As you explore into the game, however, it will play an increasingly important role. It will represent your characteristics, reputation, and ability. Please make sure to value this right of yours\nand give your characters beautiful names.\nYou can select your character and clan names freely. To secure and maintain the gaming environment, however, you may not use any names (non-exhaustive):\nThat incorporates 'swear' words or which are otherwise offensive, defamatory, vulgar, obscene, hateful, or racially, ethnically or otherwise objectionable;\nRelated to drugs, sex, alcohol, or criminal activity;\nThat fall into any other special category (e.g. Belonging to another person with the intent to impersonate that person, including without limitation a ""Game Master"" or any other employee or agent of Lakoo Games). Such behaviors could and will lead to a suspension of your account.\n\n\f=[Selling of Items]\n\n\f>1. We will not take initiative to interfere the trade of items or gold that are generated from proper channels, in the game or in the ""real world"".\n2. We do not recommend players to purchase or sell items or gold for ""real"" money.\n3. Should a player insist on trading outside the game, he or she must bear all risks of loss or damage caused. We will not participate or settle any disputes caused by trades outside the game.\n4. If any trades are associated with using or exploiting errors in design and/or ""program bugs"", we will backtrack the trades and fix the abnormal output.\n5. We do not provide any forms of account history inquiry services. Should a player need to take legal action and thus request for the relevant records to present as evidence,\nplease contact us with the email address corresponding to the in-game character and provide us the legal documents and a colored copy of your personal ID.\n\n\f=[Game Masters (GM)]\n\n\f>1. In-game GM list: TeonGM01 - TeonGM09; GM01 - GM99; Judgment Scythe.\nAny of those who declare themselves as GM but not included in the list above are impostors. Please report them to us ASAP.\n2. The name of a GM is always displayed in special yellow or black color.\n3. GMs will not ask for your account information in the game, forums or by any other means. Please beware of scam/fraud.\n4. GMs or Lakoo employees will not sell good or items to players inside or outside the game. Any of those who are trying to sell gold or items in the name of GMs are most likely scammers. Please report them to us ASAP.\n\n\f=[PvP Rules]\n\n\f>In the world of Teon, eliminating opponents (taking out hostile players or being taken out by other players) is considered a part of the game content instead of harassment.\nWhile playing the game, a player has to activate the PvP mode to attack another player. When a player takes out another, it leaves a system record which modifies the attacker's lawful value. Meanwhile, there are sanctuaries in the game where PvP activities are forbidden.\nWe do not judge how do players behave in PvP activities. If, however, such activities have severely affected your normal gaming experience,\nyou may contact a GM and we will handle accordingly as the case might be.\n\n\f=[Prohibited behaviors while playing Teon]\n\n\f>Prohibited behaviors related to ""Chat Channels""\n1. Posting and spreading information on trading virtual items outside game or with real ""money"".\n2. Repeatedly posting similar messages that disrupt the normal flow of dialogue in Chat or otherwise act in a manner that negatively affects other users.\n3. Including without limitation: Words that are offensive, defamatory, vulgar, obscene, hateful, or racially, ethnically or otherwise objectionable; or related to drugs, sex, alcohol, or criminal activity;\n4. Exploiting font colors to mislead other players. For example: Pretend to send system message about the monsters that will drop certain loot.\n5. Pass yourself off as an official employee; spreading rumors and/or trying to harm the gaming environment.\n6. Posting messages that are irrelevant to Teon that disrupt the normal flow of dialogue in Chat or otherwise act in a manner that negatively affects other users.\n\nOther prohibited behaviors\n1. Pass yourself off as a GM to conduct scam/fraud by spreading rumors.\n2. Spreading info on any non-official Teon clients, third-party program, and/or other exploits.\n3. Cheat or utilize Teon ""exploits"" in any way to obtain a competitive advantage over other players.\n4. Using any non-official client/program to cheat, including without limitation: Auto-combat, auto-leveling, auto-potion, auto-questing, game accelerating, or/and any other behaviors that are not intended by the initial design.\nLakoo Games may, in its sole and absolute discretion, take whatever action it deems necessary to preserve the integrity of Teon. Violation of any of the Rules of Conduct set forth above may result in actions being taken by Lakoo Games, effective immediately or at a time determined by Lakoo Games, which may include without limitation:\n\f3 Forced disconnection from the game server\nTemporarily suspending your access to Teon,\nChange of character names,\nRetrieving items and currencies,\nPermanently suspending your access to Teon.\n\n\f=[Requests that will not be accepted by Teon team]\n\n\f>1. Recovery of any loss or damage caused by the player's own carelessness. For example: Normally conducted in-game trades, in which the player didn't inspect the items carefully.\n2. Recovery of any loss or damage caused by offline trades.\n3. Unreasonable requests on cancellation of a suspension issued for the violation of the code of conduct.\nPlayers may inquire about the reason of suspension and cooperate with our employees to apply for a re-evaluation.\n4. Recovery any loss or damage caused by normal gameplay. For example: Gear enhancement failure, items and experience points lost upon death.\n5. Recovery any loss or damage caused by carelessly believing in rumors and other false information. Please take our official website as the only reliable source of information.\n6. Any false information that is forged to deceive the official staff.\n\n\f=[Important Information]\n\n\f>Lakoo Games reserves the right to modify the player code of conduct based on the development and demands of Teon. Should the code of conduct be modified, we will publish the modification on Teon's official website and players will not receive a notification individually. Please pay attention to the announcements on our official website.\nThis code of conduct comes into effect on November 10th, 2016."
+pt_500,Selecionar
+pt_501,"Chefe:%s ressurgido (%s) [ %s]"
+pt_502,"Recibo da compra já resgatado. Pressione OK para obter mais detalhes,"
+pt_503,Denunciar
+pt_504,"Personagem Alvo"
+pt_505,"Tipo de Relatório"
+pt_506,Bot
+pt_507,Outros
+pt_508,"Suplemento:(100 caracteres)"
+pt_509,"Pergunta do Loki"
+pt_510,"A | B | C | D "
+pt_511,"Eu entendo e concordo"
+pt_512,"Conta Local"
+pt_513,"\n(Número de Referência:%s),"
+pt_514,"A validação da assinatura falhou devido a um erro desconhecido"
+pt_515,"Erro de validação de conta assinante"
+pt_516,"A verificação da conta assinante é inválida"
+pt_517,"A conta assinante e a conta de jogo não são iguais"
+pt_518,"A conta assinante e a conta de jogo não são iguais"
+pt_519,"Esta conta assinante já está conectada a outra conta de jogo"
+pt_520,"%s\f=Nível mínimo:%d\n"
+pt_521,"%s\f=Nível máximo:%d\n"
+pt_522,"%s\f=Local de uso:%s (%u,%u)\n"
+pt_523,"A conta está suspensa até %s."
+pt_524,"A conta foi suspensa permanentemente"
+pt_525,"(Motivos:%s)\nContate cs@lakoo.com\nForneça as informações detalhadas da sua conta,\nAssunto:Teon-Account Issue"
+pt_526,"Confirme para descartar o item"
+pt_527,"Você deseja mesmo descartar '%s'?"
+pt_528,"Contatar suporte"
+pt_529,"Perguntas frequentes"
+pt_530,FAQ
+pt_531,"Select a feedback category"
+pt_532,"Description of the problem"
+pt_533,"Official website: teon.lakoo.com"
+pt_534,"Contact: cs@lakoo.com"
+pt_535,"Please select a category of your feedback"
+pt_536,Submit
+pt_537,"The content is %d longer than the character limit."
+pt_538,"You have to bind your game account before submitting any feedback"
+pt_539,"Thanks! We’ll reply ASAP. (Custom service only in English and Chinese)"
+pt_540,ID
+pt_541,"Character name"
+pt_542,"Character level"
+pt_543,"Character class"
+pt_544,"Client Version"
+pt_545,ACC:
+pt_546,CHAR:
+pt_547,Keyword:
+pt_548,Notice:
+pt_549,DESC:
+pt_550,"Enter your account that your character is bound to"
+pt_551,"Enter your character name in the game here"
+pt_552,"Keywords of your feedback"
+pt_553,"The prompt system error message"
+pt_554,"Describe the time when the issue occurred, how did it happen and your expected solutions"
+pt_555,Bug
+pt_556,Charge
+pt_557,Problem
+pt_558,Advice
+pt_559,"Character problem"
+pt_560,"Can't log in"
+pt_561,"\fP Custo de HP:%u"
+pt_562,"Redef UI"
+pt_563,"Para a esquerda"
+pt_564,"Para a direita"
+pt_565,"O Teon precisa de permissão para acessar a conta e os recursos de jogo"
+pt_566,Mensagens
+pt_567,Avisos
+pt_568,Atualizações
+pt_569,"Selecione para Ver"
+pt_570,Conteúdo
+pt_571,"Selecione o aviso à esquerda para visualizar"
+pt_572,"O alvo que você está procurando não está na região atual"
+pt_573,Versão
+pt_574,"\fKTEMP"
+pt_575,"\fQTEMP"
+pt_576,"Você está sendo atacado por \f3%s\f=."
+pt_577,AGR:
+pt_578,Gerenciar
+pt_579,Configurações
+pt_580,"Código de resgate"
+pt_581,"Insira o código de resgate."
+pt_582,Confirmar
+pt_583,Reproduzir
+pt_584,"Regras do código de resgate:"
+pt_585,"Selecione o servidor"
+pt_586,Servidor
+pt_587,"Primeiro, selecione um servidor."
+pt_588,Ação
+pt_589,"%s ressurgido [%s] %s"
+pt_590,"Casa de Consignação"
+pt_591,"O Juramento Selado (15 Dias) será revelado após a compra. 360 horas também serão adicionadas à duração."
+pt_592,"Você pode consignar novamente ou recuperar o item se ele não for vendido após 6 horas."
+pt_593,"*A compra é irreversível. Verifique o preço com atenção."
+pt_594,"Restante %s"
+pt_595,"Consignar Novamente"
+pt_596,Recuperar
+pt_597,"Consignar Item"
+pt_598,"Selecione o item que você deseja consignar."
+pt_599,"Em Consignação"
+pt_600,"Consignação expirada."
+pt_601,Arma
+pt_602,Armadura
+pt_603,Item
+pt_604,"Espada de Mão Única"
+pt_605,"Espada de Duas Mãos"
+pt_606,Porrete
+pt_607,Adaga
+pt_608,Cajado
+pt_609,Arco
+pt_610,Lança
+pt_611,"Lança de Mão Única"
+pt_612,"Porrete de Duas Mãos"
+pt_613,Elmo
+pt_614,"Armadura de Corpo"
+pt_615,Gibão
+pt_616,Manto
+pt_617,Manoplas
+pt_618,Sapatos
+pt_619,Escudo
+pt_620,Cinto
+pt_621,Colar
+pt_622,Anel
+pt_623,Brincos
+pt_624,Manoplas
+pt_625,Flecha
+pt_626,Cajado
+pt_627,Gema
+pt_628,Poção
+pt_629,Pergaminho
+pt_630,"Livro de Encantos"
+pt_631,Material
+pt_632,Outros
+pt_633,"Preço Unitário:"
+pt_634,Quantidade:
+pt_635,"Ordenar por Preço"
+pt_636,Total
+pt_637,"Quantidade Vendida"
+pt_638,Ganhos
+pt_639,"Total de Ganhos:"
+pt_640,"Solicitar Tudo"
+pt_641,"Solicitar Ganhos"
+pt_642,"Taxa de Consignação:"
+pt_643,Vendido
+pt_644,"Nenhum resultado da pesquisa."
+pt_645,Tudo
+pt_646,"Por favor, aguarde a exibição da janela de pagamento."
+pt_647,"Verificando o pagamento no servidor... por favor, aguarde."
+pt_648,"Tempo esgotado do processamento. Contate nosso Atendimento ao Cliente."
+pt_649,"Falha na verificação. Código de erro: %d."
+pt_650,"Pagamento verificado. Por favor, consulte."
+pt_651,"O sistema tentará verificar a sua compra anteriormente não concluída (até 3 veZese) se você fizer outra compra."
+pt_652,"Falha ao concluir o processo de pagamento. Verifique o status da sua conta vinculada."
+pt_653,"*A consignação é irreversível. Verifique o preço com atenção."
+pt_654,"Conjunto de Armadura"
+pt_655,"Vincule sua conta antes de fazer um pagamento."
+pt_656,盟徽
+pt_657,請為你盟徽設定旗號
+pt_658,修改盟徽
+pt_659,"盟徽規則:\n修改盟徽會收取金幣，分為1檔(免費)，2檔(400000)，3檔(600000)"
+pt_660,正在與伺服器綁定付費紀錄，請稍候。
+pt_661,綁定付費紀錄成功
+pt_662,付費訂單紀錄不存在
+pt_663,付費訂單紀錄已過期
+pt_664,使用
+pt_665,Teon秀
+pt_666,兌換
+pt_667,紋飾
+pt_668,預設
+pt_669,背景
+pt_670,人物
+pt_671,效果
+pt_672,所需消耗物品數量不足
+pt_673,時長
+pt_674,無法在已兌換的欄位保存Teon秀
+pt_675,無法兌換已擁有的Teon秀組合
+pt_676,會員專屬Teon秀
+pt_677,"將要在第 %hhu 欄兌換Teon秀，消耗 %d 件物品："
+pt_678,"1.魔法染料可兌換不同時效不同組合的Teon秀。\n2.固定組合的魔法染料可以兌換指定的Teon秀。\n3.每個角色有3個欄位，預設欄位不可更改。"
+pt_679,"背景 %hhu，人物 %hhu，效果 %hhu"
+pt_680,"持續時間：%hhu 天"
+pt_681,保存成功
+pt_682,兌換成功，Teon秀組合已生效
+pt_683,確認兌換
+pt_684,所需消耗物品數量不足
+pt_685,"紋飾持續時間：%hhu 天"
+pt_686,"將要兌換 %hhu 號紋飾，消耗 %d 件物品："
+pt_687,玩家資料
+pt_688,玩家資料
+pt_689,Teon秀
+pt_690,保存
+pt_691,兌換
+pt_692,下一套
+pt_693,上一套
+pt_694,過期時間
+pt_695,王
+pt_696,騎
+pt_697,法
+pt_698,精
+pt_699,魔法染料
+pt_700,預設造型，無需兌換
+pt_701,"\f2你獲得 %s"
+pt_702,抽獎
+pt_703,鎖定快捷鍵
+pt_704,NPC
+pt_705,Cancelar

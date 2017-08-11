@@ -1,0 +1,1488 @@
+﻿fr_0,"$0 "
+fr_1,Porté
+fr_2,Porté
+fr_3,Activé
+fr_4,Vide
+fr_5,NULL
+fr_6,NULL
+fr_7,NULL
+fr_8,NULL
+fr_9,NULL
+fr_10,NULL
+fr_11,NULL
+fr_12,NULL
+fr_13,NULL
+fr_14,NULL
+fr_15,NULL
+fr_16,NULL
+fr_17,NULL
+fr_18,NULL
+fr_19,NULL
+fr_20,NULL
+fr_21,NULL
+fr_22,NULL
+fr_23,NULL
+fr_24,NULL
+fr_25,NULL
+fr_26,NULL
+fr_27,NULL
+fr_28,NULL
+fr_29,NULL
+fr_30,NULL
+fr_31,NULL
+fr_32,NULL
+fr_33,NULL
+fr_34,NULL
+fr_35,NULL
+fr_36,NULL
+fr_37,NULL
+fr_38,NULL
+fr_39,NULL
+fr_40,NULL
+fr_41,NULL
+fr_42,NULL
+fr_43,NULL
+fr_44,NULL
+fr_45,NULL
+fr_46,NULL
+fr_47,NULL
+fr_48,NULL
+fr_49,NULL
+fr_50,NULL
+fr_51,NULL
+fr_52,NULL
+fr_53,NULL
+fr_54,NULL
+fr_55,NULL
+fr_56,NULL
+fr_57,NULL
+fr_58,NULL
+fr_59,NULL
+fr_60,NULL
+fr_61,NULL
+fr_62,NULL
+fr_63,NULL
+fr_64,NULL
+fr_65,NULL
+fr_66,NULL
+fr_67,NULL
+fr_68,NULL
+fr_69,NULL
+fr_70,NULL
+fr_71,NULL
+fr_72,NULL
+fr_73,NULL
+fr_74,NULL
+fr_75,NULL
+fr_76,NULL
+fr_77,NULL
+fr_78,NULL
+fr_79,NULL
+fr_80,NULL
+fr_81,NULL
+fr_82,NULL
+fr_83,NULL
+fr_84,NULL
+fr_85,NULL
+fr_86,NULL
+fr_87,NULL
+fr_88,NULL
+fr_89,NULL
+fr_90,NULL
+fr_91,NULL
+fr_92,NULL
+fr_93,NULL
+fr_94,NULL
+fr_95,NULL
+fr_96,NULL
+fr_97,NULL
+fr_98,NULL
+fr_99,NULL
+fr_100,NULL
+fr_101,Gobelin
+fr_102,Orque
+fr_103,"Voleur gobelin"
+fr_104,Loup-garou
+fr_105,Lutin
+fr_106,Nain
+fr_107,Vase
+fr_108,Zombie
+fr_109,"Œil flottant"
+fr_110,Gnoll
+fr_111,"Guerrier nain"
+fr_112,Squelette
+fr_113,"Soldat fourmi"
+fr_114,"Archer squelette"
+fr_115,"Golem de pierre"
+fr_116,"Bourreau squelette"
+fr_117,"Lance squelette"
+fr_118,Araignée
+fr_119,Hobgoblin
+fr_120,"Homme lézard"
+fr_121,Owlbear
+fr_122,Troglodyte
+fr_123,Goule
+fr_124,Belladone
+fr_125,Lycanthrope
+fr_126,Ungoliant
+fr_127,Doppelgänger
+fr_128,"Fourmi géante"
+fr_129,Ghast
+fr_130,"Mage ancien"
+fr_131,Bugbear
+fr_132,Cerbère
+fr_133,Squelette
+fr_134,Harpie
+fr_135,Orge
+fr_136,Troll
+fr_137,Griffon
+fr_138,Observateur
+fr_139,Cocatrix
+fr_140,Ettin
+fr_141,Basilic
+fr_142,Succube
+fr_143,Cyclope
+fr_144,"Reine Succube"
+fr_145,Nécromancien
+fr_146,Skuld
+fr_147,Sauron
+fr_148,Endor
+fr_149,Svipdag
+fr_150,Drake
+fr_151,"Sage sombre"
+fr_152,Baphomet
+fr_153,Beleth
+fr_154,Bran
+fr_155,"Chevalier de la mort"
+fr_156,"Reine des fourmis"
+fr_157,Scatha
+fr_158,Joanna
+fr_159,Alfred
+fr_160,Inca
+fr_161,Bertrand
+fr_162,Olga
+fr_163,Boyce
+fr_164,Brooks
+fr_165,Cyril
+fr_166,Zeke
+fr_167,Cordelia
+fr_168,Chad
+fr_169,Cassandra
+fr_170,Carina
+fr_171,Chien
+fr_172,Cheval
+fr_173,"Taylor[Boutique de potions]"
+fr_174,Justina
+fr_175,Leah
+fr_176,Frère
+fr_177,NULL
+fr_178,Vache
+fr_179,"Guerrier Orque"
+fr_180,NULL
+fr_181,NULL
+fr_182,NULL
+fr_183,NULL
+fr_184,NULL
+fr_185,NULL
+fr_186,"Thri Keen"
+fr_187,"Archer orque"
+fr_188,"Shaman orque"
+fr_189,"Soldat orque"
+fr_190,"Garde orque"
+fr_191,"Arbalète orque"
+fr_192,"Zombie orque"
+fr_193,"Mage orque"
+fr_194,Drow
+fr_195,Lolth
+fr_196,"Squelette d'élite"
+fr_197,Cora
+fr_198,"Archer squelette d'élite"
+fr_199,Faustus
+fr_200,"Bourreau squelette d'élite"
+fr_201,"Mage squelette d'élite"
+fr_202,Doris
+fr_203,Damon
+fr_204,Gullveig
+fr_205,Galen
+fr_206,Épouvantail
+fr_207,"Lance squelette d'élite"
+fr_208,Kirsten
+fr_209,Kell
+fr_210,"Mage squelette"
+fr_211,Hen
+fr_212,Laura
+fr_213,Naomi
+fr_214,Nairobi
+fr_215,Marla
+fr_216,Canard
+fr_217,Marcia
+fr_218,Oie
+fr_219,Nedra
+fr_220,Cochon
+fr_221,Ptolémée
+fr_222,Lapin
+fr_223,"Pascal[Boutique d'armes]"
+fr_224,"Rhoda[Boutique d'armures]"
+fr_225,"Somali[Boutique d'objets]"
+fr_226,Ramla
+fr_227,Ram
+fr_228,"Rabia[Boutique d'armures]"
+fr_229,Brebis
+fr_230,"Somali[Boutique d'objets]"
+fr_231,Sadie
+fr_232,Thurston
+fr_233,Thémis
+fr_234,Uta
+fr_235,Upton
+fr_236,"Batelier du Port de l'île promise"
+fr_237,Merlin
+fr_238,Natalia
+fr_239,Soldat
+fr_240,NULL
+fr_241,NULL
+fr_242,Elbereth
+fr_243,NULL
+fr_244,NULL
+fr_245,NULL
+fr_246,"Affaiblir la harpie"
+fr_247,NULL
+fr_248,"Affaiblir le loup-garou"
+fr_249,Andrew
+fr_250,Grazob
+fr_251,NULL
+fr_252,Karguk[Entrepôt]
+fr_253,"Piggu[Boutique d'armes]"
+fr_254,"Agrob[Boutique d'armures]"
+fr_255,"Lazgar[Boutique d'objets]"
+fr_256,Lana
+fr_257,Laucian
+fr_258,Owen
+fr_259,"Affaiblir le scorpion"
+fr_260,NULL
+fr_261,NULL
+fr_262,NULL
+fr_263,"Affaiblir l'owlbear"
+fr_264,Shadbak
+fr_265,"Affaiblir le lutin"
+fr_266,NULL
+fr_267,"Affaiblir Troglodyte"
+fr_268,NULL
+fr_269,NULL
+fr_270,NULL
+fr_271,NULL
+fr_272,"Affaiblir Thri Kreen"
+fr_273,NULL
+fr_274,NULL
+fr_275,NULL
+fr_276,NULL
+fr_277,NULL
+fr_278,NULL
+fr_279,NULL
+fr_280,NULL
+fr_281,Edith
+fr_282,Gus
+fr_283,Percy
+fr_284,Gwen
+fr_285,Hoover
+fr_286,Irvin
+fr_287,Inez
+fr_288,"Dura[Boutique de potions]"
+fr_289,Lum
+fr_290,Yatur
+fr_291,NULL
+fr_292,NULL
+fr_293,NULL
+fr_294,"Ungoliant affaibli"
+fr_295,NULL
+fr_296,NULL
+fr_297,NULL
+fr_298,NULL
+fr_299,NULL
+fr_300,NULL
+fr_301,NULL
+fr_302,"Hermès[Donjon de l'île promise]"
+fr_303,"Brooks[Boutique d'armes]"
+fr_304,Batelier
+fr_305,"Justina[Boutique d'objets]"
+fr_306,"Leah[Boutique d'armures]"
+fr_307,Andrew[Entrepôt]
+fr_308,"Ptolémée[Spécialiste des os]"
+fr_309,"Doris[Boutique de tailleur]"
+fr_310,"Zese[Téléporteur du l'île du ciel]"
+fr_311,Gary
+fr_312,Olivia
+fr_313,Carlos
+fr_314,Vicky
+fr_315,Ambrose
+fr_316,Brandon
+fr_317,Rufus
+fr_318,Falice
+fr_319,Nelson
+fr_320,Elsa
+fr_321,Gia
+fr_322,Camilla
+fr_323,Lorelei
+fr_324,Lohan
+fr_325,Cal
+fr_326,Sala
+fr_327,Wesley
+fr_328,Gaqe
+fr_329,Loretta
+fr_330,Brian
+fr_331,Nanette
+fr_332,Calder
+fr_333,Portia
+fr_334,Rance
+fr_335,Karl
+fr_336,David
+fr_337,Maris
+fr_338,Jill
+fr_339,Hosea
+fr_340,Gareth
+fr_341,Shiloh
+fr_342,Camellia
+fr_343,Craiq
+fr_344,Lennon
+fr_345,Phèdre
+fr_346,"Garth[Téléporteur du Pic d'Edin]"
+fr_347,Bettina
+fr_348,Aaron
+fr_349,Martin
+fr_350,Karol[Entrepôt]
+fr_351,Lia
+fr_352,Valanthe
+fr_353,Heian
+fr_354,Antinua
+fr_355,NULL
+fr_356,NULL
+fr_357,Enialis
+fr_358,Hermès
+fr_359,Polyrhachis
+fr_360,Rick
+fr_361,"Fourmi de feu"
+fr_362,Termite
+fr_363,NULL
+fr_364,Lémurien
+fr_365,"Panda roux"
+fr_366,Atub
+fr_367,Urim
+fr_368,"Bumph[Boutique de potions]"
+fr_369,"Yotul[Boutique d'objets]"
+fr_370,"Mogak[Boutique d'armures]"
+fr_371,Slog
+fr_372,Epkagut[Entrepôt]
+fr_373,"Jogug[Boutique d'armes]"
+fr_374,Bashuk
+fr_375,Bor
+fr_376,Omugug
+fr_377,Supgugh
+fr_378,Panda
+fr_379,Ours
+fr_380,Tatou
+fr_381,"Garde de Cassandra"
+fr_382,Aventurier
+fr_383,Félix
+fr_384,Patch
+fr_385,Maître
+fr_386,Force
+fr_387,Téléporteur
+fr_388,Pangolin
+fr_389,Warren
+fr_390,Gordon
+fr_391,Erik
+fr_392,Dellas
+fr_393,Chasseur
+fr_394,Chat
+fr_395,"Tyson[Spécialiste des os]"
+fr_396,Prince
+fr_397,Chevalier
+fr_398,Mage
+fr_399,Elfe
+fr_400,Princesse
+fr_401,Chevalier
+fr_402,Mage
+fr_403,Elfe
+fr_404,Légitime
+fr_405,Chaotique
+fr_406,Neutre
+fr_407,NULL
+fr_408,NULL
+fr_409,NULL
+fr_410,NULL
+fr_411,NULL
+fr_412,NULL
+fr_413,NULL
+fr_414,NULL
+fr_415,NULL
+fr_416,NULL
+fr_417,NULL
+fr_418,NULL
+fr_419,NULL
+fr_420,NULL
+fr_421,NULL
+fr_422,NULL
+fr_423,NULL
+fr_424,NULL
+fr_425,NULL
+fr_426,NULL
+fr_427,NULL
+fr_428,NULL
+fr_429,NULL
+fr_430,NULL
+fr_431,NULL
+fr_432,NULL
+fr_433,NULL
+fr_434,NULL
+fr_435,NULL
+fr_436,NULL
+fr_437,Théodore[Échange]
+fr_438,"Ciel[Chef du clan]"
+fr_439,Nat
+fr_440,Roger[Enchanter]
+fr_441,"Marchand de l’événement[à durée limitée]"
+fr_442,"Agent de l'événement[à durée limitée]"
+fr_443,"Tueur maléfique"
+fr_444,"Observateur maléfique"
+fr_445,"Inquisitor maléfique"
+fr_446,Alchimiste
+fr_447,Tiago
+fr_448,Marchand
+fr_449,"Prétendant loup-garou"
+fr_450,"Prétendant nain"
+fr_451,"Prétendant orque"
+fr_452,"Prétendant guerrier orque"
+fr_453,"Prétendant Kobold"
+fr_454,"Prétendant gobelin"
+fr_455,"Prétendant Hobgoblin"
+fr_456,"Prétendant guerrier nain"
+fr_457,Havel[Enchanter]
+fr_458,Swain
+fr_459,Voyageur
+fr_460,"Maître du classement"
+fr_461,"Bugbear ténébreux"
+fr_462,"Thri Kreen ténébreux"
+fr_463,"Cerbère ténébreux"
+fr_464,"Golem de pierre ténébreux"
+fr_465,"Squelette ténébreux"
+fr_466,"Archer squelette ténébreux"
+fr_467,"Bourreau squelette ténébreux"
+fr_468,"Lance squelette ténébreuse"
+fr_469,"Belladone des ténèbres"
+fr_470,"Goule ténébreuse"
+fr_471,"Ungoliant ténébreuse"
+fr_472,"Zombie ténébreux"
+fr_473,Jax[Artisan]
+fr_474,L'éternel
+fr_475,NULL
+fr_476,NULL
+fr_477,NULL
+fr_478,"Boîte au trésor"
+fr_479,"Serviteur de Teon[Serment]"
+fr_480,"Cadeau de Teon (1 jour)"
+fr_481,"Cadeau de Teon (5 jours)"
+fr_482,"Cadeau de Teon (30 jours)"
+fr_483,"Cadeau de Teon"
+fr_484,"Cadeau de Teon (7 jours)"
+fr_485,"Serviteur de Maria"
+fr_486,"Gardien du portail déchu"
+fr_487,"Maria, serviteuse des morts [transfert]"
+fr_488,"Clive[Entrepôt du clan]"
+fr_489,"Pan [berger]"
+fr_490,"Esprit de bois flétri"
+fr_491,"Bénédiction de la déesse de la lune [Allocation]"
+fr_492,"Sylvia [Matériel]"
+fr_493,"Tom farce ou friandise"
+fr_494,"Kenny sans bonbons"
+fr_495,"Petite corne"
+fr_496,"Messager des fêtes"
+fr_497,"Shaman ancien"
+fr_498,"Pirate naufragé [Trésor]"
+fr_499,"Anneau de gentillesse"
+fr_500,"Gemme magique avancée"
+fr_501,"Parchemin de protection"
+fr_502,"Livre sacré"
+fr_503,"Clé en cuivre"
+fr_504,"Clé en bois"
+fr_505,"Livre de sorts"
+fr_506,Parchemin
+fr_507,"Potion de sagesse"
+fr_508,"Potion du brave"
+fr_509,Aboiement
+fr_510,"Branche de vie"
+fr_511,Plume
+fr_512,Flûte
+fr_513,"Fragments d'os"
+fr_514,Cristal
+fr_515,Poudre
+fr_516,Bouquet
+fr_517,"Potion de précipitation"
+fr_518,NULL
+fr_519,"Potion de guérison inférieure"
+fr_520,NULL
+fr_521,"Potion de récupération de mana"
+fr_522,NULL
+fr_523,"Potion de guérison de poison"
+fr_524,"Potion d'émeraude"
+fr_525,"Potion de guérison supérieure"
+fr_526,NULL
+fr_527,"Potion de guérison"
+fr_528,"Potion orange"
+fr_529,Citrouille
+fr_530,Maïs
+fr_531,Or
+fr_532,"Gaufrette elfique"
+fr_533,"Parchemin de retour - Ville de l'île promise"
+fr_534,"Parchemin de retour - 1E Donjon de l'île promise"
+fr_535,"Parchemin de retour - 2E Donjon de l'île promise"
+fr_536,"Parchemin de retour - Vieux tunnel de fuite"
+fr_537,"Parchemin de retour - 1E Donjon de maros"
+fr_538,"Parchemin de retour - 2E Donjon de maros"
+fr_539,"Parchemin de retour - 3E Donjon de maros"
+fr_540,"Parchemin de retour - 4E Donjon de maros"
+fr_541,"Parchemin de retour - 5E Donjon de maros"
+fr_542,"Parchemin de retour - 6E Donjon de maros"
+fr_543,"Parchemin de retour - 7E Donjon de maros"
+fr_544,NULL
+fr_545,"Parchemin de retour - 1E Donjon du château de Dartford"
+fr_546,"Parchemin de retour - 2E Donjon du château de Dartford"
+fr_547,"Parchemin de retour - Damelot"
+fr_548,"Parchemin de retour - 1E Donjon de Damelot"
+fr_549,"Parchemin de retour - 2E Donjon de Damelot"
+fr_550,"Parchemin de retour - 3E Donjon de Damelot"
+fr_551,"Parchemin de retour - 4E Donjon de Damelot"
+fr_552,"Parchemin de retour - Ville de Sandwood"
+fr_553,"Parchemin de retour - Oasis du désert"
+fr_554,"Parchemin de retour - Ville de Maros"
+fr_555,"Parchemin de retour - Ville des orques"
+fr_556,"Parchemin de retour - Guilde orque"
+fr_557,"Parchemin de retour - Château de sandwood"
+fr_558,"Parchemin de retour - Ville intérieure de Sandwood"
+fr_559,"Parchemin de retour - Jardin elfique"
+fr_560,"Parchemin de retour - 1E Donjon elfique"
+fr_561,"Parchemin de retour - 2E Donjon elfique"
+fr_562,"Parchemin de retour - 3E Donjon elfique"
+fr_563,"Parchemin de retour - 1E Donjon de la montagne de Drake"
+fr_564,"Parchemin de retour - 2E Donjon de la montagne de Drake"
+fr_565,"Parchemin de retour - 3E Donjon de la montagne de Drake"
+fr_566,"Parchemin de retour - 4E Donjon de la montagne de Drake"
+fr_567,"Parchemin de retour - 5E Donjon de la montagne de Drake"
+fr_568,"Parchemin de retour - 6E Donjon de la montagne de Drake"
+fr_569,"Parchemin de retour - 7E Donjon de la montagne de Drake"
+fr_570,NULL
+fr_571,"Parchemin de retour - Grotte de fourmis du désert 1-1"
+fr_572,"Parchemin de retour - Grotte de fourmis du désert 1-2"
+fr_573,"Parchemin de retour - Grotte de fourmis du désert 1-3"
+fr_574,"Parchemin de retour - Grotte de fourmis du désert 1-4"
+fr_575,"Parchemin de retour - Grotte de fourmis du désert 1-5"
+fr_576,"Parchemin de retour - Grotte de fourmis du désert 1-6"
+fr_577,"Parchemin de retour - Grotte de fourmis du désert 2-1"
+fr_578,"Parchemin de retour - Grotte de fourmis du désert 2-2"
+fr_579,"Parchemin de retour - Grotte de fourmis du désert 2-3"
+fr_580,"Parchemin de retour - Grotte de fourmis du désert 3"
+fr_581,"Parchemin de retour - Nids de la reine des fourmis du désert"
+fr_582,"Cristal d'esprit spécial (Eau)"
+fr_583,"Cristal d'esprit spécial (Feu)"
+fr_584,"Cristal d'esprit spécial (Vent)"
+fr_585,"Cristal d'esprit spécial (Terre)"
+fr_586,"Parchemin général"
+fr_587,Carte
+fr_588,"Ticket de ferry"
+fr_589,NULL
+fr_590,NULL
+fr_591,NULL
+fr_592,NULL
+fr_593,"Potion de la mort"
+fr_594,NULL
+fr_595,NULL
+fr_596,NULL
+fr_597,NULL
+fr_598,NULL
+fr_599,NULL
+fr_600,NULL
+fr_601,NULL
+fr_602,NULL
+fr_603,NULL
+fr_604,NULL
+fr_605,NULL
+fr_606,NULL
+fr_607,NULL
+fr_608,NULL
+fr_609,NULL
+fr_610,NULL
+fr_611,NULL
+fr_612,"Parchemin de novice"
+fr_613,"Parchemin de retour - Donjon d'Oxvale"
+fr_614,"Potion d'apaisement de l'excitation"
+fr_615,"Crocs du loup-garou affaibli"
+fr_616,"Potion du cristal temporel"
+fr_617,"Plume de Harpie affaiblie"
+fr_618,"Nourriture d'Owlbear affaibli"
+fr_619,"Novice Potion de guérison"
+fr_620,"Novice Potion orange"
+fr_621,"Cookies en vanille"
+fr_622,"Novice Potion de guérison inférieure"
+fr_623,NULL
+fr_624,"Novice Potion de précipitation"
+fr_625,NULL
+fr_626,"Parchemin de retour - [Monument d'Edin]"
+fr_627,"Conteneur de Justina"
+fr_628,"Vignes de feu"
+fr_629,"Lame brisée"
+fr_630,"Cristal d'âme de zombie"
+fr_631,"Cristal d'âme d'œil flottant"
+fr_632,"Sang de goule"
+fr_633,"Peau de loup"
+fr_634,"Cristal du temps"
+fr_635,"Entrepôt d'armures de Léa"
+fr_636,"Potion de guérison de Léa"
+fr_637,"Cuir de chasseur"
+fr_638,"Livre de sorts"
+fr_639,Novice
+fr_640,"Serviteur du Chevalier de la mort"
+fr_641,"Parchemin de polymorphe (Novice)"
+fr_642,"Bouclier (magique)"
+fr_643,"Éclair d'énergie"
+fr_644,"Dague de glace"
+fr_645,"Guérison inférieure"
+fr_646,Téléportation
+fr_647,Lumière
+fr_648,"Arme sacrée"
+fr_649,"Shuriken du vent"
+fr_650,"Croc infernal"
+fr_651,"Touche de froid"
+fr_652,"Enchanter l'arme"
+fr_653,"Malédiction : poison"
+fr_654,"Flèche de feu"
+fr_655,Détection
+fr_656,"Guérir le poison"
+fr_657,"Réduire le poids"
+fr_658,Guérir
+fr_659,"Nuage de congélation"
+fr_660,Éclair
+fr_661,"Révéler la faiblesse"
+fr_662,"Devenir mort-vivant"
+fr_663,"Armure bénie"
+fr_664,"Malédiction : Cécité"
+fr_665,Méditation
+fr_666,"Touche de vampire"
+fr_667,"Brisement d'arme"
+fr_668,"Prison terrestre"
+fr_669,"Boule de feu"
+fr_670,Lent
+fr_671,"Enchantement physique : DEX"
+fr_672,"Contrer la magie"
+fr_673,"Potion du froid"
+fr_674,"Malédiction : Paralysie"
+fr_675,"Invocation de foudre"
+fr_676,"Retirer la malédiction"
+fr_677,"Apprivoiser le monstre"
+fr_678,"Guérison supérieure"
+fr_679,"Perte de mana"
+fr_680,Ténèbres
+fr_681,Précipitation
+fr_682,Éruption
+fr_683,Faiblesse
+fr_684,"Explosion solaire"
+fr_685,"Bénir l'arme"
+fr_686,"Créer un zombie"
+fr_687,"Enchantement physique : FOR"
+fr_688,"Annuler la magie"
+fr_689,Geler
+fr_690,"Invoquer le monstre"
+fr_691,"Précipitation supérieure"
+fr_692,Berserker
+fr_693,Maladie
+fr_694,"Marche sacrée"
+fr_695,"Promesse de guérison"
+fr_696,Tornade
+fr_697,"Mine magique"
+fr_698,"Guérison complète"
+fr_699,Blizzard
+fr_700,"Flot de la vie"
+fr_701,"Mur de feu"
+fr_702,Résurrection
+fr_703,Invisibilité
+fr_704,Séisme
+fr_705,Silence
+fr_706,"Contrer la détection"
+fr_707,"Brouillard du sommeil"
+fr_708,"Tempête de feu"
+fr_709,"Bouclier de protection"
+fr_710,"Potion de décomposition"
+fr_711,"Changement de forme"
+fr_712,"Téléportation de masse"
+fr_713,"Tempête d'éclair"
+fr_714,"Champ de force"
+fr_715,"Vision interne"
+fr_716,"Pointe de glace"
+fr_717,"Créer une arme magique"
+fr_718,"Coup de météorite"
+fr_719,Détruire
+fr_720,"Grande résurrection"
+fr_721,"Barrière absolue"
+fr_722,"Ralentissement de masse"
+fr_723,"Améliorer l'esprit"
+fr_724,"Changer la position"
+fr_725,"Téléportation de masse améliorée"
+fr_726,"Tout paralyser"
+fr_727,"Piscine de reflet"
+fr_728,NULL
+fr_729,NULL
+fr_730,NULL
+fr_731,NULL
+fr_732,NULL
+fr_733,NULL
+fr_734,NULL
+fr_735,NULL
+fr_736,NULL
+fr_737,NULL
+fr_738,NULL
+fr_739,NULL
+fr_740,"Téléportation vers Mère"
+fr_741,"Corps et esprit"
+fr_742,"Résister à la magie"
+fr_743,"Résistance à l'élémentaire"
+fr_744,"Vider l'esprit"
+fr_745,"Triple flèche"
+fr_746,"Protection contre l'élémentaire"
+fr_747,Emmêler
+fr_748,"Peau de terre"
+fr_749,"Vie aquatique"
+fr_750,"Arme de feu"
+fr_751,"Revenir à la nature"
+fr_752,"Marche du vent"
+fr_753,"Coup de vent"
+fr_754,"Âme et sang"
+fr_755,"Invocation d'élémentaire inférieur"
+fr_756,"Liaison terrestre"
+fr_757,"Gardien de la terre"
+fr_758,"Chute de l'élémentaire"
+fr_759,"Œil de la tempête"
+fr_760,"Protection aquatique"
+fr_761,"Brasier dansant"
+fr_762,"Touche de nature"
+fr_763,"Supprimer la magie"
+fr_764,"Invocation d'élémentaire supérieur"
+fr_765,"Zone du silence"
+fr_766,"Feu élémentaire"
+fr_767,"Marche de tempête"
+fr_768,"Coup de tempête"
+fr_769,"Polluer l'eau"
+fr_770,"Arme volcanique"
+fr_771,"Âme enflammée"
+fr_772,"Miracle de la nature"
+fr_773,"Bénédiction de la nature"
+fr_774,"Grand vent d'attaquant"
+fr_775,"Feu supplémentaire"
+fr_776,"Peau d'acier"
+fr_777,"Miroir de blocage"
+fr_778,"Chaînes de vent"
+fr_779,"Vitalisation exotique"
+fr_780,"Calèche robuste"
+fr_781,"Armure de réduction"
+fr_782,"Barrière de blocage"
+fr_783,"Choc étourdissant"
+fr_784,"Attaque rebondissante"
+fr_785,"Vraie cible"
+fr_786,"Invoquer le clan"
+fr_787,"Aura rayonnante"
+fr_788,"Apprendre le clan"
+fr_789,"Aura brave"
+fr_790,"Aura brillante"
+fr_791,NULL
+fr_792,NULL
+fr_793,NULL
+fr_794,NULL
+fr_795,NULL
+fr_796,NULL
+fr_797,NULL
+fr_798,NULL
+fr_799,NULL
+fr_800,NULL
+fr_801,Lampe
+fr_802,Lanterne
+fr_803,Kérosène
+fr_804,"Lanternes magiques"
+fr_805,Bougies
+fr_806,"Baguette du maître invocateur"
+fr_807,"Baguette en pin"
+fr_808,"Baguette d'invocation de foudre"
+fr_809,"Baguette en ivoire"
+fr_810,"Baguette de polymorphe"
+fr_811,"Baguette d'érable"
+fr_812,"Baguette d'expulsion"
+fr_813,"Potion de précipitation supérieure"
+fr_814,NULL
+fr_815,"Potion de guérison inférieure condensée"
+fr_816,"Potion de guérison condensée"
+fr_817,"Potion de guérison supérieure condensée"
+fr_818,"Potion orange condensée"
+fr_819,"Potion de guérison supérieure condensée"
+fr_820,"Potion blanche condensée"
+fr_821,"Ancienne potion de guérison inférieure"
+fr_822,NULL
+fr_823,"Ancienne potion de guérison"
+fr_824,NULL
+fr_825,"Ancienne potion de guérison supérieure"
+fr_826,NULL
+fr_827,"Potion de cécité"
+fr_828,"Potion noire"
+fr_829,Elixir(FOR)
+fr_830,Elixir(CON)
+fr_831,Elixir(DEX)
+fr_832,Elixir(INT)
+fr_833,Elixir(SAG)
+fr_834,Elixir(CHA)
+fr_835,Vin
+fr_836,Whiskey
+fr_837,"Potion d'acuité mentale"
+fr_838,Diamant
+fr_839,Rubis
+fr_840,Saphir
+fr_841,Émeraude
+fr_842,"Diamant de grande qualité"
+fr_843,"Rubis de grande qualité"
+fr_844,"Saphir de grande qualité"
+fr_845,"Émeraude de grande qualité"
+fr_846,"Diamant de plus grande qualité"
+fr_847,"Rubis de plus grande qualité"
+fr_848,"Saphir de plus grande qualité"
+fr_849,"Émeraude de plus grande qualité"
+fr_850,Viande
+fr_851,"Viande de l'œil flottant"
+fr_852,Œuf
+fr_853,Carotte
+fr_854,Citron
+fr_855,Banane
+fr_856,Pomme
+fr_857,Orange
+fr_858,"Parchemin d'enchantement d'armure"
+fr_859,"Parchemin de destruction d'armure"
+fr_860,"Parchemin de fuite"
+fr_861,"Parchemin de téléportation de masse"
+fr_862,"Parchemin d'enchantement d'arme"
+fr_863,"Parchemin de polymorphe"
+fr_864,"Parchemin de résurrection"
+fr_865,"Novice Parchemin de fuite"
+fr_866,"Novice Parchemin de suppression de malédiction"
+fr_867,"Novice Parchemin d'identification"
+fr_868,"Novice Parchemin de téléportation"
+fr_869,"Parchemin de téléportation"
+fr_870,"Parchemin de suppression de malédiction"
+fr_871,"Parchemin d'identification"
+fr_872,"Cœur de golem"
+fr_873,"Clé dorée"
+fr_874,"Cœur de Drake"
+fr_875,Platine
+fr_876,"Clé de chambre d'auberge"
+fr_877,"Clé en argent"
+fr_878,"Collier d'animal"
+fr_879,Aiguisoir
+fr_880,"Gemme magique"
+fr_881,"Gemme d'esprit"
+fr_882,"Écaille de Scatha"
+fr_883,"Croc de Scatha"
+fr_884,"Œil de Scatha"
+fr_885,"Sang de Scatha"
+fr_886,"Chair de Scatha"
+fr_887,"Cœur de Scatha"
+fr_888,"Os de Scatha"
+fr_889,"Dent de Scatha"
+fr_890,"Écaille du dragon du feu"
+fr_891,"Écaille du dragon du vent"
+fr_892,"Écaille du dragon de l'eau"
+fr_893,"Écaille du dragon de la terre"
+fr_894,Cuir
+fr_895,"Cuir dur"
+fr_896,"Morceau de fer"
+fr_897,"Toile de Lolth"
+fr_898,"Peau de loup"
+fr_899,"Plaque de platine"
+fr_900,Platine
+fr_901,"Pièce rugueuse de platine"
+fr_902,"Jus de vase"
+fr_903,"Mithril noir"
+fr_904,"Morceau de mithril noir rugueux"
+fr_905,"Plaque en mithril noir"
+fr_906,"Tissu bleu"
+fr_907,"Tissu rouge"
+fr_908,"Tissu blanc"
+fr_909,Écaille
+fr_910,"Carapace de scorpion"
+fr_911,"Morceau d'argent"
+fr_912,"Pièce rugueuse d'argent"
+fr_913,"Plaque en argent"
+fr_914,"Pièce d'âme"
+fr_915,"Fragment d'esprit"
+fr_916,"Fourrure de Cerbère"
+fr_917,"Plaque en or"
+fr_918,"Morceau d'or"
+fr_919,"Pièce rugueuse d'or"
+fr_920,"Plume de griffon"
+fr_921,"Fil de mithril"
+fr_922,"Morceau de mithril"
+fr_923,"Plaque en mithril"
+fr_924,Fil
+fr_925,Orichalque
+fr_926,"Plaque en orichalque"
+fr_927,"Sang d'ogre"
+fr_928,"Éléments de pierre"
+fr_929,"Poussière de fée"
+fr_930,"Ala de fée"
+fr_931,"Plaque fine"
+fr_932,"Clés noires"
+fr_933,"Clé rouge"
+fr_934,"Flèche ancienne"
+fr_935,Flèche
+fr_936,"Flèche en argent"
+fr_937,"Flèche dorée"
+fr_938,"Flèche en mithril"
+fr_939,"Flèche en mithril noir"
+fr_940,"Flèche en orichalque"
+fr_941,"Bloc d'acier"
+fr_942,"Morceau de fer rugueux"
+fr_943,Pierres
+fr_944,Solvant
+fr_945,Farine
+fr_946,Tomate
+fr_947,"Eau bénite"
+fr_948,"Parchemin d'enchantement d'arme : Feu"
+fr_949,"Parchemin d'enchantement d'arme : Terre"
+fr_950,"Parchemin d'enchantement d'arme : Eau"
+fr_951,"Parchemin d'enchantement d'arme : Vent"
+fr_952,"Potion de renaissance"
+fr_953,Lettre
+fr_954,"Parchemin d'accessoire d'enchantement"
+fr_955,"Badge de fer sanguinaire"
+fr_956,"Plaque rare"
+fr_957,"Plaque du vide"
+fr_958,"Os des morts-vivants"
+fr_959,"Cuir assoupli (X)"
+fr_960,"Cuir assoupli (Y)"
+fr_961,"Essence de mage squelette"
+fr_962,"Cristal d'âme purifiée"
+fr_963,"Cœur de golem de pierre"
+fr_964,"Cristal d'âme immonde"
+fr_965,"Carte du Donjon de l'île promise"
+fr_966,"Message du vieux tunnel de fuite"
+fr_967,"Essence de puissance du chevalier de la mort"
+fr_968,"Cristal d'âme immonde"
+fr_969,"Os des morts-vivants du chevalier de la mort"
+fr_970,"Pierre du vide"
+fr_971,"Cœurs de Thri Kreen"
+fr_972,"Crocs de loup-garou"
+fr_973,"Huile de goule"
+fr_974,"Viande de Ghast"
+fr_975,"Boîte de fragments d'os"
+fr_976,"Packs de provisions alimentaires"
+fr_977,"Boîte de pierres"
+fr_978,"Ancienne pièce en platine"
+fr_979,"Serment écrit"
+fr_980,"Potion de guérison inférieure (restreint)"
+fr_981,"Potion de guérison de poison (restreint)"
+fr_982,"Potion de guérison inférieure (restreint)"
+fr_983,"Potion de précipitation (restreint)"
+fr_984,"Parchemin de fuite (restreint)"
+fr_985,"Parchemin de téléportation (restreint)"
+fr_986,"Parchemin de suppression de malédiction (restreint)"
+fr_987,"Parchemin d'identification (restreint)"
+fr_988,"Aiguisoir (restreint)"
+fr_989,"Parchemin d'enchantement d'arme (restreint)"
+fr_990,"Parchemin d'enchantement d'armure (restreint)"
+fr_991,"Clé en bois de l'enfer"
+fr_992,"Clé de sang noir"
+fr_993,"Parchemin de déformation avancé"
+fr_994,"Parchemin de déformation ultime"
+fr_995,NULL
+fr_996,NULL
+fr_997,NULL
+fr_998,NULL
+fr_999,NULL
+fr_1000,"Dague orque"
+fr_1001,"Dague cubique"
+fr_1002,"Corps d'épée courte"
+fr_1003,Dague
+fr_1004,"Dague elfique"
+fr_1005,"Dague de novice"
+fr_1006,"Dague en mithril"
+fr_1007,"Dague en orichalque"
+fr_1008,"Épée maudite de Bran"
+fr_1009,"Corps d'épée longue"
+fr_1010,"Poignée d'épée en orichalque"
+fr_1011,"Épée courte orque"
+fr_1012,"Destructeur de maille"
+fr_1013,"Épée longue"
+fr_1014,"Épée courte"
+fr_1015,"Épée en argent"
+fr_1016,"Épée courte de nain"
+fr_1017,Cimeterre
+fr_1018,"Épée courte elfique"
+fr_1019,"Épée longue en argent"
+fr_1020,"Épée du chevalier rouge"
+fr_1021,"Épée longue"
+fr_1022,"Épée de l'envahisseur"
+fr_1023,"Épée à une main de novice"
+fr_1024,"Épée de Damas"
+fr_1025,Coutelas
+fr_1026,Katana
+fr_1027,Rapière
+fr_1028,Shamshir
+fr_1029,"Épée à deux mains de novice"
+fr_1030,"Épée à deux mains"
+fr_1031,"Épée de Bran"
+fr_1032,Tsurugi
+fr_1033,"Épée de feu du chevalier de la mort"
+fr_1034,"Lame de la mort"
+fr_1035,"Grande épée"
+fr_1036,"Cor de Pan"
+fr_1037,"Corne recouverte de mithril"
+fr_1038,Bardiche
+fr_1039,"Lance orque"
+fr_1040,"Bill Guisarme"
+fr_1041,Trident
+fr_1042,Partisan
+fr_1043,Lance
+fr_1044,Lance
+fr_1045,Guisarme
+fr_1046,Glaive
+fr_1047,"Lance elfique"
+fr_1048,"Corne recouverte d'orichalque"
+fr_1049,"Marteau de Lucerne"
+fr_1050,Hallebarde
+fr_1051,Fauchard
+fr_1052,"Lance de novice"
+fr_1053,"Bec de Corbin"
+fr_1054,"Épée courte elfique de résistance magique"
+fr_1055,"Épée courte elfique de dextérité"
+fr_1056,"Bâton en cristal"
+fr_1057,"Bâton de novice"
+fr_1058,"Bâton de Beleth"
+fr_1059,"Bâton de Baphomet"
+fr_1060,"Bâton de sorcellerie"
+fr_1061,"Bâton de mana"
+fr_1062,"Bâton de mana en acier"
+fr_1063,"Bâton en chêne"
+fr_1064,"Bâton de sorcier"
+fr_1065,"Bâton de force"
+fr_1066,Hache
+fr_1067,Athamé
+fr_1068,Club
+fr_1069,Fléau
+fr_1070,Massue
+fr_1071,"Marteau de guerre"
+fr_1072,"Hache en argent"
+fr_1073,"Hache de combat"
+fr_1074,"Bonne hache de combat en acier"
+fr_1075,"Hache de fou furieux"
+fr_1076,"Étoile du matin"
+fr_1077,"Hache de novice"
+fr_1078,"Grande hache"
+fr_1079,"Arc de chasseur"
+fr_1080,"Arc elfique"
+fr_1081,"Arc orque"
+fr_1082,Arc
+fr_1083,"Arc court"
+fr_1084,"Arc de pierre de novice"
+fr_1085,"Arc de novice"
+fr_1086,Arbalète
+fr_1087,Yumi
+fr_1088,"Lance-flèche ancienne"
+fr_1089,"Arc de Venti"
+fr_1090,"Épée courte elfique de puissance de sort"
+fr_1091,"Épée courte elfique de constitution"
+fr_1092,"Bâton de mana (Personnel)"
+fr_1093,"Bâton de gemme (Personnel)"
+fr_1094,"Lance enchantée"
+fr_1095,"Maître magicien"
+fr_1096,"Hache de soldat enchanté"
+fr_1097,"Archer magique"
+fr_1098,"Guerrier enchanté"
+fr_1099,"Araignée enchantée"
+fr_1100,"Goule enchanté"
+fr_1101,"Roi Bugbear enchanté"
+fr_1102,"Corps décomposé"
+fr_1103,"Loi maudite"
+fr_1104,L'infecté
+fr_1105,"Le condamné"
+fr_1106,"Ogre enchanté"
+fr_1107,"Vieillard étrange"
+fr_1108,"Ombre du Vieillard étrange"
+fr_1109,"Fantôme malchanceux"
+fr_1110,"Ombre du Fantôme malchanceux"
+fr_1111,"Reine enchantée des araignées"
+fr_1112,"Manieur de hache cupide"
+fr_1113,"Croc du désastre"
+fr_1114,"Péché dégoutant"
+fr_1115,"Baphomet enchanté"
+fr_1116,"Parchemin de déformation ultime"
+fr_1117,"Épée de l'espoir (Personnelle)"
+fr_1118,"Épée de l'espoir"
+fr_1119,"Potion de récupération magique"
+fr_1120,"Parchemin de retour - 1E Donjon de maros (restreint)"
+fr_1121,"Parchemin de retour - 2E Donjon de maros (restreint)"
+fr_1122,"Parchemin de retour - 3E Donjon de maros (restreint)"
+fr_1123,"Parchemin de retour - 4E Donjon de maros (restreint)"
+fr_1124,"Parchemin de retour - 5E Donjon de maros (restreint)"
+fr_1125,"Parchemin de retour - 6E Donjon de maros (restreint)"
+fr_1126,"Parchemin de retour - 7E Donjon de maros (restreint)"
+fr_1127,"Os de mouton"
+fr_1128,Deadwood
+fr_1129,"Repas d'essence d'os"
+fr_1130,Totem
+fr_1131,"Fragments de totem"
+fr_1132,"Grande citrouille [Halloween]"
+fr_1133,"Biscuit de citrouille [Halloween]"
+fr_1134,"Totem d'orque"
+fr_1135,"Pierre elfique"
+fr_1136,"Dieu de l'eau"
+fr_1137,"Lettre du Chef des orques"
+fr_1138,"Ancien livre de sorts magiques de brouillard"
+fr_1139,"Cœur de pierre du sort de brouillard"
+fr_1140,"Bénédiction de la déesse de la lune"
+fr_1141,"Brebis perdue"
+fr_1142,"Ailes d'elfe volées"
+fr_1143,"Chapeau du Père Noël"
+fr_1144,"Chaussettes du Père Noël"
+fr_1145,"Cadeau de Noël"
+fr_1146,"Cadeau de chance de Noël"
+fr_1147,"Serment temporaire"
+fr_1148,"Carte au trésor avancée (Île promise)"
+fr_1149,NULL
+fr_1150,NULL
+fr_1151,NULL
+fr_1152,NULL
+fr_1153,"Carte au trésor avancée (Île promise)"
+fr_1154,"Morceau de carte au trésor avancée I (Île promise)"
+fr_1155,"Morceau de carte au trésor avancée II (Île promise)"
+fr_1156,"Morceau de carte au trésor avancée III (Île promise)"
+fr_1157,"Morceau de carte au trésor avancée IV (Île promise)"
+fr_1158,NULL
+fr_1159,NULL
+fr_1160,NULL
+fr_1161,NULL
+fr_1162,NULL
+fr_1163,NULL
+fr_1164,NULL
+fr_1165,NULL
+fr_1166,NULL
+fr_1167,NULL
+fr_1168,NULL
+fr_1169,NULL
+fr_1170,NULL
+fr_1171,NULL
+fr_1172,NULL
+fr_1173,NULL
+fr_1174,NULL
+fr_1175,NULL
+fr_1176,NULL
+fr_1177,NULL
+fr_1178,NULL
+fr_1179,NULL
+fr_1180,NULL
+fr_1181,NULL
+fr_1182,"Monarque Ungoliant"
+fr_1183,"Chef de clan Kobold"
+fr_1184,"Monarque Cerbère"
+fr_1185,"Chef gobelin"
+fr_1186,"Chef Hobgoblin"
+fr_1187,"Général squelette d'élite"
+fr_1188,"Général mage squelette d'élite"
+fr_1189,"Général bourreau squelette d'élite"
+fr_1190,"Général archer squelette d'élite"
+fr_1191,"Général squelette armé de lance"
+fr_1192,"Lieutenant squelette"
+fr_1193,"Lieutenant mage squelette"
+fr_1194,"Lieutenant bourreau squelette"
+fr_1195,"Lieutenant archer squelette"
+fr_1196,"Lieutenant squelette armé de lance"
+fr_1197,"Loup-garou dominant"
+fr_1198,"Œil flottant d'élite"
+fr_1199,"Lycanthrope dominant"
+fr_1200,"Chef des zombies"
+fr_1201,"Monarque Araigne"
+fr_1202,"Golem de pierre d'élite"
+fr_1203,"Chef Ghast"
+fr_1204,"Chef de clan ogre"
+fr_1205,"Chef des goules"
+fr_1206,"Vase d'élite"
+fr_1207,"Chef de clan orque"
+fr_1208,"Chef de clan mage orque"
+fr_1209,"Chef de clan archer orque"
+fr_1210,"Chef de clan guerrier orque"
+fr_1211,"Monarque Thri Keen"
+fr_1212,"Monarque Bugbear"
+fr_1213,"Belladone d'élite"
+fr_1214,"Nain d'élite"
+fr_1215,"Guerrier nain d'élite"
+fr_1216,"Carte au trésor"
+fr_1217,"Carte au trésor avancée"
+fr_1218,"Monarque Lolth"
+fr_1219,"Lieutenant Drow"
+fr_1220,"Lieutenant soldat orque"
+fr_1221,"Lieutenant garde orque"
+fr_1222,"Lieutenant arbalète orque"
+fr_1223,"Chef de clan shaman orque"
+fr_1224,"Chef de clan zombie orque"
+fr_1225,"Parchemin polymorphe niv. 1"
+fr_1226,"Parchemin polymorphe niv. 2"
+fr_1227,"Parchemin polymorphe niv. 3"
+fr_1228,"Parchemin polymorphe niv. 4"
+fr_1229,"Parchemin polymorphe niv. 5"
+fr_1230,"Parchemin polymorphe niv. 6"
+fr_1231,"Cristal d'esprit"
+fr_1232,"Cristal d'esprit spécial (Terre)"
+fr_1233,"Cristal d'esprit spécial (Eau)"
+fr_1234,"Cristal d'esprit spécial (Vent)"
+fr_1235,"Cristal d'esprit spécial (Feu)"
+fr_1236,NULL
+fr_1237,NULL
+fr_1238,NULL
+fr_1239,NULL
+fr_1240,NULL
+fr_1241,NULL
+fr_1242,NULL
+fr_1243,NULL
+fr_1244,NULL
+fr_1245,NULL
+fr_1246,NULL
+fr_1247,NULL
+fr_1248,NULL
+fr_1249,"L'ancien parchemin de déformation avancé (lié)"
+fr_1250,"Parchemin de déformation avancé (lié)"
+fr_1251,"L'essence de polymorphie"
+fr_1252,"Appareil magique de Meilin"
+fr_1253,NULL
+fr_1254,NULL
+fr_1255,restreint
+fr_1256,"Loup-garou sanguinaire"
+fr_1257,"Ogre sanguinaire"
+fr_1258,"Loup-garou sanguinaire dominant"
+fr_1259,"Chef de clan Ogre sanguinaire"
+fr_1260,"Bouclier du chevalier écarlate"
+fr_1261,"Chef Succube"
+fr_1262,"Chef Cocatrix"
+fr_1263,Vieux
+fr_1264,Brillant
+fr_1265,Amy[Mode]
+fr_1266,Cupide
+fr_1267,"[Arène chaotique]"
+fr_1268,[Échange]
+fr_1269,"[Conversion d'attribut]"
+fr_1270,"Boîte cadeau d'évolution de personnage"
+fr_1271,"Lumière de l'espoir"
+fr_1272,"Protection du temple de Parth"
+fr_1273,"Bague de la paix"
+fr_1274,"Arme redoutable de Zese"
+fr_1275,"Parchemin d'enchantement d'arme (exclusivité de quête)"
+fr_1276,"Serment cacheté (15 jours)"
+fr_1277,Gloria
+fr_1278,魔法符石
+fr_1279,NULL
+fr_1280,NULL
+fr_1281,NULL
+fr_1282,NULL
+fr_1283,NULL
+fr_1284,NULL
+fr_1285,NULL
+fr_1286,NULL
+fr_1287,NULL
+fr_1288,NULL
+fr_1289,"Ensemble du chevalier écarlate"
+fr_1290,"Ensemble du Chevalier de la mort"
+fr_1291,"Ensemble de Bran"
+fr_1292,"Ensemble en cuir"
+fr_1293,"Ensemble des orques"
+fr_1294,"Ensemble des nains"
+fr_1295,"Ensemble en cuir clouté"
+fr_1296,"Ensemble en os"
+fr_1297,"Ensemble de sorcier"
+fr_1298,"Ensemble en fer"
+fr_1299,"Sandales cloutées en cuir"
+fr_1300,"Chapeau en cuir"
+fr_1301,"Heaume en cuir"
+fr_1302,"Viseur en fer"
+fr_1303,"Capuche du chevalier"
+fr_1304,"Viseur du chevalier"
+fr_1305,"Heaume en fer de nain"
+fr_1306,"Ancien heaume du vent"
+fr_1307,"Heaume du Chevalier de la mort"
+fr_1308,"Heaume de résistance magique"
+fr_1309,"Chapeau de sorcier"
+fr_1310,"Heaume magique : vitesse"
+fr_1311,"Heaume de magie : guérison"
+fr_1312,"Heaume de magie : puissance"
+fr_1313,"Chapeau de Svipdag"
+fr_1314,Couronne
+fr_1315,"Heaume elfique de dextérité"
+fr_1316,"Heaume du vent"
+fr_1317,"Heaume du roi Attila"
+fr_1318,"Chapeau de Sauron"
+fr_1319,"Vision nocturne"
+fr_1320,"Capuche du chevalier rouge"
+fr_1321,"Heaume de novice en cuir"
+fr_1322,"Chapeau de Skuld"
+fr_1323,"Bénédiction d'Elm"
+fr_1324,"Heaume orque"
+fr_1325,"Heaume elfique en cuir"
+fr_1326,"Heaume de vision infrarouge"
+fr_1327,"Chapeau clouté en cuir"
+fr_1328,"Heaume elfique de constitution"
+fr_1329,"Chapeau d'Endor"
+fr_1330,"Heaume de Bran"
+fr_1331,"Bandeau de Niviane"
+fr_1332,Heaume
+fr_1333,"Heaume en os"
+fr_1334,"Aile dorée de la reine géante des fourmis"
+fr_1335,"Aile argentée de la reine géante des fourmis"
+fr_1336,"Cape de nain"
+fr_1337,"Cape de terre"
+fr_1338,"Cape de mana"
+fr_1339,"Cape de résistance magique"
+fr_1340,"Cape de l'eau"
+fr_1341,"Cape du vent"
+fr_1342,"Cape de protection"
+fr_1343,"Cape du chevalier rouge"
+fr_1344,"Cape rouge"
+fr_1345,"Cape de feu"
+fr_1346,"Cape orque"
+fr_1347,"Cape elfique"
+fr_1348,"Cape en argent"
+fr_1349,"Cape d'invisibilité"
+fr_1350,"Cape de déplacement"
+fr_1351,"Cape de ciré"
+fr_1352,"T-shirt de novice"
+fr_1353,T-shirt
+fr_1354,"Armure en cuir"
+fr_1355,"Gilet en cuir"
+fr_1356,"Plaques de mailles en fer"
+fr_1357,"Mailles en anneaux"
+fr_1358,"Armure en bois"
+fr_1359,"Armure du chevalier de la mort"
+fr_1360,"Bandes de mailles"
+fr_1361,"Cotte de mailles de résistance magique"
+fr_1362,"Vêtements de sorcier"
+fr_1363,"Peignoir en coton"
+fr_1364,"Éclisse de mailles"
+fr_1365,"Armure de Baphomet"
+fr_1366,"Armure du roi Attila"
+fr_1367,"Gilet en cuir avec ceinture"
+fr_1368,"Mailles d'écailles"
+fr_1369,"Armure en os"
+fr_1370,"Cotte de mailles"
+fr_1371,"Armure en cuir de novice"
+fr_1372,"Plaques de mailles en cristal"
+fr_1373,"Mailles en anneaux orques"
+fr_1374,"Cotte de mailles orques"
+fr_1375,"Cottes de mailles elfiques"
+fr_1376,"Plaques de mailles elfiques"
+fr_1377,"Plastron elfique"
+fr_1378,"Gilet en cuir dur"
+fr_1379,"Armure cloutée en cuir"
+fr_1380,"Gilet clouté en cuir"
+fr_1381,"Plaques de mailles en bronze"
+fr_1382,"Armure de Ban"
+fr_1383,"Robe de Niviane"
+fr_1384,"Plaques de mailles"
+fr_1385,"Gants en cuir"
+fr_1386,"Gants en fer"
+fr_1387,"Gants du chevalier de la mort"
+fr_1388,"Gants du roi Attila"
+fr_1389,"Gants de protection"
+fr_1390,"Gants de l'esprit aquatique"
+fr_1391,"Gants en cuir de novice"
+fr_1392,"Gants de neige"
+fr_1393,"Gants de cristal"
+fr_1394,"Gants de l'esprit de la terre"
+fr_1395,"Gants de l'esprit du feu"
+fr_1396,Gants
+fr_1397,"Gants de Bran"
+fr_1398,"Gants de Nivaine"
+fr_1399,"Gants du pouvoir"
+fr_1400,"Gants de l'esprit du vent"
+fr_1401,"Bracelet d'archer"
+fr_1402,"Bottes en cuir"
+fr_1403,"Sandales en cuir"
+fr_1404,"Bottes en fer"
+fr_1405,"Bottes du chevalier de la mort"
+fr_1406,"Bottes du roi Attila"
+fr_1407,"Bottes de Beleth"
+fr_1408,"Bottes élevées"
+fr_1409,"Sandales en cuir de novice"
+fr_1410,"Bottes sous-marines"
+fr_1411,"Bottes basses"
+fr_1412,"Bottes de Bran"
+fr_1413,"Bottes de Nivaine"
+fr_1414,"Sandales du sage sombre"
+fr_1415,"Bouclier en cuir"
+fr_1416,"Bouclier en fer"
+fr_1417,"Bouclier en os"
+fr_1418,"Bouclier en bois"
+fr_1419,"Bouclier rond de nain"
+fr_1420,"Boule de cristal de mana"
+fr_1421,"Livres des pouvoirs magiques"
+fr_1422,"Bouclier de reflet"
+fr_1423,"Bouclier à l'œil rouge"
+fr_1424,"Bouclier de la tour"
+fr_1425,"Bouclier en cuir de novice"
+fr_1426,"Bouclier elfique"
+fr_1427,"Bouclier orque"
+fr_1428,"Bouclier du chevalier argenté"
+fr_1429,"Petit bouclier"
+fr_1430,"Bouclier clouté en cuir"
+fr_1431,"Grand bouclier"
+fr_1432,"Amulette de New Camelot"
+fr_1433,"Ancienne amulette de charisme"
+fr_1434,"Ancienne amulette de dextérité"
+fr_1435,"Ancienne amulette de force"
+fr_1436,"Ancienne amulette d'intelligence"
+fr_1437,"Ancienne amulette de sagesse"
+fr_1438,"Ancienne amulette de constitution"
+fr_1439,"Amulette de charisme"
+fr_1440,"Amulette de dextérité"
+fr_1441,"Amulette de l'île promise"
+fr_1442,"Amulette du guerrier"
+fr_1443,"Amulette de force"
+fr_1444,"Amulette d'intelligence"
+fr_1445,"Amulette de sagesse"
+fr_1446,"Amulette de constitution"
+fr_1447,"Amulette de squelette"
+fr_1448,"Anneau d'immunité magique"
+fr_1449,"Anneau de contrôle polymorphe"
+fr_1450,"Anneau de novice"
+fr_1451,"Anneau de contrôle d'invocation"
+fr_1452,"Anneau de résistance à l'eau"
+fr_1453,"Anneau de contrôle de téléportation"
+fr_1454,"Anneau de résistance à la terre"
+fr_1455,"Anneau de résistance au vent"
+fr_1456,"Anneau de résistance magique"
+fr_1457,"Anneau de résistance au feu"
+fr_1458,"Ancienne ceinture de poignée"
+fr_1459,"Ancienne ceinture de l'âme"
+fr_1460,"Ancienne ceinture de l'esprit"
+fr_1461,"Ceinture de poignée brillante"
+fr_1462,"Ceinture de l'âme brillante"
+fr_1463,"Ceinture de l'esprit brillante"
+fr_1464,"Ceinture du corps"
+fr_1465,"Ceinture de l'âme"
+fr_1466,"Ceinture d'ogre"
+fr_1467,"Ceinture de bravoure"
+fr_1468,"Ceinture de l'esprit"
+fr_1469,"Ceinture de troll"
+fr_1470,"Veste en cuir"
+fr_1471,"Collier de lumière"
+fr_1472,"Boucles de résistance magique"
+fr_1473,"Veste en bois"
+fr_1474,"T-shirt de résistance magique"
+fr_1475,"Ancienne amulette de charisme"
+fr_1476,"Ancienne amulette de dextérité"
+fr_1477,"Ancienne amulette de force"
+fr_1478,"Ancienne amulette d'intelligence"
+fr_1479,"Ancienne amulette de sagesse"
+fr_1480,"Ancienne amulette de constitution"
+fr_1481,"Heaume elfique de dextérité (Personnel)"
+fr_1482,"Heaume elfique de constitution (Personnel)"
+fr_1483,"Capuche du chevalier rouge (Personnel)"
+fr_1484,"Heaume elfique en cuir de constitution (Personnel)"
+fr_1485,"Heaume elfique en cuir de dextérité (Personnel)"
+fr_1486,"Capuche ternie de sang (Personnel)"
+fr_1487,NULL

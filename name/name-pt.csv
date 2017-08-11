@@ -1,0 +1,1488 @@
+﻿pt_0,"$0 "
+pt_1,Usado
+pt_2,Usado
+pt_3,On
+pt_4,Vazio
+pt_5,NULL
+pt_6,NULL
+pt_7,NULL
+pt_8,NULL
+pt_9,NULL
+pt_10,NULL
+pt_11,NULL
+pt_12,NULL
+pt_13,NULL
+pt_14,NULL
+pt_15,NULL
+pt_16,NULL
+pt_17,NULL
+pt_18,NULL
+pt_19,NULL
+pt_20,NULL
+pt_21,NULL
+pt_22,NULL
+pt_23,NULL
+pt_24,NULL
+pt_25,NULL
+pt_26,NULL
+pt_27,NULL
+pt_28,NULL
+pt_29,NULL
+pt_30,NULL
+pt_31,NULL
+pt_32,NULL
+pt_33,NULL
+pt_34,NULL
+pt_35,NULL
+pt_36,NULL
+pt_37,NULL
+pt_38,NULL
+pt_39,NULL
+pt_40,NULL
+pt_41,NULL
+pt_42,NULL
+pt_43,NULL
+pt_44,NULL
+pt_45,NULL
+pt_46,NULL
+pt_47,NULL
+pt_48,NULL
+pt_49,NULL
+pt_50,NULL
+pt_51,NULL
+pt_52,NULL
+pt_53,NULL
+pt_54,NULL
+pt_55,NULL
+pt_56,NULL
+pt_57,NULL
+pt_58,NULL
+pt_59,NULL
+pt_60,NULL
+pt_61,NULL
+pt_62,NULL
+pt_63,NULL
+pt_64,NULL
+pt_65,NULL
+pt_66,NULL
+pt_67,NULL
+pt_68,NULL
+pt_69,NULL
+pt_70,NULL
+pt_71,NULL
+pt_72,NULL
+pt_73,NULL
+pt_74,NULL
+pt_75,NULL
+pt_76,NULL
+pt_77,NULL
+pt_78,NULL
+pt_79,NULL
+pt_80,NULL
+pt_81,NULL
+pt_82,NULL
+pt_83,NULL
+pt_84,NULL
+pt_85,NULL
+pt_86,NULL
+pt_87,NULL
+pt_88,NULL
+pt_89,NULL
+pt_90,NULL
+pt_91,NULL
+pt_92,NULL
+pt_93,NULL
+pt_94,NULL
+pt_95,NULL
+pt_96,NULL
+pt_97,NULL
+pt_98,NULL
+pt_99,NULL
+pt_100,NULL
+pt_101,Goblin
+pt_102,Orc
+pt_103,Duende
+pt_104,Lobisomem
+pt_105,Diabrete
+pt_106,Anão
+pt_107,Lodo
+pt_108,Zumbi
+pt_109,"Olho Flutuante"
+pt_110,Gnoll
+pt_111,"Guerreiro Anão"
+pt_112,Esqueleto
+pt_113,"Formiga Soldado"
+pt_114,"Arqueiro Esqueleto"
+pt_115,"Golem de Pedra"
+pt_116,"Machadeiro Esqueleto"
+pt_117,"Lança de Esqueleto"
+pt_118,Shelob
+pt_119,Hobgoblin
+pt_120,"Homem Lagarto"
+pt_121,"Urso Coruja"
+pt_122,Troglodita
+pt_123,Ghoul
+pt_124,Beladona
+pt_125,Licantropo
+pt_126,Ungoliant
+pt_127,Doppelganger
+pt_128,"Formiga Gigante"
+pt_129,Ghast
+pt_130,"Mago Ancião"
+pt_131,Bugbear
+pt_132,Cérbero
+pt_133,Esqueleto
+pt_134,Harpia
+pt_135,Ogro
+pt_136,Troll
+pt_137,Grifo
+pt_138,Observador
+pt_139,Cocatrice
+pt_140,Ettin
+pt_141,Cocatrice
+pt_142,Súcubo
+pt_143,Ciclope
+pt_144,"Rainha Súcubo"
+pt_145,Nigromante
+pt_146,Skuld
+pt_147,Sauroner
+pt_148,Endor
+pt_149,Svipdag
+pt_150,Dragão
+pt_151,"Ancião Negro"
+pt_152,Baphomet
+pt_153,Beleth
+pt_154,Bran
+pt_155,"Cavaleiro da Morte"
+pt_156,"Formiga Rainha"
+pt_157,Scatha
+pt_158,Joanna
+pt_159,Alfred
+pt_160,Inka
+pt_161,Bertrand
+pt_162,Olga
+pt_163,Boyce
+pt_164,Brooks
+pt_165,Cyril
+pt_166,Zeke
+pt_167,Cordelia
+pt_168,Chad
+pt_169,Cassandra
+pt_170,Carina
+pt_171,Cachorro
+pt_172,Cavalo
+pt_173,"Taylor[Loja de Poções]"
+pt_174,Justina
+pt_175,Leah
+pt_176,Monge
+pt_177,NULL
+pt_178,Vaca
+pt_179,"Lutador Orc"
+pt_180,NULL
+pt_181,NULL
+pt_182,NULL
+pt_183,NULL
+pt_184,NULL
+pt_185,NULL
+pt_186,"Thri Kreen"
+pt_187,"Arqueiro Orc"
+pt_188,"Xamã Orc"
+pt_189,"Grunhido do Orc"
+pt_190,"Guarda Orc"
+pt_191,"Balestra de Orc"
+pt_192,"Zumbi Orc"
+pt_193,"Mago Orc"
+pt_194,Drow
+pt_195,Lolth
+pt_196,"Esqueleto de Elite"
+pt_197,Cora
+pt_198,"Arqueiro Esqueleto de Elite"
+pt_199,Faustus
+pt_200,"Machadeiro Esqueleto de Elite"
+pt_201,"Mago Esqueleto de Elite"
+pt_202,Doris
+pt_203,Damon
+pt_204,Gullveig
+pt_205,Galen
+pt_206,Espantalho
+pt_207,"Lança de Esqueleto de Elite"
+pt_208,Kirsten
+pt_209,Kell
+pt_210,"Mago Esqueleto"
+pt_211,Galinha
+pt_212,Laura
+pt_213,Naomi
+pt_214,Nairobi
+pt_215,Marla
+pt_216,Pato
+pt_217,Marcia
+pt_218,Ganso
+pt_219,Nedra
+pt_220,Porco
+pt_221,Ptolomeu
+pt_222,Coelho
+pt_223,"Pascal[Loja de Armas]"
+pt_224,"Rhoda[Loja de Armaduras]"
+pt_225,"Somali[Loja de Itens]"
+pt_226,Ramla
+pt_227,Carneiro
+pt_228,"Rabia[Loja de Armaduras]"
+pt_229,Ovelha
+pt_230,"Somali[Loja de Itens]"
+pt_231,Sadie
+pt_232,Thurston
+pt_233,Têmis
+pt_234,Uta
+pt_235,Upton
+pt_236,"Barqueiro do Porto de Ilha Prometida"
+pt_237,Merlin
+pt_238,Natalia
+pt_239,Soldado
+pt_240,NULL
+pt_241,NULL
+pt_242,Elbereth
+pt_243,NULL
+pt_244,NULL
+pt_245,NULL
+pt_246,"Harpia enfraquecida"
+pt_247,NULL
+pt_248,"Lobisomem enfraquecido"
+pt_249,Andrew
+pt_250,Grazob
+pt_251,NULL
+pt_252,Karguk[Armazém]
+pt_253,"Piggu[Loja de Armas]"
+pt_254,"Agrob[Loja de Armaduras]"
+pt_255,"Lazgar[Loja de Itens]"
+pt_256,Lana
+pt_257,Laucian
+pt_258,Owen
+pt_259,"Escorpião enfraquecido"
+pt_260,NULL
+pt_261,NULL
+pt_262,NULL
+pt_263,"Urso Coruja enfraquecido"
+pt_264,Shadbak
+pt_265,"Diabrete enfraquecido"
+pt_266,NULL
+pt_267,"Troglodita enfraquecido"
+pt_268,NULL
+pt_269,NULL
+pt_270,NULL
+pt_271,NULL
+pt_272,"Thri Kreen enfraquecido"
+pt_273,NULL
+pt_274,NULL
+pt_275,NULL
+pt_276,NULL
+pt_277,NULL
+pt_278,NULL
+pt_279,NULL
+pt_280,NULL
+pt_281,Edith
+pt_282,Gus
+pt_283,Percy
+pt_284,Gwen
+pt_285,Hoover
+pt_286,Irvin
+pt_287,Inez
+pt_288,"Dura[Loja de Poções]"
+pt_289,Lum
+pt_290,Yatur
+pt_291,NULL
+pt_292,NULL
+pt_293,NULL
+pt_294,"Ungoliant enfraquecido"
+pt_295,NULL
+pt_296,NULL
+pt_297,NULL
+pt_298,NULL
+pt_299,NULL
+pt_300,NULL
+pt_301,NULL
+pt_302,"Hermes[Masmorra da Ilha Prometida]"
+pt_303,"Brooks[Loja de Armas]"
+pt_304,Barqueiro
+pt_305,"Justina[Loja de Itens]"
+pt_306,"Leah[Loja de Armaduras]"
+pt_307,Andrew[Armazém]
+pt_308,"Ptolomeu[Especialista em Ossos]"
+pt_309,"Doris[Loja do Alfaiate]"
+pt_310,"Zese[Teleporte do Ilha do Céu]"
+pt_311,Gary
+pt_312,Olivia
+pt_313,Carlos
+pt_314,Vicky
+pt_315,Ambrósia
+pt_316,Brandon
+pt_317,Rufus
+pt_318,Falice
+pt_319,Nelson
+pt_320,Elsa
+pt_321,Gia
+pt_322,Camilla
+pt_323,Lorelei
+pt_324,Lohan
+pt_325,Cal
+pt_326,Sala
+pt_327,Wesley
+pt_328,Gaqe
+pt_329,Loretta
+pt_330,Brian
+pt_331,Nanette
+pt_332,Calder
+pt_333,Portia
+pt_334,Rance
+pt_335,Karl
+pt_336,David
+pt_337,Maris
+pt_338,Jill
+pt_339,Hosea
+pt_340,Gareth
+pt_341,Shiloh
+pt_342,Camellia
+pt_343,Craiq
+pt_344,Lennon
+pt_345,Fedra
+pt_346,"Garth[Teleporte do Pico Edin]"
+pt_347,Bettina
+pt_348,Aaron
+pt_349,Martin
+pt_350,Karol[Armazém]
+pt_351,Lia
+pt_352,Valanthe
+pt_353,Heian
+pt_354,Antinua
+pt_355,NULL
+pt_356,NULL
+pt_357,Enialis
+pt_358,Hermes
+pt_359,Polyrhachis
+pt_360,Rick
+pt_361,"Formiga de Fogo"
+pt_362,Cupim
+pt_363,NULL
+pt_364,Lêmure
+pt_365,"Panda Vermelho"
+pt_366,Atub
+pt_367,Urim
+pt_368,"Bumph[Loja de Poções]"
+pt_369,"Yotul[Loja de Itens]"
+pt_370,"Mogak[Loja de Armaduras]"
+pt_371,Slog
+pt_372,Epkagut[Armazém]
+pt_373,"Jogug[Loja de Armas]"
+pt_374,Bashuk
+pt_375,Bor
+pt_376,Omugug
+pt_377,Supgugh
+pt_378,Panda
+pt_379,Urso
+pt_380,Tatu
+pt_381,"Guarda de Cassandra"
+pt_382,Aventureiro
+pt_383,Felix
+pt_384,Remendo
+pt_385,Mestre
+pt_386,Força
+pt_387,Teleporte
+pt_388,Pangolim
+pt_389,Warren
+pt_390,Gordon
+pt_391,Erik
+pt_392,Dellas
+pt_393,Caçador
+pt_394,Gato
+pt_395,"Tyson[Especialista em Ossos]"
+pt_396,Príncipe
+pt_397,Cavaleiro
+pt_398,Mago
+pt_399,Elfo
+pt_400,Princesa
+pt_401,Cavaleiro
+pt_402,Mago
+pt_403,Elfo
+pt_404,Legal
+pt_405,Caótico
+pt_406,Neutro
+pt_407,NULL
+pt_408,NULL
+pt_409,NULL
+pt_410,NULL
+pt_411,NULL
+pt_412,NULL
+pt_413,NULL
+pt_414,NULL
+pt_415,NULL
+pt_416,NULL
+pt_417,NULL
+pt_418,NULL
+pt_419,NULL
+pt_420,NULL
+pt_421,NULL
+pt_422,NULL
+pt_423,NULL
+pt_424,NULL
+pt_425,NULL
+pt_426,NULL
+pt_427,NULL
+pt_428,NULL
+pt_429,NULL
+pt_430,NULL
+pt_431,NULL
+pt_432,NULL
+pt_433,NULL
+pt_434,NULL
+pt_435,NULL
+pt_436,NULL
+pt_437,Theodore[Trocar]
+pt_438,"Céu[Administrador do Clã]"
+pt_439,Nat
+pt_440,Roger[Encantar]
+pt_441,"Mercador do Evento[apenas por tempo limitado]"
+pt_442,"Agente do Evento[apenas por tempo limitado]"
+pt_443,"Matador Maligno"
+pt_444,"Observador Maligno"
+pt_445,"Inquisidor Maligno"
+pt_446,Alquimista
+pt_447,Tiago
+pt_448,Mercador
+pt_449,"Lobisomem Impostor"
+pt_450,"Anão Impostor"
+pt_451,"Orc Impostor"
+pt_452,"Lutador Orc Impostor"
+pt_453,"Duende Impostor"
+pt_454,"Goblin Impostor"
+pt_455,"Hobgoblin Impostor"
+pt_456,"Lutador Anão Impostor"
+pt_457,Havel[Encantar]
+pt_458,Pretendente
+pt_459,Viajante
+pt_460,"Mestre da Classificação"
+pt_461,"Bugbear das Trevas"
+pt_462,"Thri Kreen das Trevas"
+pt_463,"Cérbero das Trevas"
+pt_464,"Golem de Pedra das Trevas"
+pt_465,"Esqueleto das Trevas"
+pt_466,"Arqueiro Esqueleto das Trevas"
+pt_467,"Machadeiro Esqueleto das Trevas"
+pt_468,"Lança de Esqueleto das Trevas"
+pt_469,"Beladona das Trevas"
+pt_470,"Ghoul das Trevas"
+pt_471,"Ungoliant das Trevas"
+pt_472,"Zumbi das Trevas"
+pt_473,Jax[Artesão]
+pt_474,"O Eterno"
+pt_475,NULL
+pt_476,NULL
+pt_477,NULL
+pt_478,"Caixa do Tesouro"
+pt_479,"Servo de Teon[Juramento]"
+pt_480,"Presente de Teon(1 dia)"
+pt_481,"Presente de Teon(5 dias)"
+pt_482,"Presente de Teon(30 dias)"
+pt_483,"Presente de Teon"
+pt_484,"Presente de Teon(7 dias)"
+pt_485,"Servente de Maria"
+pt_486,"O Porteiro dos Caídos"
+pt_487,"Maria, Servente dos Mortos [transferida]"
+pt_488,"Clive[Armazém do Clã]"
+pt_489,"Pan [pastor]"
+pt_490,"Espírito de Madeira Deformada"
+pt_491,"Bênção da Deusa da Lua [Oferenda]"
+pt_492,"Sylvia [Material]"
+pt_493,"Tom Gostosuras ou Travessuras"
+pt_494,"Kenny Candiless"
+pt_495,"Corneta pequena"
+pt_496,"Mensageiro de Festas"
+pt_497,"Xamã Ancião"
+pt_498,"Pirata Náufrago [Tesouro]"
+pt_499,"Anel de Bondade"
+pt_500,"Gema Mágica Avançado"
+pt_501,"Pergaminho de Proteção"
+pt_502,"Livro Sagrado"
+pt_503,"Chave de Cobre"
+pt_504,"Chave de Madeira"
+pt_505,"Livro de Encantos"
+pt_506,Pergaminho
+pt_507,"Poção de Sabedoria"
+pt_508,"Poção de Bravura"
+pt_509,Latido
+pt_510,"Galho de Vida"
+pt_511,Pena
+pt_512,Flauta
+pt_513,"Fragmentos de Osso"
+pt_514,Cristal
+pt_515,Pó
+pt_516,Buquê
+pt_517,"Poção de Velocidade"
+pt_518,NULL
+pt_519,"Poção de Cura Inferior"
+pt_520,NULL
+pt_521,"Poção de Recuperação de Mana"
+pt_522,NULL
+pt_523,"Poção de Cura de Venenos"
+pt_524,"Poção da Esmeralda"
+pt_525,"Poção de Cura Superior"
+pt_526,NULL
+pt_527,"Poção de Cura"
+pt_528,"Poção Laranja"
+pt_529,Abóbora
+pt_530,Milho
+pt_531,Ouro
+pt_532,"Biscoito de Elfo"
+pt_533,"Pergaminho de Retorno - Cidade da Ilha Prometida"
+pt_534,"Pergaminho de Retorno - Masmorra da Ilha Prometida 1F"
+pt_535,"Pergaminho de Retorno - Masmorra da Ilha Prometida 2F"
+pt_536,"Pergaminho de Retorno - Velho Túnel de Fuga"
+pt_537,"Pergaminho de Retorno - Masmorra de Maros 1F"
+pt_538,"Pergaminho de Retorno - Masmorra de Maros 2F"
+pt_539,"Pergaminho de Retorno - Masmorra de Maros 3F"
+pt_540,"Pergaminho de Retorno - Masmorra de Maros 4F"
+pt_541,"Pergaminho de Retorno - Masmorra de Maros 5F"
+pt_542,"Pergaminho de Retorno - Masmorra de Maros 6F"
+pt_543,"Pergaminho de Retorno - Masmorra de Maros 7F"
+pt_544,NULL
+pt_545,"Pergaminho de Retorno - Masmorra do Castelo de Sandwood 1F"
+pt_546,"Pergaminho de Retorno - Masmorra do Castelo de Sandwood 2F"
+pt_547,"Pergaminho de Retorno - Damelot"
+pt_548,"Pergaminho de Retorno - Masmorra de Damelot 1F"
+pt_549,"Pergaminho de Retorno - Masmorra de Damelot 2F"
+pt_550,"Pergaminho de Retorno - Masmorra de Damelot 3F"
+pt_551,"Pergaminho de Retorno - Masmorra de Damelot 4F"
+pt_552,"Pergaminho de Retorno - Cidade de Sandwood"
+pt_553,"Pergaminho de Retorno - Oásis no Deserto"
+pt_554,"Pergaminho de Retorno - Cidade de Maros"
+pt_555,"Pergaminho de Retorno - Cidade dos Orc"
+pt_556,"Pergaminho de Retorno - Guilda Orc"
+pt_557,"Pergaminho de Retorno - Castelo de Sandwood"
+pt_558,"Pergaminho de Retorno - Centro da Cidade de Sandwood"
+pt_559,"Pergaminho de Retorno - Jardim dos Elfos"
+pt_560,"Pergaminho de Retorno - Masmorra de Elfo 1F"
+pt_561,"Pergaminho de Retorno - Masmorra de Elfo 2F"
+pt_562,"Pergaminho de Retorno - Masmorra de Elfo 3F"
+pt_563,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 1F"
+pt_564,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 2F"
+pt_565,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 3F"
+pt_566,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 4F"
+pt_567,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 5F"
+pt_568,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 6F"
+pt_569,"Pergaminho de Retorno - Masmorra da Montanha do Dragão 7F"
+pt_570,NULL
+pt_571,"Pergaminho de Retorno - Caverna da Formiga do Deserto 1-1"
+pt_572,"Pergaminho de Retorno - Caverna da Formiga do Deserto 1-2"
+pt_573,"Pergaminho de Retorno - Caverna da Formiga do Deserto 1-3"
+pt_574,"Pergaminho de Retorno - Caverna da Formiga do Deserto 1-4"
+pt_575,"Pergaminho de Retorno - Caverna da Formiga do Deserto 1-5"
+pt_576,"Pergaminho de Retorno - Caverna da Formiga do Deserto 1-6"
+pt_577,"Pergaminho de Retorno - Caverna da Formiga do Deserto 2-1"
+pt_578,"Pergaminho de Retorno - Caverna da Formiga do Deserto 2-2"
+pt_579,"Pergaminho de Retorno - Caverna da Formiga do Deserto 2-3"
+pt_580,"Pergaminho de Retorno - Caverna da Formiga do Deserto 3"
+pt_581,"Pergaminho de Retorno - Ninhos da Formiga Rainha do Deserto"
+pt_582,"Cristal do Espírito Especial (Água)"
+pt_583,"Cristal do Espírito Especial (Fogo)"
+pt_584,"Cristal do Espírito Especial (Vento)"
+pt_585,"Cristal do Espírito Especial (Terra)"
+pt_586,"Pergaminho Universal"
+pt_587,Mapa
+pt_588,"Bilhete da Barca"
+pt_589,NULL
+pt_590,NULL
+pt_591,NULL
+pt_592,NULL
+pt_593,"Poção da Morte"
+pt_594,NULL
+pt_595,NULL
+pt_596,NULL
+pt_597,NULL
+pt_598,NULL
+pt_599,NULL
+pt_600,NULL
+pt_601,NULL
+pt_602,NULL
+pt_603,NULL
+pt_604,NULL
+pt_605,NULL
+pt_606,NULL
+pt_607,NULL
+pt_608,NULL
+pt_609,NULL
+pt_610,NULL
+pt_611,NULL
+pt_612,"Pergaminho de Novato"
+pt_613,"Pergaminho de Retorno - Masmorra de Oxvale"
+pt_614,"Poção da Tranquilidade"
+pt_615,"Caninos de Lobisomem Enfraquecido"
+pt_616,"Fragmento de Cristal do Tempo"
+pt_617,"Pena de Harpia Enfraquecida"
+pt_618,"Comida de Urso Coruja Enfraquecido"
+pt_619,"Novato Poção de Cura"
+pt_620,"Novato Poção Laranja"
+pt_621,"Biscoitos de baunilha"
+pt_622,"Novato Poção de Cura Inferior"
+pt_623,NULL
+pt_624,"Novato Poção de Velocidade"
+pt_625,NULL
+pt_626,"Pergaminho de Retorno - [Monumento de Edin]"
+pt_627,"Contêiner de Justina"
+pt_628,"Vinhas de Fogo"
+pt_629,"Lâmina Partida"
+pt_630,"Cristal de Alma de Zumbi"
+pt_631,"Cristal de Alma do Olho Voador"
+pt_632,"Sangue de Ghoul"
+pt_633,"Pele de Lobo"
+pt_634,"Cristal do Tempo"
+pt_635,"Depósito de Armaduras da Leah"
+pt_636,"Poção de Cura da Leah"
+pt_637,"Couro de Caçador"
+pt_638,"Livro de Encantos"
+pt_639,Novato
+pt_640,"Servente do Cavaleiro da Morte"
+pt_641,"Pergaminho de Polimorfo (Novato)"
+pt_642,"Escudo (Mágico)"
+pt_643,"Raio de Energia"
+pt_644,"Adaga de Gelo"
+pt_645,"Cura Inferior"
+pt_646,Teleporte
+pt_647,Luz
+pt_648,"Arma Sagrada"
+pt_649,"Shuriken do Vento"
+pt_650,"Presa Infernal"
+pt_651,"Toque Frio"
+pt_652,"Encantar Arma"
+pt_653,"Maldição: Veneno"
+pt_654,"Flecha de Fogo"
+pt_655,Detecção
+pt_656,"Poção de Cura"
+pt_657,"Diminuir Peso"
+pt_658,Curar
+pt_659,"Nuvem de congelamento"
+pt_660,Relâmpago
+pt_661,"Revelar Fraqueza"
+pt_662,"Transformar em Zumbi"
+pt_663,"Armadura Abençoada"
+pt_664,"Maldição: Cegueira"
+pt_665,Meditação
+pt_666,"Toque do Vampiro"
+pt_667,"Quebra de Arma"
+pt_668,"Prisão da Terra"
+pt_669,"Bola de Fogo"
+pt_670,Lento
+pt_671,"Encanto Físico: DES"
+pt_672,"Contra Magia"
+pt_673,"Cone de Frio"
+pt_674,"Maldição: Paralisia"
+pt_675,"Invocar Relâmpago"
+pt_676,"Retirar Maldição"
+pt_677,"Domar Monstro"
+pt_678,"Cura Superior"
+pt_679,"Drenagem de Mana"
+pt_680,Trevas
+pt_681,Aceleração
+pt_682,Erupção
+pt_683,Fraqueza
+pt_684,"Raio de Sol"
+pt_685,"Abençoar Arma"
+pt_686,"Criar Zumbi"
+pt_687,"Encanto Físico: FOR"
+pt_688,"Cancelar Magia"
+pt_689,Congelar
+pt_690,"Invocar Monstro"
+pt_691,"Aceleração Superior"
+pt_692,Berserk
+pt_693,Doença
+pt_694,"Caminhada Sagrada"
+pt_695,"Promessa de Cura"
+pt_696,Tornado
+pt_697,"Mina Mágica"
+pt_698,"Cura Total"
+pt_699,Nevasca
+pt_700,"Corrente da Vida"
+pt_701,"Parede de Fogo"
+pt_702,Ressurreição
+pt_703,Invisibilidade
+pt_704,Terremoto
+pt_705,Silêncio
+pt_706,"Contra Detecção"
+pt_707,"Névoa do Sono"
+pt_708,"Tempestade de Fogo"
+pt_709,"Protetor de Proteção"
+pt_710,"Poção de Deterioração"
+pt_711,"Troca de Forma"
+pt_712,"Teleporte em Massa"
+pt_713,"Tempestade de Raios"
+pt_714,"Campo de Força"
+pt_715,"Visão Interna"
+pt_716,"Estaca de Gelo"
+pt_717,"Criar Arma Mágica"
+pt_718,"Ataque de Meteoros"
+pt_719,Destruir
+pt_720,"Ressurreição Superior"
+pt_721,"Barreira Absoluta"
+pt_722,"Lentidão em Massa"
+pt_723,"Avançar Espírito"
+pt_724,"Alterar Posição"
+pt_725,"Teleporte em Massa Encantado"
+pt_726,"Paralisar Todos"
+pt_727,"Piscina Refletiva"
+pt_728,NULL
+pt_729,NULL
+pt_730,NULL
+pt_731,NULL
+pt_732,NULL
+pt_733,NULL
+pt_734,NULL
+pt_735,NULL
+pt_736,NULL
+pt_737,NULL
+pt_738,NULL
+pt_739,NULL
+pt_740,"Teleportar para Mãe"
+pt_741,"Corpo para Mente"
+pt_742,"Resistir a Magia"
+pt_743,"Resistir a Elemental"
+pt_744,"Mente Limpa"
+pt_745,"Flecha Tripla"
+pt_746,"Proteção do Elemental"
+pt_747,Emaranhar
+pt_748,"Pele da Terra"
+pt_749,"Vida da Água"
+pt_750,"Arma do Fogo"
+pt_751,"Retorno à Natureza"
+pt_752,"Caminhada do Vento"
+pt_753,"Disparo do Vento"
+pt_754,"Sangue para Alma"
+pt_755,"Invocar Elemental Inferior"
+pt_756,"Ligação à Terra"
+pt_757,"Guardião da Terra"
+pt_758,"Queda do Elemental"
+pt_759,"Olho da Tempestade"
+pt_760,"Proteção Aquática"
+pt_761,"Labareda Dançarina"
+pt_762,"Toque da Natureza"
+pt_763,"Eliminar Magia"
+pt_764,"Invocar Elemental Superior"
+pt_765,"Área do Silêncio"
+pt_766,"Fogo Elemental"
+pt_767,"Caminhada da Tempestade"
+pt_768,"Disparo da Tempestade"
+pt_769,"Poluir Água"
+pt_770,"Arma Flamejante"
+pt_771,"Alma da Chama"
+pt_772,"Milagre da Natureza"
+pt_773,"Bênção da Natureza"
+pt_774,"Ventania Arrasadora"
+pt_775,"Fogo Adicional"
+pt_776,"Pele de Ferro"
+pt_777,"Contra Espelho"
+pt_778,"Grilhões de Vento"
+pt_779,"Vitalidade Exótica"
+pt_780,"Carruagem Sólida"
+pt_781,"Armadura de Redução"
+pt_782,"Contra Barreira"
+pt_783,"Choque Atordoante"
+pt_784,"Ataque Ricochete"
+pt_785,"Alvo Real"
+pt_786,"Chamar Clã"
+pt_787,"Aura Brilhante"
+pt_788,"Aprender Clã"
+pt_789,"Aura de Bravura"
+pt_790,"Aura Iluminada"
+pt_791,NULL
+pt_792,NULL
+pt_793,NULL
+pt_794,NULL
+pt_795,NULL
+pt_796,NULL
+pt_797,NULL
+pt_798,NULL
+pt_799,NULL
+pt_800,NULL
+pt_801,Lâmpada
+pt_802,Lanternas
+pt_803,Querosene
+pt_804,"Lanternas Mágicas"
+pt_805,Velas
+pt_806,"Varinha de Conjurar Monstro"
+pt_807,"Varinha de Pinho"
+pt_808,"Varinha de Invocar Relâmpago"
+pt_809,"Varinha de Ébano"
+pt_810,"Varinha do Polimorfo"
+pt_811,"Varinha de Bordo"
+pt_812,"Varinha de Expulsar"
+pt_813,"Poção de Afobação Maior"
+pt_814,NULL
+pt_815,"Poção de Cura Inferior Condensada"
+pt_816,"Poção de Cura Condensada"
+pt_817,"Poção de Cura Superior Condensada"
+pt_818,"Poção Laranja Condensada"
+pt_819,"Poção de Cura Superior Condensada"
+pt_820,"Poção Branca Condensada"
+pt_821,"Poção de Cura Inferior Antiga"
+pt_822,NULL
+pt_823,"Poção de Cura Antiga"
+pt_824,NULL
+pt_825,"Poção de Cura Superior Antiga"
+pt_826,NULL
+pt_827,"Poção da Cegueira"
+pt_828,"Poção Negra"
+pt_829,Elixir(FOR)
+pt_830,Elixir(CON)
+pt_831,Elisir(DES)
+pt_832,Elixir(INT)
+pt_833,Elixir(SAB)
+pt_834,Elixir(CAR)
+pt_835,Vinho
+pt_836,Uísque
+pt_837,"Poção de Raciocínio"
+pt_838,Diamante
+pt_839,Rubi
+pt_840,Safira
+pt_841,Esmeralda
+pt_842,"Diamante de alta qualidade"
+pt_843,"Rubi de alta qualidade"
+pt_844,"Safira de alta qualidade"
+pt_845,"Esmeralda de alta qualidade"
+pt_846,"Diamante de altíssima qualidade"
+pt_847,"Rubi de altíssima qualidade"
+pt_848,"Safira de altíssima qualidade"
+pt_849,"Esmeralda de altíssima qualidade"
+pt_850,Carne
+pt_851,"Carne do Olho Flutuante"
+pt_852,Ovo
+pt_853,Cenoura
+pt_854,Limão
+pt_855,Banana
+pt_856,Maçã
+pt_857,Laranja
+pt_858,"Pergaminho de Encantamento de Armadura"
+pt_859,"Pergaminho de Destruição de Armadura"
+pt_860,"Pergaminho de Fuga"
+pt_861,"Pergaminho de Teleporte em Massa"
+pt_862,"Pergaminho de Encantamento de Arma"
+pt_863,"Pergaminho de Polimorfo"
+pt_864,"Pergaminho de Ressurreição"
+pt_865,"Novato Pergaminho de Fuga"
+pt_866,"Novato Pergaminho de Retirada de Maldição"
+pt_867,"Novato Pergaminho de Identificação"
+pt_868,"Novato Pergaminho de Teleporte"
+pt_869,"Pergaminho de Teleporte"
+pt_870,"Pergaminho de Retirada de Maldição"
+pt_871,"Pergaminho de Identificação"
+pt_872,"Coração de Golem"
+pt_873,"Chave dourada"
+pt_874,"Coração de Dragão"
+pt_875,Platina
+pt_876,"Chave do Quarto da Estalagem"
+pt_877,"Chave de prata"
+pt_878,"Coleira de Filhote"
+pt_879,"Pedra de Amolar"
+pt_880,"Gema Mágica"
+pt_881,"Gema do Espírito"
+pt_882,"Escama do Scatha"
+pt_883,"Garra do Scatha"
+pt_884,"Olho do Scatha"
+pt_885,"Sangue do Scatha"
+pt_886,"Carne do Scatha"
+pt_887,"Coração do Scatha"
+pt_888,"Osso do Scatha"
+pt_889,"Dente do Scatha"
+pt_890,"Escama do Dragão do Fogo"
+pt_891,"Escama do Dragão do Vento"
+pt_892,"Escama do Dragão da Água"
+pt_893,"Escama do Dragão da Terra"
+pt_894,Couro
+pt_895,"Couro Duro"
+pt_896,"Monte de Ferro"
+pt_897,"Teia de Lolth"
+pt_898,"Pele de Lobo"
+pt_899,"Armadura de Platina"
+pt_900,Platina
+pt_901,"Pedaço de Platina Bruto"
+pt_902,"Suco de Lodo"
+pt_903,"Mithril Negro"
+pt_904,"Monte de Mithril Negro Bruto"
+pt_905,"Placa de Mithril Negro"
+pt_906,"Tecido azul"
+pt_907,"Tecido vermelho"
+pt_908,"Tecido branco"
+pt_909,Escama
+pt_910,"Carapaça de Escorpião"
+pt_911,"Monte de Prata"
+pt_912,"Pedaço de Prata Bruto"
+pt_913,"Placa de Prata"
+pt_914,"Pedaço de Alma"
+pt_915,"Fragmento de Espírito"
+pt_916,"Pelo do Cérbero"
+pt_917,"Placa de Ouro"
+pt_918,"Monte de Ouro"
+pt_919,"Pedaço de Ouro Bruto"
+pt_920,"Pena de Grifo"
+pt_921,"Fio de Mithril"
+pt_922,"Monte de Mithril"
+pt_923,"Placa de Mithril"
+pt_924,Fio
+pt_925,Oricalco
+pt_926,"Armadura de Oricalco"
+pt_927,"Sangue de Ogro"
+pt_928,"Elementos de Pedra"
+pt_929,"Pó de Fada"
+pt_930,"Asa de Fada"
+pt_931,"Armadura Fina"
+pt_932,"Chaves negras"
+pt_933,"Cave vermelha"
+pt_934,"Flecha Antiga"
+pt_935,Flecha
+pt_936,"Flecha de Prata"
+pt_937,"Flecha Dourada"
+pt_938,"Flecha de Mithril"
+pt_939,"Flecha de Mithril Negro"
+pt_940,"Flecha de Oricalco"
+pt_941,"Bloco de Aço"
+pt_942,"Monte de Ferro Bruto"
+pt_943,Pedras
+pt_944,Solvente
+pt_945,Farinha
+pt_946,Tomate
+pt_947,"Água Benta"
+pt_948,"Pergaminho de Encantamento de Arma: Fogo"
+pt_949,"Pergaminho de Encantamento de Arma: Terra"
+pt_950,"Pergaminho de Encantamento de Arma: Água"
+pt_951,"Pergaminho de Encantamento de Arma: Vento"
+pt_952,"Poção de Renascimento"
+pt_953,Carta
+pt_954,"Pergaminho de Encantamento de Acessório"
+pt_955,"Insígnia de Coragem"
+pt_956,"Placa Rara"
+pt_957,"Placa Vazia"
+pt_958,"Ossos de Zumbis"
+pt_959,"Couro rasgado(X)"
+pt_960,"Couro rasgado(Y)"
+pt_961,"Essência do Mago Esqueleto"
+pt_962,"Cristal da Alma Purificada"
+pt_963,"Coração do Golem de Pedra"
+pt_964,"Cristal da Alma Corrompida"
+pt_965,"Mapa da Masmorra da Ilha Prometida"
+pt_966,"Mensagem do Túnel de Fuga Antigo"
+pt_967,"Essência do Poder do Cavaleiro da Morte"
+pt_968,"Cristal da Alma Corrompida"
+pt_969,"Ossos Zumbificados do Cavaleiro da Morte"
+pt_970,"Pedra Vazia"
+pt_971,"Corações dos Thri Kreen"
+pt_972,"Presas de Lobisomem"
+pt_973,"Óleo de Ghoul"
+pt_974,"Carne de Ghast"
+pt_975,"Recipiente de Fragmentos de Osso"
+pt_976,"Pacotes de Suprimento de Comida"
+pt_977,"Caixa de Pedra"
+pt_978,"Moeda de Platina Antiga"
+pt_979,"Juramento Escrito"
+pt_980,"Poção de Cura Inferior (vinculado)"
+pt_981,"Poção de Cura de Venenos (vinculado)"
+pt_982,"Poção de Cura Inferior (vinculado)"
+pt_983,"Poção de Velocidade (vinculado)"
+pt_984,"Pergaminho de Fuga (vinculado)"
+pt_985,"Pergaminho de Teleporte (vinculado)"
+pt_986,"Pergaminho de Retirada de Maldição (vinculado)"
+pt_987,"Pergaminho de Identificação (vinculado)"
+pt_988,"Pedra de Amolar (vinculado)"
+pt_989,"Pergaminho de Encantamento de Arma (vinculado)"
+pt_990,"Pergaminho de Encantamento de Armadura (vinculado)"
+pt_991,"Chave de Madeira do Inferno"
+pt_992,"Chave de Sangue Negra"
+pt_993,"Pergaminho de Deformação Avançado"
+pt_994,"Pergaminho de Deformação Supremo"
+pt_995,NULL
+pt_996,NULL
+pt_997,NULL
+pt_998,NULL
+pt_999,NULL
+pt_1000,"Adaga de Orc"
+pt_1001,"Adaga de Dados"
+pt_1002,"Corpo da Espada Curta"
+pt_1003,Adaga
+pt_1004,"Adaga de Elfo"
+pt_1005,"Adaga de Novato"
+pt_1006,"Adaga de Mithril"
+pt_1007,"Adaga de Oricalco"
+pt_1008,"Espada de Bran Amaldiçoada"
+pt_1009,"Corpo da Espada Longa"
+pt_1010,"Corpo da Espada de Oricalco"
+pt_1011,"Espada Curta de Orc"
+pt_1012,"Rompedor de Malha"
+pt_1013,"Espada Larga"
+pt_1014,"Espada Curta"
+pt_1015,"Espada de Prata"
+pt_1016,"Espada Curta de Anão"
+pt_1017,Cimitarra
+pt_1018,"Espada Curta de Elfo"
+pt_1019,"Espada de Prata Longa"
+pt_1020,"Espada do Cavaleiro Vermelho"
+pt_1021,"Espada Larga"
+pt_1022,"Espada do Invasor"
+pt_1023,"Espada de Mão Única de Novato"
+pt_1024,"Espada de Damasco"
+pt_1025,Cutelo
+pt_1026,Katana
+pt_1027,Rapieira
+pt_1028,Shamshir
+pt_1029,"Espada de Duas Mãos de Novato"
+pt_1030,"Espada de Duas Mãos"
+pt_1031,"Espada de Bran"
+pt_1032,Tsurugi
+pt_1033,"Espada de Fogo do Cavaleiro da Morte"
+pt_1034,"Lâmina do Destino"
+pt_1035,"Grande Espada"
+pt_1036,"Corneta do Pan"
+pt_1037,"Corneta Revestida com Mithril"
+pt_1038,Bardiche
+pt_1039,"Lança de Orc"
+pt_1040,"Bill Guisarme"
+pt_1041,Tridente
+pt_1042,Partisan
+pt_1043,Lanceta
+pt_1044,Lanceta
+pt_1045,Guisarme
+pt_1046,Glaive
+pt_1047,"Lança de Elfo"
+pt_1048,"Corneta Revestida com Oricalco"
+pt_1049,"Martelo de Lucerna"
+pt_1050,Alabarda
+pt_1051,Glaive
+pt_1052,"Lança de Novato"
+pt_1053,"Bec de Corbin"
+pt_1054,"Espada Curta da Resistência a Magia de Elfo"
+pt_1055,"Espada Curta da Destreza de Elfo"
+pt_1056,"Cajado de Cristal"
+pt_1057,"Cajado de Novato"
+pt_1058,"Cajado de Beleth"
+pt_1059,"Cajado de Baphomet"
+pt_1060,"Cajado da Fetiçaria"
+pt_1061,"Cajado de Mana"
+pt_1062,"Cajado de Mana de Aço"
+pt_1063,"Cajado de Carvalho"
+pt_1064,"Cajado de Bruxo"
+pt_1065,"Cajado da Força"
+pt_1066,Machado
+pt_1067,Athame
+pt_1068,Clava
+pt_1069,Massa
+pt_1070,Bastão
+pt_1071,"Martelo de Guerra"
+pt_1072,"Machado de Prata"
+pt_1073,Bardiche
+pt_1074,"Machado de Batalha de Aço Nobre"
+pt_1075,"Machado de Berserker"
+pt_1076,"Estrela da Manhã"
+pt_1077,"Machado de Novato"
+pt_1078,"Grande Machado"
+pt_1079,"Arco de Caçador"
+pt_1080,"Arco de Elfo"
+pt_1081,"Arco de Orc"
+pt_1082,Arco
+pt_1083,"Arco Curto"
+pt_1084,"Arco de Pedra de Novato"
+pt_1085,"Arco de Novato"
+pt_1086,Besta
+pt_1087,Yumi
+pt_1088,"Arma de Arco Antiga"
+pt_1089,"Arco de Venti"
+pt_1090,"Espada Curta do Poder dos Encantos de Elfo"
+pt_1091,"Espada Curta da Constituição de Elfo"
+pt_1092,"Cajado de Mana(Pessoal)"
+pt_1093,"Cajado de Gema(Pessoal)"
+pt_1094,"Lança Encantada"
+pt_1095,"Mago Mestre"
+pt_1096,"Machado de Soldado Encantado"
+pt_1097,"Arqueiro Mágico"
+pt_1098,"Guerreiro Encantado"
+pt_1099,"Aranha Encantada"
+pt_1100,"Ghoul Encantado"
+pt_1101,"Rei Bicho-papão Encantado"
+pt_1102,"Corpo em decomposição"
+pt_1103,"Lei Amaldiçoada"
+pt_1104,Atormentado
+pt_1105,Condenado
+pt_1106,"Ogro Encantado"
+pt_1107,"Velho Estranho"
+pt_1108,"Sombra do Velho Estranho"
+pt_1109,"Fantasma Azarado"
+pt_1110,"Sombra do Fantasma Azarado"
+pt_1111,"Rainha Aranha Encantada"
+pt_1112,"Portador do Machado Avarento"
+pt_1113,"Garra do Desastre"
+pt_1114,"Pecado Doente"
+pt_1115,"Baphomet Encantado"
+pt_1116,"Pergaminho de Deformação Supremo"
+pt_1117,"Espada da Esperança(Pessoal)"
+pt_1118,"Espada da Esperança"
+pt_1119,"Poção de Recuperação Mágica"
+pt_1120,"Pergaminho de Retorno - Masmorra de Maros 1F (vinculado)"
+pt_1121,"Pergaminho de Retorno - Masmorra de Maros 2F (vinculado)"
+pt_1122,"Pergaminho de Retorno - Masmorra de Maros 3F (vinculado)"
+pt_1123,"Pergaminho de Retorno - Masmorra de Maros 4F (vinculado)"
+pt_1124,"Pergaminho de Retorno - Masmorra de Maros 5F (vinculado)"
+pt_1125,"Pergaminho de Retorno - Masmorra de Maros 6F (vinculado)"
+pt_1126,"Pergaminho de Retorno - Masmorra de Maros 7F (vinculado)"
+pt_1127,"Ossos de Carneiro"
+pt_1128,Deadwood
+pt_1129,"Refeição Essência de Osso"
+pt_1130,Totem
+pt_1131,"Fragmentos de Totem"
+pt_1132,"Grande Abóbora [Dia das Bruxas]"
+pt_1133,"Biscoito de Abóbora [Dia das Bruxas]"
+pt_1134,"Totem de Orc"
+pt_1135,"Pedra de Elfo"
+pt_1136,"Deus da Água"
+pt_1137,"Carta do Líder dos Orc"
+pt_1138,"Antigo Livro de Feitiços de Magia da Névoa"
+pt_1139,"A Pedra de Coração do Feitiço da Névoa"
+pt_1140,"Bênção da Deusa da Lua"
+pt_1141,"Carneiro perdido"
+pt_1142,"Asas de Elfo roubadas"
+pt_1143,"Chapéu de Papai Noel"
+pt_1144,"Meia de Papai Noel"
+pt_1145,"Presente de Natal"
+pt_1146,"Presente de Natal Sortudo"
+pt_1147,"Juramento Temporário"
+pt_1148,"Mapa do Tesouro Avançado (Ilha Prometida)"
+pt_1149,NULL
+pt_1150,NULL
+pt_1151,NULL
+pt_1152,NULL
+pt_1153,"Mapa do Tesouro Avançado (Ilha Prometida)"
+pt_1154,"Pedaço de Mapa do Tesouro Avançado I (Ilha Prometida)"
+pt_1155,"Pedaço de Mapa do Tesouro Avançado II (Ilha Prometida)"
+pt_1156,"Pedaço de Mapa do Tesouro Avançado III (Ilha Prometida)"
+pt_1157,"Pedaço de Mapa do Tesouro Avançado IV (Ilha Prometida)"
+pt_1158,NULL
+pt_1159,NULL
+pt_1160,NULL
+pt_1161,NULL
+pt_1162,NULL
+pt_1163,NULL
+pt_1164,NULL
+pt_1165,NULL
+pt_1166,NULL
+pt_1167,NULL
+pt_1168,NULL
+pt_1169,NULL
+pt_1170,NULL
+pt_1171,NULL
+pt_1172,NULL
+pt_1173,NULL
+pt_1174,NULL
+pt_1175,NULL
+pt_1176,NULL
+pt_1177,NULL
+pt_1178,NULL
+pt_1179,NULL
+pt_1180,NULL
+pt_1181,NULL
+pt_1182,"Monarca Ungoliant"
+pt_1183,"Líder Duende"
+pt_1184,"Monarca Cérbero"
+pt_1185,"Líder Goblin"
+pt_1186,"Líder Hobgoblin"
+pt_1187,"General Esqueleto de Elite"
+pt_1188,"General Esqueleto Mago de Elite"
+pt_1189,"General Esqueleto Machadeiro de Elite"
+pt_1190,"General Esqueleto Arqueiro de Elite"
+pt_1191,"General Esqueleto Lanceiro de Elite"
+pt_1192,"Tenente Esqueleto"
+pt_1193,"Tenente Esqueleto Mago"
+pt_1194,"Tenente Esqueleto Machadeiro"
+pt_1195,"Tenente Esqueleto Arqueiro"
+pt_1196,"Tenente Esqueleto Lanceiro"
+pt_1197,"Lobisomem Alfa"
+pt_1198,"Olho Voador de Elite"
+pt_1199,"Licantropo Alfa"
+pt_1200,"Líder Zumbi"
+pt_1201,"Monarca Laracna"
+pt_1202,"Golem de Pedra de Elite"
+pt_1203,"Líder Ghast"
+pt_1204,"Líder Ogro"
+pt_1205,"Líder Ghoul"
+pt_1206,"Lodo de Elite"
+pt_1207,"Líder Ogro"
+pt_1208,"Líder Orc Mago"
+pt_1209,"Líder Orc Arqueiro"
+pt_1210,"Líder Orc Lutador"
+pt_1211,"Monarca Thri Keen"
+pt_1212,"Monarca Bicho-papão"
+pt_1213,"Nightshade de Elite"
+pt_1214,"Anão de Elite"
+pt_1215,"Anão Guerreiro de Elite"
+pt_1216,"Mapa do Tesouro"
+pt_1217,"Mapa do Tesouro Avançado"
+pt_1218,"Monarca Lolth"
+pt_1219,"Tenente Drow"
+pt_1220,"Tenente Grunhido do Orc"
+pt_1221,"Tenente Guarda Orc"
+pt_1222,"Tenente Balestra de Orc"
+pt_1223,"Líder Xamã Orc"
+pt_1224,"Líder Zumbi Orc"
+pt_1225,"Pergaminho de Polimorfagem Nível 1"
+pt_1226,"Pergaminho de Polimorfagem Nível 2"
+pt_1227,"Pergaminho de Polimorfagem Nível 3"
+pt_1228,"Pergaminho de Polimorfagem Nível 4"
+pt_1229,"Pergaminho de Polimorfagem Nível 5"
+pt_1230,"Pergaminho de Polimorfagem Nível 6"
+pt_1231,"Cristal do Espírito"
+pt_1232,"Cristal do Espírito Especial (Terra)"
+pt_1233,"Cristal do Espírito Especial (Água)"
+pt_1234,"Cristal do Espírito Especial (Vento)"
+pt_1235,"Cristal do Espírito Especial (Fogo)"
+pt_1236,NULL
+pt_1237,NULL
+pt_1238,NULL
+pt_1239,NULL
+pt_1240,NULL
+pt_1241,NULL
+pt_1242,NULL
+pt_1243,NULL
+pt_1244,NULL
+pt_1245,NULL
+pt_1246,NULL
+pt_1247,NULL
+pt_1248,NULL
+pt_1249,"O velho Pergaminho de Deformação Avançado(vinculado)"
+pt_1250,"Pergaminho de Deformação Avançado(vinculado)"
+pt_1251,"A essência de polimorfagem"
+pt_1252,"Aparelho mágico de Merlin"
+pt_1253,NULL
+pt_1254,NULL
+pt_1255,vinculado
+pt_1256,"Lobisomem Sanguinário"
+pt_1257,"Ogro Sanguinário"
+pt_1258,"Lobisomem Sanguinário Alfa"
+pt_1259,"Líder Ogro Sanguinário"
+pt_1260,"Escudo do Cavaleiro Escarlate"
+pt_1261,"Líder Súcubo"
+pt_1262,"Líder Cocatrice"
+pt_1263,Velho
+pt_1264,Reluzente
+pt_1265,Amy[Estilo]
+pt_1266,Ganancioso
+pt_1267,"[Arena Caótica]"
+pt_1268,[Trocar]
+pt_1269,"[Conversão de Atributo]"
+pt_1270,"Caixa de Presente de Desenvolvimento de Personagem"
+pt_1271,"Luz da Esperança"
+pt_1272,"Proteção do Templo de Parth"
+pt_1273,"Anel da Paz"
+pt_1274,"Arma Poderosa de Zese"
+pt_1275,"Pergaminho de Encantamento de Arma (Exclusivo da Missão)"
+pt_1276,"Juramento Selado (15 Dias)"
+pt_1277,Gloria
+pt_1278,魔法符石
+pt_1279,NULL
+pt_1280,NULL
+pt_1281,NULL
+pt_1282,NULL
+pt_1283,NULL
+pt_1284,NULL
+pt_1285,NULL
+pt_1286,NULL
+pt_1287,NULL
+pt_1288,NULL
+pt_1289,"Conjunto do Cavaleiro Vermelho"
+pt_1290,"Conjunto do Cavaleiro da Morte"
+pt_1291,"Conjunto de Bran"
+pt_1292,"Conjunto de Couro"
+pt_1293,"Conjunto de Orc"
+pt_1294,"Conjunto de Anão"
+pt_1295,"Conjunto de Couro Adornado"
+pt_1296,"Conjunto de Osso"
+pt_1297,"Conjunto de Mago"
+pt_1298,"Conjunto de Ferro"
+pt_1299,"Sandálias de Couro Adornadas"
+pt_1300,"Gorro de Couro"
+pt_1301,"Elmo de Couro"
+pt_1302,"Visor de Ferro"
+pt_1303,"Capuz do Cavaleiro"
+pt_1304,"Visor do Cavaleiro"
+pt_1305,"Elmo de Ferro de Anão"
+pt_1306,"Velho Elmo de Vento"
+pt_1307,"Elmo do Cavaleiro da Morte"
+pt_1308,"Elmo da Resistência a Magia"
+pt_1309,"Gorro de Bruxo"
+pt_1310,"Elmo de Magia: Velocidade"
+pt_1311,"Elmo de Magia: Cura"
+pt_1312,"Elmo de Magia: Poder"
+pt_1313,"Gorro de Svipdag"
+pt_1314,Coroa
+pt_1315,"Elmo da Destreza de Elfo"
+pt_1316,"Elmo do Vento"
+pt_1317,"Elmo do Rei Átila"
+pt_1318,"Gorro de Sauroner"
+pt_1319,"Visão Noturna"
+pt_1320,"Capuz do Cavaleiro Vermelho"
+pt_1321,"Elmo de Couro de Novato"
+pt_1322,"Gorro de Skuld"
+pt_1323,"Bênção de Elmo"
+pt_1324,"Elmo de Orc"
+pt_1325,"Elmo de Couro de Elfo"
+pt_1326,"Elmo da Infravisão"
+pt_1327,"Gorro de Couro Adornado"
+pt_1328,"Elmo Élfico de Constituição"
+pt_1329,"Quepe de Endor"
+pt_1330,"Elmo de Bran"
+pt_1331,"Argola de Niviane"
+pt_1332,Elmo
+pt_1333,"Elmo de Osso"
+pt_1334,"Asa Dourada da Formiga Rainha Gigante"
+pt_1335,"Asa Prateada da Formiga Rainha Gigante"
+pt_1336,"Manto de Anão"
+pt_1337,"Manto da Terra"
+pt_1338,"Manto de Mana"
+pt_1339,"Manto da Resistência a Magia"
+pt_1340,"Manto da Água"
+pt_1341,"Manto do Vento"
+pt_1342,"Manto da Proteção"
+pt_1343,"Manto do Cavaleiro Vermelho"
+pt_1344,"Manto Vermelho"
+pt_1345,"Manto do Fogo"
+pt_1346,"Manto de Orc"
+pt_1347,"Manto de Elfo"
+pt_1348,"Manto de Prata"
+pt_1349,"Manto da Invisibilidade"
+pt_1350,"Manto do Deslocamento"
+pt_1351,"Manto Impermeável"
+pt_1352,"Camiseta de novato"
+pt_1353,Camiseta
+pt_1354,"Armadura de Couro"
+pt_1355,"Colete de Couro"
+pt_1356,"Malha de Placas de Ferro"
+pt_1357,"Cota de Malha"
+pt_1358,"Armadura de Madeira"
+pt_1359,"Armadura do Cavaleiro da Morte"
+pt_1360,"Loriga Segmentada"
+pt_1361,"Cota Encadeada de Resistência a Magia"
+pt_1362,"Trajes de Bruxo"
+pt_1363,"Túnica de Algodão"
+pt_1364,"Cota de Talas"
+pt_1365,"Armadura de Baphomet"
+pt_1366,"Armadura do Rei Átila"
+pt_1367,"Colete de Couro com Cinto"
+pt_1368,"Malha de Escamas"
+pt_1369,"Armadura de Osso"
+pt_1370,"Cota Encadeada"
+pt_1371,"Armadura de Couro de Novato"
+pt_1372,"Malha de Placas de Cristal"
+pt_1373,"Cota de Malha de Orc"
+pt_1374,"Cota Encadeada de Orc"
+pt_1375,"Cota Encadeada de Elfo"
+pt_1376,"Malha de Placas de Elfo"
+pt_1377,"Armadura Élfica de Tórax"
+pt_1378,"Colete de Couro Duro"
+pt_1379,"Armadura de Couro Adornada"
+pt_1380,"Colete de Couro Adornado"
+pt_1381,"Malha de Placas de Bronze"
+pt_1382,"Armadura de Bran"
+pt_1383,"Túnica de Niviane"
+pt_1384,"Malha de Placas"
+pt_1385,"Luvas de Couro"
+pt_1386,"Luvas de Ferro"
+pt_1387,"Luvas do Cavaleiro da Morte"
+pt_1388,"Luvas do Rei Átila"
+pt_1389,"Luvas da Proteção"
+pt_1390,"Luvas do Espírito da Água"
+pt_1391,"Luvas de Couro de Novato"
+pt_1392,"Luvas da Neve"
+pt_1393,"Luvas de Cristal"
+pt_1394,"Luvas do Espírito da Terra"
+pt_1395,"Luvas do Espírito do Fogo"
+pt_1396,Luvas
+pt_1397,"Luvas de Bran"
+pt_1398,"Luvas de Niviane"
+pt_1399,"Luvas do Poder"
+pt_1400,"Luvas do Espírito do Vento"
+pt_1401,Braçadeira
+pt_1402,"Botas de Couro"
+pt_1403,"Sandálias de Couro"
+pt_1404,"Botas de Ferro"
+pt_1405,"Botas do Cavaleiro da Morte"
+pt_1406,"Botas do Rei Átila"
+pt_1407,"Botas de Beleth"
+pt_1408,"Botas Altas"
+pt_1409,"Sandálias de Couro de Novato"
+pt_1410,"Botas Submarinas"
+pt_1411,"Botas Baixas"
+pt_1412,"Botas de Bran"
+pt_1413,"Botas de Niviane"
+pt_1414,"Sandálias do Ancião Negro"
+pt_1415,"Escudo de Couro"
+pt_1416,"Escudo de Ferro"
+pt_1417,"Escudo de Osso"
+pt_1418,"Escudo de Madeira"
+pt_1419,"Escudo Redondo de Anão"
+pt_1420,"Esfera de Cristal de Mana"
+pt_1421,"Livro de Poderes Mágicos"
+pt_1422,"Escudo da Reflexão"
+pt_1423,"Escudo do Olho Vermelho"
+pt_1424,"Escudo da Torre"
+pt_1425,"Escudo de Couro de Novato"
+pt_1426,"Escudo de Elfo"
+pt_1427,"Escudo de Orc"
+pt_1428,"Escudo do Cavaleiro Prateado"
+pt_1429,"Escudo Pequeno"
+pt_1430,"Escudo de Couro Adornado"
+pt_1431,"Escudo Grande"
+pt_1432,"Amuleto da Nova Camelot"
+pt_1433,"Amuleto de Carisma Velho"
+pt_1434,"Amuleto de Destreza Velho"
+pt_1435,"Amuleto da Força Velho"
+pt_1436,"Amuleto de Inteligência Velho"
+pt_1437,"Amuleto da Sabedoria Velho"
+pt_1438,"Amuleto da Constituição Velho"
+pt_1439,"Amuleto de Carisma"
+pt_1440,"Amuleto de Destreza"
+pt_1441,"Amuleto da Ilha Prometida"
+pt_1442,"Amuleto de Guerreiro"
+pt_1443,"Amuleto da Força"
+pt_1444,"Amuleto da Inteligência"
+pt_1445,"Amuleto da Sabedoria"
+pt_1446,"Amuleto da Constituição"
+pt_1447,"Amuleto do Esqueleto"
+pt_1448,"Anel da Imunidade a Magia"
+pt_1449,"Anel de Controle de Polimorfo"
+pt_1450,"Anel de Novato"
+pt_1451,"Anel de Controle de Invocação"
+pt_1452,"Anel de Resistência a Água"
+pt_1453,"Anel de Controle de Teleporte"
+pt_1454,"Anel de Resistência a Terra"
+pt_1455,"Anel de Resistência a Vento"
+pt_1456,"Anel da Resistência a Magia"
+pt_1457,"Anel de Resistência a Fogo"
+pt_1458,"Cinto de Corpo Velho"
+pt_1459,"Cinto da Alma Velho"
+pt_1460,"Cinto de Mente Velho"
+pt_1461,"Cinto de Corpo Brilhante"
+pt_1462,"Cinto da Alma Brilhante"
+pt_1463,"Cinto da Mente Brilhante"
+pt_1464,"Cinto de Corpo"
+pt_1465,"Cinto da Alma"
+pt_1466,"Cinto de Ogro"
+pt_1467,"Cinto da Bravura"
+pt_1468,"Cinto da Mente"
+pt_1469,"Cinto de Troll"
+pt_1470,"Jaqueta de Couro"
+pt_1471,"Colar da Luz"
+pt_1472,"Brincos da Resistência a Magia"
+pt_1473,"Jaqueta de Madeira"
+pt_1474,"Camiseta de Resistência Mágica"
+pt_1475,"Amuleto de Carisma Velho"
+pt_1476,"Amuleto de Destreza Velho"
+pt_1477,"Amuleto da Força Velho"
+pt_1478,"Amuleto de Inteligência Velho"
+pt_1479,"Amuleto da Sabedoria Velho"
+pt_1480,"Amuleto da Constituição Velho"
+pt_1481,"Elmo Élfico da Destreza (Pessoal)"
+pt_1482,"Elmo Élfico da Constituição (Pessoal)"
+pt_1483,"Capuz do Cavaleiro Vermelho (Pessoal)"
+pt_1484,"Elmo de Couro Élfico da Constituição (Pessoal)"
+pt_1485,"Elmo de Couro Élfico da Destreza (Pessoal)"
+pt_1486,"Capuz Manchado de Sangue (Pessoal)"
+pt_1487,NULL

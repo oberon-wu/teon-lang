@@ -1,0 +1,1488 @@
+﻿de_0,"$0 "
+de_1,Abgenutzt
+de_2,Abgenutzt
+de_3,An
+de_4,Leer
+de_5,NULL
+de_6,NULL
+de_7,NULL
+de_8,NULL
+de_9,NULL
+de_10,NULL
+de_11,NULL
+de_12,NULL
+de_13,NULL
+de_14,NULL
+de_15,NULL
+de_16,NULL
+de_17,NULL
+de_18,NULL
+de_19,NULL
+de_20,NULL
+de_21,NULL
+de_22,NULL
+de_23,NULL
+de_24,NULL
+de_25,NULL
+de_26,NULL
+de_27,NULL
+de_28,NULL
+de_29,NULL
+de_30,NULL
+de_31,NULL
+de_32,NULL
+de_33,NULL
+de_34,NULL
+de_35,NULL
+de_36,NULL
+de_37,NULL
+de_38,NULL
+de_39,NULL
+de_40,NULL
+de_41,NULL
+de_42,NULL
+de_43,NULL
+de_44,NULL
+de_45,NULL
+de_46,NULL
+de_47,NULL
+de_48,NULL
+de_49,NULL
+de_50,NULL
+de_51,NULL
+de_52,NULL
+de_53,NULL
+de_54,NULL
+de_55,NULL
+de_56,NULL
+de_57,NULL
+de_58,NULL
+de_59,NULL
+de_60,NULL
+de_61,NULL
+de_62,NULL
+de_63,NULL
+de_64,NULL
+de_65,NULL
+de_66,NULL
+de_67,NULL
+de_68,NULL
+de_69,NULL
+de_70,NULL
+de_71,NULL
+de_72,NULL
+de_73,NULL
+de_74,NULL
+de_75,NULL
+de_76,NULL
+de_77,NULL
+de_78,NULL
+de_79,NULL
+de_80,NULL
+de_81,NULL
+de_82,NULL
+de_83,NULL
+de_84,NULL
+de_85,NULL
+de_86,NULL
+de_87,NULL
+de_88,NULL
+de_89,NULL
+de_90,NULL
+de_91,NULL
+de_92,NULL
+de_93,NULL
+de_94,NULL
+de_95,NULL
+de_96,NULL
+de_97,NULL
+de_98,NULL
+de_99,NULL
+de_100,NULL
+de_101,Kobold
+de_102,Ork
+de_103,Kobold
+de_104,Werwolf
+de_105,Imp
+de_106,Zwerg
+de_107,Schleim
+de_108,Zombie
+de_109,"Schwebendes Auge"
+de_110,Gnoll
+de_111,Zwergenkrieger
+de_112,Skelett
+de_113,Soldatenameise
+de_114,Skelett-Bogenschütze
+de_115,Steingolem
+de_116,Skelett-Axtschwinger
+de_117,Skelett-Speer
+de_118,Kankra
+de_119,Hobgoblin
+de_120,Echsenmensch
+de_121,Eulenbär
+de_122,Troglodyt
+de_123,Ghul
+de_124,Nachtschatten
+de_125,Lycanthrope
+de_126,Ungoliant
+de_127,Doppelgänger
+de_128,Riesenameise
+de_129,Ghast
+de_130,"Alter Zauberer"
+de_131,Schrat
+de_132,Kerberos
+de_133,Skelett
+de_134,Harpyie
+de_135,Oger
+de_136,Troll
+de_137,Greif
+de_138,Beholder
+de_139,Basilisk
+de_140,Ettin
+de_141,Basilisk
+de_142,Sukkubus
+de_143,Zyklope
+de_144,Sukkubus-Königin
+de_145,Nekromant
+de_146,Skuld
+de_147,Sauroner
+de_148,Endor
+de_149,Svipdag
+de_150,Drake
+de_151,"Dunkler Älterer"
+de_152,Baphomet
+de_153,Beleth
+de_154,Bran
+de_155,Todesritter
+de_156,Ameisenkönigin
+de_157,Scatha
+de_158,Joanna
+de_159,Alfred
+de_160,Inka
+de_161,Bertrand
+de_162,Olga
+de_163,Boyce
+de_164,Brooks
+de_165,Cyril
+de_166,Zeke
+de_167,Cordelia
+de_168,Chad
+de_169,Cassandra
+de_170,Carina
+de_171,Hund
+de_172,Pferd
+de_173,Taylor[Zaubertrank-Laden]
+de_174,Justina
+de_175,Leah
+de_176,Mönch
+de_177,NULL
+de_178,Kuh
+de_179,Ork-Kämpfer
+de_180,NULL
+de_181,NULL
+de_182,NULL
+de_183,NULL
+de_184,NULL
+de_185,NULL
+de_186,"Thri Kreen"
+de_187,Ork-Bogenschütze
+de_188,Ork-Schamane
+de_189,Ork-Grunt
+de_190,Ork-Wächter
+de_191,Ork-Armbrust
+de_192,Ork-Zombie
+de_193,Ork-Magier
+de_194,Drow
+de_195,Lolth
+de_196,Elite-Skelett
+de_197,Cora
+de_198,Elite-Skelett-Bogenschütze
+de_199,Faustus
+de_200,Elite-Skelett-Axtschwinger
+de_201,Elite-Skelett-Magier
+de_202,Doris
+de_203,Damon
+de_204,Gullveig
+de_205,Galen
+de_206,Vogelscheuche
+de_207,Elite-Skelett-Speer
+de_208,Kirsten
+de_209,Kell
+de_210,Skelett-Magier
+de_211,Henne
+de_212,Laura
+de_213,Naomi
+de_214,Nairobi
+de_215,Marla
+de_216,Ente
+de_217,Marcia
+de_218,Gans
+de_219,Nedra
+de_220,Schwein
+de_221,Ptolemy
+de_222,Hase
+de_223,Pascal[Waffenladen]
+de_224,Rhoda[Rüstungsladen]
+de_225,Somalier[Artikel-Shop]
+de_226,Ramla
+de_227,Bock
+de_228,Rabia[Rüstungsladen]
+de_229,Schaf
+de_230,Somalier[Artikel-Shop]
+de_231,Sadie
+de_232,Thurston
+de_233,Themis
+de_234,Uta
+de_235,Upton
+de_236,"Bootsmann am Hafen der Insel der Verheißung"
+de_237,Merlin
+de_238,Natalia
+de_239,Soldat
+de_240,NULL
+de_241,NULL
+de_242,Elbereth
+de_243,NULL
+de_244,NULL
+de_245,NULL
+de_246,"Geschwächte Harpie"
+de_247,NULL
+de_248,"Geschwächter Werwolf"
+de_249,Andrew
+de_250,Grazob
+de_251,NULL
+de_252,Karguk[Lager]
+de_253,Piggu[Waffenladen]
+de_254,Agrob[Rüstungsladen]
+de_255,Lazgar[Artikel-Shop]
+de_256,Lana
+de_257,Laucian
+de_258,Owen
+de_259,"Skorpion schwächen"
+de_260,NULL
+de_261,NULL
+de_262,NULL
+de_263,"Eulenbär schwächen"
+de_264,Shadbak
+de_265,"Imp schwächen"
+de_266,NULL
+de_267,"Troglodyt schwächen"
+de_268,NULL
+de_269,NULL
+de_270,NULL
+de_271,NULL
+de_272,"Thri Kreen schwächen"
+de_273,NULL
+de_274,NULL
+de_275,NULL
+de_276,NULL
+de_277,NULL
+de_278,NULL
+de_279,NULL
+de_280,NULL
+de_281,Edith
+de_282,Gus
+de_283,Percy
+de_284,Gwen
+de_285,Hoover
+de_286,Irvin
+de_287,Inez
+de_288,Dura[Zaubertrank-Laden]
+de_289,Lum
+de_290,Yatur
+de_291,NULL
+de_292,NULL
+de_293,NULL
+de_294,"Schwache Ungoliant"
+de_295,NULL
+de_296,NULL
+de_297,NULL
+de_298,NULL
+de_299,NULL
+de_300,NULL
+de_301,NULL
+de_302,"Hermes[Verlies der Insel der Verheißung]"
+de_303,Brooks[Waffenladen]
+de_304,Bootsmann
+de_305,Justina[Artikel-Shop]
+de_306,Leah[Rüstungsladen]
+de_307,Andrew[Lager]
+de_308,Ptolemy[Knochenspezialist]
+de_309,Doris[Schneiderei]
+de_310,"Zese[Himmelsinsel Teleporter]"
+de_311,Gary
+de_312,Olivia
+de_313,Carlos
+de_314,Vicky
+de_315,Ambrose
+de_316,Brandon
+de_317,Rufus
+de_318,Falice
+de_319,Nelson
+de_320,Elsa
+de_321,Gia
+de_322,Camilla
+de_323,Lorelei
+de_324,Lohan
+de_325,Cal
+de_326,Sala
+de_327,Wesley
+de_328,Gaqe
+de_329,Loretta
+de_330,Brian
+de_331,Nanette
+de_332,Calder
+de_333,Portia
+de_334,Rance
+de_335,Karl
+de_336,David
+de_337,Maris
+de_338,Jill
+de_339,Hosea
+de_340,Gareth
+de_341,Shiloh
+de_342,Camellia
+de_343,Craiq
+de_344,Lennon
+de_345,Pheadra
+de_346,"Garth[Edin Peak Teleporter]"
+de_347,Bettina
+de_348,Aaron
+de_349,Martin
+de_350,Karol[Lager]
+de_351,Lia
+de_352,Valanthe
+de_353,Heian
+de_354,Antinua
+de_355,NULL
+de_356,NULL
+de_357,Enialis
+de_358,Hermes
+de_359,Polyrhachis
+de_360,Rick
+de_361,Feuerameise
+de_362,Termite
+de_363,NULL
+de_364,Lemur
+de_365,"Roter Panda"
+de_366,Atub
+de_367,Urim
+de_368,Bumph[Zaubertrank-Laden]
+de_369,Yotul[Artikel-Shop]
+de_370,Mogak[Rüstungsladen]
+de_371,Slog
+de_372,Epkagut[Lager]
+de_373,Jogug[Waffenladen]
+de_374,Bashuk
+de_375,Bor
+de_376,Omugug
+de_377,Supgugh
+de_378,Panda
+de_379,Bär
+de_380,Gürteltier
+de_381,"Cassandras Wächter"
+de_382,Abenteurer
+de_383,Felix
+de_384,Patch
+de_385,Magister
+de_386,Kraft
+de_387,Teleporter
+de_388,Pangolin
+de_389,Warren
+de_390,Gordon
+de_391,Erik
+de_392,Dellas
+de_393,Jäger
+de_394,Katze
+de_395,Tyson[Knochenspezialist]
+de_396,Prinz
+de_397,Ritter
+de_398,Magier
+de_399,Elf
+de_400,Prinzessin
+de_401,Ritter
+de_402,Magier
+de_403,Elf
+de_404,Rechtsmäßig
+de_405,Chaotisch
+de_406,Neutral
+de_407,NULL
+de_408,NULL
+de_409,NULL
+de_410,NULL
+de_411,NULL
+de_412,NULL
+de_413,NULL
+de_414,NULL
+de_415,NULL
+de_416,NULL
+de_417,NULL
+de_418,NULL
+de_419,NULL
+de_420,NULL
+de_421,NULL
+de_422,NULL
+de_423,NULL
+de_424,NULL
+de_425,NULL
+de_426,NULL
+de_427,NULL
+de_428,NULL
+de_429,NULL
+de_430,NULL
+de_431,NULL
+de_432,NULL
+de_433,NULL
+de_434,NULL
+de_435,NULL
+de_436,NULL
+de_437,Theodore[Austausch]
+de_438,Himmel[Clan-Manager]
+de_439,Nat
+de_440,Roger[Verzaubern]
+de_441,"Ereignis-Händler[Nur für begrenzte Zeit]"
+de_442,"Ereignis-Agent[Nur für begrenzte Zeit]"
+de_443,"Böser Mörder"
+de_444,"Böser Wächter"
+de_445,"Böser Inquisitor"
+de_446,Alchemist
+de_447,Tiago
+de_448,Händler
+de_449,Werwolf-Anwärter
+de_450,Zwergenanwärter
+de_451,Ork-Anwärter
+de_452,Ork-Kämpfer-Anwärter
+de_453,Kobold-Anwärter
+de_454,Goblin-Anwärter
+de_455,Hobgoblin-Anwärter
+de_456,Zwergenkämpfer-Anwärter
+de_457,Havel[Verzaubern]
+de_458,Swain
+de_459,Reisender
+de_460,"Meister bewerten"
+de_461,"Schrat (Dunkelheit)"
+de_462,"Thri Kreen (Dunkelheit)"
+de_463,"Keberos (Dunkelheit)"
+de_464,"Steingolem (Dunkelheit)"
+de_465,"Skelett (Dunkelheit)"
+de_466,"Skelett-Bogenschütze (Dunkelheit)"
+de_467,"Skelett-Axtschwinger (Dunkelheit)"
+de_468,"Skelett-Speer (Dunkelheit)"
+de_469,"Nachtschatten (Dunkelheit)"
+de_470,"Ghul (Dunkelheit)"
+de_471,"Ungoliant (Dunkelheit)"
+de_472,"Zombie (Dunkelheit)"
+de_473,Jax[Herstellen]
+de_474,"Der Zeitlose"
+de_475,NULL
+de_476,NULL
+de_477,NULL
+de_478,Schatztruhe
+de_479,"Diener von Teon[Eid]"
+de_480,"Teons Geschenk (1. Tag)"
+de_481,"Teons Geschenk (5. Tag)"
+de_482,"Teons Geschenk (30. Tag)"
+de_483,"Teons Geschenk"
+de_484,"Teons Geschenk (7. Tag)"
+de_485,"Diener von Maria"
+de_486,"Der Gefallene Torwächter"
+de_487,"Maria, Dienerin des Todes [übertragen]"""
+de_488,Clive[Clan-Lager]
+de_489,"Pan [Schäfer]"
+de_490,"Verdorrter Holzgeist"
+de_491,"Segen der Mondgöttin [Erteilung]"
+de_492,"Sylvia [Material]"
+de_493,"Süßes-oder-Saures Tom"
+de_494,"Kenny Candiless"
+de_495,"Kleines Horn"
+de_496,Feiertagsbote
+de_497,"Alter Schamane"
+de_498,"Schiffbrüchiger Pirat [Schatz]"
+de_499,"Ring der Güte"
+de_500,"Erweiterte Zauberjuwel"
+de_501,Schutzrolle
+de_502,"Heiliges Buch"
+de_503,Kupferschlüssel
+de_504,Holzschlüssel
+de_505,Zauberbuch
+de_506,Rolle
+de_507,"Trank der Weisheit"
+de_508,Tapferkeitstrank
+de_509,Rinde
+de_510,"Ast des Lebens"
+de_511,Feder
+de_512,Flöte
+de_513,Knochenfragmente
+de_514,Kristall
+de_515,Puder
+de_516,Bouquet
+de_517,Schnelltrank
+de_518,NULL
+de_519,"Geringer Heiltrank"
+de_520,NULL
+de_521,"Trank für Mana-Erholung"
+de_522,NULL
+de_523,Gegengifttrank
+de_524,Smaragd-Trank
+de_525,"Großer Heiltrank"
+de_526,NULL
+de_527,Heiltrank
+de_528,"Oranger Trank"
+de_529,Kürbis
+de_530,Mais
+de_531,Gold
+de_532,Elfenwaffel
+de_533,"Rolle der Rückkehr - Stadt der Insel der Verheißung"
+de_534,"Rolle der Rückkehr - Stadt der Insel der Verheißung 1F"
+de_535,"Rolle der Rückkehr - Stadt der Insel der Verheißung 2F"
+de_536,"Rolle der Rückkehr - Alter Fluchtunnel"
+de_537,"Rolle der Rückkehr - Maros-Verlies 1F"
+de_538,"Rolle der Rückkehr - Maros-Verlies 2F"
+de_539,"Rolle der Rückkehr - Maros-Verlies 3F"
+de_540,"Rolle der Rückkehr - Maros-Verlies 4F"
+de_541,"Rolle der Rückkehr - Maros-Verlies 5F"
+de_542,"Rolle der Rückkehr - Maros-Verlies 6F"
+de_543,"Rolle der Rückkehr - Maros-Verlies 7F"
+de_544,NULL
+de_545,"Rolle der Rückkehr - Verlies der Burg von Sandwood 1F"
+de_546,"Rolle der Rückkehr - Verlies der Burg von Sandwood 2F"
+de_547,"Rolle der Rückkehr - Damelot"
+de_548,"Rolle der Rückkehr - Damelot-Verlies 1F"
+de_549,"Rolle der Rückkehr - Damelot-Verlies 2F"
+de_550,"Rolle der Rückkehr - Damelot-Verlies 3F"
+de_551,"Rolle der Rückkehr - Damelot-Verlies 4F"
+de_552,"Rolle der Rückkehr - Sandwood-Stadt"
+de_553,"Rolle der Rückkehr - Wüstenoase"
+de_554,"Rolle der Rückkehr - Maros-Stadt"
+de_555,"Rolle der Rückkehr - Ork-Stadt"
+de_556,"Rolle der Rückkehr - Ork-Gilde"
+de_557,"Rolle der Rückkehr - Burg von Sandwood"
+de_558,"Rolle der Rückkehr - Innenstadt von Sandwood"
+de_559,"Rolle der Rückkehr - Elfengarten"
+de_560,"Rolle der Rückkehr - Elfenverlies 1F"
+de_561,"Rolle der Rückkehr - Elfenverlies 2F"
+de_562,"Rolle der Rückkehr - Elfenverlies 3F"
+de_563,"Rolle der Rückkehr - Drake-Bergverlies 1F"
+de_564,"Rolle der Rückkehr - Drake-Bergverlies 2F"
+de_565,"Rolle der Rückkehr - Drake-Bergverlies 3F"
+de_566,"Rolle der Rückkehr - Drake-Bergverlies 4F"
+de_567,"Rolle der Rückkehr - Drake-Bergverlies 5F"
+de_568,"Rolle der Rückkehr - Drake-Bergverlies 6F"
+de_569,"Rolle der Rückkehr - Drake-Bergverlies 7F"
+de_570,NULL
+de_571,"Rolle der Rückkehr - Höhle der Wüstenameisen 1-1"
+de_572,"Rolle der Rückkehr - Höhle der Wüstenameisen 1-2"
+de_573,"Rolle der Rückkehr - Höhle der Wüstenameisen 1-3"
+de_574,"Rolle der Rückkehr - Höhle der Wüstenameisen 1-4"
+de_575,"Rolle der Rückkehr - Höhle der Wüstenameisen 1-5"
+de_576,"Rolle der Rückkehr - Höhle der Wüstenameisen 1-6"
+de_577,"Rolle der Rückkehr - Höhle der Wüstenameisen 2-1"
+de_578,"Rolle der Rückkehr - Höhle der Wüstenameisen 2-2"
+de_579,"Rolle der Rückkehr - Höhle der Wüstenameisen 2-3"
+de_580,"Rolle der Rückkehr - Höhle der Wüstenameisen 3"
+de_581,"Rolle der Rückkehr - Nester der Königin der Wüstenameisen"
+de_582,"Spezial-Geist-Kristall (Wasser)"
+de_583,"Spezial-Geist-Kristall (Feuer)"
+de_584,"Spezial-Geist-Kristall (Wind)"
+de_585,"Spezial-Geist-Kristall (Erde)"
+de_586,"Allgemeine Rolle"
+de_587,Karte
+de_588,Fährticket
+de_589,NULL
+de_590,NULL
+de_591,NULL
+de_592,NULL
+de_593,Todestrank
+de_594,NULL
+de_595,NULL
+de_596,NULL
+de_597,NULL
+de_598,NULL
+de_599,NULL
+de_600,NULL
+de_601,NULL
+de_602,NULL
+de_603,NULL
+de_604,NULL
+de_605,NULL
+de_606,NULL
+de_607,NULL
+de_608,NULL
+de_609,NULL
+de_610,NULL
+de_611,NULL
+de_612,Anfängerrolle
+de_613,"Rolle der Rückkehr - Oxvale-Verlies"
+de_614,Beruhigungstrank
+de_615,"Hauer des Geschwächten Werwolfs"
+de_616,"Fragment des Zeitkristalls"
+de_617,"Feder des Geschwächten Harpyie"
+de_618,"Futter des Geschwächten Eulenbären"
+de_619,"Anfänger Heiltrank"
+de_620,"Anfänger Oranger Trank"
+de_621,Vanillekekse
+de_622,"Anfänger Geringer Heiltrank"
+de_623,NULL
+de_624,"Anfänger Schnelltrank"
+de_625,NULL
+de_626,"Rolle der Rückkehr - [Edin-Monument]"
+de_627,"Justinas Container"
+de_628,Feuerefeu
+de_629,"Zerbrochene Klinge"
+de_630,"Seelenkristall (Zombie)"
+de_631,"Seelenkristall (Schwebendes Auge)"
+de_632,Ghulblut
+de_633,Wolfspelz
+de_634,Zeitkristall
+de_635,"Leahs Rüstungslager"
+de_636,"Leahs Heiltrank"
+de_637,"Hunters Leder"
+de_638,Zauberbuch
+de_639,Anfänger
+de_640,"Diener des Todesritters"
+de_641,"Polymorphrolle (Anfänger)"
+de_642,"Schild (Magisch)"
+de_643,Energieriegel
+de_644,Eisdolch
+de_645,"Geringe Heilung"
+de_646,Teleport
+de_647,Licht
+de_648,"Heilige Waffe"
+de_649,Wind-Shuriken
+de_650,Höllenhauer
+de_651,"Kalte Berührung"
+de_652,"Verzauberte Waffe"
+de_653,"Fluch: Gift"
+de_654,Feuerpfeil
+de_655,Erkennung
+de_656,Heiltrank
+de_657,"Gewicht verringern"
+de_658,Heilen
+de_659,"Einfrierende Wolke"
+de_660,Blitzschlag
+de_661,"Schwäche offenbaren"
+de_662,"Untot werden"
+de_663,"Gesegnete Rüstung"
+de_664,"Fluch: Blind"
+de_665,Meditation
+de_666,Vampirberührung
+de_667,Waffenpause
+de_668,Erdgefängnis
+de_669,Feuerball
+de_670,Langsam
+de_671,"Physisch verzaubert: DEX"
+de_672,Gegenzauber
+de_673,Kältezapfen
+de_674,"Fluch: Lähmen"
+de_675,"Blitzschlag rufen"
+de_676,"Fluch entfernen"
+de_677,"Zahmes Monster"
+de_678,"Größere Heilung"
+de_679,"Mana entziehen"
+de_680,Dunkelheit
+de_681,Eile
+de_682,Ausbruch
+de_683,Schwäche
+de_684,Sonnenschein
+de_685,"Waffe segnen"
+de_686,"Zombie erstellen"
+de_687,"Physisch verzaubert: STR"
+de_688,"Magie abbrechen"
+de_689,Einfrieren
+de_690,"Monster beschwören"
+de_691,"Größere Eile"
+de_692,Berserker
+de_693,Krankheit
+de_694,"Heiliger Weg"
+de_695,Heilversprechen
+de_696,Tornado
+de_697,"Magische Mine"
+de_698,"Volle Heilung"
+de_699,Schneesturm
+de_700,Lebensstrom
+de_701,Feuerwand
+de_702,Auferstehung
+de_703,Unsichtbarkeit
+de_704,Erdbeben
+de_705,Ruhe
+de_706,Gegenerkennung
+de_707,"Nebel des Schlafes"
+de_708,Feuersturm
+de_709,"Magisches Schild"
+de_710,Fäulnistrank
+de_711,Formänderung
+de_712,Massenteleport
+de_713,Gewitter
+de_714,Kraftfeld
+de_715,Innensicht
+de_716,Eisstachel
+de_717,"Magische Waffe erstellen"
+de_718,Meteoreinschlag
+de_719,Zerstören
+de_720,"Größere Auferstehung"
+de_721,"Absolute Barriere"
+de_722,"Massen langsam"
+de_723,"Erweiterter Geist"
+de_724,"Position ändern"
+de_725,"Erweiterter Massenteleport"
+de_726,"Alle lähmen"
+de_727,Reflexionsbecken
+de_728,NULL
+de_729,NULL
+de_730,NULL
+de_731,NULL
+de_732,NULL
+de_733,NULL
+de_734,NULL
+de_735,NULL
+de_736,NULL
+de_737,NULL
+de_738,NULL
+de_739,NULL
+de_740,"Teleport zur Mutter"
+de_741,"Körper an Geist"
+de_742,"Magie widerstehen"
+de_743,"Element widerstehen"
+de_744,"Klarer Verstand"
+de_745,Dreifachpfeil
+de_746,"Schutz gegen Elemente"
+de_747,Verwickeln
+de_748,Erdhülle
+de_749,Wasserleben
+de_750,Feuerwaffe
+de_751,"Zurück zur Natur"
+de_752,Windweg
+de_753,Windschuß
+de_754,"Blut an Seele"
+de_755,"Geringere Elemente beschwören"
+de_756,Erdbindung
+de_757,Erdwächter
+de_758,Elementfall
+de_759,"Auge des Sturms"
+de_760,Wasserschutz
+de_761,"Tanzende Feuersbrunst"
+de_762,"Berührung der Natur"
+de_763,"Zauber entfernen"
+de_764,"Größere Element beschwören"
+de_765,"Bereich des Schweigens"
+de_766,"Elementares Feuer"
+de_767,Sturmweg
+de_768,Sturmschuss
+de_769,"Wasser verschmutzen"
+de_770,"Brennende Waffe"
+de_771,"Seele der Flamme"
+de_772,"Wunder der Natur"
+de_773,"Segen der Natur"
+de_774,Sturm
+de_775,"Zusätzliches Feuer"
+de_776,Eisenhaut
+de_777,Gegenspiegel
+de_778,Windschäkel
+de_779,"Exotisch Vitalisieren"
+de_780,"Solide Beförderung"
+de_781,Reduzierungsrüstung
+de_782,Gegenbarriere
+de_783,Schockbetäubung
+de_784,Schwungangriff
+de_785,"Wahres Ziel"
+de_786,"Clan rufen"
+de_787,"Glühende Aura"
+de_788,"Clan erlernen"
+de_789,"Mutige Aura"
+de_790,"Schimmernde Aura"
+de_791,NULL
+de_792,NULL
+de_793,NULL
+de_794,NULL
+de_795,NULL
+de_796,NULL
+de_797,NULL
+de_798,NULL
+de_799,NULL
+de_800,NULL
+de_801,Lampe
+de_802,Laternen
+de_803,Kerosin
+de_804,Zauberlaternen
+de_805,Kerzen
+de_806,"Zauberstab des Zaubermonsters"
+de_807,"Zauberstab aus Kiefernholz"
+de_808,"Zauberstab des Gewitters"
+de_809,"Zauberstab aus Elfenbein"
+de_810,"Zauberstab des Polymorph"
+de_811,"Zauberstab aus Ahorn"
+de_812,"Zauberstab der Vertreibung"
+de_813,"Größere Eile (Trank)"
+de_814,NULL
+de_815,"Kondensierter geringer Heiltrank"
+de_816,"Kondensierter Heiltrank"
+de_817,"Größerer kondensierter Heiltrank"
+de_818,"Kondensierter Oranger Trank"
+de_819,"Größerer kondensierter Heiltrank"
+de_820,"Kondensierter Weißer Trank"
+de_821,"Antiker Geringerer Heiltrank"
+de_822,NULL
+de_823,"Antiker Heiltrank"
+de_824,NULL
+de_825,"Antiker größerer Heiltrank"
+de_826,NULL
+de_827,"Trank der Erblindung"
+de_828,"Schwarzer Trank"
+de_829,Elixier(STR)
+de_830,Elixir(CON)
+de_831,Elixier(DEX)
+de_832,Elixir(INT)
+de_833,Elixier(WIS)
+de_834,Elixier(CHA)
+de_835,Wein
+de_836,Whiskey
+de_837,"Trank der Geistesschärfe"
+de_838,Diamant
+de_839,Rubin
+de_840,Saphir
+de_841,Smaragd
+de_842,"Hochwertiger Diamant"
+de_843,"Hochwertiger Rubin"
+de_844,"Hochwertiger Saphir"
+de_845,"Hochwertiger Smaragd"
+de_846,"Diamant höchster Qualität"
+de_847,"Rubin höchster Qualität"
+de_848,"Saphir höchster Qualität"
+de_849,"Smaragd höchster Qualität"
+de_850,Fleisch
+de_851,"Fleisch des Schwebenden Auges"
+de_852,Ei
+de_853,Karotte
+de_854,Zitrone
+de_855,Banane
+de_856,Apfel
+de_857,Orange
+de_858,"Rolle der Verzaubernden Rüstung"
+de_859,"Rolle der zerstörten Rüstung"
+de_860,"Rolle der Flucht"
+de_861,"Rolle des Massenteleports"
+de_862,"Rolle der Verzaubernden Waffe"
+de_863,Polymorphrolle
+de_864,"Rolle der Auferstehung"
+de_865,"Anfänger Rolle der Flucht"
+de_866,"Anfänger Rolle der Flucherlösung"
+de_867,"Anfänger Rolle der Identität"
+de_868,"Anfänger Rolle der Teleportation"
+de_869,"Rolle der Teleportation"
+de_870,"Rolle der Flucherlösung"
+de_871,"Rolle der Identität"
+de_872,Golemherz
+de_873,Goldschlüssel
+de_874,Drake-Herz
+de_875,Platin
+de_876,Zimmerschlüssel
+de_877,Silberschlüssel
+de_878,"Halsband für Haustier"
+de_879,Schleifstein
+de_880,Zauberjuwel
+de_881,Geistjuwel
+de_882,"Schuppe der Scatha"
+de_883,"Klaue der Scatha"
+de_884,"Auge der Scatha"
+de_885,"Blut der Scatha"
+de_886,"Fleisch der Scatha"
+de_887,"Herz der Scatha"
+de_888,"Knochen der Scatha"
+de_889,"Zahn der Scatha"
+de_890,"Schuppe des Feuerdrachen"
+de_891,"Schuppe des Winddrachen"
+de_892,"Schuppe des Wasserdrachen"
+de_893,"Schuppe des Erddrachen"
+de_894,Leder
+de_895,"Hartes Leder"
+de_896,"Klumpen Eisen"
+de_897,"Netz des Lolth"
+de_898,Wolfspelz
+de_899,Platinplatte
+de_900,Platin
+de_901,"Raues Platinstück"
+de_902,Schleimsaft
+de_903,"Dunkles Mithril"
+de_904,"Klumpen von rauem dunklem Mithril"
+de_905,"Platte aus dunklem Mithril"
+de_906,"Blauer Stoff"
+de_907,"Roter Stoff"
+de_908,"Weißer Stoff"
+de_909,Schuppe
+de_910,Skorpionshülle
+de_911,"Klumpen Silber"
+de_912,"Stück Silber"
+de_913,Tafelsilber
+de_914,"Teil der Seele"
+de_915,"Fragment des Geistes"
+de_916,Kerberosfell
+de_917,Goldplatte
+de_918,"Klumpen Gold"
+de_919,"Stück Gold"
+de_920,Greiffeder
+de_921,Mithril-Faden
+de_922,"Klumpen Mithril"
+de_923,Mithril-Platte
+de_924,Faden
+de_925,Orichalcum
+de_926,Orichalcum-Platte
+de_927,Ogerblut
+de_928,"Elemente des Steins"
+de_929,Feenstaub
+de_930,"Ala der Fee"
+de_931,"Dünne Platte"
+de_932,"Schwarze Schlüssel"
+de_933,"Roter Schlüssel"
+de_934,"Antiker Pfeil"
+de_935,Pfeil
+de_936,Silberpfeil
+de_937,Goldpfeil
+de_938,Mithril-Pfeil
+de_939,"Pfeil aus Dunklem Mithril"
+de_940,Orichalcum-Pfeil
+de_941,Stahlblock
+de_942,"Klumpen rauen Eisens"
+de_943,Steine
+de_944,Lösemittel
+de_945,Mehl
+de_946,Tomate
+de_947,"Heiliges Wasser"
+de_948,"Rolle der Verzaubernden Waffe: Feuer"
+de_949,"Rolle der Verzaubernden Waffe: Erde"
+de_950,"Rolle der Verzaubernden Waffe: Wasser"
+de_951,"Rolle der Verzaubernden Waffe: Wind"
+de_952,"Trank der Wiedergeburt"
+de_953,Brief
+de_954,"Rolle des Verzaubernden Zubehörs"
+de_955,Eisenblut-Abzeichen
+de_956,"Seltene Platte"
+de_957,"Leere Platte"
+de_958,"Knochen des Untoten"
+de_959,"Zerstörtes Leder(X)"
+de_960,"Zerstörtes Leder(Y)"
+de_961,"Knochenmark des Skelettmagiers"
+de_962,"Gereinigtes Seelenkristall"
+de_963,"Herz des Steingolems"
+de_964,"Schmutziges Seelenkristall"
+de_965,"Karte für Verlies der Insel der Verheißung"
+de_966,"Nachricht vom Alten Fluchttunnel"
+de_967,Todesritter-Kraftessenz
+de_968,"Schmutziges Seelenkristall"
+de_969,"Untote Knochen des Todesritters"
+de_970,"Leerer Stein"
+de_971,"Thri Kreen Herzen"
+de_972,Werwolfhauer
+de_973,Ghulöl
+de_974,Ghast-Fleisch
+de_975,"Container der Knochenfragmente"
+de_976,Nahrungsmittelversorgungspakete
+de_977,Steinbox
+de_978,"Antike Platin-Münze"
+de_979,"Geschriebener Eid"
+de_980,"Geringer Heiltrank (gebunden)"
+de_981,"Gegengifttrank (gebunden)"
+de_982,"Geringer Heiltrank (gebunden)"
+de_983,"Schnelltrank (gebunden)"
+de_984,"Rolle der Flucht (gebunden)"
+de_985,"Rolle der Teleportation (gebunden)"
+de_986,"Rolle der Flucherlösung (gebunden)"
+de_987,"Rolle der Identität (gebunden)"
+de_988,"Schleifstein (gebunden)"
+de_989,"Rolle der Verzaubernden Waffe (gebunden)"
+de_990,"Rolle der Verzaubernden Rüstung (gebunden)"
+de_991,Höllenholzschlüssel
+de_992,"Schwarzer Blutschlüssel"
+de_993,"Erweiterte Rolle der Deformation"
+de_994,"Ultimative Rolle der Deformation"
+de_995,NULL
+de_996,NULL
+de_997,NULL
+de_998,NULL
+de_999,NULL
+de_1000,Ork-Dolch
+de_1001,Würfeldolch
+de_1002,"Körper des Kurzschwerts"
+de_1003,Dolch
+de_1004,Elfen-Dolch
+de_1005,Anfängerdolch
+de_1006,Mithril-Dolch
+de_1007,Orichalcum-Dolch
+de_1008,"Verfluchtes Schwert von Bran"
+de_1009,"Körper des Langschwerts"
+de_1010,"Körper des Orichalcum-Schwertes"
+de_1011,Ork-Kurzschwert
+de_1012,Panzerbrecher
+de_1013,Breitschwert
+de_1014,Kurzschwert
+de_1015,Silberschwert
+de_1016,Zwergen-Kurzschwert
+de_1017,Krummsäbel
+de_1018,Elfen-Kurzschwert
+de_1019,"Langes Silberschwert"
+de_1020,"Schwert des Roten Ritters"
+de_1021,Breitschwert
+de_1022,"Schwert des Angreifers"
+de_1023,"Einhändiges Anfängerschwert"
+de_1024,Damaskusschwert
+de_1025,Entermesser
+de_1026,Katana
+de_1027,Degen
+de_1028,Shamshir
+de_1029,"Zweihändiges Anfängerschwert"
+de_1030,Zweihänder
+de_1031,"Schwert von Bran"
+de_1032,Tsurugi
+de_1033,"Feuerschwert des Todesritters"
+de_1034,"Klinge des Verderbens"
+de_1035,Großschwert
+de_1036,"Pans Horn"
+de_1037,"Mithril-verkleidetes Horn"
+de_1038,Streitaxt
+de_1039,Ork-Speer
+de_1040,"Bill Guisarme"
+de_1041,Dreizack
+de_1042,Partisan
+de_1043,Lanze
+de_1044,Lanze
+de_1045,Guisarme
+de_1046,Glefe
+de_1047,Elfenspeer
+de_1048,"Orichalcum-verkleidetes Horn"
+de_1049,Teufelshammer
+de_1050,Hellebarde
+de_1051,Fauchard
+de_1052,Anfängerspeer
+de_1053,Rabenschnabel
+de_1054,"Elfen-Kurzschwert von Magieresistenz"
+de_1055,"Elfen-Kurzschwert des Geschicks"
+de_1056,Kristallstab
+de_1057,Anfängerstab
+de_1058,"Stab des Beleth"
+de_1059,"Stab des Baphomet"
+de_1060,"Stab der Hexerei"
+de_1061,"Stab des Mana"
+de_1062,"Stahlstab des Mana"
+de_1063,Eichenstab
+de_1064,Zauberstab
+de_1065,"Stab der Stärke"
+de_1066,Axt
+de_1067,Athame
+de_1068,Knüppel
+de_1069,Flegel
+de_1070,Keule
+de_1071,Kriegshammer
+de_1072,Silberaxt
+de_1073,Streitaxt
+de_1074,Edelstahl-Streitaxt
+de_1075,Berserker-Axt
+de_1076,Morgenstern
+de_1077,Anfängeraxt
+de_1078,"Große Axt"
+de_1079,Jadgbogen
+de_1080,Elfenbogen
+de_1081,Ork-Bogen
+de_1082,Bogen
+de_1083,Kurzbogen
+de_1084,Anfängersteinbogen
+de_1085,Anfängerbogen
+de_1086,Armbrust
+de_1087,Yumi
+de_1088,"Antike Bogenwaffe"
+de_1089,"Ventis Bogen"
+de_1090,"Elfenkurzschwert der Zaubermacht"
+de_1091,"Elfenkurzschwert der Verfassung"
+de_1092,"Stab des Mana(Persönlich)"
+de_1093,"Stab des Juwels(Persönlich)"
+de_1094,"Verzauberter Speer"
+de_1095,Zaubermeister
+de_1096,"Verzauberte Soldatenaxt"
+de_1097,"Magischer Bogenschütze"
+de_1098,"Verzauberter Krieger"
+de_1099,"Verzauberte Spinne"
+de_1100,"Verzauberter Ghul"
+de_1101,"Verzauberter Schrat-König"
+de_1102,"Faulender Körper"
+de_1103,"Verfluchtes Gesetz"
+de_1104,Geplagter
+de_1105,Verdammter
+de_1106,"Verzauberter Oger"
+de_1107,"Seltsamer alter Mann"
+de_1108,"Schatten des seltsamen alten Mannes"
+de_1109,Unglücksgeist
+de_1110,"Schatten des Unglücksgeistes"
+de_1111,"Verzauberte Spinnenkönigin"
+de_1112,"Gieriger Axtschwinger"
+de_1113,"Klaue des Unglücks"
+de_1114,"Kranke Sünde"
+de_1115,"Verzauberter Baphomet"
+de_1116,"Ultimative Rolle der Deformation"
+de_1117,"Schwert der Hoffnung(Persönlich)"
+de_1118,"Schwert der Hoffnung"
+de_1119,"Magischer Erholungstrank"
+de_1120,"Rolle der Rückkehr - Maros-Verlies 1F (gebunden)"
+de_1121,"Rolle der Rückkehr - Maros-Verlies 2F (gebunden)"
+de_1122,"Rolle der Rückkehr - Maros-Verlies 3F (gebunden)"
+de_1123,"Rolle der Rückkehr - Maros-Verlies 4F (gebunden)"
+de_1124,"Rolle der Rückkehr - Maros-Verlies 5F (gebunden)"
+de_1125,"Rolle der Rückkehr - Maros-Verlies 6F (gebunden)"
+de_1126,"Rolle der Rückkehr - Maros-Verlies 7F (gebunden)"
+de_1127,Schafsknochen
+de_1128,Totholz
+de_1129,"Essenz aus Knochenfleisch"
+de_1130,Totem
+de_1131,Totemfragmente
+de_1132,"Großer Kürbis [Halloween]"
+de_1133,"Kürbisbiskuit [Halloween]"
+de_1134,Ork-Totem
+de_1135,Elfstein
+de_1136,Wassergott
+de_1137,"Brief des Ork-Anführers"
+de_1138,"Antikes Nebelzauberbuch"
+de_1139,"Nebelzaubers Steinherz"
+de_1140,"Segen der Mondgöttin"
+de_1141,"Verlorenes Schaf"
+de_1142,"Gestohlene Elfenflügel"
+de_1143,Weihnachtsmütze
+de_1144,Weihnachtssocken
+de_1145,Weihnachtsgeschenk
+de_1146,"Glückliches Weihnachtsgift"
+de_1147,"Temporärer Eid"
+de_1148,"Erweiterte Schatzkarte (Insel der Verheißung)"
+de_1149,NULL
+de_1150,NULL
+de_1151,NULL
+de_1152,NULL
+de_1153,"Erweiterte Schatzkarte (Insel der Verheißung)"
+de_1154,"Teil der Erweiterten Schatzkarte I (Insel der Verheißung)"
+de_1155,"Teil der Erweiterten Schatzkarte II (Insel der Verheißung)"
+de_1156,"Teil der Erweiterten Schatzkarte III (Insel der Verheißung)"
+de_1157,"Teil der Erweiterten Schatzkarte IV (Insel der Verheißung)"
+de_1158,NULL
+de_1159,NULL
+de_1160,NULL
+de_1161,NULL
+de_1162,NULL
+de_1163,NULL
+de_1164,NULL
+de_1165,NULL
+de_1166,NULL
+de_1167,NULL
+de_1168,NULL
+de_1169,NULL
+de_1170,NULL
+de_1171,NULL
+de_1172,NULL
+de_1173,NULL
+de_1174,NULL
+de_1175,NULL
+de_1176,NULL
+de_1177,NULL
+de_1178,NULL
+de_1179,NULL
+de_1180,NULL
+de_1181,NULL
+de_1182,Ungoliant-Monarch
+de_1183,Kobold-Häuptling
+de_1184,Kerberos-Monarch
+de_1185,Goblin-Anführer
+de_1186,Hobgoblin-Anführer
+de_1187,Elite-Skelett-General
+de_1188,Elite-Skelett-Magier-General
+de_1189,Elite-Skelett-Axtschwinger-General
+de_1190,Elite-Skelett-Bogenschütze-General
+de_1191,Elite-Skelett-Speermann-General
+de_1192,Skelett-Leutnant
+de_1193,Skelett-Magier-Leutnant
+de_1194,Skelett-Axtschwinger-Leutnant
+de_1195,Skelett-Bogenschütze-Leutnant
+de_1196,Skelett-Speermann-Leutnant
+de_1197,Alpha-Werwolf
+de_1198,"Schwebendes Auge (Elite)"
+de_1199,Alpha-Lycanthrope
+de_1200,Zombie-Anführer
+de_1201,Kankra-Monarch
+de_1202,"Steingolem (Elite)"
+de_1203,Ghast-Anführer
+de_1204,Oger-Häuptling
+de_1205,Ghul-Anführer
+de_1206,"Schleim (Elite)"
+de_1207,Ork-Häuptling
+de_1208,Ork-Magier-Häuptling
+de_1209,Ork-Bogenschütze-Häuptling
+de_1210,Ork-Kämpfer-Häuptling
+de_1211,Thri-Keen-Monarch
+de_1212,Schrat-Monarch
+de_1213,"Nachtschatten (Elite)"
+de_1214,"Zwerg (Elite)"
+de_1215,"Zwergenkrieger (Elite)"
+de_1216,Schatzkarte
+de_1217,"Erweiterte Schatzkarte"
+de_1218,Lolth-Monarch
+de_1219,Drow-Leutnant
+de_1220,Ork-Grunt-Leutnant
+de_1221,Ork-Wächter-Leutnant
+de_1222,Ork-Armbrust-Leutnant
+de_1223,Ork-Schamane-Häuptling
+de_1224,Ork-Zombie-Häuptling
+de_1225,"Polymorph-Rolle Lvl 1"
+de_1226,"Polymorph-Rolle Lvl 2"
+de_1227,"Polymorph-Rolle Lvl 3"
+de_1228,"Polymorph-Rolle Lvl 4"
+de_1229,"Polymorph-Rolle Lvl 5"
+de_1230,"Polymorph-Rolle Lvl 6"
+de_1231,Geistkristall
+de_1232,"Spezial-Geist-Kristall (Erde)"
+de_1233,"Spezial-Geist-Kristall (Wasser)"
+de_1234,"Spezial-Geist-Kristall (Wind)"
+de_1235,"Spezial-Geist-Kristall (Feuer)"
+de_1236,NULL
+de_1237,NULL
+de_1238,NULL
+de_1239,NULL
+de_1240,NULL
+de_1241,NULL
+de_1242,NULL
+de_1243,NULL
+de_1244,NULL
+de_1245,NULL
+de_1246,NULL
+de_1247,NULL
+de_1248,NULL
+de_1249,"Die alte erweiterte Rolle der Deformation (Gebunden)"
+de_1250,"Erweiterte Rolle der Deformation (Gebunden)"
+de_1251,"Die Essenz des Polymorph"
+de_1252,"Magische Ausrüstung von Meilin"
+de_1253,NULL
+de_1254,NULL
+de_1255,gebunden
+de_1256,"Bluthungriger Werwolf"
+de_1257,"Bluthungriger Oger"
+de_1258,"Alpha-Bluthungriger Werwolf"
+de_1259,"Bluthungriger Oger-Häuptling"
+de_1260,"Schild des Ritter Crimson"
+de_1261,Sukkubus-Anführer
+de_1262,Basilisk-Anführer
+de_1263,Alter
+de_1264,glänzende
+de_1265,Amy[Mode]
+de_1266,Gierig
+de_1267,"[Chaotische Arena]"
+de_1268,[Austausch]
+de_1269,[Attributumwandlung]
+de_1270,Charakterentwicklungs-Geschenkbox
+de_1271,"Licht der Hoffnung"
+de_1272,"Schutz des Parth Tempels"
+de_1273,"Ring des Friedens"
+de_1274,"Zese‘ mächtige Waffe"
+de_1275,"Waffenverzauberungsrolle (Quest-exklusiv)"
+de_1276,"Besiegelter Eid (15 Tage)"
+de_1277,Gloria
+de_1278,魔法符石
+de_1279,NULL
+de_1280,NULL
+de_1281,NULL
+de_1282,NULL
+de_1283,NULL
+de_1284,NULL
+de_1285,NULL
+de_1286,NULL
+de_1287,NULL
+de_1288,NULL
+de_1289,"Roten Ritters-Set"
+de_1290,Todesritter-Set
+de_1291,Bran-Set
+de_1292,Leder-Set
+de_1293,Ork-Set
+de_1294,Zwergen-Set
+de_1295,"Besetztes Leder-Set"
+de_1296,Knochen-Set
+de_1297,Magier-Set
+de_1298,Eisen-Set
+de_1299,"Besetzte Ledersandalen"
+de_1300,Lederkappe
+de_1301,Lederhelm
+de_1302,Eisenvisier
+de_1303,Ritterhaube
+de_1304,Rittervisier
+de_1305,Zwergeneisenhelm
+de_1306,"Alter Helm des Windes"
+de_1307,Todesritter-Helm
+de_1308,"Helm der Magieresistenz"
+de_1309,Zauberkappe
+de_1310,"Zauberhelm: Geschwindigkeit"
+de_1311,"Zauberhelm: Heilung"
+de_1312,"Zauberhelm: Kraft"
+de_1313,"Kappe von Svipdag"
+de_1314,Krone
+de_1315,"Elfenhelm der Geschicklichkeit"
+de_1316,"Helm des Windes"
+de_1317,"Helm von König Attila"
+de_1318,"Kappe des Sauroner"
+de_1319,Nachtsicht
+de_1320,"Haube des Roten Ritters"
+de_1321,Anfänger-Lederhelm
+de_1322,"Kappe des Skuld"
+de_1323,"Segen des Elm"
+de_1324,Orkhelm
+de_1325,Elfen-Lederhelm
+de_1326,"Helm der Infravision"
+de_1327,"Besetzte Lederkappe"
+de_1328,"Elfenhelm der Verfassung"
+de_1329,"Kappe von Endor"
+de_1330,"Helm des Bran"
+de_1331,"Reif von Niviane"
+de_1332,Helm
+de_1333,Knochenhelm
+de_1334,"Goldener Flügel der Riesenameisenkönigin"
+de_1335,"Silberner Flügel der Riesenameisenkönigin"
+de_1336,Zwergenmantel
+de_1337,Erdmantel
+de_1338,"Mantel von Mana"
+de_1339,"Mantel der Magieresistenz"
+de_1340,Wassermantel
+de_1341,Windmantel
+de_1342,Schutzmantel
+de_1343,"Mantel des Roten Ritters"
+de_1344,"Roter Mantel"
+de_1345,Feuermantel
+de_1346,Orkmantel
+de_1347,Elfenmantel
+de_1348,Silbermantel
+de_1349,"Mantel der Unsichtbarkeit"
+de_1350,"Mantel der Vertreibung"
+de_1351,Ölhautmantel
+de_1352,Anfänger-T-Shirt
+de_1353,T-Shirt
+de_1354,Lederrüstung
+de_1355,Lederweste
+de_1356,Eisenplattenpanzer
+de_1357,Ringpanzer
+de_1358,Holzrüstung
+de_1359,"Rüstung des toten Ritters"
+de_1360,"Gebänderter Panzer"
+de_1361,"Kettenhemd der Magieresistenz"
+de_1362,Zaubererbekleidung
+de_1363,Baumwollrobe
+de_1364,Schienenpanzer
+de_1365,"Rüstung des Baphomet"
+de_1366,"Rüstung von König Attila"
+de_1367,"Lederweste mit Gürtel"
+de_1368,Schuppenpanzer
+de_1369,Knochenrüstung
+de_1370,Kettenhemd
+de_1371,Anfänger-Lederrüstung
+de_1372,Kristallplattenpanzer
+de_1373,Ork-Ringpanzer
+de_1374,Ork-Kettenhemd
+de_1375,Elfen-Kettenhemd
+de_1376,Elfen-Plattenpanzer
+de_1377,Elfen-Brustplatte
+de_1378,"Harte Lederweste"
+de_1379,"Beschlagene Lederrüstung"
+de_1380,"Besetzte Lederweste"
+de_1381,Bronzeplattenpanzer
+de_1382,"Rüstung des Bran"
+de_1383,"Robe des Niviane"
+de_1384,Plattenpanzer
+de_1385,Lederhandschuhe
+de_1386,Eisenhandschuhe
+de_1387,"Handschuhe des Toten Ritters"
+de_1388,"Handschuhe von König Attila"
+de_1389,Schutzhandschuhe
+de_1390,"Handschuhe des Wassergeistes"
+de_1391,Anfänger-Lederhandschuhe
+de_1392,Schneehandschuhe
+de_1393,Kristallhandschuhe
+de_1394,"Handschuhe des Erdgeistes"
+de_1395,"Handschuhe des Feuergeistes"
+de_1396,Handschuhe
+de_1397,"Handschuhe von Bran"
+de_1398,"Handschuhe von Niviane"
+de_1399,Krafthandschuhe
+de_1400,"Handschuhe des Windgeistes"
+de_1401,Armschutz
+de_1402,Lederstiefel
+de_1403,Ledersandalen
+de_1404,Eisenstiefel
+de_1405,"Stiefel des Toten Ritters"
+de_1406,"Stiefel von König Attila"
+de_1407,"Stiefel von Beleth"
+de_1408,"Hohe Stiefel"
+de_1409,Anfänger-Ledersandalen
+de_1410,Unterwasser-Stiefel
+de_1411,"Niedrige Stiefel"
+de_1412,"Stiefel von Bran"
+de_1413,"Stiefel von Niviane"
+de_1414,"Sandalen des Dunklen Älteren"
+de_1415,Lederschild
+de_1416,Eisenschild
+de_1417,Knochenschild
+de_1418,Holzschild
+de_1419,Zwergenrundschild
+de_1420,Mana-Kristallkugel
+de_1421,"Buch der Magischen Kraft"
+de_1422,"Schild der Reflexion"
+de_1423,Rotaugenschild
+de_1424,Turmschild
+de_1425,Anfänger-Lederschild
+de_1426,Elfenschild
+de_1427,Ork-Schild
+de_1428,"Schild des Silbernen Ritters"
+de_1429,"Kleiner Schild"
+de_1430,"Beschlagenes Lederschild"
+de_1431,"Großer Schild"
+de_1432,"Neues Camelot-Amulett"
+de_1433,"Altes Amulett des Charismas"
+de_1434,"Altes Amulett der Geschicklichkeit"
+de_1435,"Altes Amulett der Stärke"
+de_1436,"Altes Amulett der Intelligenz"
+de_1437,"Altes Amulett der Weisheit"
+de_1438,"Altes Amulett der Verfassung"
+de_1439,"Amulett des Charismas"
+de_1440,"Amulett der Geschicklichkeit"
+de_1441,"Amulett der Insel der Verheißung"
+de_1442,"Amulett des Ork"
+de_1443,"Amulett der Stärke"
+de_1444,"Amulett der Intelligenz"
+de_1445,"Amulett der Weisheit"
+de_1446,"Amulett der Verfassung"
+de_1447,Skelett-Amulett
+de_1448,"Ring der Immunität gegen Magie"
+de_1449,"Ring der Macht über Polymorph"
+de_1450,Anfängerring
+de_1451,"Ring der Beschwörungskontrolle"
+de_1452,"Ring des Wasserwiderstands"
+de_1453,"Ring der Macht über Teleport"
+de_1454,"Ring des Erdwiderstands"
+de_1455,"Ring des Windwiderstands"
+de_1456,"Ring der Magieresistenz"
+de_1457,"Ring des Feuerwiderstands"
+de_1458,"Alter Gürtel des Körpers"
+de_1459,"Alter Gürtel der Seele"
+de_1460,"Alter Gürtel des Geistes"
+de_1461,"Schimmernder Gürtel des Körpers"
+de_1462,"Schimmernder Gürtel der Seele"
+de_1463,"Schimmernder Gürtel des Geistes"
+de_1464,"Gürtel des Körpers"
+de_1465,"Gürtel der Seele"
+de_1466,Ogergürtel
+de_1467,"Gürtel der Tapferkeit"
+de_1468,"Gürtel des Geistes"
+de_1469,Trollgürtel
+de_1470,Lederjacke
+de_1471,"Halskette des Lichts"
+de_1472,"Ohrringe der Magieresistenz"
+de_1473,Holzjacke
+de_1474,"T-Shirt der Magieresistenz"
+de_1475,"Altes Amulett des Charismas"
+de_1476,"Altes Amulett der Geschicklichkeit"
+de_1477,"Altes Amulett der Stärke"
+de_1478,"Altes Amulett der Intelligenz"
+de_1479,"Altes Amulett der Weisheit"
+de_1480,"Altes Amulett der Verfassung"
+de_1481,"Elfenhelm der Geschicklichkeit (Persönlich)"
+de_1482,"Elfenhelm der Verfassung (Persönlich)"
+de_1483,"Haube des Roten Ritters (Persönlich)"
+de_1484,"Elfen-Lederhelm der Verfassung (Persönlich)"
+de_1485,"Elfen-Lederhelm der Geschicklichkeit (Persönlich)"
+de_1486,"Blutbefleckte Haube (Persönlich)"
+de_1487,NULL
