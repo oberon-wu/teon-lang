@@ -1,0 +1,22 @@
+<html>
+<body>
+<font fg=ffffaf>Zones applicables</font><br />
+1. Zones non-membre<br /><br />
+<font fg=ffffaf>État du nom</font><br />
+1. Nom rose : un état temporaire indiquant que le joueur a attaqué un autre joueur au nom rouge ou non-rose.<br />
+2. Nom rouge : cet état apparaît quand la valeur de respect du joueur se situe à -1000 ou est inférieure.<br />
+3. État normal : les noms bleus ou blancs indiquent que le joueur est dans un état anormal.<br />
+4. Priorités d'affichage : rouge>rose>normal<br /><br />
+<font fg=ffffaf>Pénalités</font><br />
+1. Dans l'état normal, attaquer un joueur à l'état normal infligera une pénalité de nom rose pendant 90 secondes.<br />
+2. Dans l'état de nom rose, attaquer un joueur à l'état normal infligera une pénalité de nom rose pendant 90 secondes.<br />
+3. Dans l'état de nom rouge, attaquer un joueur à l'état normal ne infligera PAS une pénalité de nom rose.<br />
+4. Dans n'importe quel état, attaquer un joueur au nom rose ou rouge ne infligera PAS de pénalité de nom rose.<br /><br />
+<font fg=ffffaf>Pénalités pour meurtre</font><br />
+1. Tuer un joueur à l'état normal sera puni par la justice et fera perdre une partie de la valeur de respect.<br />
+2. Tuer un joueur à l'état mettra les gardes à votre poursuite pendant 48 heures (temps réel).<br />
+3. Tuer un joueur au nom rose ou rouge ne infligera aucune pénalité.<br />
+<br />
+<a link="help">Retour à l'aide</a>
+</body>
+</html>

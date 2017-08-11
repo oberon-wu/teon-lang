@@ -1,0 +1,22 @@
+<html>
+<body>
+<font fg=ffffaf>Zonas de acción</font><br />
+1. Zonas para no miembros<br /><br />
+<font fg=ffffaf>Nombre de estado</font><br />
+1. Nombre rosa: un estado temporal que indica que el jugador ha atacado a otro jugador con nombre rojo o no rosa.<br />
+2. Nombre rojo: este estado aparece cuando el valor legítimo del jugador es igual o inferior a 1000.<br />
+3. Estado normal: un nombre azul o blanco indica que el jugador está en estado normal.<br />
+4. Prioridades de color: Rojo>Rosa>Normal<br /><br />
+<font fg=ffffaf>Penalizaciones</font><br />
+1. En el estado normal, si atacas a un jugador con estado normal recibirás una penalización de nombre rosa durante 90 segundos.<br />
+2. En el estado rosa, si atacas a un jugador con estado normal recibirás una penalización de nombre rosa durante 90 segundos.<br />
+3. En el estado de nombre rojo, si atacas a un jugador con estado normal el jugador no recibirá una penalización de nombre rosa.<br />
+4. En cualquier estado, si atacas a un jugador con nombre rojo o rosa, no recibirás una penalización de nombre rosa.<br />
+<font fg=ffffaf>Penalizaciones por asesinato</font><br />
+1. Si matas a un jugador con estado normal, serás castigado por la justicia y perderás una parte del valor de legitimidad.<br />
+2. Si matas a un jugador con estado normal, harás que los guardias te persigan durante 48 horas (tiempo real).<br />
+3. Matar a un jugador con nombre rojo o rosa no supone penalización.<br />
+<br />
+<a link="help">Volver a la ayuda</a>
+</body>
+</html>
