@@ -706,3 +706,5 @@ es_704,NPC
 es_705,Cancelar
 es_706,會員專屬
 es_707,隊員名片
+es_709,Please login to a binded account to continue the subscription process
+es_709,Error: Please bind your game account before subscribing a membership.
