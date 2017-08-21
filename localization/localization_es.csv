@@ -654,10 +654,10 @@ es_652,"No se ha completado el proceso de pago. Comprueba el estado de la cuenta
 es_653,"*La consigna es irreversible. Revisa el precio."
 es_654,"Conjunto de armadura"
 es_655,"Vincula tu cuenta antes de realizar un pago."
-es_656,盟徽
-es_657,請為你盟徽設定旗號
-es_658,修改盟徽
-es_659,"盟徽規則:\n修改盟徽會收取金幣，分為1檔(免費)，2檔(400000)，3檔(600000)"
+es_656,Bandera de guerra
+es_657,Elige un nombre para tu bandera de guerra.
+es_658,Editar bandera de guerra
+es_659,"1. Selecciona un diseño de bandera de guerra y elige un nombre para ella. El nombre de la bandera de guerra tiene que ser único. 2. Las banderas de guerra tienen distintos precios según su diseño. 3. Cada clan solo puede establecer su bandera de guerra una vez. Cuando lo haya hecho, no podrá cambiarla."
 es_660,正在與伺服器綁定付費紀錄，請稍候。
 es_661,綁定付費紀錄成功
 es_662,付費訂單紀錄不存在

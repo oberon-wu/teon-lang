@@ -654,10 +654,10 @@ en_652,"Failed to complete the payment process. Please check the status of your 
 en_653,"*Consignment is irreversible. Please double-check the price."
 en_654,"Armor Set"
 en_655,"Link your account first before you make a payment."
-en_656,盟徽
-en_657,請為你盟徽設定旗號
-en_658,修改盟徽
-en_659,"盟徽規則:\n修改盟徽會收取金幣，分為1檔(免費)，2檔(400000)，3檔(600000)"
+en_656,Warflag
+en_657,Pick a name for your Warflag.
+en_658,Edit Warflag
+en_659,"1. Select a Warflag design and pick a name for your Warflag. The Warflag name must be unique.2. Warflags of different designs have different prices. 3. Each clan has only one chance to set its Warflag. Once the Warflag has been set, it can't be changed."
 en_660,正在與伺服器綁定付費紀錄，請稍候。
 en_661,綁定付費紀錄成功
 en_662,付費訂單紀錄不存在
