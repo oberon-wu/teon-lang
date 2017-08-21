@@ -654,10 +654,10 @@ fr_652,"Échec de la finalisation du processus de paiement. Veuillez vérifier l
 fr_653,"*La consignation est irréversible. Veuillez bien vérifier le prix."
 fr_654,"Ensemble d'armure"
 fr_655,"Liez d'abord votre compte avant d'effectuer un paiement."
-fr_656,盟徽
-fr_657,請為你盟徽設定旗號
-fr_658,修改盟徽
-fr_659,"盟徽規則:\n修改盟徽會收取金幣，分為1檔(免費)，2檔(400000)，3檔(600000)"
+fr_656,Bannière de guerre
+fr_657,Choisissez un nom pour votre bannière de guerre.
+fr_658,Modifier la bannière de guerre
+fr_659,"1. Choisissez un modèle de bannière de guerre et donnez-lui un nom. Ce nom doit être unique. 2. Le prix des bannières varie selon leur style. 3. Chaque clan n'a qu'une seule opportunité de définir sa bannière. Une fois établie, une bannière ne peut être changée."
 fr_660,正在與伺服器綁定付費紀錄，請稍候。
 fr_661,綁定付費紀錄成功
 fr_662,付費訂單紀錄不存在
