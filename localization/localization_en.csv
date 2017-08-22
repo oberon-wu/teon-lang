@@ -658,53 +658,53 @@ en_656,Warflag
 en_657,Pick a name for your Warflag.
 en_658,Edit Warflag
 en_659,"1. Select a Warflag design and pick a name for your Warflag. The Warflag name must be unique.2. Warflags of different designs have different prices. 3. Each clan has only one chance to set its Warflag. Once the Warflag has been set, it can't be changed."
-en_660,正在與伺服器綁定付費紀錄，請稍候。
-en_661,綁定付費紀錄成功
-en_662,付費訂單紀錄不存在
-en_663,付費訂單紀錄已過期
+en_660,Searching for your subscription record
+en_661,Subscription retrieved successfully
+en_662,Cannot find any subscription record
+en_663,Your subscription period has already expired
 en_664,Use
-en_665,DESIGN
-en_666,REDEEM
-en_667,FRAME
-en_668,"This is the default"
-en_669,Backing
-en_670,Skin
+en_665,Costume
+en_666,Redeem
+en_667,Frame
+en_668,Default
+en_669,BG
+en_670,Figure
 en_671,Effect
-en_672,"Not enough items to purchase this decoration"
+en_672,Not enough dyes
 en_673,Duration
-en_674,"Cannot save as there is already a purchased skin in this slot"
-en_675,"You cannot redeem for a decoration you already have"
-en_676,"Only subscribers can save or purchase some of those decorations"
-en_677,"You are purchasing a skin in slot %hhu with %d of item:"
-en_678,"Custom skin: Change anything but duration, only subscribers can use 8-10"
-en_679,"It has bkg: %hhu, skin: %hhu, eff: %hhu"
-en_680,"It will last %hhu days"
-en_681,"Save succeeded"
-en_682,"Purchase succeed, this skin is now equiped"
-en_683,"CONFIRM PURCHASE"
-en_684,"Not enough items to purchase this decoration"
-en_685,"This frame will last for %hhu days"
-en_686,"You are purchasing frame number %hhu with %d of item: "
-en_687,Inspect
-en_688,INSPECT
-en_689,"PURCHASE DECORATIONS"
+en_674,Preview cannot be saved. You have already redeemed a costume in this slot.
+en_675,You cannot redeem the same combination of BG, Figure and Effect twice.
+en_676,Member Exclusive
+en_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
+en_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
+en_679,BG %hhu, Figure %hhu, Effect %hhu
+en_680,Duration: %hhu days
+en_681,Preview is saved.
+en_682,Redeemed successfully
+en_683,Confirmation
+en_684,Not enough dyes
+en_685,Duration: %hhu days
+en_686,You are about to spend %d number of dyes to redeem %hhu frame:
+en_687,Char Info
+en_688,Char Info
+en_689,Costume
 en_690,Save
 en_691,Redeem
 en_692,Next
-en_693,Prev
-en_694,"EXPIRATION TIME"
-en_695,王
-en_696,騎
-en_697,法
-en_698,精
-en_699,魔法染料
-en_700,預設造型，無需兌換
-en_701,"\f2你獲得 %s"
-en_702,抽獎
-en_703,鎖定快捷鍵
+en_693,Previous
+en_694,Expiry Time
+en_695,R
+en_696,K
+en_697,M
+en_698,E
+en_699,Magical Dye
+en_700,Default Costume
+en_701,\f2 You received %s
+en_702,Draw
+en_703,Lock Hotkeys
 en_704,NPC
 en_705,Cancel
-en_706,會員專屬
-en_707,隊員名片
-en_708,Please login to a binded account to continue the subscription process
-en_709,Error: Please bind your game account before subscribing a membership.
+en_706,Member Exclusive
+en_707,Team profile
+en_708,Please sign in to a registered account before you proceed to subscribe.
+en_709,You are playing as a guest. Please register your account before subscribing.
