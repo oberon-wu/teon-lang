@@ -658,53 +658,53 @@ fr_656,Bannière de guerre
 fr_657,Choisissez un nom pour votre bannière de guerre.
 fr_658,Modifier la bannière de guerre
 fr_659,"1. Choisissez un modèle de bannière de guerre et donnez-lui un nom. Ce nom doit être unique. 2. Le prix des bannières varie selon leur style. 3. Chaque clan n'a qu'une seule opportunité de définir sa bannière. Une fois établie, une bannière ne peut être changée."
-fr_660,正在與伺服器綁定付費紀錄，請稍候。
-fr_661,綁定付費紀錄成功
-fr_662,付費訂單紀錄不存在
-fr_663,付費訂單紀錄已過期
-fr_664,使用
-fr_665,Teon秀
-fr_666,兌換
-fr_667,紋飾
-fr_668,預設
-fr_669,背景
-fr_670,人物
-fr_671,效果
-fr_672,所需消耗物品數量不足
-fr_673,時長
-fr_674,無法在已兌換的欄位保存Teon秀
-fr_675,無法兌換已擁有的Teon秀組合
-fr_676,會員專屬Teon秀
-fr_677,"將要在第 %hhu 欄兌換Teon秀，消耗 %d 件物品："
-fr_678,"1.魔法染料可兌換不同時效不同組合的Teon秀。\n2.固定組合的魔法染料可以兌換指定的Teon秀。\n3.每個角色有3個欄位，預設欄位不可更改。"
-fr_679,"背景 %hhu，人物 %hhu，效果 %hhu"
-fr_680,"持續時間：%hhu 天"
-fr_681,保存成功
-fr_682,兌換成功，Teon秀組合已生效
-fr_683,確認兌換
-fr_684,所需消耗物品數量不足
-fr_685,"紋飾持續時間：%hhu 天"
-fr_686,"將要兌換 %hhu 號紋飾，消耗 %d 件物品："
-fr_687,玩家資料
-fr_688,玩家資料
-fr_689,Teon秀
-fr_690,保存
-fr_691,兌換
-fr_692,下一套
-fr_693,上一套
-fr_694,過期時間
-fr_695,王
-fr_696,騎
-fr_697,法
-fr_698,精
-fr_699,魔法染料
-fr_700,預設造型，無需兌換
-fr_701,"\f2你獲得 %s"
-fr_702,抽獎
-fr_703,鎖定快捷鍵
+fr_660,Searching for your subscription record
+fr_661,Subscription retrieved successfully
+fr_662,Cannot find any subscription record
+fr_663,Your subscription period has already expired
+fr_664,Use
+fr_665,Costume
+fr_666,Redeem
+fr_667,Frame
+fr_668,Default
+fr_669,BG
+fr_670,Figure
+fr_671,Effect
+fr_672,Not enough dyes
+fr_673,Duration
+fr_674,Preview cannot be saved. You have already redeemed a costume in this slot.
+fr_675,You cannot redeem the same combination of BG, Figure and Effect twice.
+fr_676,Member Exclusive
+fr_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
+fr_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
+fr_679,BG %hhu, Figure %hhu, Effect %hhu
+fr_680,Duration: %hhu days
+fr_681,Preview is saved.
+fr_682,Redeemed successfully
+fr_683,Confirmation
+fr_684,Not enough dyes
+fr_685,Duration: %hhu days
+fr_686,You are about to spend %d number of dyes to redeem %hhu frame:
+fr_687,Char Info
+fr_688,Char Info
+fr_689,Costume
+fr_690,Save
+fr_691,Redeem
+fr_692,Next
+fr_693,Previous
+fr_694,Expiry Time
+fr_695,R
+fr_696,K
+fr_697,M
+fr_698,E
+fr_699,Magical Dye
+fr_700,Default Costume
+fr_701,\f2 You received %s
+fr_702,Draw
+fr_703,Lock Hotkeys
 fr_704,NPC
-fr_705,Annuler
-fr_706,會員專屬
-fr_707,隊員名片
-fr_708,Please login to a binded account to continue the subscription process
-fr_709,Error: Please bind your game account before subscribing a membership.
+fr_705,Cancel
+fr_706,Member Exclusive
+fr_707,Team profile
+fr_708,Please sign in to a registered account before you proceed to subscribe.
+fr_709,You are playing as a guest. Please register your account before subscribing.

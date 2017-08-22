@@ -658,53 +658,53 @@ pt_656,Bandeira de guerra
 pt_657,Escolha um nome para a sua Bandeira de guerra.
 pt_658,Editar Bandeira de guerra
 pt_659,"1. Selecione um design de Bandeira de guerra e escolha um nome para ela. O nome da Bandeira de guerra deve ser único. 2. Bandeiras de guerra de designs diferentes têm preços diferentes. 3. Cada clã tem apenas uma oportunidade de definir sua Bandeira de guerra. Quando a Bandeira de guerra for definida, ela não pode ser alterada."
-pt_660,正在與伺服器綁定付費紀錄，請稍候。
-pt_661,綁定付費紀錄成功
-pt_662,付費訂單紀錄不存在
-pt_663,付費訂單紀錄已過期
-pt_664,使用
-pt_665,Teon秀
-pt_666,兌換
-pt_667,紋飾
-pt_668,預設
-pt_669,背景
-pt_670,人物
-pt_671,效果
-pt_672,所需消耗物品數量不足
-pt_673,時長
-pt_674,無法在已兌換的欄位保存Teon秀
-pt_675,無法兌換已擁有的Teon秀組合
-pt_676,會員專屬Teon秀
-pt_677,"將要在第 %hhu 欄兌換Teon秀，消耗 %d 件物品："
-pt_678,"1.魔法染料可兌換不同時效不同組合的Teon秀。\n2.固定組合的魔法染料可以兌換指定的Teon秀。\n3.每個角色有3個欄位，預設欄位不可更改。"
-pt_679,"背景 %hhu，人物 %hhu，效果 %hhu"
-pt_680,"持續時間：%hhu 天"
-pt_681,保存成功
-pt_682,兌換成功，Teon秀組合已生效
-pt_683,確認兌換
-pt_684,所需消耗物品數量不足
-pt_685,"紋飾持續時間：%hhu 天"
-pt_686,"將要兌換 %hhu 號紋飾，消耗 %d 件物品："
-pt_687,玩家資料
-pt_688,玩家資料
-pt_689,Teon秀
-pt_690,保存
-pt_691,兌換
-pt_692,下一套
-pt_693,上一套
-pt_694,過期時間
-pt_695,王
-pt_696,騎
-pt_697,法
-pt_698,精
-pt_699,魔法染料
-pt_700,預設造型，無需兌換
-pt_701,"\f2你獲得 %s"
-pt_702,抽獎
-pt_703,鎖定快捷鍵
+pt_660,Searching for your subscription record
+pt_661,Subscription retrieved successfully
+pt_662,Cannot find any subscription record
+pt_663,Your subscription period has already expired
+pt_664,Use
+pt_665,Costume
+pt_666,Redeem
+pt_667,Frame
+pt_668,Default
+pt_669,BG
+pt_670,Figure
+pt_671,Effect
+pt_672,Not enough dyes
+pt_673,Duration
+pt_674,Preview cannot be saved. You have already redeemed a costume in this slot.
+pt_675,You cannot redeem the same combination of BG, Figure and Effect twice.
+pt_676,Member Exclusive
+pt_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
+pt_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
+pt_679,BG %hhu, Figure %hhu, Effect %hhu
+pt_680,Duration: %hhu days
+pt_681,Preview is saved.
+pt_682,Redeemed successfully
+pt_683,Confirmation
+pt_684,Not enough dyes
+pt_685,Duration: %hhu days
+pt_686,You are about to spend %d number of dyes to redeem %hhu frame:
+pt_687,Char Info
+pt_688,Char Info
+pt_689,Costume
+pt_690,Save
+pt_691,Redeem
+pt_692,Next
+pt_693,Previous
+pt_694,Expiry Time
+pt_695,R
+pt_696,K
+pt_697,M
+pt_698,E
+pt_699,Magical Dye
+pt_700,Default Costume
+pt_701,\f2 You received %s
+pt_702,Draw
+pt_703,Lock Hotkeys
 pt_704,NPC
-pt_705,Cancelar
-pt_706,會員專屬
-pt_707,隊員名片
-pt_708,Please login to a binded account to continue the subscription process
-pt_709,Error: Please bind your game account before subscribing a membership.
+pt_705,Cancel
+pt_706,Member Exclusive
+pt_707,Team profile
+pt_708,Please sign in to a registered account before you proceed to subscribe.
+pt_709,You are playing as a guest. Please register your account before subscribing.

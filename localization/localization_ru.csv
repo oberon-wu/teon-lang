@@ -658,53 +658,53 @@ ru_656,Боевой флаг
 ru_657,Выберите имя для боевого флага.
 ru_658,Изменить боевой флаг
 ru_659,"1. Выберите дизайн и имя боевого флага. Имя должно быть уникальным. 2. Цена боевого флага зависит от его дизайна. 3. У каждого клана есть только одна возможность выбрать боевой флаг. Выбранный боевой флаг сменить нельзя."
-ru_660,正在與伺服器綁定付費紀錄，請稍候。
-ru_661,綁定付費紀錄成功
-ru_662,付費訂單紀錄不存在
-ru_663,付費訂單紀錄已過期
-ru_664,使用
-ru_665,Teon秀
-ru_666,兌換
-ru_667,紋飾
-ru_668,預設
-ru_669,背景
-ru_670,人物
-ru_671,效果
-ru_672,所需消耗物品數量不足
-ru_673,時長
-ru_674,無法在已兌換的欄位保存Teon秀
-ru_675,無法兌換已擁有的Teon秀組合
-ru_676,會員專屬Teon秀
-ru_677,"將要在第 %hhu 欄兌換Teon秀，消耗 %d 件物品："
-ru_678,"1.魔法染料可兌換不同時效不同組合的Teon秀。\n2.固定組合的魔法染料可以兌換指定的Teon秀。\n3.每個角色有3個欄位，預設欄位不可更改。"
-ru_679,"背景 %hhu，人物 %hhu，效果 %hhu"
-ru_680,"持續時間：%hhu 天"
-ru_681,保存成功
-ru_682,兌換成功，Teon秀組合已生效
-ru_683,確認兌換
-ru_684,所需消耗物品數量不足
-ru_685,"紋飾持續時間：%hhu 天"
-ru_686,"將要兌換 %hhu 號紋飾，消耗 %d 件物品："
-ru_687,玩家資料
-ru_688,玩家資料
-ru_689,Teon秀
-ru_690,保存
-ru_691,兌換
-ru_692,下一套
-ru_693,上一套
-ru_694,過期時間
-ru_695,王
-ru_696,騎
-ru_697,法
-ru_698,精
-ru_699,魔法染料
-ru_700,預設造型，無需兌換
-ru_701,"\f2你獲得 %s"
-ru_702,抽獎
-ru_703,鎖定快捷鍵
+ru_660,Searching for your subscription record
+ru_661,Subscription retrieved successfully
+ru_662,Cannot find any subscription record
+ru_663,Your subscription period has already expired
+ru_664,Use
+ru_665,Costume
+ru_666,Redeem
+ru_667,Frame
+ru_668,Default
+ru_669,BG
+ru_670,Figure
+ru_671,Effect
+ru_672,Not enough dyes
+ru_673,Duration
+ru_674,Preview cannot be saved. You have already redeemed a costume in this slot.
+ru_675,You cannot redeem the same combination of BG, Figure and Effect twice.
+ru_676,Member Exclusive
+ru_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
+ru_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
+ru_679,BG %hhu, Figure %hhu, Effect %hhu
+ru_680,Duration: %hhu days
+ru_681,Preview is saved.
+ru_682,Redeemed successfully
+ru_683,Confirmation
+ru_684,Not enough dyes
+ru_685,Duration: %hhu days
+ru_686,You are about to spend %d number of dyes to redeem %hhu frame:
+ru_687,Char Info
+ru_688,Char Info
+ru_689,Costume
+ru_690,Save
+ru_691,Redeem
+ru_692,Next
+ru_693,Previous
+ru_694,Expiry Time
+ru_695,R
+ru_696,K
+ru_697,M
+ru_698,E
+ru_699,Magical Dye
+ru_700,Default Costume
+ru_701,\f2 You received %s
+ru_702,Draw
+ru_703,Lock Hotkeys
 ru_704,NPC
-ru_705,Отмена
-ru_706,會員專屬
-ru_707,隊員名片
-ru_708,Please login to a binded account to continue the subscription process
-ru_709,Error: Please bind your game account before subscribing a membership.
+ru_705,Cancel
+ru_706,Member Exclusive
+ru_707,Team profile
+ru_708,Please sign in to a registered account before you proceed to subscribe.
+ru_709,You are playing as a guest. Please register your account before subscribing.
