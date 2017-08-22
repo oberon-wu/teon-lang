@@ -43,7 +43,7 @@ en_41,Haste,"Increase speed of target for 20 mins. Spell cannot be cast again wh
 en_42,"Cancel Magic","Dispel enemies' magic spells with the power of the wind. Has a chance to remove all magic effects on target."
 en_43,Eruption,"Tear enemies apart with the power of the earth, dealing serious damage."
 en_44,Sunburst,"Cause fiery explosions on target, dealing a huge amount of damage."
-en_45,Weakness,"Chance to lower the target's close combat physical ATK damage and hit rate. Casting this spell causes your Lawful value to decrease by 10."
+en_45,Weakness,"Chance to lower the target's close combat physical ATK damage and hit rate. Casting this spell causes your Lawful value to decrease."
 en_46,"Bless Weapon","Empower target's weapon by casting a blessing spell on it. This increases the target's DMG and hit rate."
 en_47,"Healing Pledge","Heal all Clan members on the screen."
 en_48,Freeze,"Deal damage on the target, with the possibility of freezing them for 16 secs. When frozen, the target cannot be attacked and cannot move."
