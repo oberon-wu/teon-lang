@@ -654,14 +654,14 @@ pt_652,"Falha ao concluir o processo de pagamento. Verifique o status da sua con
 pt_653,"*A consignação é irreversível. Verifique o preço com atenção."
 pt_654,"Conjunto de Armadura"
 pt_655,"Vincule sua conta antes de fazer um pagamento."
-pt_656,Bandeira de guerra
-pt_657,Escolha um nome para a sua Bandeira de guerra.
-pt_658,Editar Bandeira de guerra
+pt_656,"Bandeira de guerra"
+pt_657,"Escolha um nome para a sua Bandeira de guerra."
+pt_658,"Editar Bandeira de guerra"
 pt_659,"1. Selecione um design de Bandeira de guerra e escolha um nome para ela. O nome da Bandeira de guerra deve ser único. 2. Bandeiras de guerra de designs diferentes têm preços diferentes. 3. Cada clã tem apenas uma oportunidade de definir sua Bandeira de guerra. Quando a Bandeira de guerra for definida, ela não pode ser alterada."
-pt_660,Searching for your subscription record
-pt_661,Subscription retrieved successfully
-pt_662,Cannot find any subscription record
-pt_663,Your subscription period has already expired
+pt_660,"Searching for your subscription record"
+pt_661,"Subscription retrieved successfully"
+pt_662,"Cannot find any subscription record"
+pt_663,"Your subscription period has already expired"
 pt_664,Use
 pt_665,Costume
 pt_666,Redeem
@@ -670,41 +670,43 @@ pt_668,Default
 pt_669,BG
 pt_670,Figure
 pt_671,Effect
-pt_672,Not enough dyes
+pt_672,"Not enough dyes"
 pt_673,Duration
-pt_674,Preview cannot be saved. You have already redeemed a costume in this slot.
-pt_675,You cannot redeem the same combination of BG, Figure and Effect twice.
-pt_676,Member Exclusive
-pt_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
-pt_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
-pt_679,BG %hhu, Figure %hhu, Effect %hhu
-pt_680,Duration: %hhu days
-pt_681,Preview is saved.
-pt_682,Redeemed successfully
+pt_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
+pt_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
+pt_676,"Member Exclusive"
+pt_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
+pt_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
+pt_679,"BG %hhu, Figure %hhu, Effect %hhu"
+pt_680,"Duration: %hhu days"
+pt_681,"Preview is saved."
+pt_682,"Redeemed successfully"
 pt_683,Confirmation
-pt_684,Not enough dyes
-pt_685,Duration: %hhu days
-pt_686,You are about to spend %d number of dyes to redeem %hhu frame:
-pt_687,Char Info
-pt_688,Char Info
+pt_684,"Not enough dyes"
+pt_685,"Duration: %hhu days"
+pt_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
+pt_687,"Char Info"
+pt_688,"Char Info"
 pt_689,Costume
 pt_690,Save
 pt_691,Redeem
 pt_692,Next
 pt_693,Previous
-pt_694,Expiry Time
+pt_694,"Expiry Time"
 pt_695,R
 pt_696,K
 pt_697,M
 pt_698,E
-pt_699,Magical Dye
-pt_700,Default Costume
-pt_701,\f2 You received %s
+pt_699,"Magical Dye"
+pt_700,"Default Costume"
+pt_701,"\f2 You received %s"
 pt_702,Draw
-pt_703,Lock Hotkeys
+pt_703,"Lock Hotkeys"
 pt_704,NPC
 pt_705,Cancel
-pt_706,Member Exclusive
-pt_707,Team profile
-pt_708,Please sign in to a registered account before you proceed to subscribe.
-pt_709,You are playing as a guest. Please register your account before subscribing.
+pt_706,"Member Exclusive"
+pt_707,"Team profile"
+pt_708,"Please sign in to a registered account before you proceed to subscribe."
+pt_709,"You are playing as a guest. Please register your account before subscribing."
+pt_710,訂單ID已被使用
+pt_711,會員訂單ID已被其他遊戲帳號綁定

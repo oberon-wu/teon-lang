@@ -655,13 +655,13 @@ de_653,"*Eine Hinterlegung ist unwiderruflich. Bitte prüfe genau, ob der Preis 
 de_654,Rüstungssatz
 de_655,"Verknüpfe zuerst dein Konto, bevor du eine Zahlung durchführst."
 de_656,Kriegsflagge
-de_657,Wähle einen Namen für deine Kriegsflagge aus.
-de_658,Kriegsflagge bearbeiten
+de_657,"Wähle einen Namen für deine Kriegsflagge aus."
+de_658,"Kriegsflagge bearbeiten"
 de_659,"1. Wähle ein Design und einen Namen für deine Kriegsflagge aus. Der Name der Kriegsflagge muss einmalig sein.2. Die verschiedenen Kriegsflaggen-Designs haben unterschiedliche Preise. 3. Jeder Clan kann seine Kriegsflagge nur einmal festlegen. Danach kann die Kriegsflagge nicht mehr geändert werden."
-de_660,Searching for your subscription record
-de_661,Subscription retrieved successfully
-de_662,Cannot find any subscription record
-de_663,Your subscription period has already expired
+de_660,"Searching for your subscription record"
+de_661,"Subscription retrieved successfully"
+de_662,"Cannot find any subscription record"
+de_663,"Your subscription period has already expired"
 de_664,Use
 de_665,Costume
 de_666,Redeem
@@ -670,41 +670,43 @@ de_668,Default
 de_669,BG
 de_670,Figure
 de_671,Effect
-de_672,Not enough dyes
+de_672,"Not enough dyes"
 de_673,Duration
-de_674,Preview cannot be saved. You have already redeemed a costume in this slot.
-de_675,You cannot redeem the same combination of BG, Figure and Effect twice.
-de_676,Member Exclusive
-de_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
-de_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
-de_679,BG %hhu, Figure %hhu, Effect %hhu
-de_680,Duration: %hhu days
-de_681,Preview is saved.
-de_682,Redeemed successfully
+de_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
+de_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
+de_676,"Member Exclusive"
+de_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
+de_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
+de_679,"BG %hhu, Figure %hhu, Effect %hhu"
+de_680,"Duration: %hhu days"
+de_681,"Preview is saved."
+de_682,"Redeemed successfully"
 de_683,Confirmation
-de_684,Not enough dyes
-de_685,Duration: %hhu days
-de_686,You are about to spend %d number of dyes to redeem %hhu frame:
-de_687,Char Info
-de_688,Char Info
+de_684,"Not enough dyes"
+de_685,"Duration: %hhu days"
+de_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
+de_687,"Char Info"
+de_688,"Char Info"
 de_689,Costume
 de_690,Save
 de_691,Redeem
 de_692,Next
 de_693,Previous
-de_694,Expiry Time
+de_694,"Expiry Time"
 de_695,R
 de_696,K
 de_697,M
 de_698,E
-de_699,Magical Dye
-de_700,Default Costume
-de_701,\f2 You received %s
+de_699,"Magical Dye"
+de_700,"Default Costume"
+de_701,"\f2 You received %s"
 de_702,Draw
-de_703,Lock Hotkeys
+de_703,"Lock Hotkeys"
 de_704,NPC
 de_705,Cancel
-de_706,Member Exclusive
-de_707,Team profile
-de_708,Please sign in to a registered account before you proceed to subscribe.
-de_709,You are playing as a guest. Please register your account before subscribing.
+de_706,"Member Exclusive"
+de_707,"Team profile"
+de_708,"Please sign in to a registered account before you proceed to subscribe."
+de_709,"You are playing as a guest. Please register your account before subscribing."
+de_710,訂單ID已被使用
+de_711,會員訂單ID已被其他遊戲帳號綁定

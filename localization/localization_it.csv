@@ -655,13 +655,13 @@ it_653,"*La spedizione è irreversibile. Ti preghiamo ti ricontrollare il prezzo
 it_654,"Set armatura"
 it_655,"Collega il tuo account prima di effettuare un pagamento."
 it_656,Stendardo
-it_657,Scegli un nome per il tuo Stendardo.
-it_658,Modifica Stendardo
+it_657,"Scegli un nome per il tuo Stendardo."
+it_658,"Modifica Stendardo"
 it_659,"1. Seleziona un modello di Stendardo e scegli un nome. Il nome dello Stendardo deve essere univoco. 2. I diversi modelli di Stendardo hanno prezzi differenti. 3. Ciascun clan ha una sola possibilità di impostare il proprio Stendardo. Una volta impostato, non può essere modificato."
-it_660,Searching for your subscription record
-it_661,Subscription retrieved successfully
-it_662,Cannot find any subscription record
-it_663,Your subscription period has already expired
+it_660,"Searching for your subscription record"
+it_661,"Subscription retrieved successfully"
+it_662,"Cannot find any subscription record"
+it_663,"Your subscription period has already expired"
 it_664,Use
 it_665,Costume
 it_666,Redeem
@@ -670,41 +670,43 @@ it_668,Default
 it_669,BG
 it_670,Figure
 it_671,Effect
-it_672,Not enough dyes
+it_672,"Not enough dyes"
 it_673,Duration
-it_674,Preview cannot be saved. You have already redeemed a costume in this slot.
-it_675,You cannot redeem the same combination of BG, Figure and Effect twice.
-it_676,Member Exclusive
-it_677,You are about to spend %d number of dyes to redeem a costume in slot %hhu 
-it_678,1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified
-it_679,BG %hhu, Figure %hhu, Effect %hhu
-it_680,Duration: %hhu days
-it_681,Preview is saved.
-it_682,Redeemed successfully
+it_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
+it_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
+it_676,"Member Exclusive"
+it_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
+it_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
+it_679,"BG %hhu, Figure %hhu, Effect %hhu"
+it_680,"Duration: %hhu days"
+it_681,"Preview is saved."
+it_682,"Redeemed successfully"
 it_683,Confirmation
-it_684,Not enough dyes
-it_685,Duration: %hhu days
-it_686,You are about to spend %d number of dyes to redeem %hhu frame:
-it_687,Char Info
-it_688,Char Info
+it_684,"Not enough dyes"
+it_685,"Duration: %hhu days"
+it_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
+it_687,"Char Info"
+it_688,"Char Info"
 it_689,Costume
 it_690,Save
 it_691,Redeem
 it_692,Next
 it_693,Previous
-it_694,Expiry Time
+it_694,"Expiry Time"
 it_695,R
 it_696,K
 it_697,M
 it_698,E
-it_699,Magical Dye
-it_700,Default Costume
-it_701,\f2 You received %s
+it_699,"Magical Dye"
+it_700,"Default Costume"
+it_701,"\f2 You received %s"
 it_702,Draw
-it_703,Lock Hotkeys
+it_703,"Lock Hotkeys"
 it_704,NPC
 it_705,Cancel
-it_706,Member Exclusive
-it_707,Team profile
-it_708,Please sign in to a registered account before you proceed to subscribe.
-it_709,You are playing as a guest. Please register your account before subscribing.
+it_706,"Member Exclusive"
+it_707,"Team profile"
+it_708,"Please sign in to a registered account before you proceed to subscribe."
+it_709,"You are playing as a guest. Please register your account before subscribing."
+it_710,訂單ID已被使用
+it_711,會員訂單ID已被其他遊戲帳號綁定
