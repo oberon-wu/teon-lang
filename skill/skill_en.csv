@@ -35,7 +35,7 @@ en_33,"Greater Heal","Recover a great amount of HP for the target. Also deals da
 en_34,"Tame Monster","Chance to bewitch target monster and make it follow you. The weaker the target’s HP, the greater the probability of success."
 en_35,"Remove Curse","Emit a holy light to remove the curse on the target."
 en_36,"Cone of Cold","Unleash frozen spikes on the target, dealing damage."
-en_37,"Mana Drain","Chance to absorb target's MP and convert 50% of the MP absorbed for yourself."
+en_37,"Mana Drain","Chance to absorb target's MP and convert of the MP absorbed for yourself."
 en_38,Darkness,"Summon a dark shadow, which has a chance to blind the target for 32 secs. Casting this spell causes your Lawful value to decrease by 10."
 en_39,"Raise Dead","Turn targeted corpse into a zombie, which will follow and support the spell caster. Casting this spell will cause your Lawful value to decrease by 10."
 en_40,"Physical Enchant: STR","Use flames to increase target's STR by 5 points. Can only be used on Clan members. Effect does not stack."
