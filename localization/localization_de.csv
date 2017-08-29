@@ -536,7 +536,7 @@ de_534,"Contact: cs@lakoo.com"
 de_535,"Please select a category of your feedback"
 de_536,Submit
 de_537,"The content is %d longer than the character limit."
-de_538,"You have to bind your game account before submitting any feedback"
+de_538,"Du spielst als Gast. Bitte registriere dein Konto, bevor du dein Problem meldest."
 de_539,"Thanks! We’ll reply ASAP. (Custom service only in English and Chinese)"
 de_540,ID
 de_541,"Character name"
@@ -657,57 +657,57 @@ de_655,"Verknüpfe zuerst dein Konto, bevor du eine Zahlung durchführst."
 de_656,Kriegsflagge
 de_657,"Wähle einen Namen für deine Kriegsflagge aus."
 de_658,"Kriegsflagge bearbeiten"
-de_659,"1. Wähle ein Design und einen Namen für deine Kriegsflagge aus. Der Name der Kriegsflagge muss einmalig sein.2. Die verschiedenen Kriegsflaggen-Designs haben unterschiedliche Preise. 3. Jeder Clan kann seine Kriegsflagge nur einmal festlegen. Danach kann die Kriegsflagge nicht mehr geändert werden."
-de_660,"Searching for your subscription record"
-de_661,"Subscription retrieved successfully"
-de_662,"Cannot find any subscription record"
-de_663,"Your subscription period has already expired"
-de_664,Use
-de_665,Costume
-de_666,Redeem
-de_667,Frame
-de_668,Default
-de_669,BG
-de_670,Figure
-de_671,Effect
-de_672,"Not enough dyes"
-de_673,Duration
-de_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
-de_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
-de_676,"Member Exclusive"
-de_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
-de_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
-de_679,"BG %hhu, Figure %hhu, Effect %hhu"
-de_680,"Duration: %hhu days"
-de_681,"Preview is saved."
-de_682,"Redeemed successfully"
-de_683,Confirmation
-de_684,"Not enough dyes"
-de_685,"Duration: %hhu days"
-de_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
-de_687,"Char Info"
-de_688,"Char Info"
-de_689,Costume
-de_690,Save
-de_691,Redeem
-de_692,Next
-de_693,Previous
-de_694,"Expiry Time"
-de_695,R
-de_696,K
+de_659,"1. Wähle ein Design und einen Namen für deine Kriegsflagge aus. Der Name der Kriegsflagge muss einmalig sein.\n2. Die verschiedenen Kriegsflaggen-Designs haben unterschiedliche Preise. \n3. Jeder Clan kann seine Kriegsflagge nur einmal festlegen. Danach kann die Kriegsflagge nicht mehr geändert werden."
+de_660,"Suche nach deinem Abo-Datensatz"
+de_661,"Abo erfolgreich abgerufen"
+de_662,"Kann keinen Abo-Datensatz finden"
+de_663,"Dein Abozeitraum ist bereits abgelaufen"
+de_664,Benutzen
+de_665,Kostüm
+de_666,Einlösen
+de_667,Rahmen
+de_668,Standard
+de_669,HG
+de_670,Figur
+de_671,Effekt
+de_672,"Nicht genug Farbstoffe"
+de_673,Dauer
+de_674,"Vorschau kann nicht gespeichert werden. Du hast in diesem Feld bereits ein Kostüm eingelöst."
+de_675,"Du kannst die gleiche Kombination aus BG, Figur und Effekt nicht zweimal einlösen."
+de_676,"Exklusiv für Mitglieder"
+de_677,"Du bist im Begriff, %d Einheiten Farbstoffe auszugeben, um ein Kostüm in Feld %hhu einzulösen "
+de_678,"1. Magische Farbstoffe können Kostüme in unterschiedlichen Kombinationen für unterschiedliche Dauer einlösen.\n2. Besondere magische Farbstoffe können bestimmte Kostüme in bestimmten Kombinationen einlösen.\n3. Für jeden Charakter gibt es 3 Felder für Kostüme. Das Standard-Kostüm kann nicht geändert werden"
+de_679,"BG %hhu, Figur %hhu, Effekt %hhu"
+de_680,"Dauer: %hhu Tage"
+de_681,"Vorschau wurde gespeichert."
+de_682,"Erfolgreich eingelöst"
+de_683,Bestätigung
+de_684,"Nicht genug Farbstoffe"
+de_685,"Dauer: %hhu Tage"
+de_686,"Du bist im Begriff, %d Einheiten Farbstoffe auszugeben, um den Rahmen %hhu einzulösen:"
+de_687,"Char-Info"
+de_688,"Char-Info"
+de_689,Kostüm
+de_690,Sparen
+de_691,Einlösen
+de_692,Nächster
+de_693,Bisherige
+de_694,Ablaufzeit
+de_695,K
+de_696,R
 de_697,M
 de_698,E
-de_699,"Magical Dye"
-de_700,"Default Costume"
-de_701,"\f2 You received %s"
-de_702,Draw
-de_703,"Lock Hotkeys"
+de_699,"Magischer Farbstoff"
+de_700,Standard-Kostüm
+de_701,"\f2 Du hast %s erhalten"
+de_702,Ziehen
+de_703,"Schnelltasten sperren"
 de_704,NPC
 de_705,Cancel
-de_706,"Member Exclusive"
-de_707,"Team profile"
-de_708,"Please sign in to a registered account before you proceed to subscribe."
-de_709,"You are playing as a guest. Please register your account before subscribing."
+de_706,"Exklusiv für Mitglieder"
+de_707,Teamprofil
+de_708,"Bitte melde dich bei einem registrierten Konto an, bevor du mit dem Abo weitermachst."
+de_709,"Du spielst als Gast. Bitte registriere dein Konto, bevor du ein Abo abschließt."
 de_710,訂單ID已被使用
 de_711,會員訂單ID已被其他遊戲帳號綁定
 de_712,切換攻擊者:

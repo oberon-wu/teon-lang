@@ -536,7 +536,7 @@ es_534,"Contact: cs@lakoo.com"
 es_535,"Please select a category of your feedback"
 es_536,Submit
 es_537,"The content is %d longer than the character limit."
-es_538,"You have to bind your game account before submitting any feedback"
+es_538,"Estás jugando como invitado. Registra tu cuenta antes de enviar tu problema."
 es_539,"Thanks! We’ll reply ASAP. (Custom service only in English and Chinese)"
 es_540,ID
 es_541,"Character name"
@@ -657,57 +657,57 @@ es_655,"Vincula tu cuenta antes de realizar un pago."
 es_656,"Bandera de guerra"
 es_657,"Elige un nombre para tu bandera de guerra."
 es_658,"Editar bandera de guerra"
-es_659,"1. Selecciona un diseño de bandera de guerra y elige un nombre para ella. El nombre de la bandera de guerra tiene que ser único. 2. Las banderas de guerra tienen distintos precios según su diseño. 3. Cada clan solo puede establecer su bandera de guerra una vez. Cuando lo haya hecho, no podrá cambiarla."
-es_660,"Searching for your subscription record"
-es_661,"Subscription retrieved successfully"
-es_662,"Cannot find any subscription record"
-es_663,"Your subscription period has already expired"
-es_664,Use
-es_665,Costume
-es_666,Redeem
-es_667,Frame
-es_668,Default
-es_669,BG
-es_670,Figure
-es_671,Effect
-es_672,"Not enough dyes"
-es_673,Duration
-es_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
-es_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
-es_676,"Member Exclusive"
-es_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
-es_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
-es_679,"BG %hhu, Figure %hhu, Effect %hhu"
-es_680,"Duration: %hhu days"
-es_681,"Preview is saved."
-es_682,"Redeemed successfully"
-es_683,Confirmation
-es_684,"Not enough dyes"
-es_685,"Duration: %hhu days"
-es_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
-es_687,"Char Info"
-es_688,"Char Info"
-es_689,Costume
-es_690,Save
-es_691,Redeem
-es_692,Next
-es_693,Previous
-es_694,"Expiry Time"
+es_659,"1. Selecciona un diseño de bandera de guerra y elige un nombre para ella. El nombre de la bandera de guerra tiene que ser único. \n2. Las banderas de guerra tienen distintos precios según su diseño. \n3. Cada clan solo puede establecer su bandera de guerra una vez. Cuando lo haya hecho, no podrá cambiarla."
+es_660,"Buscando tu registro de suscripción"
+es_661,"Suscripción recuperada correctamente"
+es_662,"No se encuentra ningún registro de suscripción"
+es_663,"Tu periodo de suscripción ha caducado"
+es_664,Utilizar
+es_665,Traje
+es_666,Redimir
+es_667,Marco
+es_668,Predeterminado
+es_669,Fondo
+es_670,Figura
+es_671,Efecto
+es_672,"No hay suficientes tintes"
+es_673,Duración
+es_674,"No se puede guardar la vista previa. Ya has canjeado un traje en este espacio."
+es_675,"No puedes canjear la misma combinación de fondo, figura y efecto dos veces."
+es_676,"Exclusivo para miembros"
+es_677,"Canjear este traje en el espacio &hhu te costará %d tintes. ¿Continuar? "
+es_678,"1. Los tintes mágicos pueden canjear trajes de diferentes combinaciones y duraciones. \n2. Los tintes mágicos especiales pueden canjear trajes específicos de diferentes combinaciones. \n3. Hay 3 espacios de traje por cada personaje. El traje predeterminado no se puede modificar."
+es_679,"Fondo %hhu, figura %hhu, efecto %hhu"
+es_680,"Duración: %hhu días"
+es_681,"La vista previa está guardada."
+es_682,"Canjeado correctamente"
+es_683,Confirmación
+es_684,"No hay suficientes tintes"
+es_685,"Duración: %hhu días"
+es_686,"Canjear el marco número &hhu te costará %d tintes. ¿Continuar?"
+es_687,"Información de personaje"
+es_688,"Información de personaje"
+es_689,Traje
+es_690,Salvar
+es_691,Redimir
+es_692,Siguiente
+es_693,Anterior
+es_694,"Hora de caducidad"
 es_695,R
-es_696,K
+es_696,C
 es_697,M
 es_698,E
-es_699,"Magical Dye"
-es_700,"Default Costume"
-es_701,"\f2 You received %s"
-es_702,Draw
-es_703,"Lock Hotkeys"
+es_699,"Tinte mágico"
+es_700,"Traje predeterminado"
+es_701,"\f2 Has recibido %s"
+es_702,Sacar
+es_703,"Bloquear accesos directos"
 es_704,NPC
 es_705,Cancel
-es_706,"Member Exclusive"
-es_707,"Team profile"
-es_708,"Please sign in to a registered account before you proceed to subscribe."
-es_709,"You are playing as a guest. Please register your account before subscribing."
+es_706,"Exclusivo para miembros"
+es_707,"Perfil de equipo"
+es_708,"Inicia sesión con una cuenta registrada para poder suscribirte."
+es_709,"Estás jugando como invitado. Registra tu cuenta para poder suscribirte."
 es_710,訂單ID已被使用
 es_711,會員訂單ID已被其他遊戲帳號綁定
 es_712,切換攻擊者:
