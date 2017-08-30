@@ -790,15 +790,15 @@ en_788,"Learn Clan"
 en_789,"Brave Aura"
 en_790,"Shining Aura"
 en_791,NULL
-en_792,NULL
-en_793,NULL
-en_794,NULL
-en_795,NULL
-en_796,NULL
-en_797,NULL
-en_798,NULL
-en_799,NULL
-en_800,NULL
+en_792,雷之元素
+en_793,火之元素
+en_794,水之元素
+en_795,土之元素
+en_796,風之元素
+en_797,豆沙月餅
+en_798,桂花月餅
+en_799,蓮蓉月餅
+en_800,雙黃月餅
 en_801,Lamp
 en_802,Lanterns
 en_803,Kerosene
@@ -1284,9 +1284,9 @@ en_1282,"Darkness Skeleton Archer"
 en_1283,"Darkness Skeleton Mage Lieutenant"
 en_1284,"Darkness Skeleton Archer Lieutenant"
 en_1285,"Darkness Skeleton Mage Lieutenant"
-en_1286,NULL
-en_1287,NULL
-en_1288,NULL
+en_1286,血影
+en_1287,嗜血蜘蛛
+en_1288,惡魔弓箭手
 en_1289,"Red Knight Set"
 en_1290,"Death Knight Set"
 en_1291,"Bran Set"
@@ -1485,4 +1485,9 @@ en_1483,"Red Knight's Hood (Personal)"
 en_1484,"Elven Leather Helm of Constitution (Personal)"
 en_1485,"Elven Leather Helm of Dexterity (Personal)"
 en_1486,"Blood Stained Hood (Personal)"
-en_1487,NULL
+en_1487,魅魔妖後頭目
+en_1488,巨魔頭目
+en_1489,雙頭巨人頭目
+en_1490,血影頭目
+en_1491,嗜血蜘蛛頭目
+en_1492,惡魔弓箭手頭目

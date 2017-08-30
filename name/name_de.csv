@@ -790,15 +790,15 @@ de_788,"Clan erlernen"
 de_789,"Mutige Aura"
 de_790,"Schimmernde Aura"
 de_791,NULL
-de_792,NULL
-de_793,NULL
-de_794,NULL
-de_795,NULL
-de_796,NULL
-de_797,NULL
-de_798,NULL
-de_799,NULL
-de_800,NULL
+de_792,雷之元素
+de_793,火之元素
+de_794,水之元素
+de_795,土之元素
+de_796,風之元素
+de_797,豆沙月餅
+de_798,桂花月餅
+de_799,蓮蓉月餅
+de_800,雙黃月餅
 de_801,Lampe
 de_802,Laternen
 de_803,Kerosin
@@ -1284,9 +1284,9 @@ de_1282,"Skelett-Bogenschütze (Dunkelheit)"
 de_1283,"Skelett-Magier(Dunkelheit)"
 de_1284,"Skelett-Bogenschütze-Leutnant(Dunkelheit)"
 de_1285,"Skelett-Magier-Leutnant(Dunkelheit)"
-de_1286,NULL
-de_1287,NULL
-de_1288,NULL
+de_1286,血影
+de_1287,嗜血蜘蛛
+de_1288,惡魔弓箭手
 de_1289,"Roten Ritters-Set"
 de_1290,Todesritter-Set
 de_1291,Bran-Set
@@ -1485,4 +1485,9 @@ de_1483,"Haube des Roten Ritters (Persönlich)"
 de_1484,"Elfen-Lederhelm der Verfassung (Persönlich)"
 de_1485,"Elfen-Lederhelm der Geschicklichkeit (Persönlich)"
 de_1486,"Blutbefleckte Haube (Persönlich)"
-de_1487,NULL
+de_1487,魅魔妖後頭目
+de_1488,巨魔頭目
+de_1489,雙頭巨人頭目
+de_1490,血影頭目
+de_1491,嗜血蜘蛛頭目
+de_1492,惡魔弓箭手頭目

@@ -790,15 +790,15 @@ pt_788,"Aprender Clã"
 pt_789,"Aura de Bravura"
 pt_790,"Aura Iluminada"
 pt_791,NULL
-pt_792,NULL
-pt_793,NULL
-pt_794,NULL
-pt_795,NULL
-pt_796,NULL
-pt_797,NULL
-pt_798,NULL
-pt_799,NULL
-pt_800,NULL
+pt_792,雷之元素
+pt_793,火之元素
+pt_794,水之元素
+pt_795,土之元素
+pt_796,風之元素
+pt_797,豆沙月餅
+pt_798,桂花月餅
+pt_799,蓮蓉月餅
+pt_800,雙黃月餅
 pt_801,Lâmpada
 pt_802,Lanternas
 pt_803,Querosene
@@ -1284,9 +1284,9 @@ pt_1282,"Arqueiro Esqueleto das Trevas"
 pt_1283,"Mago Esqueleto das Trevas"
 pt_1284,"Tenente Esqueleto Arqueiro das Trevas"
 pt_1285,"Tenente Esqueleto Mago das Trevas"
-pt_1286,NULL
-pt_1287,NULL
-pt_1288,NULL
+pt_1286,血影
+pt_1287,嗜血蜘蛛
+pt_1288,惡魔弓箭手
 pt_1289,"Conjunto do Cavaleiro Vermelho"
 pt_1290,"Conjunto do Cavaleiro da Morte"
 pt_1291,"Conjunto de Bran"
@@ -1485,4 +1485,9 @@ pt_1483,"Capuz do Cavaleiro Vermelho (Pessoal)"
 pt_1484,"Elmo de Couro Élfico da Constituição (Pessoal)"
 pt_1485,"Elmo de Couro Élfico da Destreza (Pessoal)"
 pt_1486,"Capuz Manchado de Sangue (Pessoal)"
-pt_1487,NULL
+pt_1487,魅魔妖後頭目
+pt_1488,巨魔頭目
+pt_1489,雙頭巨人頭目
+pt_1490,血影頭目
+pt_1491,嗜血蜘蛛頭目
+pt_1492,惡魔弓箭手頭目
