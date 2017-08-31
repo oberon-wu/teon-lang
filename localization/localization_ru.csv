@@ -536,7 +536,7 @@ ru_534,"Contact: cs@lakoo.com"
 ru_535,"Please select a category of your feedback"
 ru_536,Submit
 ru_537,"The content is %d longer than the character limit."
-ru_538,"You have to bind your game account before submitting any feedback"
+ru_538,"Вы играете как гость. Зарегистрируйте аккаунт, прежде чем отправлять сообщение."
 ru_539,"Thanks! We’ll reply ASAP. (Custom service only in English and Chinese)"
 ru_540,ID
 ru_541,"Character name"
@@ -657,58 +657,62 @@ ru_655,"Перед оплатой подключите свой аккаунт."
 ru_656,"Боевой флаг"
 ru_657,"Выберите имя для боевого флага."
 ru_658,"Изменить боевой флаг"
-ru_659,"1. Выберите дизайн и имя боевого флага. Имя должно быть уникальным. 2. Цена боевого флага зависит от его дизайна. 3. У каждого клана есть только одна возможность выбрать боевой флаг. Выбранный боевой флаг сменить нельзя."
-ru_660,"Searching for your subscription record"
-ru_661,"Subscription retrieved successfully"
-ru_662,"Cannot find any subscription record"
-ru_663,"Your subscription period has already expired"
-ru_664,Use
-ru_665,Costume
-ru_666,Redeem
-ru_667,Frame
-ru_668,Default
-ru_669,BG
-ru_670,Figure
-ru_671,Effect
-ru_672,"Not enough dyes"
-ru_673,Duration
-ru_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
-ru_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
-ru_676,"Member Exclusive"
-ru_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
-ru_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
-ru_679,"BG %hhu, Figure %hhu, Effect %hhu"
-ru_680,"Duration: %hhu days"
-ru_681,"Preview is saved."
-ru_682,"Redeemed successfully"
-ru_683,Confirmation
-ru_684,"Not enough dyes"
-ru_685,"Duration: %hhu days"
-ru_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
-ru_687,"Char Info"
-ru_688,"Char Info"
-ru_689,Costume
-ru_690,Save
-ru_691,Redeem
-ru_692,Next
-ru_693,Previous
-ru_694,"Expiry Time"
-ru_695,R
-ru_696,K
-ru_697,M
-ru_698,E
-ru_699,"Magical Dye"
-ru_700,"Default Costume"
-ru_701,"\f2 You received %s"
-ru_702,Draw
-ru_703,"Lock Hotkeys"
+ru_659,"1. Выберите дизайн и имя боевого флага. Имя должно быть уникальным. \n2. Цена боевого флага зависит от его дизайна. \n3. У каждого клана есть только одна возможность выбрать боевой флаг. Выбранный боевой флаг сменить нельзя."
+ru_660,"Ищем данные о вашей подписке"
+ru_661,"Данные о подписке успешно получены"
+ru_662,"Не удается найти данные о подписке"
+ru_663,"Период вашей подписки уже истек"
+ru_664,использование
+ru_665,Костюм
+ru_666,Выкупать
+ru_667,Рамка
+ru_668,Стандарт
+ru_669,Фон
+ru_670,Фигура
+ru_671,Эффект
+ru_672,"Недостаточно краски"
+ru_673,Длительность
+ru_674,"Не удается сохранить эскиз. Вы уже используете костюм в этой ячейке."
+ru_675,"Нельзя использовать одинаковое сочетание фона, фигуры и эффекта дважды."
+ru_676,"Только для членов"
+ru_677,"Вы собираетесь потратить %d краски на костюм в ячейке %hhu "
+ru_678,"1. Магическую краску можно обменять на костюмы с разными комбинациями и разной длительностью. \n2. Особую магическую краску можно обменять на особые костюмы с особыми комбинациями.
+\n3. У каждого персонажа есть 3 ячейки для костюмов. Стандартный костюм изменить нельзя."
+ru_679,"Фон %hhu, фигура %hhu, эффект %hhu"
+ru_680,"Длительность: %hhu дн."
+ru_681,"Эскиз сохранен."
+ru_682,"Успешно использовано"
+ru_683,Подтверждение
+ru_684,"Недостаточно краски"
+ru_685,"Длительность: %hhu дн."
+ru_686,"Вы собираетесь потратить %d краски на рамку %hhu:"
+ru_687,"Инф. о персонаже"
+ru_688,"Инф. о персонаже"
+ru_689,Костюм
+ru_690,Сохранить
+ru_691,Выкупать
+ru_692,следующий
+ru_693,предыдущий
+ru_694,"Действует до"
+ru_695,П
+ru_696,Р
+ru_697,М
+ru_698,Э
+ru_699,"Магическая краска"
+ru_700,"Стандартный костюм"
+ru_701,"\f2 Вы получили %s"
+ru_702,Розыгрыш
+ru_703,"Блокировать горячие клавиши"
 ru_704,NPC
 ru_705,Cancel
-ru_706,"Member Exclusive"
-ru_707,"Team profile"
-ru_708,"Please sign in to a registered account before you proceed to subscribe."
-ru_709,"You are playing as a guest. Please register your account before subscribing."
+ru_706,"Только для членов"
+ru_707,"Профиль отряда"
+ru_708,"Чтобы оформить подписку, войдите в зарегистрированный аккаунт."
+ru_709,"Вы играете как гость. Зарегистрируйте аккаунт, прежде чем оформлять подписку."
 ru_710,訂單ID已被使用
 ru_711,會員訂單ID已被其他遊戲帳號綁定
 ru_712,切換攻擊者:
 ru_713,MultiTouch:
+ru_714,切換快捷鍵:
+ru_715,您未擁有誓約書，不能使用第二套快捷鍵
+ru_716,顯示等級:

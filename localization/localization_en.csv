@@ -657,7 +657,7 @@ en_655,"Link your account first before you make a payment."
 en_656,Warflag
 en_657,"Pick a name for your Warflag."
 en_658,"Edit Warflag"
-en_659,"1. Select a Warflag design and pick a name for your Warflag. The Warflag name must be unique.2. Warflags of different designs have different prices. 3. Each clan has only one chance to set its Warflag. Once the Warflag has been set, it can't be changed."
+en_659,"1. Select a Warflag design and pick a name for your Warflag. The Warflag name must be unique.\n2. Warflags of different designs have different prices. \n3. Each clan has only one chance to set its Warflag. Once the Warflag has been set, it can't be changed."
 en_660,"Searching for your subscription record"
 en_661,"Subscription retrieved successfully"
 en_662,"Cannot find any subscription record"
@@ -712,3 +712,6 @@ en_710,訂單ID已被使用
 en_711,會員訂單ID已被其他遊戲帳號綁定
 en_712,切換攻擊者:
 en_713,MultiTouch:
+en_714,切換快捷鍵:
+en_715,您未擁有誓約書，不能使用第二套快捷鍵
+en_716,顯示等級:

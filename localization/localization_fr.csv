@@ -536,7 +536,7 @@ fr_534,"Contact: cs@lakoo.com"
 fr_535,"Please select a category of your feedback"
 fr_536,Submit
 fr_537,"The content is %d longer than the character limit."
-fr_538,"You have to bind your game account before submitting any feedback"
+fr_538,"Vous jouez en tant qu'invité. Veuillez créer un compte avant d'envoyer votre problème."
 fr_539,"Thanks! We’ll reply ASAP. (Custom service only in English and Chinese)"
 fr_540,ID
 fr_541,"Character name"
@@ -657,58 +657,61 @@ fr_655,"Liez d'abord votre compte avant d'effectuer un paiement."
 fr_656,"Bannière de guerre"
 fr_657,"Choisissez un nom pour votre bannière de guerre.""
 fr_658,"Modifier la bannière de guerre"
-fr_659,"1. Choisissez un modèle de bannière de guerre et donnez-lui un nom. Ce nom doit être unique. 2. Le prix des bannières varie selon leur style. 3. Chaque clan n'a qu'une seule opportunité de définir sa bannière. Une fois établie, une bannière ne peut être changée."
-fr_660,"Searching for your subscription record"
-fr_661,"Subscription retrieved successfully"
-fr_662,"Cannot find any subscription record"
-fr_663,"Your subscription period has already expired"
-fr_664,Use
+fr_659,"1. Choisissez un modèle de bannière de guerre et donnez-lui un nom. Ce nom doit être unique. \n2. Le prix des bannières varie selon leur style. \n3. Chaque clan n'a qu'une seule opportunité de définir sa bannière. Une fois établie, une bannière ne peut être changée."
+fr_660,"En recherche de votre historique d'abonnement"
+fr_661,"Abonnement bien retrouvé"
+fr_662,"Impossible de trouver un historique d'abonnement"
+fr_663,"Votre période d'abonnement a déjà expiré"
+fr_664,Utilisation
 fr_665,Costume
-fr_666,Redeem
-fr_667,Frame
-fr_668,Default
-fr_669,BG
-fr_670,Figure
-fr_671,Effect
-fr_672,"Not enough dyes"
-fr_673,Duration
-fr_674,"Preview cannot be saved. You have already redeemed a costume in this slot.""
-fr_675,"You cannot redeem the same combination of BG, Figure and Effect twice."
-fr_676,"Member Exclusive"
-fr_677,"Redeeming this costume in slot &hhu will cost %d dyes. Proceed?"
-fr_678,"1. Magical Dyes can redeem costumes in different combinations for different durations\n2. Special Magical Dyes can redeem specific costumes in specific combinations\n3. For each character there are 3 slots of costumes. The default costume cannot be modified"
-fr_679,"BG %hhu, Figure %hhu, Effect %hhu"
-fr_680,"Duration: %hhu days"
-fr_681,"Preview is saved."
-fr_682,"Redeemed successfully"
+fr_666,Racheter
+fr_667,Cadre
+fr_668,"Par défaut"
+fr_669,Arrière-plan
+fr_670,Personnage
+fr_671,Effet
+fr_672,"Teintures insuffisantes"
+fr_673,Durée
+fr_674,"L'aperçu ne peut pas être enregistré. Vous avez déjà utilisé un costume dans cet emplacement."
+fr_675,"Vous ne pouvez pas utiliser la même combinaison d'arrière-plan, de personnage et d'effet deux fois."
+fr_676,"Exclusif aux membres"
+fr_677,"Utiliser ce costume dans l'emplacement %hhu coûtera %d teintures. Continuer ? "
+fr_678,"1. Les teintures magiques permettent d'utiliser différentes combinaisons de costumes pour différentes durées.\n2. Les teintures magiques spéciales permettent d'utiliser des combinaisons spécifiques de costumes spécifiques.\n3. Chaque personnage possède 3 emplacements de costumes. Le costume par défaut ne peut pas être modifié"
+fr_679,"Arrière-plan %hhu, Personnage %hhu, Effet %hhu"
+fr_680,"Durée : %hhu jours"
+fr_681,"L'aperçu est enregistré."
+fr_682,"Bien utilisé"
 fr_683,Confirmation
-fr_684,"Not enough dyes"
-fr_685,"Duration: %hhu days"
-fr_686,"You are about to spend %d number of dyes to redeem %hhu frame:"
-fr_687,"Char Info"
-fr_688,"Char Info"
+fr_684,"Teintures insuffisantes"
+fr_685,"Durée : %hhu jours"
+fr_686,"Utiliser le cadre n° %hhu coûtera %d teintures. Continuer ?"
+fr_687,"Infos du perso"
+fr_688,"Infos du perso"
 fr_689,Costume
-fr_690,Save
-fr_691,Redeem
-fr_692,Next
-fr_693,Previous
-fr_694,"Expiry Time"
+fr_690,Sauvegarder
+fr_691,Racheter
+fr_692,Prochain
+fr_693,Précédent
+fr_694,"Heure d'expiration"
 fr_695,R
-fr_696,K
+fr_696,C
 fr_697,M
 fr_698,E
-fr_699,"Magical Dye"
-fr_700,"Default Costume"
-fr_701,"\f2 You received %s"
-fr_702,Draw
-fr_703,"Lock Hotkeys"
+fr_699,"Teinture magique"
+fr_700,"Costume par défaut"
+fr_701,"\f2 Vous avez reçu %s"
+fr_702,Tirage
+fr_703,"Verrouiller les raccourcis"
 fr_704,NPC
 fr_705,Cancel
-fr_706,"Member Exclusive"
-fr_707,"Team profile"
-fr_708,"Please sign in to a registered account before you proceed to subscribe."
-fr_709,"You are playing as a guest. Please register your account before subscribing."
+fr_706,"Exclusif aux membres"
+fr_707,"Profil de l'équipe"
+fr_708,"Veuillez vous connecter à un compte enregistré avant de vous abonner."
+fr_709,"Vous jouez comme invité. Veuillez créer un compte avant de vous abonner."
 fr_710,訂單ID已被使用
 fr_711,會員訂單ID已被其他遊戲帳號綁定
 fr_712,切換攻擊者:
 fr_713,MultiTouch:
+fr_714,切換快捷鍵:
+fr_715,您未擁有誓約書，不能使用第二套快捷鍵
+fr_716,顯示等級:
