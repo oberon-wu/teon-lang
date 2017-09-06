@@ -790,15 +790,15 @@ it_788,"Impara clan"
 it_789,"Aura del coraggio"
 it_790,"Aura risplendente"
 it_791,NULL
-it_792,NULL
-it_793,NULL
-it_794,NULL
-it_795,NULL
-it_796,NULL
-it_797,NULL
-it_798,NULL
-it_799,NULL
-it_800,NULL
+it_792,雷之元素
+it_793,火之元素
+it_794,水之元素
+it_795,土之元素
+it_796,風之元素
+it_797,豆沙月餅
+it_798,桂花月餅
+it_799,蓮蓉月餅
+it_800,雙黃月餅
 it_801,Lampada
 it_802,Lanterne
 it_803,Cherosene
@@ -1284,9 +1284,9 @@ it_1282,"Scheletro arciere dell'oscurità"
 it_1283,"Scheletro mago dell'oscurità"
 it_1284,"Tenente scheletro arciere dell'oscurità"
 it_1285,"Tenente scheletro mago dell'oscurità"
-it_1286,NULL
-it_1287,NULL
-it_1288,NULL
+it_1286,血影
+it_1287,嗜血蜘蛛
+it_1288,惡魔弓箭手
 it_1289,"Set del cavaliere rosso"
 it_1290,"Set del cavaliere della morte"
 it_1291,"Set di Bran"
@@ -1485,4 +1485,9 @@ it_1483,"Cappuccio del cavaliere rosso (personale)"
 it_1484,"Elmo elfico di pelle della costituzione (personale)"
 it_1485,"Elmo elfico di pelle della destrezza (personale)"
 it_1486,"Cappuccio macchiato di sangue (personale)"
-it_1487,NULL
+it_1487,魅魔妖後頭目
+it_1488,巨魔頭目
+it_1489,雙頭巨人頭目
+it_1490,血影頭目
+it_1491,嗜血蜘蛛頭目
+it_1492,惡魔弓箭手頭目

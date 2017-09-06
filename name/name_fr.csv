@@ -790,15 +790,15 @@ fr_788,"Apprendre le clan"
 fr_789,"Aura brave"
 fr_790,"Aura brillante"
 fr_791,NULL
-fr_792,NULL
-fr_793,NULL
-fr_794,NULL
-fr_795,NULL
-fr_796,NULL
-fr_797,NULL
-fr_798,NULL
-fr_799,NULL
-fr_800,NULL
+fr_792,雷之元素
+fr_793,火之元素
+fr_794,水之元素
+fr_795,土之元素
+fr_796,風之元素
+fr_797,豆沙月餅
+fr_798,桂花月餅
+fr_799,蓮蓉月餅
+fr_800,雙黃月餅
 fr_801,Lampe
 fr_802,Lanterne
 fr_803,Kérosène
@@ -1284,9 +1284,9 @@ fr_1282,"Archer squelette ténébreux"
 fr_1283,"Mage squelette ténébreux"
 fr_1284,"Lieutenant archer squelette ténébreux"
 fr_1285,"Lieutenant mage squelette ténébreux"
-fr_1286,NULL
-fr_1287,NULL
-fr_1288,NULL
+fr_1286,血影
+fr_1287,嗜血蜘蛛
+fr_1288,惡魔弓箭手
 fr_1289,"Ensemble du chevalier écarlate"
 fr_1290,"Ensemble du Chevalier de la mort"
 fr_1291,"Ensemble de Bran"
@@ -1485,4 +1485,9 @@ fr_1483,"Capuche du chevalier rouge (Personnel)"
 fr_1484,"Heaume elfique en cuir de constitution (Personnel)"
 fr_1485,"Heaume elfique en cuir de dextérité (Personnel)"
 fr_1486,"Capuche ternie de sang (Personnel)"
-fr_1487,NULL
+fr_1487,魅魔妖後頭目
+fr_1488,巨魔頭目
+fr_1489,雙頭巨人頭目
+fr_1490,血影頭目
+fr_1491,嗜血蜘蛛頭目
+fr_1492,惡魔弓箭手頭目

@@ -708,15 +708,15 @@ en_706,"Member Exclusive"
 en_707,"Team profile"
 en_708,"Please sign in to a registered account before you proceed to subscribe."
 en_709,"You are playing as a guest. Please register your account before subscribing."
-en_710,訂單ID已被使用
-en_711,會員訂單ID已被其他遊戲帳號綁定
-en_712,切換攻擊者:
-en_713,MultiTouch:
-en_714,切換快捷鍵:
-en_715,您未擁有誓約書，不能使用第二套快捷鍵
-en_716,顯示等級:
-en_717,帳號倉庫
+en_710,"Purchase verification has failed and no billing has occurred."
+en_711,"Purchase verification has failed and no billing has occurred."
+en_712,"Attacker Select:"
+en_713,"MultiTouch:"
+en_714,"Switch Hotkeys"
+en_715,"You must have an Oath to enable secondary hotkeys."
+en_716,"Level Display:"
+en_717,"Account Warehouse"
 en_718,"Clan Warehouse"
-en_719,綁定倉庫
-en_720,"You have been disconnected: %u."
+en_719,"Character Warehouse"
+en_720,"You are disconnected. Reconnecting: %u"
 en_721,Reconnect

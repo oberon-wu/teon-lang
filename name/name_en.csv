@@ -790,15 +790,15 @@ en_788,"Learn Clan"
 en_789,"Brave Aura"
 en_790,"Shining Aura"
 en_791,NULL
-en_792,NULL
-en_793,NULL
-en_794,NULL
-en_795,NULL
-en_796,NULL
-en_797,NULL
-en_798,NULL
-en_799,NULL
-en_800,NULL
+en_792,"Lighting Element"
+en_793,"Fire Element"
+en_794,"Water Element"
+en_795,"Earth Element"
+en_796,"Wind Element"
+en_797,"Bean Paste Mooncake"
+en_798,"Osmanthus Mooncake"
+en_799,"Lotus Mooncake"
+en_800,"Double Eggs Mooncake"
 en_801,Lamp
 en_802,Lanterns
 en_803,Kerosene
@@ -993,7 +993,7 @@ en_991,"Hell Wood Key"
 en_992,"Black Blood Key"
 en_993,"Advanced Scroll of Polymorph"
 en_994,"Ultimate Scroll of Polymorph"
-en_995,智者之禮
+en_995,"Sage's Gift"
 en_996,"Teon's gift(60 day)"
 en_997,NULL
 en_998,NULL
@@ -1284,9 +1284,9 @@ en_1282,"Darkness Skeleton Archer"
 en_1283,"Darkness Skeleton Mage Lieutenant"
 en_1284,"Darkness Skeleton Archer Lieutenant"
 en_1285,"Darkness Skeleton Mage Lieutenant"
-en_1286,NULL
-en_1287,NULL
-en_1288,NULL
+en_1286,"Bloody Shadow"
+en_1287,"Killer Spider"
+en_1288,"Demon Archer"
 en_1289,"Red Knight Set"
 en_1290,"Death Knight Set"
 en_1291,"Bran Set"
@@ -1485,4 +1485,9 @@ en_1483,"Red Knight's Hood (Personal)"
 en_1484,"Elven Leather Helm of Constitution (Personal)"
 en_1485,"Elven Leather Helm of Dexterity (Personal)"
 en_1486,"Blood Stained Hood (Personal)"
-en_1487,NULL
+en_1487,"Succubus Queen"
+en_1488,"Troll Cheiftain"
+en_1489,"Ettin Cheiftain"
+en_1490,"Bloody Shadow Leader"
+en_1491,"Giant Killer Spider"
+en_1492,"Demon Archer Lieutenant"
