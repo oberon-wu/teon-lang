@@ -66,7 +66,7 @@ en_64,"Fog of Sleeping","Chance to make the target and enemies within one unit d
 en_65,"Shape Change","Chance to temporarily change the form of the target"
 en_66,"Shield of Protection","Create a huge magical protective shield for Clan members, under which all damage received will be halved during its duration."
 en_67,"Mass Teleport","Teleport the spell caster and Clan members within one unit distance from them to a random location. May select a specific spot to teleport to when using “Ring of Teleportation”."
-en_68,"Fire Storm","Trigger a flaming storm near the spell caster to deal damage on the enemies within one unit distance from them."
+en_68,"Fire Storm","Casting a flaming tornado, deals damage to all enemies around the caster, except Blue and White name players."
 en_69,"Decay Potion","Freeze all potions on the target, has a chance to cause them to be unable to use any potions during the effective period."
 en_70,"Counter Detection","Find hidden monsters and players on the screen, making them visible and dealing damage on them."
 en_71,"Create Magical Weapon","Chance to change the spell caster’s weapon into a +1 weapon permanently. Cannot be used repeatedly on the same weapon."
