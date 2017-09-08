@@ -252,14 +252,14 @@ pt_249,"Limitado a missão de aprimoramento. Só pode ser usado para aprimorar a
 pt_250,"Em nome de Maria, a Deusa da Morte, esta pedra de runa protege seu portador contra a aura profana que existe no interior da Caverna Maldita."
 pt_251,"Um presente da linda deusa Eva, pode ser usado para resgatar Trajes e Quadros."
 pt_252,"Um presente da linda deusa Eva, pode ser usado para resgatar Trajes e Quadros selecionados."
-pt_253,水之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收水之力，學習水屬性魔法。
-pt_254,風之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收風之力，學習風屬性魔法。
-pt_255,土之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收土之力，學習土屬性魔法。
-pt_256,火之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收火之力，學習火屬性魔法。
-pt_257,豆沙餡月餅，食用後可獲得特殊效果。
-pt_258,桂花餡月餅，食用後可獲得特殊效果。
-pt_259,蓮蓉餡月餅，食用後可獲得特殊效果。
-pt_260,雙黃餡月餅，食用後可獲得特殊效果。
+pt_253,"Um cristal elemental que contém a força da Água. Leve para Lia no Jardim dos Elfos para receber a bênção do Elfo da Água. Você poderá então aprender Encantos do Elemento da Água."
+pt_254,"Um cristal elemental que contém a força do Vento. Leve para Lia no Jardim dos Elfos para receber a bênção do Elfo do Vento. Você poderá então aprender Encantos do Elemento do Vento."
+pt_255,"Um cristal elemental que contém a força da Terra. Leve para Lia no Jardim dos Elfos para receber a bênção do Elfo da Terra. Você poderá então aprender Encantos do Elemento da Terra."
+pt_256,"Um cristal elemental que contém a força do Fogo. Leve para Lia no Jardim dos Elfos para receber a bênção do Elfo do Fogo. Você poderá então aprender Encantos do Elemento do Fogo."
+pt_257,"Recupera HP"
+pt_258,"Recupera MP"
+pt_259,"Aumenta temporariamente o MP Máximo"
+pt_260,"Aumenta temporariamente o HP Máximo"
 pt_261,"Um pacote abençoado com um juramento escrito para possuir o poder de Teon.\nCuidado: \nOs efeitos duram por 60 dias e não podem ser prolongados ou combinados com pacotes iguais ou similares."
 pt_262,NULL
 pt_263,NULL
@@ -699,7 +699,7 @@ pt_696,"Dano Mágico +1\nUm cajado refinado feito com carvalho de alta qualidade
 pt_697,"Um Escudo da Torre Poderoso."
 pt_698,"Estes Livros de Magia Raros originados das bênçãos de Teon e contêm habilidades mágicas poderosas. \nCategoria: Nível de habilidade 4 (Classe) \nEfeito: Troca de posição entre o lançador de encantos e o alvo. \nRequisito de aprendizado: \nMago: Nível 40"
 pt_699,"Uma Arma de Novato Poderosa. "
-pt_700,"Estes Livros de Magia Raros foram originados das bênçãos de Teon e contêm habilidades mágicas poderosas. \nCategoria: Nível de habilidade 3 (Classe) \nEfeito: Causa uma tempestade de chamas próximo ao lançador de encantos, causando dano aos inimigos a uma unidade de distância. \nRequisito de aprendizado: \nMago: Nível 36"
+pt_700,"Estes Livros de Magia Raros foram originados das bênçãos de Teon e contêm habilidades mágicas poderosas. \nCategoria: Nível de habilidade 3 (Classe) \nEfeito: Lança um tornado flamejante, causando dano a todos os inimigos ao redor do lançador, exceto a jogadores com nomes em Azul e Branco. \nRequisito de aprendizado: \nMago: Nível 36"
 pt_701,"Um capacete de ferro com barreiras que podem absorver dano mágico. Para cada melhoria que sobe de nível, Resistência Mágica +1."
 pt_702,"Cristais da Terra originários das bênçãos da Deusa da Lua com atributos da Terra! \nCategoria: Nível de habilidade 4 (Classe) \nEfeito: CA diminuída em 7 pontos para você e sua equipe. \nRequisito de aprendizado: \nElfo: Nível 40"
 pt_703,"Um monte de ferro."

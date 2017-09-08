@@ -252,14 +252,14 @@ fr_249,"Limité à la quête d'amélioration. Ne peut s'utiliser que pour améli
 fr_250,"Au nom de Maria la déesse de la mort, cette pierre de rune protège son porteur de l'aura impie qui recouvre la grotte du mal."
 fr_251,"Un cadeau d'Eva, la déesse radieuse, qui peut être utilisé pour obtenir costumes et cadres."
 fr_252,"Un cadeau d'Eva, la déesse radieuse, qui peut être utilisé pour obtenir une sélection de costumes et cadres."
-fr_253,水之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收水之力，學習水屬性魔法。
-fr_254,風之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收風之力，學習風屬性魔法。
-fr_255,土之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收土之力，學習土屬性魔法。
-fr_256,火之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收火之力，學習火屬性魔法。
-fr_257,豆沙餡月餅，食用後可獲得特殊效果。
-fr_258,桂花餡月餅，食用後可獲得特殊效果。
-fr_259,蓮蓉餡月餅，食用後可獲得特殊效果。
-fr_260,雙黃餡月餅，食用後可獲得特殊效果。
+fr_253,"Un cristal élémentaire renfermant la force de l'Eau. Apportez-le à Lia dans le Jardin elfique pour obtenir la bénédiction elfe de l'Eau. Vous serez alors en mesure d'apprendre les sorts élémentaires de l'Eau."
+fr_254,"Un cristal élémentaire renfermant la force du Vent. Apportez-le à Lia dans le Jardin elfique pour obtenir la bénédiction elfe du Vent. Vous serez alors en mesure d'apprendre les sorts élémentaires du Vent."
+fr_255,"Un cristal élémentaire renfermant la force de la Terre. Apportez-le à Lia dans le Jardin elfique pour obtenir la bénédiction elfe de la Terre. Vous serez alors en mesure d'apprendre les sorts élémentaires de la Terre."
+fr_256,"Un cristal élémentaire renfermant la force du Feu. Apportez-le à Lia dans le Jardin elfique pour obtenir la bénédiction elfe du Feu. Vous serez alors en mesure d'apprendre les sorts élémentaires du Feu."
+fr_257,"Restaure des PV"
+fr_258,"Restaure des PM"
+fr_259,"Augmente temporairement le nombre maximal de PM"
+fr_260,"Augmente temporairement le nombre maximal de PV"
 fr_261,"Un pack béni qui contient un serment écrit permettant de posséder le pouvoir de Teon.\nAvertissement :\nL'effet dure 60 jours et ne peut pas être prolongé ou associé à un pack identique ou similaire."
 fr_262,NULL
 fr_263,NULL
@@ -699,7 +699,7 @@ fr_696,"Dégâts de magie +1\nUn bâton raffiné fait de chêne de grande qualit
 fr_697,"Un puissant bouclier de la tour."
 fr_698,"Ces livres de magie rares proviennent de la bénédiction de Teon et contiennent des compétences magiques puissantes.  \nCatégorie : niveau de compétence 4 (Classe) \nEffet : échanger les positions entre le lanceur du sort et la cible.\nPrérequis d'apprentissage :  \nMage : niveau 40"
 fr_699,"Une puissante arme de novice. "
-fr_700,"Ces livres de magie rares proviennent de la bénédiction de Teon et contiennent des compétences magiques puissantes.\nCatégorie : niveau de compétence 3 (Classe) \nEffet : déclencher une tempête de flammes près du lanceur du sort infligeant des dégâts aux ennemis à une distance d'une unité du lanceur du sort. \nPrérequis d'apprentissage :  \nMage : niveau 36"
+fr_700,"Ces livres de magie rares proviennent de la bénédiction de Teon et contiennent des compétences magiques puissantes.\nCatégorie : niveau de compétence 3 (Classe) \nEffet : Invoque une tornade de flammes qui inflige des dégâts à tous les ennemis à proximité du lanceur, excepté les joueurs Bleu et Blanc. \nPrérequis d'apprentissage :  \nMage : niveau 36"
 fr_701,"Un heaume en fer gravé de runes protectrices qui peuvent absorber des dégâts de magie. Pour chaque montée en niveau d'amélioration, résistance à la magie +1."
 fr_702,"Les cristaux de terre proviennent de la bénédiction de la déesse de la lune et contiennent des attributs de terre puissants !\nCatégorie : niveau de compétence 4 (Classe)\nEffet : diminuer l'AC de 7 points pour vous et votre équipe.\nPrérequis d'apprentissage :  \nElfe : niveau 40"
 fr_703,"Un morceau de fer."

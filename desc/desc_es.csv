@@ -252,14 +252,14 @@ es_249,"Se limita a la misión de mejora. Solo se puede usar para mejorar el arm
 es_250,"En nombre de Maria el Dios de la Muerte, esta piedra de runa protege a su portador del aura impía del interior de la Cueva del Mal."
 es_251,"Un presente de la hermosa diosa Eva, que se puede usar para canjear trajes y marcos."
 es_252,"Un presente de la hermosa diosa Eva, que se puede usar para canjear trajes y marcos seleccionados."
-es_253,水之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收水之力，學習水屬性魔法。
-es_254,風之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收風之力，學習風屬性魔法。
-es_255,土之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收土之力，學習土屬性魔法。
-es_256,火之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收火之力，學習火屬性魔法。
-es_257,豆沙餡月餅，食用後可獲得特殊效果。
-es_258,桂花餡月餅，食用後可獲得特殊效果。
-es_259,蓮蓉餡月餅，食用後可獲得特殊效果。
-es_260,雙黃餡月餅，食用後可獲得特殊效果。
+es_253,"Un cristal elemental que contiene la fuerza del agua. Llévaselo a Lia en el Jardín élfico para recibir la bendición del elfo de agua. Entonces podrás aprender hechizos del elemento de agua."
+es_254,"Un cristal elemental que contiene la fuerza del viento. Llévaselo a Lia en el Jardín élfico para recibir la bendición del elfo de viento. Entonces podrás aprender hechizos del elemento de viento."
+es_255,"Un cristal elemental que contiene la fuerza de la tierra. Llévaselo a Lia en el Jardín élfico para recibir la bendición del elfo de tierra. Entonces podrás aprender hechizos del elemento de tierra."
+es_256,"Un cristal elemental que contiene la fuerza del fuego. Llévaselo a Lia en el Jardín élfico para recibir la bendición del elfo de fuego. Entonces podrás aprender hechizos del elemento de fuego."
+es_257,"Recupera PS"
+es_258,"Recupera PM"
+es_259,"Aumenta los PM máximos temporalmente"
+es_260,"Aumenta los PS máximos temporalmente"
 es_261,"Un paquete bendecido contiene un juramento escrito para poseer el poder de Teon.\nPrecaución: \n El efecto dura 60 días y no se puede ampliar ni acumular con paquetes iguales o parecidos."
 es_262,NULL
 es_263,NULL
@@ -699,7 +699,7 @@ es_696,"Daño mágico +1\nUn bastón refinado fabricado con roble de gran calida
 es_697,"Un escudo alto poderoso."
 es_698,"Este libro de magia raro proviene de las bendiciones de Teon y contiene poderosas habilidades mágicas. \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Intercambia las posiciones entre el lanzador del hechizo y el objetivo. \n Requisito de aprendizaje: \n Mago: Nivel 40"
 es_699,"Un arma de novicio poderosa. "
-es_700,"Este libro de magia raro proviene de las bendiciones de Teon y contiene poderosas habilidades mágicas. \n Categoría: Habilidad de nivel 3 (clase) \n Efecto: Activa una tormenta de llamas cerca del lanzador del hechizo que inflige daño a los enemigos dentro de una unidad de distancia a partir del lanzador. \n Requisito de aprendizaje: \n Mago: Nivel 36"
+es_700,"Este libro de magia raro proviene de las bendiciones de Teon y contiene poderosas habilidades mágicas. \n Categoría: Habilidad de nivel 3 (clase) \n Efecto: Lanzar un tornado llameante inflige daño a todos los enemigos que rodean al lanzador, excepto a los jugadores azules y blancos. \n Requisito de aprendizaje: \n Mago: Nivel 36"
 es_701,"Un casco de hierro con hechizos de protección inscritos que puede absorber el daño mágico. Por cada nivel de mejora, aumenta la resistencia a la magia +1."
 es_702,"Los cristales de tierra provienen de la bendición de la Diosa de la Luna y contienen poderosos atributos de tierra. \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Aumenta la PR en 7 puntos para ti y tu equipo. \n Requisito de aprendizaje: \n Elfo: Nivel 40"
 es_703,"Un montón de hierro"

@@ -66,7 +66,7 @@ de_64,"Nebel des Schlafes","Chance, dass Ziel und Feinde im Abstand von 1 Einhei
 de_65,Formänderung,"Ändert die Form des Ziels. Chance, dass dies für eine bestimmte Zeit anhält."
 de_66,"Schild von Protektion","Erzeugt riesiges magisches Schutzschild für Gildenmitglieder, unter dem alle erhaltenen Schäden während Wirkungsdauer halbiert werden."
 de_67,Massenteleport,"Teleportiert Zaubernden und Gildenmitglieder im Abstand von 1 Einheit an zufälligen Ort. Mit „Ring der Teleportation“ kann ein bestimmter Ort gewählt werden."
-de_68,Feuersturm,"Erzeugt Flammensturm unweit des Zaubernden, um allen Feinden im Abstand von 1 Einheit Schäden zuzufügen."
+de_68,Feuersturm,"Sendet einen brennenden Tornado, der alle Feinde um den Zauberer beschädigt. Außer Spieler mit blauem oder weißem Namen."
 de_69,Fäulnistrank,"Friert alle Tränke am Ziel. Chance, dass es während Wirkungsdauer keine Tränke einsetzen kann."
 de_70,Gegenerkennung,"Findet verborgene Monster sowie Spieler auf dem Bildschirm und macht diese sichtbar und fügt Schäden zu."
 de_71,"Magische Waffe erstellen","Chance, dass Waffe des Zauberers permanent in ein Waffe +1 umgewandelt wird. Kann nicht mehrfach für dieselbe Waffe verwendet werden."

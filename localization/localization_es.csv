@@ -708,15 +708,15 @@ es_706,"Exclusivo para miembros"
 es_707,"Perfil de equipo"
 es_708,"Inicia sesión con una cuenta registrada para poder suscribirte."
 es_709,"Estás jugando como invitado. Registra tu cuenta para poder suscribirte."
-es_710,訂單ID已被使用
-es_711,會員訂單ID已被其他遊戲帳號綁定
-es_712,切換攻擊者:
-es_713,MultiTouch:
-es_714,切換快捷鍵:
-es_715,您未擁有誓約書，不能使用第二套快捷鍵
-es_716,顯示等級:
-es_717,帳號倉庫
+es_710,"Se ha producido un error al verificar la compra porque no se ha realizado ninguna facturación."
+es_711,"Se ha producido un error al verificar la compra porque no se ha realizado ninguna facturación."
+es_712,"Seleccionar atacante:"
+es_713,"Multitáctil:"
+es_714,"Cambiar accesos directos"
+es_715,"Debes tener un juramento para activar los accesos directos secundarios."
+es_716,"Visualización de nivel:"
+es_717,"Almacén de cuenta"
 es_718,"Almacén del clan"
-es_719,綁定倉庫
-es_720,"Has sido desconectado: %u."
-es_721,Reconectar
+es_719,"Almacén de personaje"
+es_720,"Estás desconectado. Volviendo a conectar: %u"
+es_721,"Volver a conectar"

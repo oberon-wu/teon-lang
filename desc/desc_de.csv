@@ -252,14 +252,14 @@ de_249,"Beschränkt auf die Quest für die Verbesserung. Kann nur verwendet werd
 de_250,"Im Namen des Todesgottes Maria beschützt dieser Runenstein den Träger vor der unheiligen Aura in der Höhle des Bösen."
 de_251,"Ein Geschenk der schönen Göttin Eva, kann zum Einlösen von Kostümen und Rahmen verwendet werden."
 de_252,"Ein Geschenk der schönen Göttin Eva, kann zum Einlösen ausgewählter Kostüme und Rahmen verwendet werden."
-de_253,水之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收水之力，學習水屬性魔法。
-de_254,風之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收風之力，學習風屬性魔法。
-de_255,土之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收土之力，學習土屬性魔法。
-de_256,火之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收火之力，學習火屬性魔法。
-de_257,豆沙餡月餅，食用後可獲得特殊效果。
-de_258,桂花餡月餅，食用後可獲得特殊效果。
-de_259,蓮蓉餡月餅，食用後可獲得特殊效果。
-de_260,雙黃餡月餅，食用後可獲得特殊效果。
+de_253,"Ein elementares Kristall enthält die Kraft des Wassers. Bringe es zu Lia im Elfengarten, um den Segen der Wasserelfe zu erhalten. Du kannst dann, die Wasserelementzauber erlernen."
+de_254,"Ein elementares Kristall enthält die Kraft des Windes. Bringe es zu Lia im Elfengarten, um den Segen der Windelfe zu erhalten. Du kannst dann, die Windelementzauber erlernen."
+de_255,"Ein elementares Kristall enthält die Kraft der Erde. Bringe es zu Lia im Elfengarten, um den Segen der Erdelfe zu erhalten. Du kannst dann, die Erdelementzauber erlernen."
+de_256,"Ein elementares Kristall enthält die Kraft des Feuers. Bringe es zu Lia im Elfengarten, um den Segen der Feuerelfe zu erhalten. Du kannst dann, die Feuerelementzauber erlernen."
+de_257,"Stellt LP wieder her"
+de_258,"Stellt MP wieder her"
+de_259,"Erhöht vorübergehend Max. MP"
+de_260,"Erhöht vorübergehend Max. LP"
 de_261,"Ein gesegnetes Paket mit einem schriftlichen Eid, um die Macht von Teon zu besitzen.\nAchtung:\nDie Wirkung hält 60 Tage an und kann nicht durch gleiche oder ähnliche Pakete verlängert oder kumuliert werden."
 de_262,NULL
 de_263,NULL
@@ -699,7 +699,7 @@ de_696,"Magischer Schaden +1\nEin veredelter Stab aus hochwertigem Eichenholz."
 de_697,"Ein mächtiger Turmschild."
 de_698,"Diese seltenen Zauberbücher stammen aus dem Segen von Teon. Sie enthalten mächtige magische Fähigkeiten.\nKategorie: Fertigkeitsstufe 4 (Klasse)\nWirkung: Tauscht Positionen zwischen dem Zauberer und dem Ziel.\nAnforderung:\nMagier: Level 40"
 de_699,"Eine mächtige Anfängerwaffe."
-de_700,"Diese seltenen Zauberbücher stammen aus dem Segen von Teon. Sie enthalten mächtige magische Fähigkeiten.\nKategorie: Fertigkeitsstufe 3 (Klasse)\nWirkung: Löst einen Flammensturm in der Nähe des Zaubernden aus, um Feinde im Umkreis einer Einheit zu schädigen.\nAnforderung:\nMagier: Level 36"
+de_700,"Diese seltenen Zauberbücher stammen aus dem Segen von Teon. Sie enthalten mächtige magische Fähigkeiten.\nKategorie: Fertigkeitsstufe 3 (Klasse)\nWirkung: Sendet einen brennenden Tornado, der alle Feinde um den Zauberer beschädigt. Außer Spieler mit blauem oder weißem Namen.\nAnforderung:\nMagier: Level 36"
 de_701,"Ein Eisenhelm mit Schutzeinsätzen, die magischen Schaden absorbieren können. Für jedes Erweiterungslevel, Magischer Widerstand +1."
 de_702,"Erdkristalle wurden von der Mondgöttin gesegnet und enthalten Erdattribute!\nKategorie: Fertigkeitsstufe 4 (Klasse)\nWirkung: AC verringert sich für dich und dein Team um 7 Punkte.\nAnforderung:\n Elf: Level 40"
 de_703,"Ein Klumpen Eisen."
