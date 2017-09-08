@@ -708,15 +708,15 @@ it_706,"Esclusivo per membri"
 it_707,"Profilo squadra"
 it_708,"Per iscriverti, accedi ad un account registrato."
 it_709,"Stai giocando come ospite. Registra un account per completare l’iscrizione."
-it_710,訂單ID已被使用
-it_711,會員訂單ID已被其他遊戲帳號綁定
-it_712,切換攻擊者:
-it_713,MultiTouch:
-it_714,切換快捷鍵:
-it_715,您未擁有誓約書，不能使用第二套快捷鍵
-it_716,顯示等級:
-it_717,帳號倉庫
+it_710,"Verifica dell'acquisto non riuscita. Non è stato effettuato alcun addebito."
+it_711,"Verifica dell'acquisto non riuscita. Non è stato effettuato alcun addebito."
+it_712,"Seleziona attaccante:"
+it_713,"Multi-tocco:"
+it_714,"Cambia Hotkey"
+it_715,"Per abilitare le hotkey secondarie, devi avere un Giuramento."
+it_716,"Visore livello:"
+it_717,"Magazzino Account"
 it_718,"Magazzino del clan"
-it_719,綁定倉庫
-it_720,"Sei stato disconnesso: %u."
-it_721,ricollegare
+it_719,"Magazzino Personaggio"
+it_720,"Ti sei scollegato. Riconnessione in corso: %u"
+it_721,"Riconnetti"

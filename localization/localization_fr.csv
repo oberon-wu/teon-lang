@@ -708,15 +708,15 @@ fr_706,"Exclusif aux membres"
 fr_707,"Profil de l'équipe"
 fr_708,"Veuillez vous connecter à un compte enregistré avant de vous abonner."
 fr_709,"Vous jouez comme invité. Veuillez créer un compte avant de vous abonner."
-fr_710,訂單ID已被使用
-fr_711,會員訂單ID已被其他遊戲帳號綁定
-fr_712,切換攻擊者:
-fr_713,MultiTouch:
-fr_714,切換快捷鍵:
-fr_715,您未擁有誓約書，不能使用第二套快捷鍵
-fr_716,顯示等級:
-fr_717,帳號倉庫
+fr_710,"Échec de la vérification d'achat. Aucune transaction n'a été effectuée."
+fr_711,"Échec de la vérification d'achat. Aucune transaction n'a été effectuée."
+fr_712,"Choix de l'attaquant :"
+fr_713,"Multi-tactile :"
+fr_714,"Modifier les raccourcis"
+fr_715,"Vous devez disposer d'un Serment pour activer les raccourcis secondaires."
+fr_716,"Affichage du niveau :"
+fr_717,"Entrepôt du compte"
 fr_718,"Entrepôt du clan"
-fr_719,綁定倉庫
-fr_720,"Vous avez été déconnecté: %u."
-fr_721,Reconnectez
+fr_719,"Entrepôt du personnage"
+fr_720,"Vous êtes déconnecté. Reconnexion : %u"
+fr_721,"Reconnexion"

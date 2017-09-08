@@ -66,7 +66,7 @@ es_64,"Niebla del sueño","Tiene la posibilidad de hacer que el objetivo y los e
 es_65,Mutación,"Cambia la forma del objetivo con la posibilidad de durar un periodo de tiempo."
 es_66,"Escudo de Protección","Crea un enorme escudo protector mágico para los miembros del gremio, bajo el que todo el daño recibido se reduce a la mitad durante el periodo de efecto."
 es_67,"Teletransporte en masa","Teletransporta al lanzador del hechizo y a los miembros del gremio que estén dentro de 1 unidad de distancia de él a una ubicación aleatoria. Puede seleccionar un lugar determinado para teletransportarse si se usa con el anillo del teletransporte."
-es_68,"Tormenta de fuego","Activa una tormenta llameante cerca del lanzador del hechizo que inflige daño a los enemigos dentro de una unidad de distancia a partir del lanzador."
+es_68,"Tormenta de fuego","Lanzar un tornado llameante inflige daño a todos los enemigos que rodean al lanzador, excepto a los jugadores azules y blancos."
 es_69,"Poción del deterioro","Congela todas las pociones del objetivo, con la posibilidad de hacer que sea incapaz de usar ninguna poción durante el periodo de efecto."
 es_70,"Contrarrestar detección","Busca monstruos y jugadores ocultos en la pantalla, los hace visibles y les inflige daño."
 es_71,"Crear arma mágica","Tiene la probabilidad de cambiar el arma del lanzador del hechizo por un arma +1 permanentemente. No se puede usar repetidamente con la misma arma."

@@ -252,14 +252,14 @@ it_249,"Limitato alla missione di miglioramento. Si può utilizzare solo per mig
 it_250,"Nel nome di Maria la Dea della Morte, questa pietra di rune protegge chi la possiede dall'aurea iniqua all’interno della Caverna del male."
 it_251,"Un regalo della bellissima dea Eva, può essere usato per ottenere costumi e armature."
 it_252,"Un regalo della bellissima dea Eva, può essere usato per ottenere costumi e armature selezionate."
-it_253,水之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收水之力，學習水屬性魔法。
-it_254,風之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收風之力，學習風屬性魔法。
-it_255,土之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收土之力，學習土屬性魔法。
-it_256,火之力所凝聚的元素珠，交給精靈園林的莉雅，讓其幫你吸收火之力，學習火屬性魔法。
-it_257,豆沙餡月餅，食用後可獲得特殊效果。
-it_258,桂花餡月餅，食用後可獲得特殊效果。
-it_259,蓮蓉餡月餅，食用後可獲得特殊效果。
-it_260,雙黃餡月餅，食用後可獲得特殊效果。
+it_253,"Un cristallo elementale che contiene la forza dell'acqua. Portalo a Lia nel giardino elfico per ricevere la benedizione dell'Elfo dell'acqua. Potrai quindi imparare gli incantesimi dell'acqua."
+it_254,"Un cristallo elementale che contiene la forza del vento. Portalo a Lia nel giardino elfico per ricevere la benedizione dell'Elfo del vento. Potrai quindi imparare gli incantesimi del vento."
+it_255,"Un cristallo elementale che contiene la forza della terra. Portalo a Lia nel giardino elfico per ricevere la benedizione dell'Elfo della terra. Potrai quindi imparare gli incantesimi della terra."
+it_256,"Un cristallo elementale che contiene la forza del fuoco. Portalo a Lia nel giardino elfico per ricevere la benedizione dell'Elfo del fuoco. Potrai quindi imparare gli incantesimi del fuoco."
+it_257,"Recupera HP"
+it_258,"Recupera MP"
+it_259,"Aumenta provvisoriamente MP Max"
+it_260,"Aumenta provvisoriamente HP Max"
 it_261,"Un pacco benedetto che contiene un giuramento scritto col potere di Teon.\nAttenzione: \nL'effetto dura 60 giorni e non può essere prolungato né abbinato a pacchetti uguali o simili."
 it_262,NULL
 it_263,NULL
@@ -699,7 +699,7 @@ it_696,"Danno magico +1\nUn elegante bastone in quercia pregiata."
 it_697,"Un potente scudo della torre."
 it_698,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono potenti abilità magiche. \nCategoria: livello di abilità 4 (classe) \nEffetto: Scambia posizione tra chi lancia l'incantesimo e l'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 40"
 it_699,"Una potente arma per novizi. "
-it_700,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono potenti abilità magiche. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Scatena un tempesta di fiamme vicino a chi lancia l'incantesimo causando danni ai nemici che si trovano ad un'unità di distanza. \nRequisito d'apprendimento: \nMago: Livello 36"
+it_700,"Questi rari libri magici provengono dalle benedizioni di Teon e contengono potenti abilità magiche. \nCategoria: Livello di abilità 3 (classe) \nEffetto: Lancia un tornado fiammeggiante, infliggendo danni a tutti i nemici intorno al caster, tranne i giocatori di nome Blu e Bianco. \nRequisito d'apprendimento: \nMago: Livello 36"
 it_701,"Un elmo di ferro inciso con con cerchi protettivi che assorbono i danni magici. Per ogni avanzamento di livello di potenziamento, Resistenza Magica +1."
 it_702,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: livello di abilità 4 (classe) \nEffetto: CA diminuisce di 7 punti per te e per i membri della tua squadra. \nRequisito d'apprendimento: \nElfo: Livello 40"
 it_703,"Un blocco di ferro."

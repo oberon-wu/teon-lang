@@ -473,7 +473,7 @@ de_471,"Ungoliant (Dunkelheit)"
 de_472,"Zombie (Dunkelheit)"
 de_473,Jax[Herstellen]
 de_474,"Der Zeitlose"
-de_475,NULL
+de_475,"Schatztruhe(Glücklich)"
 de_476,NULL
 de_477,NULL
 de_478,Schatztruhe
@@ -790,15 +790,15 @@ de_788,"Clan erlernen"
 de_789,"Mutige Aura"
 de_790,"Schimmernde Aura"
 de_791,NULL
-de_792,雷之元素
-de_793,火之元素
-de_794,水之元素
-de_795,土之元素
-de_796,風之元素
-de_797,豆沙月餅
-de_798,桂花月餅
-de_799,蓮蓉月餅
-de_800,雙黃月餅
+de_792,"Blitzelement"
+de_793,"Feuerelement"
+de_794,"Wasserelement"
+de_795,"Erdelement"
+de_796,"Windelement"
+de_797,"Mondkuchen (Bohnenpaste)"
+de_798,"Mondkuchen (Duftblüten)"
+de_799,"Mondkuchen (Lotus)"
+de_800,"Mondkuchen (Doppelei)"
 de_801,Lampe
 de_802,Laternen
 de_803,Kerosin
@@ -993,7 +993,7 @@ de_991,Höllenholzschlüssel
 de_992,"Schwarzer Blutschlüssel"
 de_993,"Erweiterte Rolle der Deformation"
 de_994,"Ultimative Rolle der Deformation"
-de_995,智者之禮
+de_995,"Geschenk des Weisen"
 de_996,"Teons Geschenk (60. Tag)"
 de_997,NULL
 de_998,NULL
@@ -1284,9 +1284,9 @@ de_1282,"Skelett-Bogenschütze (Dunkelheit)"
 de_1283,"Skelett-Magier(Dunkelheit)"
 de_1284,"Skelett-Bogenschütze-Leutnant(Dunkelheit)"
 de_1285,"Skelett-Magier-Leutnant(Dunkelheit)"
-de_1286,血影
-de_1287,嗜血蜘蛛
-de_1288,惡魔弓箭手
+de_1286,"Blutschatten"
+de_1287,"Mörderspinne"
+de_1288,"Dämonen-Bogenschütze"
 de_1289,"Roten Ritters-Set"
 de_1290,Todesritter-Set
 de_1291,Bran-Set
@@ -1485,9 +1485,9 @@ de_1483,"Haube des Roten Ritters (Persönlich)"
 de_1484,"Elfen-Lederhelm der Verfassung (Persönlich)"
 de_1485,"Elfen-Lederhelm der Geschicklichkeit (Persönlich)"
 de_1486,"Blutbefleckte Haube (Persönlich)"
-de_1487,魅魔妖後頭目
-de_1488,巨魔頭目
-de_1489,雙頭巨人頭目
-de_1490,血影頭目
-de_1491,嗜血蜘蛛頭目
-de_1492,惡魔弓箭手頭目
+de_1487,"Sukkubus-Königin"
+de_1488,"Troll-Häuptling"
+de_1489,"Ettin-Häuptling"
+de_1490,"Blutschatten-Anführer"
+de_1491,"Riesenmörderspinne"
+de_1492,"Dämonen-Bogenschütze-Leutnant"

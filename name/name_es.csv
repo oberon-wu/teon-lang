@@ -473,7 +473,7 @@ es_471,"Ungoliant de la Oscuridad"
 es_472,"Zombi de la Oscuridad"
 es_473,Jax[Artesano]
 es_474,"El Atemporal"
-es_475,NULL
+es_475,"Caja de tesoro (suerte)"
 es_476,NULL
 es_477,NULL
 es_478,"Caja de tesoro"
@@ -790,15 +790,15 @@ es_788,"Aprender clan"
 es_789,"Aura valiente"
 es_790,"Aura resplandeciente"
 es_791,NULL
-es_792,雷之元素
-es_793,火之元素
-es_794,水之元素
-es_795,土之元素
-es_796,風之元素
-es_797,豆沙月餅
-es_798,桂花月餅
-es_799,蓮蓉月餅
-es_800,雙黃月餅
+es_792,"Elemento de rayo"
+es_793,"Elemento de fuego"
+es_794,"Elemento de agua"
+es_795,"Elemento de tierra"
+es_796,"Elemento de viento"
+es_797,"Tarta lunar de pasta de judía"
+es_798,"Tarta lunar de osmanthus"
+es_799,"Tarta lunar de loto"
+es_800,"Tarta lunar de huevo doble"
 es_801,Lámpara
 es_802,Faroles
 es_803,Keroseno
@@ -993,7 +993,7 @@ es_991,"Llave de madera del infierno"
 es_992,"Llave de sangre negra"
 es_993,"Pergamino avanzado de deformación"
 es_994,"Pergamino de deformación"
-es_995,智者之禮
+es_995,"Regalo de sabio"
 es_996,"Regalo de Teon (60 días)"
 es_997,NULL
 es_998,NULL
@@ -1284,9 +1284,9 @@ es_1282,"Arquero esqueleto de la Oscuridad"
 es_1283,"Mago Esqueleto de la Oscuridad"
 es_1284,"Teniente esqueleto arquero de la Oscuridad"
 es_1285,"Teniente esqueleto mago de la Oscuridad"
-es_1286,血影
-es_1287,嗜血蜘蛛
-es_1288,惡魔弓箭手
+es_1286,"Sombra sangrienta"
+es_1287,"Araña asesina"
+es_1288,"Arquero demonio"
 es_1289,"Conjunto del caballero rojo"
 es_1290,"Conjunto del Caballero de la Muerte"
 es_1291,"Conjunto de Bran"
@@ -1485,9 +1485,9 @@ es_1483,"Capucha del caballero rojo (personal)"
 es_1484,"Yelmo élfico de cuero de constitución (personal)"
 es_1485,"Yelmo élfico de cuero de destreza (personal)"
 es_1486,"Capucha de gota de sangre (personal)"
-es_1487,魅魔妖後頭目
-es_1488,巨魔頭目
-es_1489,雙頭巨人頭目
-es_1490,血影頭目
-es_1491,嗜血蜘蛛頭目
-es_1492,惡魔弓箭手頭目
+es_1487,"Reina Súcuba"
+es_1488,"Caudillo troll"
+es_1489,"Caudillo yetun"
+es_1490,"Líder sombra sangrienta"
+es_1491,"Araña asesina gigante"
+es_1492,"Teniente arquero demonio"

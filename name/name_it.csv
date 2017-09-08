@@ -473,7 +473,7 @@ it_471,"Ungoliante dell'oscurità"
 it_472,"Zombie dell'oscurità"
 it_473,Jax[Creatore]
 it_474,"Il Senzatempo"
-it_475,NULL
+it_475,"Scatola del tesoro (fortunato)"
 it_476,NULL
 it_477,NULL
 it_478,"Scatola di tesori"
@@ -790,15 +790,15 @@ it_788,"Impara clan"
 it_789,"Aura del coraggio"
 it_790,"Aura risplendente"
 it_791,NULL
-it_792,雷之元素
-it_793,火之元素
-it_794,水之元素
-it_795,土之元素
-it_796,風之元素
-it_797,豆沙月餅
-it_798,桂花月餅
-it_799,蓮蓉月餅
-it_800,雙黃月餅
+it_792,"Elemento di luce"
+it_793,"Elemento di fuoco"
+it_794,"Elemento d'acqua"
+it_795,"Elemento di terra"
+it_796,"Elemento di vento"
+it_797,"Torta lunare di pasta di fagioli"
+it_798,"Torta lunare di osmanto"
+it_799,"Torta lunare di loto"
+it_800,"Torta lunare doppio uovo"
 it_801,Lampada
 it_802,Lanterne
 it_803,Cherosene
@@ -993,7 +993,7 @@ it_991,"Chiave di legno dell'inferno"
 it_992,"Chiave di sangue nero"
 it_993,"Pergamena della deformazione avanzata"
 it_994,"Pergamena della deformazione suprema"
-it_995,智者之禮
+it_995,"Regalo del saggio"
 it_996,"Regalo di Teon (60 giorni)"
 it_997,NULL
 it_998,NULL
@@ -1284,9 +1284,9 @@ it_1282,"Scheletro arciere dell'oscurità"
 it_1283,"Scheletro mago dell'oscurità"
 it_1284,"Tenente scheletro arciere dell'oscurità"
 it_1285,"Tenente scheletro mago dell'oscurità"
-it_1286,血影
-it_1287,嗜血蜘蛛
-it_1288,惡魔弓箭手
+it_1286,"Ombra insanguinata"
+it_1287,"Ragno assassino"
+it_1288,"Demone arciere"
 it_1289,"Set del cavaliere rosso"
 it_1290,"Set del cavaliere della morte"
 it_1291,"Set di Bran"
@@ -1485,9 +1485,9 @@ it_1483,"Cappuccio del cavaliere rosso (personale)"
 it_1484,"Elmo elfico di pelle della costituzione (personale)"
 it_1485,"Elmo elfico di pelle della destrezza (personale)"
 it_1486,"Cappuccio macchiato di sangue (personale)"
-it_1487,魅魔妖後頭目
-it_1488,巨魔頭目
-it_1489,雙頭巨人頭目
-it_1490,血影頭目
-it_1491,嗜血蜘蛛頭目
-it_1492,惡魔弓箭手頭目
+it_1487,"Regina dei succubi"
+it_1488,"Capo troll"
+it_1489,"Capo Ettin"
+it_1490,"Leader delle ombre insanguinate"
+it_1491,"Ragno assassino gigante"
+it_1492,"Luogotenente arciere demoniaco"

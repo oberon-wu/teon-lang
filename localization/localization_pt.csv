@@ -708,15 +708,15 @@ pt_706,"Exclusivo para Membros"
 pt_707,"Perfil da equipe"
 pt_708,"Acesse com uma conta registrada antes de prosseguir para a assinatura."
 pt_709,"Você está jogando como visitante. Registre sua conta antes de assinar."
-pt_710,訂單ID已被使用
-pt_711,會員訂單ID已被其他遊戲帳號綁定
-pt_712,切換攻擊者:
-pt_713,MultiTouch:
-pt_714,切換快捷鍵:
-pt_715,您未擁有誓約書，不能使用第二套快捷鍵
-pt_716,顯示等級:
-pt_717,帳號倉庫
+pt_710,"A verificação da compra não teve sucesso e nenhuma cobrança foi realizada."
+pt_711,"A verificação da compra não teve sucesso e nenhuma cobrança foi realizada."
+pt_712,"Seleção de Agressor:"
+pt_713,"MultiTouch:"
+pt_714,"Trocar Teclas de Atalho"
+pt_715,"Você deve possuir um Juramento para habilitar teclas de atalho secundárias."
+pt_716,"Exibição do Nível:"
+pt_717,"Armazém da Conta"
 pt_718,"Armazém do Clã"
-pt_719,綁定倉庫
-pt_720,"Você foi desconectado: %u."
-pt_721,Reconectar
+pt_719,"Armazém do Personagem"
+pt_720,"Você foi desconectado. Reconectando: %u"
+pt_721,"Reconectar"
