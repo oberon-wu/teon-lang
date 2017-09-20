@@ -453,7 +453,7 @@ en_451,"Confirm Discard Item"
 en_452,"Confirm Discard '%s'?"
 en_453,"Hack Detected. Simulator/Automation tools"
 en_454,"\f=Payment End:%s\n"
-en_455,"Game Start"
+en_455,"Start"
 en_456,"Recover"
 en_457,"\f9ACHV"
 en_458,"Server is full at this moment. Position in Queue: %d"
@@ -583,7 +583,7 @@ en_581,"Enter redemption code."
 en_582,Confirm
 en_583,Replay
 en_584,"Redemption Code Rules:"
-en_585,"Select Server"
+en_585,"Server"
 en_586,Server
 en_587,"Select a server first!"
 en_588,操作

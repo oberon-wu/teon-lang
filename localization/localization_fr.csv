@@ -453,7 +453,7 @@ fr_451,"Confirmer l'abandon de l'objet"
 fr_452,"Confirmer l'abandon de « %s » ?"
 fr_453,"Hack détecté. Simulateur/Outils d'automatisation"
 fr_454,"\f=Fin du paiement : %s \n"
-fr_455,"\fKDébut du jeu"
+fr_455,"\fKDébut"
 fr_456,"\fKRécupération du compte"
 fr_457,"\f9SUC."
 fr_458,"Le serveur est rempli pour le moment. La position dans la file : %d"
@@ -583,7 +583,7 @@ fr_581,"Entrer le code d'échange"
 fr_582,Confirmer
 fr_583,Rejouer
 fr_584,"Règle du code d'échange :"
-fr_585,"Sélectionner un serveur"
+fr_585,"Serveur"
 fr_586,Serveur
 fr_587,"Sélectionnez d'abord un serveur !"
 fr_588,Action

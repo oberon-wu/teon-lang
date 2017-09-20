@@ -453,7 +453,7 @@ it_451,"Conferma eliminazione oggetto"
 it_452,"Confermare l'eliminazione di '%s'?"
 it_453,"Violazione rilevata. Strumenti di simulazione/automatizzazione"
 it_454,"\f=Fine pagamento:%s "
-it_455,"\fKInizio gioco"
+it_455,"\fKInizio"
 it_456,"\fKRecupero account"
 it_457,"\f9RISUL."
 it_458,"Server attualmente al completo. Posizione in coda:%d"
@@ -583,7 +583,7 @@ it_581,"Inserire codice riscossione."
 it_582,Conferma
 it_583,Ripeti
 it_584,"Regole codice riscossione:"
-it_585,"Seleziona il server"
+it_585,"server"
 it_586,Server
 it_587,"Prima devi selezionare un server!"
 it_588,Azione

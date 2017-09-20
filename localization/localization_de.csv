@@ -453,7 +453,7 @@ de_451,"Verwerfen des Artikels bestätigen"
 de_452,"„%s“ wirklich verwerfen?"
 de_453,"Hack erkannt. Simulator/automatisierte Tools"
 de_454,"\f=Zahlungsende:%s "
-de_455,"\fKSpielstart"
+de_455,"\fKAnfang"
 de_456,"\fKKontowiederherstellung"
 de_457,"\f9ERRU"
 de_458,"Server ist momentan voll. Anfrageposition:%d"
@@ -583,7 +583,7 @@ de_581,"Gutscheincode eingeben"
 de_582,Bestätigen
 de_583,Wiederholen
 de_584,"Regeln für den Gutscheincode:"
-de_585,"Server auswählen"
+de_585,"Server"
 de_586,Server
 de_587,"Wähle zuerst einen Server!"
 de_588,操作
