@@ -453,7 +453,7 @@ es_451,"Confirmar el descarte del objeto"
 es_452,"¿Seguro que quieres descartar \"%s\"?"
 es_453,"Detectado intento de ataque. Herramientas de simulación/automatización"
 es_454,"\f=Extremo de pago: %s\n"
-es_455,"\fKIniciar juego"
+es_455,"\fKcomienzo"
 es_456,"\fKRecuperación de cuenta"
 es_457,"\f9LOGRO"
 es_458,"Servidor lleno en este momento. Puesto en cola: %d"
@@ -583,7 +583,7 @@ es_581,"Indica el código de canje"
 es_582,Confirmar
 es_583,Repetir
 es_584,"Reglas del código de canje:"
-es_585,"Selecciona un servidor"
+es_585,"Servidor"
 es_586,Servidor
 es_587,"¡Primero selecciona un servidor!"
 es_588,Acción

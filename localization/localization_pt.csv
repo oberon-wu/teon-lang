@@ -453,7 +453,7 @@ pt_451,"Confirmar Descarte de Item"
 pt_452,"Confirmar Descarte de '%s'?"
 pt_453,"Hacking detectado. Simulador/ferramentas de automatização"
 pt_454,"\f=Fim do Pagamento:%s\n"
-pt_455,"\fKIniciar Jogo"
+pt_455,"\fKComeçar"
 pt_456,"\fKRecuperação de Conta"
 pt_457,"\f9CONQ"
 pt_458,"O servidor está cheio neste momento. Posição na fila:%d"
@@ -583,7 +583,7 @@ pt_581,"Insira o código de resgate."
 pt_582,Confirmar
 pt_583,Reproduzir
 pt_584,"Regras do código de resgate:"
-pt_585,"Selecione o servidor"
+pt_585,"Servidor"
 pt_586,Servidor
 pt_587,"Primeiro, selecione um servidor."
 pt_588,Ação
