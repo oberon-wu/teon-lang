@@ -1,4 +1,5 @@
-﻿fr_0,"Même s'il n'a généralement aucun pouvoir, il y a quand même une très faible chance de tuer l'autre."
+﻿
+fr_0,"Même s'il n'a généralement aucun pouvoir, il y a quand même une très faible chance de tuer l'autre."
 fr_1,NULL
 fr_2,"Dague de novice. Une bonne dague pour les débutants."
 fr_3,"Une dague en mithril possédant des pouvoirs magiques qui aide à restaurer vos PM."
@@ -729,7 +730,7 @@ fr_726,"Le cristal mystérieux sur lequel sont gravés d'anciens textes sacrés 
 fr_727,"Sandales en cuir confortables de novice."
 fr_728,"Quand l'habile artisan elfe a découvert que l'arc et les flèches traditionnels ne pouvaient pas percer la peau épaisse des orques, il a créé cette arbalète à poulie assez puissante pour traverser divers matériaux."
 fr_729,"La lance orque utilisée par les gardes orques."
-fr_730,"La potion magique violette vous permet d'accélérer jusqu'à deux fois. Ne convient qu'aux chevaliers. "
+fr_730,"La potion magique violette vous permet d'accélérer jusqu'à deux fois. Ne convient qu'aux chevaliers、Royal. "
 fr_731,"L'écaille du dragon de feu contient le pouvoir du feu."
 fr_732,"Les cristaux de feu proviennent de la bénédiction de la déesse de la lune et contiennent des attributs de feu !\nCatégorie : niveau de compétence 5 (Classe)\nEffet : une chance de 33% d'augmenter les dégâts des attaques physiques de 1,5 fois. \nPrérequis d'apprentissage :  \nElfe : niveau 50"
 fr_733,"Armure du courageux chevalier - Plaques de mailles en fer.\nParamétrer effet(s) : AC -3"
