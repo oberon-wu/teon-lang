@@ -31,7 +31,7 @@ en_29,"Can not login to Google play, please make sure you have installed the nec
 en_30,"\fKClient:%s Resource:%u"
 en_31,"Account already exists"
 en_32,"Incorrect Password"
-en_33,"Your account is banned. Please Contact: cs@lakoo.com\nPlease inclue \"Teon-ACC\" in the title and list your account info in your email."
+en_33,"Your account is banned. Please Contact: cs@lakoo.com\nPlease inclue ""Teon-ACC"" in the title and list your account info in your email."
 en_34,"This Account is Already Logged in"
 en_35,"Invalid account or password"
 en_36,"Error Code:%d"
@@ -724,3 +724,5 @@ en_722,"Love it and rate it"
 en_723,"Could have done better"
 en_724,"Remain silent"
 en_725,"Thank you for playing Teon. How do you like Teon so far?"
+en_726,進行中
+en_727,已完成
