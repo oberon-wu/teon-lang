@@ -1020,10 +1020,10 @@ es_1018,"Espada corta elfa"
 es_1019,"Espada de plata larga"
 es_1020,"Espada del caballero rojo"
 es_1021,"Espada ancha"
-es_1022,"Espada de invasor"
+es_1022,"Espada de los caballeros oscuros"
 es_1023,"Espada a una mano de novicio"
 es_1024,"Espada de Damascus"
-es_1025,Machete
+es_1025,"Daga de los caballeros oscuros"
 es_1026,Katana
 es_1027,Estoque
 es_1028,Shamshir
@@ -1047,11 +1047,11 @@ es_1045,Guisarme
 es_1046,Alfanje
 es_1047,"Lanza elfa"
 es_1048,"Cuerno revestido de oricalco"
-es_1049,"Martillo de Lucerne"
+es_1049,"Lanza de Nestro"
 es_1050,Alabarda
 es_1051,Alfanje
 es_1052,"Lanza de novicio"
-es_1053,"Bec de Corbin"
+es_1053,"Lanza de guerra de pico de cuervo"
 es_1054,"Espada corta elfa de la resistencia a la magia"
 es_1055,"Espada corta elfa de la destreza"
 es_1056,"Bastón de cristal"
@@ -1491,15 +1491,15 @@ es_1489,"Caudillo yetun"
 es_1490,"Líder sombra sangrienta"
 es_1491,"Araña asesina gigante"
 es_1492,"Teniente arquero demonio"
-es_1493,月輝耳環
-es_1494,星辰耳環
-es_1495,日炎耳環
-es_1496,守護耳環
-es_1497,勇者耳環
-es_1498,智者耳環
-es_1499,亞龍之矛
-es_1500,亞龍之矛頭目
-es_1501,亞龍之刃
-es_1502,亞龍之刃頭目
-es_1503,泥龍
-es_1504,荒龍
+es_1493,"Pendientes del brillo lunar (miembros)"
+es_1494,"Pendientes de polvo de estrellas"
+es_1495,"Pendientes de ataque solar"
+es_1496,"Pendientes de protector"
+es_1497,"Pendientes de héroe"
+es_1498,"Pendientes de sabio"
+es_1499,"Lancero de estirpe de dragón"
+es_1500,"Lancero de estirpe de dragón de élite"
+es_1501,"Espadachín de estirpe de dragón"
+es_1502,"Espadachín de estirpe de dragón de élite"
+es_1503,"Dragón Uni"
+es_1504,"Dragón Terra"

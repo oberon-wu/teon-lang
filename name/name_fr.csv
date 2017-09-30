@@ -1020,10 +1020,10 @@ fr_1018,"Épée courte elfique"
 fr_1019,"Épée longue en argent"
 fr_1020,"Épée du chevalier rouge"
 fr_1021,"Épée longue"
-fr_1022,"Épée de l'envahisseur"
+fr_1022,"Épée des chevaliers noirs"
 fr_1023,"Épée à une main de novice"
 fr_1024,"Épée de Damas"
-fr_1025,Coutelas
+fr_1025,"Dague des chevaliers noirs"
 fr_1026,Katana
 fr_1027,Rapière
 fr_1028,Shamshir
@@ -1047,11 +1047,11 @@ fr_1045,Guisarme
 fr_1046,Glaive
 fr_1047,"Lance elfique"
 fr_1048,"Corne recouverte d'orichalque"
-fr_1049,"Marteau de Lucerne"
+fr_1049,"Lance de Nestro"
 fr_1050,Hallebarde
 fr_1051,Fauchard
 fr_1052,"Lance de novice"
-fr_1053,"Bec de Corbin"
+fr_1053,"Lance de guerre bec de corbeau"
 fr_1054,"Épée courte elfique de résistance magique"
 fr_1055,"Épée courte elfique de dextérité"
 fr_1056,"Bâton en cristal"
@@ -1491,15 +1491,15 @@ fr_1489,"Chef ettin"
 fr_1490,"Leader des ombres sanguinaires"
 fr_1491,"Araignée tueuse géante"
 fr_1492,"Lieutenant archer démon"
-fr_1493,月輝耳環
-fr_1494,星辰耳環
-fr_1495,日炎耳環
-fr_1496,守護耳環
-fr_1497,勇者耳環
-fr_1498,智者耳環
-fr_1499,亞龍之矛
-fr_1500,亞龍之矛頭目
-fr_1501,亞龍之刃
-fr_1502,亞龍之刃頭目
-fr_1503,泥龍
-fr_1504,荒龍
+fr_1493,"Boucles d'oreille d'éclat de lune (Membres)"
+fr_1494,"Boucles d'oreille de poussière d'étoiles"
+fr_1495,"Boucles d'oreille de l'éclat solaire"
+fr_1496,"Boucles d'oreille du protecteur"
+fr_1497,"Boucles d'oreille du héros"
+fr_1498,"Boucles d'oreille du sage"
+fr_1499,"Dragon armé de lance"
+fr_1500,"Dragon d'élite armé de lance"
+fr_1501,"Épéiste dragon"
+fr_1502,"Épéiste dragon d'élite"
+fr_1503,"Dragon uni"
+fr_1504,"Dragon terra"

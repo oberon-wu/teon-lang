@@ -1020,10 +1020,10 @@ it_1018,"Spada corta elfica"
 it_1019,"Spada d'argento lunga"
 it_1020,"Spada del cavaliere rosso"
 it_1021,"Spada larga"
-it_1022,"Spada d'invasore"
+it_1022,"Spada dei Cavalieri oscuri"
 it_1023,"Spada a una mano del novizio"
 it_1024,"Spada di Damasco"
-it_1025,Sciabola
+it_1025,"Pugnale dei Cavalieri oscuri"
 it_1026,Katana
 it_1027,Stocco
 it_1028,Shamshir
@@ -1047,11 +1047,11 @@ it_1045,Ronco
 it_1046,Falcione
 it_1047,"Lancia elfica"
 it_1048,"Corno rivestito di oricalco"
-it_1049,"Martello di Lucerna"
+it_1049,"Lancia di Nestro"
 it_1050,Alabarda
 it_1051,Falcione
 it_1052,"Lancia del novizio"
-it_1053,Mazzapicchio
+it_1053,"Lancia da guerra del Becco di corvo"
 it_1054,"Spada corta elfica della resistenza magica"
 it_1055,"Spada corta elfica della destrezza "
 it_1056,"Bastone di cristallo"
@@ -1491,15 +1491,15 @@ it_1489,"Capo Ettin"
 it_1490,"Leader delle ombre insanguinate"
 it_1491,"Ragno assassino gigante"
 it_1492,"Luogotenente arciere demoniaco"
-it_1493,月輝耳環
-it_1494,星辰耳環
-it_1495,日炎耳環
-it_1496,守護耳環
-it_1497,勇者耳環
-it_1498,智者耳環
-it_1499,亞龍之矛
-it_1500,亞龍之矛頭目
-it_1501,亞龍之刃
-it_1502,亞龍之刃頭目
-it_1503,泥龍
-it_1504,荒龍
+it_1493,"Orecchini del Chiaro di luna (Membri)"
+it_1494,"Orecchini della Polvere di stelle"
+it_1495,"Orecchini del Raggio di sole"
+it_1496,"Orecchini del Protettore"
+it_1497,"Orecchini dell'Eroe"
+it_1498,"Orecchini del Sapiente"
+it_1499,"Lanciere dragoide"
+it_1500,"Lanciere dragoide d'élite"
+it_1501,"Spadaccino dragoide"
+it_1502,"Spadaccino dragoide d'élite"
+it_1503,"Dragone Uni"
+it_1504,"Dragone Terra"
