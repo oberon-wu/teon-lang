@@ -261,12 +261,12 @@ de_258,"Stellt MP wieder her"
 de_259,"Erhöht vorübergehend Max. MP"
 de_260,"Erhöht vorübergehend Max. LP"
 de_261,"Ein gesegnetes Paket mit einem schriftlichen Eid, um die Macht von Teon zu besitzen.\nAchtung:\nDie Wirkung hält 60 Tage an und kann nicht durch gleiche oder ähnliche Pakete verlängert oder kumuliert werden."
-de_262,NULL
-de_263,NULL
-de_264,NULL
-de_265,NULL
-de_266,NULL
-de_267,NULL
+de_262,"Die Mondgöttin erschuf diese Ohrringe, indem sie während Vollmond das reinste Mondlicht einfing.\nHINWEIS: Nur Mitglieder können sie anlegen."
+de_263,"Die Legende sagt, dass Sternenstaub in Wirklichkeit die Tränen der Göttin Eva sind."
+de_264,"Das Sonnenlicht wird die Dunkelheit aus allen Ecken der Welt vertreiben."
+de_265,"Verehre Teon und werde ein Beschützer der Halle der Gerechtigkeit"
+de_266,"Verehre Teon und werde ein Held der Halle der Gerechtigkeit"
+de_267,"Verehre Teon und werde ein Weiser der Halle der Gerechtigkeit"
 de_268,NULL
 de_269,NULL
 de_270,NULL
@@ -710,7 +710,7 @@ de_707,"Erdkristalle wurden von der Mondgöttin gesegnet und enthalten Erdattrib
 de_708,"Ein perfekter Smaragd."
 de_709,"Ein mysteriöses Heiliges Buch verfasst in der alten Schrift."
 de_710,"Bran trug diese Kapuze ungern, weil er meinte, sie nehme ihm die Sicht.\nSeteffekt(e): Verwandlung in Bran. RK -4, LP-Wiederherstellung -7."
-de_711,"Ein kleines glattes Entermesser."
+de_711,"Die Dunklen Ritter sind die Vollstrecker von König Attilas Tyrannei. Diese Waffe wurde speziell für sie gefertigt."
 de_712,"Ein Lederwams mit schrägen Spitzen auf den Schultern, die verhindern, dass Feinde zu nahe kommen.\nSeteffekt(e): RK -3"
 de_713,"Eine seltene Magieraufzeichnung mit seinen Erfahrungen und Erkenntnisse in der Magie.\nKategorie: Fertigkeitsstufe 1 (Klasse)\nWirkung: Heilt alle Clanmitglieder auf dem Bildschirm\nAnforderung:\nMagier: Level 28"
 de_714,"Wenn es zu einem solch seltenen Material wie Oreichalkos kommt, muss sich selbst der Elfen-Schmiedemeister Zeit bei der Herstellung nehmen. Du kannst mächtige Waffen herstellen, die den Untoten zusätzlichen Schaden zufügen."
@@ -841,7 +841,7 @@ de_838,"Die Stahlaxt mit kurzem Griff wird von Jägern auf der Jagd verwendet."
 de_839,"Der Ring der Beschwörung mit geheimnisvollen Gravuren kann nach dem Tragen eine bestimmte Art von Monster beschwören."
 de_840,"Es wird gesagt, dass der Mantel der Unsichtbarkeit aus magischer Eisseide gewebt wurde. Er macht dich unsichtbar. Du kannst dich bewegen, kannst aber nichts machen, wenn du ihn trägst."
 de_841,"Dieses seltene Edin-Zauberbuch enthält mittlere magische Fähigkeiten.\nKategorie: Fertigkeitsstufe 4 (Allgemein)\nWirkung: Sendet einen Windzauber, der die Geschicklichkeit des Ziels um 5 Punkte erhöht. Die Zaubereffekte können nicht vervielfacht werden.\nAnforderung:\nMagier: Level 16\n Elf: Level 32"
-de_842,"Robuste Lanze der Infanterie."
+de_842,"Nestro, der Meisterschmied, hat seine Fähigkeiten in der Herstellung von Waffen verbessert. Er wählte den Namen für dieses Meisterstück selbst."
 de_843,"Der mysteriöse Kristall mit den alten Schriften der Elfen enthält eine erstaunliche magische Kraft!\nKategorie: Fertigkeitsstufe 3 (Klasse)\nWirkung: Erhöht die Verteidigung des Zaubernden um 50 %%.\nAnforderung:\n Elf: Level 30"
 de_844,"Zerbrochene Fragmente des Seelenkristalls."
 de_845,"Das Edin-Zauberbuch enthält elementare magische Fähigkeiten.\nKategorie: Fertigkeitsstufe 1 (Allgemein)\nWirkung: Erhöht Schaden im Allgemeinen und verursacht zusätzliche Schäden an Untoten.\nAnforderung:\nKöniglich: Level 10\nMagier: Level 4\n Elf: Level 18 \nRitter: Level 50"
@@ -992,7 +992,7 @@ de_989,"Dieses seltene Edin-Zauberbuch enthält mittlere magische Fähigkeiten.\
 de_990,"Helm aus weichem Leder."
 de_991,"Dieses magische Amulett erhöht Geschicklichkeit."
 de_992,"Feuerkristalle wurden von der Mondgöttin gesegnet und enthalten Feuerattribute!\nKategorie: Fertigkeitsstufe 5 (Klasse)\nWirkung: Maximiert für eine bestimmte Zeit den Angriffswert der Nahkampfwaffe des Zaubernden.\nAnforderung:\nElf: Level 50"
-de_993,"Das Invasorenschwert ist ein Schwert, das den Ehrgeiz König Attilas symbolisiert."
+de_993,"Die Dunklen Ritter sind die Vollstrecker von König Attilas Tyrannei. Dieses Schwert ist das Zeichen eines Dunklen Ritters."
 de_994,"Diese kostbaren Zauberbücher enthalten fortgeschrittene Zaubersprüche und verleihen dir die Macht der Götter und Dämonen!\nKategorie: Fertigkeitsstufe 6 (Allgemein)\nWirkung: Verflucht das Ziel und kann den Angriffswert von physischen Nahkämpfen sowie die Trefferquote des Ziels senken.\nAnforderung:\nMagier: Level 24\nElf: Level 48"
 de_995,"Ein unbekanntes Ei. Wenigstens wissen wir, dass es gut ist."
 de_996,"Besteht aus Oreichalkos. Kann nicht beschädigt werden und verursacht zusätzlichen Schaden an Untoten."

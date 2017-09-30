@@ -261,12 +261,12 @@ en_258,"Recovers MP"
 en_259,"Increases Max MP temporary"
 en_260,"Increases Max HP temporary"
 en_261,"A blessed package, contains a written oath to possess the power of Teon.\nCaution: \n Effects last for 60-days and cannot be extended or stacked by the same or similar packages."
-en_262,NULL
-en_263,NULL
-en_264,NULL
-en_265,NULL
-en_266,NULL
-en_267,NULL
+en_262,"The Moon Goddess crafted these earrings by collecting the purest moonshine during a full moon. \nNOTE: Only members could equip this."
+en_263,"Legends say that Star Dusts are actually tears of Eva the Goddess."
+en_264,"The sun light will drive out darkness in every corner of the world."
+en_265,"Worship Teon, and become a Protector of the Hall of Justice"
+en_266,"Worship Teon, and become a Hero of the Hall of Justice"
+en_267,"Worship Teon, and become a  Sage of the Hall of Justice"
 en_268,NULL
 en_269,NULL
 en_270,NULL
@@ -712,7 +712,7 @@ en_707,"Earth crystals came from the Moon Goddess's blessings, which contain pow
 en_708,"A perfect emerald"
 en_709,"A mysterious holy tome written in ancient scriptures"
 en_710,"Bran disliked wearing this hood, because he thinks it would block his sight.\nSet Effect(s): Transform into Bran. AC -4, HP Recovery -7"
-en_711,"A smooth little cutlass"
+en_711,"The Dark Knights are executors of King Attila's tyranny. This is a weapon specially made for them."
 en_712,"A leather doublet with slanted spikes on the shoulders to prevent enemies from getting close. \n Set Effect(s):  AC -3"
 en_713,"A rare record of a mage detailing his experiences and insights in magic.\nCategory: Skill level 1 (Class)\nEffect: Heal all clan members within the screen\nLearning requirement:\nMage: Level 28"
 en_714,"When it comes to such a rare material like Orichalcum, even the Elven blacksmith master needs to take his time to craft with it. You can make powerful weapons that cause extra damage to the undead. "
@@ -843,7 +843,7 @@ en_838,"A short handle steel axe used by hunters for hunting"
 en_839,"A ring engraved with mysterious incantations that can summon a specific type of monster after wearing it. "
 en_840,"It is said that the Cloak of Invisibility was woven with magical ice silk. It makes you invisible. You can move around, but can't do anything else while wearing it."
 en_841,"This rare Edin spell book contains intermediate magic skills. \n Category: Skill level 4 (Common) \n Effect: Cast a wind spell that increases target’s dexterity by 5 points. The spell effects cannot be multiplied. \n Learning requirement: \n Mage: Level 16 \n Elf: Level 32"
-en_842,"An infantries’ lance that is sturdy"
+en_842,"Nestro the mastersmith has refined his skills in weapon crafting. He named this masterpiece after himself."
 en_843,"This mysterious crystal engraved with the ancient writings of elves and contains an amazing magic power! \n Category: Skill level 3 (Class) \n Effect: Increase defense of spell caster by 50%%. \n Learning requirement: \n Elf : Level 30"
 en_844,"Broken soul crystal fragments"
 en_845,"This Edin spell book contains elementary magic skills. \n Category: Skill level 1 (Common) \n Effect: increases damage generally and causes extra damage to the undead. \n Learning requirement: \n Royal: Level 10 \n Mage: Level 4 \n Elf: Level 18 \n Knight: Level 50"
@@ -994,7 +994,7 @@ en_989,"This rare Edin spell book contains intermediate magic skills. \n Categor
 en_990,"A soft leather helmet"
 en_991,"This magic amulet increases dexterity."
 en_992,"Fire crystals came from the Moon Goddess's blessings, which contains fire attributes! \n Category: Skill level 5 (Class) \n Effect: Maximizes melee weapon attack value of spell caster for a period of time. \n Learning requirement: \n Elf: Level 50"
-en_993,"The Invader Sword is a sword that symbolizes King Attila's ambition."
+en_993,"The Dark Knights are executors of King Attila's tyranny. This sword is the symbol of a Dark Knight."
 en_994,"These precious spell books contain advanced spells giving you the power of Gods and Demons! \n Category: Skill level 6 (Common) \n Effect:Curse your target, chance to lower target’s melee attack value and hit rate. \n Learning requirement: \n Mage: Level 24 \n Elf: Level 48"
 en_995,"An unkown egg. At least we know that it's good."
 en_996,"Being made of Orichalcum, it will never be damaged and causes extra damage to the undead."

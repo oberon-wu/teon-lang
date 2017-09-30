@@ -261,12 +261,12 @@ pt_258,"Recupera MP"
 pt_259,"Aumenta temporariamente o MP Máximo"
 pt_260,"Aumenta temporariamente o HP Máximo"
 pt_261,"Um pacote abençoado com um juramento escrito para possuir o poder de Teon.\nCuidado: \nOs efeitos duram por 60 dias e não podem ser prolongados ou combinados com pacotes iguais ou similares."
-pt_262,NULL
-pt_263,NULL
-pt_264,NULL
-pt_265,NULL
-pt_266,NULL
-pt_267,NULL
+pt_262,"A Deusa da Lua criou estes brincos ao coletar o luar mais puro durante a lua cheia. \nATENÇÃO: Apenas membros podem equipar."
+pt_263,"As lendas contam que poeiras estelares são na verdade lágrimas da Deusa Eva."
+pt_264,"A luz do sol irá expulsar as trevas em cada canto do mundo."
+pt_265,"Devote-se a Teon e torne-se um Protetor do Salão da Justiça"
+pt_266,"Devote-se a Teon e torne-se um Herói do Salão da Justiça"
+pt_267,"Devote-se a Teon e torne-se um Sábio do Salão da Justiça"
 pt_268,NULL
 pt_269,NULL
 pt_270,NULL
@@ -710,7 +710,7 @@ pt_707,"Cristais da Terra originários das bênçãos da Deusa da Lua com atribu
 pt_708,"Uma esmeralda perfeita."
 pt_709,"Um Tomo Sagrado misterioso com escritura antiga."
 pt_710,"Bran não gosta de usar este capuz porque acha que pode bloquear sua visão.\nEfeito(s) do conjunto: Transformar no Bran. CA -4, Recuperação HP -7"
-pt_711,"Um cutelo pequeno e perfeito."
+pt_711,"Os Cavaleiros Negros são executores da tirania do Rei Attila. Esta é uma arma criada especialmente para eles."
 pt_712,"Um gibão de couro com espinhos inclinados nos ombros para impedir os inimigos de se aproximarem.\nEfeito(s) do conjunto: CA -3"
 pt_713,"Um registro mágico raro detalhando as experiências e as percepções sobre magia.  \nCategoria: Nível de habilidade 1 (Classe)\nEfeito: Cura todos os membros do clã da tela\nRequisito de aprendizado:\nMago: Nível 28"
 pt_714,"Quando se trata de um material tão raro como o Oricalco, até mesmo o ferreiro mestre dos Elfos precisa de tempo para criar algo com ele. Você pode criar armas poderosas que causam dano extra aos mortos-vivos. 。"
@@ -841,7 +841,7 @@ pt_838,"O Machado de Aço com cabo curto usado por caçadores. "
 pt_839,"O Anel de Invocação gravado com encantamentos misteriosos pode invocar um tipo específico de monstro ao ser usado. "
 pt_840,"Acredita-se que o Manto da Invisibilidade foi tecido com uma seda mágica de gelo. Ele o deixa invisível. Você não pode fazer outra coisa enquanto estiver usando o manto."
 pt_841,"Este Livro de Encantos Raro de Edin contém habilidades mágicas intermediárias. \nCategoria: Nível de habilidade 4 (Comum) \nEfeito: Lança um encanto de vento que aumenta a destreza do alvo em 5 pontos. Os efeitos do encanto não podem ser multiplicados. \nRequisito de aprendizado: \nMago: Nível 16 \nElfo: Nível 32"
-pt_842,"Lança robusta de infantaria."
+pt_842,"Nestro, o ferreiro mestre refinou suas habilidades na criação de armas. Ele batizou sua obra prima com o seu próprio nome."
 pt_843,"O Cristal Misterioso entalhado com escrituras élficas antigas tem um poder mágico incrível! \nCategoria: Nível de habilidade 3 (Classe) \nEfeito: Aumenta em 50% a defesa do lançador de encantos. \nRequisito de aprendizado: \nElfo: Nível 30"
 pt_844,"Fragmentos de Cristal da Alma Partida."
 pt_845,"O Livro de Encantos de Edin contém habilidades mágicas básicas. \nCategoria: Nível de habilidade 1 (Comum) \nEfeito: Aumenta o dano em geral e causa dano extra aos mortos-vivos. \nRequisito de aprendizado: \nRealeza: Nível 10 \nMago: Nível 4 \nElfo: Nível 18 \nCavaleiro: Nível 50"
@@ -992,7 +992,7 @@ pt_989,"Este Livro de Encantos Raro de Edin contém habilidades mágicas interme
 pt_990,"Elmo de Couro Macio."
 pt_991,"Este amuleto mágico aumenta a destreza."
 pt_992,"Cristais de Fogo originários das bênçãos da Deusa da Lua com atributos de fogo! \nCategoria: Nível de habilidade 5 (Classe) \nEfeito: Maximiza o valor do ataque corpo a corpo com arma do lançador de encantos por um período de tempo. \nRequisito de aprendizado: \nElfo: Nível 50"
-pt_993,"A Espada do Invasor é uma espada que simboliza a ambição do Rei Attila."
+pt_993,"Os Cavaleiros Negros são executores da tirania do Rei Attila. Esta espada é o símbolo de um Cavaleiro Negro."
 pt_994,"Estes Livros Preciosos de Encantos contêm encantos avançados que concedem a você poderes de deuses e demônios! \nCategoria: Nível de habilidade 6 (Comum) \nEfeito: Amaldiçoa seu alvo com uma chance de reduzir o valor do ataque corpo a corpo do alvo e a taxa de acerto.\nRequisito de aprendizado: \nMago: Nível 24 \nElfo: Nível 48"
 pt_995,"Um ovo desconhecido. Pelo menos, sabemos que é bom."
 pt_996,"Feito de Oricalco, não pode ser danificado e causa dano extra aos mortos-vivos."

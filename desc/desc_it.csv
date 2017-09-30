@@ -261,12 +261,12 @@ it_258,"Recupera MP"
 it_259,"Aumenta provvisoriamente MP Max"
 it_260,"Aumenta provvisoriamente HP Max"
 it_261,"Un pacco benedetto che contiene un giuramento scritto col potere di Teon.\nAttenzione: \nL'effetto dura 60 giorni e non può essere prolungato né abbinato a pacchetti uguali o simili."
-it_262,NULL
-it_263,NULL
-it_264,NULL
-it_265,NULL
-it_266,NULL
-it_267,NULL
+it_262,"La Dea della luna ha creato questi orecchini raccogliendo le pietre di luna più pure durante un plenilunio.\nNOTA: sono equipaggiabili dai soli membri."
+it_263,"Secondo una leggenda, le Polveri di stelle sono lacrime della Dea Eva."
+it_264,"La luce del solesalverà dal buio ogni angolo della Terra."
+it_265,"Prega Teon, e diventa un Protettore della Sala della Giustizia"
+it_266,"Prega Teon, e diventa un Eroe della Sala della Giustizia"
+it_267,"Prega Teon, e diventa un Sapiente della Sala della Giustizia"
 it_268,NULL
 it_269,NULL
 it_270,NULL
@@ -710,7 +710,7 @@ it_707,"I cristalli terrestri provengono dalle benedizioni della dea della luna 
 it_708,"Uno smeraldo perfetto."
 it_709,"Un misterioso tomo sacro scritto in una lingua antica."
 it_710,"Un altro pezzo di armatura rubata da Bran a una delle sue vittime.\nEffetto/i: trasformazione in Bran. AC -4, Recupero PS -7"
-it_711,"Una piccola sciabola liscia."
+it_711,"I Cavalieri oscuri sono esecutori della tirannia di Re Attila. Quest'arma è stata realizzata appositamente per loro."
 it_712,"Un farsetto di pelle con chiodi inclinati sulle spalle per impedire ai nemici di avvicinarsi.\nEffetto/i:  AC -3 "
 it_713,"Un raro documento che contiene conoscenze ed esperimenti magici.\nCategoria: Livello di abilità 1 (classe)\nEffetto: Guarisce tutti i membri della gilda sullo schermo\nRequisito d'apprendimento:\nMago: Livello 28"
 it_714,"Quando si tratta di materiali rari come l'oricalco, anche il mastro ferraio elfico impiega del tempo per completare la sua creazione. Può creare armi più potenti che infliggono danni in più ai morti viventi. 。"
@@ -841,7 +841,7 @@ it_838,"L'ascia di acciaio dal manico corto è usata dai cacciatori. "
 it_839,"Sull'anello dell'evocazione sono incisi misteriosi incantesimi. Dopo averlo indossato è possibile invocare un tipo di mostro. "
 it_840,"Si dice che il mantello dell'invisibilità sia stato tessuto in seta magica di ghiaccio. Se lo indossi, diventi invisibile. Puoi muoverti ma non puoi fare altro mentre lo indossi."
 it_841,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. \nCategoria: Livello di abilità 4 (comune) \nEffetto: Lancia un incantesimo del vento che aumenta la destrezza dell'obiettivo di 5 punti. Non è possibile moltiplicare gli effetti dell'incantesimo. \nRequisito d'apprendimento: \nMago: Livello 16 \nElfo: Livello 32"
-it_842,"Lancia resistente della fanteria."
+it_842,"Nestro l'artigiano ha affinato le sue abilità nella creazione di armi. Quest'arma prende il nome da lui."
 it_843,"Un misterioso cristallo intagliato di antiche scritture elfiche che contiene incredibili poteri magici! \nCategoria: Livello di abilità 3 (classe) \nEffetto: Aumenta del 50% la difesa di chi lancia l'incantesimo \nRequisito d'apprendimento: \nElfo: Livello 30"
 it_844,"Frammenti di cristallo dell'anima."
 it_845,"Questo libro d'incantesimi di Edin contiene incantesimi elementari. \nCategoria: Livello di abilità 1 (comune) \nEffetto: Aumenta i danni in generale e provoca danni in più ai morti viventi. \nRequisito d'apprendimento: \nReale: Livello 10 \nMago: Livello 4 \nElfo: Livello 18 \nCavaliere: Livello 50"
@@ -992,7 +992,7 @@ it_989,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. 
 it_990,"Elmo di pelle morbido."
 it_991,"Questo amuleto magico aumenta destrezza."
 it_992,"I cristalli di fuoco provengono dalle benedizioni della dea della luna e contengono attributi di fuoco! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Massimizza il valore d'attacco ravvicinato dell'arma di chi lancia l'incantesimo per un periodo di tempo. \nRequisito d'apprendimento: \nElfo: Livello 50"
-it_993,"La spada dell'invasore è un'arma creata da Re Attila."
+it_993,"I Cavalieri oscuri sono esecutori della tirannia di Re Attila. Questa spada simboleggia un Cavaliere oscuro."
 it_994,"Questi preziosi libri di contengono incantesimi avanzati che ti garantiscono la potenza degli dei e dei demoni! \nCategoria: Livello di abilità 6 (comune) \nEffetto: Questo incantesimo può diminuire il valore dell'attacco fisico ravvicinato e la probabilità di colpire dell'obiettivo. \nRequisito d'apprendimento: \nMago: Livello 24 \nElfo: Livello 48"
 it_995,"Un uovo di gallina sana."
 it_996,"Poiché è di oricalco, non può essere danneggiato e causa danni in più ai morti viventi."

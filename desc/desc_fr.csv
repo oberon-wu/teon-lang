@@ -262,12 +262,12 @@ fr_258,"Restaure des PM"
 fr_259,"Augmente temporairement le nombre maximal de PM"
 fr_260,"Augmente temporairement le nombre maximal de PV"
 fr_261,"Un pack béni qui contient un serment écrit permettant de posséder le pouvoir de Teon.\nAvertissement :\nL'effet dure 60 jours et ne peut pas être prolongé ou associé à un pack identique ou similaire."
-fr_262,NULL
-fr_263,NULL
-fr_264,NULL
-fr_265,NULL
-fr_266,NULL
-fr_267,NULL
+fr_262,"La déesse de la lune a fabriqué ces boucles d'oreille en recueillant de l'éclat de lune la au cours d'une pleine lune.\nREMARQUE : seuls les membres peuvent les équiper."
+fr_263,"Les légendes racontent que les poussières d'étoiles sont en fait les larmes d'Eva la déesse."
+fr_264,"La lumière du soleil chassera les ténèbres aux quatre coins du monde."
+fr_265,"Vénérez Teon et devenez un protecteur du hall de justice"
+fr_266,"Vénérez Teon et devenez un héros du hall de justice"
+fr_267,"Vénérez Teon et devenez un sage du hall de justice"
 fr_268,NULL
 fr_269,NULL
 fr_270,NULL
@@ -711,7 +711,7 @@ fr_707,"Les cristaux de terre proviennent de la bénédiction de la déesse de l
 fr_708,"Une émeraude parfaite."
 fr_709,"Un mystérieux tome sacré écrit dans un ancien script."
 fr_710,"Bran déteste porter cette capuche, car il pense que ça lui bloque la vue.\nParamétrer effet(s) : transformation en Bran. AC -4, HP Récupération -7"
-fr_711,"Un petit coutelas lisse."
+fr_711,"Les chevaliers noirs sont les exécuteurs de la tyrannie du roi Attila. C'est une arme conçue spécialement pour eux."
 fr_712,"Un pourpoint en cuir avec des pointes inclinées sur les épaules pour empêcher les ennemis de s'approcher. \nParamétrer effet(s) : AC -3"
 fr_713,"Un enregistrement rare de mage détaillant ses expériences et ses connaissances de la magie.  \nCatégorie : niveau de compétence 1 (Classe)\nEffet : guérir tous les membres du clan à l'écran.\nPrérequis d'apprentissage :  \nMage : niveau 28"
 fr_714,"Quand il s'agit d'un matériau aussi rare que l'orichalque, même le maître forgeron elfe a besoin de prendre son temps pour en faire des créations. Vous pouvez créer des armes puissantes qui infligent des dégâts supplémentaires aux morts-vivants."
@@ -842,7 +842,7 @@ fr_838,"La hache d'acier au manche court utilisée par les chasseurs. "
 fr_839,"S'il est porté, l'anneau d'invocation sur lequel sont gravées des incantations mystérieuses peut permettre d'invoquer un type spécifique de monstres. "
 fr_840,"On dit que la cape d'invisibilité fut tissée avec de la soie glaciale magique. Elle vous rend invisible. Vous pouvez uniquement vous déplacer quand vous la portez."
 fr_841,"Ce rare livre de sorts contient des compétences magiques intermédiaires.\nCatégorie : niveau de compétence 4 (Commun) \nEffet : lancer un sort de vent qui augmente la dextérité de la cible de 5 points. Les effets du sort ne peuvent pas être multipliés.\nPrérequis d'apprentissage :  \nMage : niveau 16 \nElfe : niveau 32"
-fr_842,"Une solide lance d'infanterie."
+fr_842,"Nestro le maître forgeron a peaufiné ses compétences en fabrication d'arme. Il a donné son nom à ce chef d'œuvre."
 fr_843,"Le cristal mystérieux sur lequel sont gravés les anciens écrits des elfes et qui contient un pouvoir magique incroyable !\nCatégorie : niveau de compétence 3 (Classe)\nEffet : augmenter la défense du lanceur du sort de 50%%. \nPrérequis d'apprentissage :  \nElfe : niveau 30"
 fr_844,"Des fragments de cristal d'âme brisée."
 fr_845,"Ce livre de sorts d'Edin contient des compétences magiques élémentaires. \nCatégorie : niveau de compétence 1 (Commun) \nEffet : augmenter les dégâts de manière générale et infliger des dégâts supplémentaires aux morts-vivants.\nPrérequis d'apprentissage :  \nRoyal : niveau 10 \nMage : niveau 4 \nElfe : niveau 18 \nChevalier : niveau 50"
@@ -994,7 +994,7 @@ fr_989,"Ce rare livre de sorts d'Edin contient des compétences magiques interm�
 fr_990,"Heaume en cuir souple."
 fr_991,"Cette amulette magique augmente la dextérité."
 fr_992,"Les cristaux de feu proviennent de la bénédiction de la déesse de la lune et contiennent des attributs de feu !\nCatégorie : niveau de compétence 5 (Classe)\nEffet : maximise la valeur d'attaque des armes de corps-à-corps du lanceur du sort pendant un certain temps.\nPrérequis d'apprentissage :  \nElfe : niveau 50"
-fr_993,"L'épée de l'envahisseur est une épée qui symbolise l'ambition du Roi Attila."
+fr_993,"Les chevaliers noirs sont les exécuteurs de la tyrannie du roi Attila. Cette épée est le symbôle d'un chevalier noir."
 fr_994,"Ces livres de sort précieux contiennent des sorts avancés vous donnant le pouvoir des dieux et des démons ! \nCatégorie : niveau de compétence 6 (Commun) \nEffet : lancer une malédiction sur la cible, une chance de réduire la valeur et le taux de coups des attaques physiques à courte portée de la cible.\nPrérequis d'apprentissage :  \nMage : niveau 24 \nElfe : niveau 48"
 fr_995,"Un œuf inconnu. On sait au moins que c'est en bon état."
 fr_996,"Étant faite d'orichalque, elle ne sera jamais endommagée et elle infligera des dégâts supplémentaires aux morts-vivants."

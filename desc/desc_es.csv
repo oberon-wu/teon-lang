@@ -261,12 +261,12 @@ es_258,"Recupera PM"
 es_259,"Aumenta los PM máximos temporalmente"
 es_260,"Aumenta los PS máximos temporalmente"
 es_261,"Un paquete bendecido contiene un juramento escrito para poseer el poder de Teon.\nPrecaución: \n El efecto dura 60 días y no se puede ampliar ni acumular con paquetes iguales o parecidos."
-es_262,NULL
-es_263,NULL
-es_264,NULL
-es_265,NULL
-es_266,NULL
-es_267,NULL
+es_262,"La Diosa de la Luna creó estos pendientes a partir de la luz lunar más pura durante una fase de luna llena. \nNOTA: Solo los miembros pueden equiparlo."
+es_263,"La leyenda dice que el polvo de estrellas es en realidad lágrimas de Eva la Diosa."
+es_264,"La luz del sol ilumina la oscuridad en todos los rincones del mundo."
+es_265,"Adora a Teon, y conviértete en protector del Salón de la Justicia."
+es_266,"Adora a Teon, y conviértete en héroe del Salón de la Justicia."
+es_267,"Adora a Teon, y conviértete en sabio del Salón de la Justicia."
 es_268,NULL
 es_269,NULL
 es_270,NULL
@@ -710,7 +710,7 @@ es_707,"Los cristales de tierra provienen de la bendición de la Diosa de la Lun
 es_708,"Una esmeralda perfecta."
 es_709,"Un misterioso tomo sagrado escrito en una lengua antigua."
 es_710,"Bran detestaba portar esta capucha pues consideraba que impediría su visión.\n Efecto(s) de conjunto: Transforma en Bran. PR -4, recuperación de PS -7"
-es_711,"Un pequeño alfanje suave."
+es_711,"Los caballeros oscuros son los ejecutores de la tiranía del Rey Atila. Esta arma está creada especialmente para ellos."
 es_712,"Una casaca de cuero con pinchos inclinados sobre los hombros para impedir que los enemigos se acerquen. \n Efecto(s) de conjunto: PR -3"
 es_713,"Un registro de mago raro que detalla sus experiencias y su conocimiento de la magia.  \nCategoría: Habilidad de nivel 1 (clase)\nEfecto: Cura a todos los miembros del gremio en la pantalla.\nRequisito de aprendizaje:\nMago: Nivel 28"
 es_714,"En lo que se refiere a un material tan raro como el oricalco, incluso el maestro herrero elfo necesita tiempo para trabajar con él. Puedes fabricar armas poderosas que infligen daño adicional a los no muertos."
@@ -841,7 +841,7 @@ es_838,"Hacha de acero de mango corto usada por cazadores en su labor. "
 es_839,"El anillo de la invocación grabado con encantamientos misteriosos que puede invocar un tipo determinado de monstruo cuando se lleva puesto. "
 es_840,"Se dice que la capa de invisibilidad fue tejida con seda de hielo mágico. Te hace invisible. Puedes desplazarte por ahí, pero no puedes hacer nada más mientras la llevas puesta."
 es_841,"Este libro de hechizos raro de Edin contiene habilidades mágicas intermedias. \n Categoría: Habilidad de nivel 4 (común) \n Efecto: Lanza un hechizo de viento que aumenta la destreza del objetivo en 5 puntos. Los efectos del hechizo no se pueden multiplicar. \n Requisito de aprendizaje: \n Mago: Nivel 16 \n Elfo: Nivel 32"
-es_842,"Lanza de infantería resistente."
+es_842,"Nestro, el maestro herrero, ha reajustado sus habilidades de creación de armas. Le puso su propio nombre a su obra maestra."
 es_843,"¡El misterioso cristal grabado con escrituras antiguas de elfos contiene un sorprendente poder mágico! \n Categoría: Habilidad de nivel 3 (clase) \n Efecto: Aumenta la defensa del lanzador de hechizos en un 50%%. \n Requisito de aprendizaje: \n Elfo: Nivel 30"
 es_844,"Fragmentos de cristal de alma rotos."
 es_845,"El libro de hechizos de Edin contiene habilidades mágicas elementales. \n Categoría: Habilidad de nivel 1 (común) \n Efecto: Aumenta el daño en general y causa daño adicional a los no muertos. \n Requisito de aprendizaje: \n Real: Nivel 10 \n Mago: Nivel 4 \n Elfo: Nivel 18 \n Caballero: Nivel 50"
@@ -992,7 +992,7 @@ es_989,"Este libro de hechizos raro de Edin contiene habilidades mágicas interm
 es_990,"Yelmo de cuero suave."
 es_991,"Este amuleto mágico aumenta la destreza."
 es_992,"Los cristales de fuego provienen de la bendición de la Diosa de la Luna, que contiene atributos de fuego. \nCategoría: Habilidad de nivel 5 (clase) \nEfecto: Maximiza el valor de ataque del arma a corta distancia del lanzador del hechizo durante un periodo de tiempo. \nRequisito de aprendizaje: \nElfo: Nivel 50"
-es_993,"La espada de invasor es una espada que simboliza la ambición del Rey Atila."
+es_993,"Los caballeros oscuros son los ejecutores de la tiranía del Rey Atila. Esta espada es el símbolo de un caballero oscuro."
 es_994,"Este valioso libro de hechizos contiene conjuros avanzados que otorgan el poder de dioses y demonios. \nCategoría: Habilidad de nivel 6 (común) \nEfecto: Este hechizo tiene una probabilidad de reducir el valor de ataque físico a corta distancia y la frecuencia de impacto del objetivo. \nRequisito de aprendizaje: \nMago: Nivel 24 \nElfo: Nivel 48"
 es_995,"Un huevo desconocido. Al menos sabemos que es saludable."
 es_996,"Por estar fabricado de oricalco, no recibe daños nunca y provoca daño adicional a los no muertos."
