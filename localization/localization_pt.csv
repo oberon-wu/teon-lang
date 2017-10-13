@@ -726,15 +726,15 @@ pt_724,"Vou ficar em silêncio"
 pt_725,"Obrigado por jogar o Teon. O que você está achando do Teon até agora?"
 pt_726,"Aceito"
 pt_727,"Concluído"
-pt_728,邀請遊戲
-pt_729,我的邀請鏈接
-pt_730,複製
-pt_731,分享
-pt_732,邀請新玩家進行遊戲,當他（她）滿足一定條件你可獲得豐厚獎勵哦！
-pt_733,獎勵規則——
-pt_734,複製成功
-pt_735,複製失敗
-pt_736,"%s\f=傳記:%s\n"
+pt_728,"Convidar"
+pt_729,"Meu Convite:"
+pt_730,"Copiar"
+pt_731,"Compartilhar"
+pt_732,"Convide seus amigos para o Teon. Você receberá recompensas quando eles cumprirem determinados requisitos!"
+pt_733,"Regras --"
+pt_734,"Copiado para sua área de transferência"
+pt_735,"Falha ao copiar"
+pt_736,"%s\f=Lendas:%s\n"
 pt_737,"Lista de missões"
 pt_738,"Repetível"
 pt_739,"Aceitável"

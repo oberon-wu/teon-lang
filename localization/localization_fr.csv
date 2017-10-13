@@ -726,15 +726,15 @@ fr_724,"Ne se prononce pas"
 fr_725,"Merci d'avoir joué à Teon. Comment trouvez-vous Teon pour l'instant ?"
 fr_726,"Acceptée"
 fr_727,"Complétée"
-fr_728,邀請遊戲
-fr_729,我的邀請鏈接
-fr_730,複製
-fr_731,分享
-fr_732,邀請新玩家進行遊戲,當他（她）滿足一定條件你可獲得豐厚獎勵哦！
-fr_733,獎勵規則——
-fr_734,複製成功
-fr_735,複製失敗
-fr_736,"%s\f=傳記:%s\n"
+fr_728,"Inviter"
+fr_729,"Mon invitation"
+fr_730,"Copier"
+fr_731,"Partager"
+fr_732,"Invitez vos amis à rejoindre Teon. Vous serez récompensé(e) quand il/elle répondra à certains critères !"
+fr_733,"Règles--"
+fr_734,"Copié dans le presse-papier"
+fr_735,"Échec de la copie"
+fr_736,"%s\f=Légendes:%s\n"
 fr_737,"Liste de quêtes"
 fr_738,"Répétable"
 fr_739,"Acceptable"

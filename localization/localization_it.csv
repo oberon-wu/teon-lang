@@ -726,15 +726,15 @@ it_724,"No comment"
 it_725,"Grazie per aver giocato a Teon. Ti è piaciuto?"
 it_726,"Accettata"
 it_727,"Completata"
-it_728,邀請遊戲
-it_729,我的邀請鏈接
-it_730,複製
-it_731,分享
-it_732,邀請新玩家進行遊戲,當他（她）滿足一定條件你可獲得豐厚獎勵哦！
-it_733,獎勵規則——
-it_734,複製成功
-it_735,複製失敗
-it_736,"%s\f=傳記:%s\n"
+it_728,"Invita"
+it_729,"Il mio invito:"
+it_730,"Copia"
+it_731,"Condividi"
+it_732,"Invita gli amici a giocare a Teon. Otterrai una ricompensa quando il tuo amico o la tua amica raggiunge determinati requisiti!"
+it_733,"Regole--"
+it_734,"Copiato sugli appunti"
+it_735,"Copia non riuscita"
+it_736,"%s\f=Leggende:%s\n"
 it_737,"Elenco missioni"
 it_738,"Ripetibile"
 it_739,"Accettabile"
