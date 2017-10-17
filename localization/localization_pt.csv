@@ -62,7 +62,7 @@ pt_60,Missão
 pt_61,Loc
 pt_62,Soc
 pt_63,Geral
-pt_64,Ajuda
+pt_64,Clã
 pt_65,Sair
 pt_66,Informações
 pt_67,Concluído
@@ -75,7 +75,7 @@ pt_73,"Confirmar exclusão de favorito '%s'"
 pt_74,"Enviar Mensagem"
 pt_75,Chat
 pt_76,"Você deseja sair?"
-pt_77,"Reiniciar | Sair "
+pt_77,"Reiniciar | Servidor | Sair "
 pt_78,Reviver
 pt_79,"Você morreu"
 pt_80,"Ressurgir na cidade | Sair do jogo "
@@ -726,3 +726,20 @@ pt_724,"Vou ficar em silêncio"
 pt_725,"Obrigado por jogar o Teon. O que você está achando do Teon até agora?"
 pt_726,"Aceito"
 pt_727,"Concluído"
+pt_728,"Convidar"
+pt_729,"Meu Convite:"
+pt_730,"Copiar"
+pt_731,"Compartilhar"
+pt_732,"Convide seus amigos para o Teon. Você receberá recompensas quando eles cumprirem determinados requisitos!"
+pt_733,"Regras --"
+pt_734,"Copiado para sua área de transferência"
+pt_735,"Falha ao copiar"
+pt_736,"%s\f=Lendas:%s\n"
+pt_737,"Lista de missões"
+pt_738,"Repetível"
+pt_739,"Aceitável"
+pt_740,"Não é possível aceitar"
+pt_741,"Incompleto"
+pt_742,"Completo"
+pt_743,能力分布
+pt_744,屬性影響說明

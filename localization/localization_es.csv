@@ -62,7 +62,7 @@ es_60,Misión
 es_61,Loc
 es_62,Soc
 es_63,General
-es_64,Ayuda
+es_64,Clan
 es_65,Salir
 es_66,Información
 es_67,Listo
@@ -75,7 +75,7 @@ es_73,"Confirmar la eliminación del marcador '%s'"
 es_74,"Enviar mensaje"
 es_75,Chatear
 es_76,"¿Quieres salir?"
-es_77,"Reiniciar | Salir "
+es_77,"Reiniciar | Servidor | Salir "
 es_78,Resucitar
 es_79,"Has muerto"
 es_80,"Resucitar al pueblo | Salir del juego "
@@ -726,3 +726,20 @@ es_724,"Permanecer en silencio"
 es_725,"Gracias por jugar a Teon. ¿Qué te parece el juego hasta ahora?"
 es_726,"Aceptado"
 es_727,"Completado"
+es_728,"Invitar"
+es_729,"Mi invitación:"
+es_730,"Copiar"
+es_731,"Compartir"
+es_732,"Invita a tus amigos a unirse a Teon. ¡Recibirás una recompensa cuando cumplan determinados requisitos!"
+es_733,"Normas--"
+es_734,"Copiado en el portapapeles"
+es_735,"Error al copiar"
+es_736,"%s\f=Leyendas:%s\n"
+es_737,"Lista de misiones"
+es_738,"Repetible"
+es_739,"Aceptable"
+es_740,"No se puede aceptar"
+es_741,"No completada"
+es_742,"Completada"
+es_743,能力分布
+es_744,屬性影響說明

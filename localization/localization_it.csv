@@ -62,7 +62,7 @@ it_60,Missione
 it_61,Loc
 it_62,Soc
 it_63,Totale
-it_64,Aiuto
+it_64,Clan
 it_65,Esci
 it_66,Informazioni
 it_67,Fatto
@@ -75,7 +75,7 @@ it_73,"Conferma cancellazione del segnalibro \"%s\""
 it_74,"Invia messaggio"
 it_75,Chat
 it_76,"Vuoi uscire?"
-it_77,"Riavvia | Esci "
+it_77,"Riavvia | Server | Esci "
 it_78,Resuscita
 it_79,"Sei morto"
 it_80,"Rigenerazione città | Esci dal gioco "
@@ -726,3 +726,20 @@ it_724,"No comment"
 it_725,"Grazie per aver giocato a Teon. Ti è piaciuto?"
 it_726,"Accettata"
 it_727,"Completata"
+it_728,"Invita"
+it_729,"Il mio invito:"
+it_730,"Copia"
+it_731,"Condividi"
+it_732,"Invita gli amici a giocare a Teon. Otterrai una ricompensa quando il tuo amico o la tua amica raggiunge determinati requisiti!"
+it_733,"Regole--"
+it_734,"Copiato sugli appunti"
+it_735,"Copia non riuscita"
+it_736,"%s\f=Leggende:%s\n"
+it_737,"Elenco missioni"
+it_738,"Ripetibile"
+it_739,"Accettabile"
+it_740,"Impossibile accettare"
+it_741,"Non completato"
+it_742,"Completato"
+it_743,能力分布
+it_744,屬性影響說明

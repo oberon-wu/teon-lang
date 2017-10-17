@@ -62,7 +62,7 @@ en_60,Quest
 en_61,Loc
 en_62,Soc
 en_63,GENERAL
-en_64,Help
+en_64,Clan
 en_65,EXIT
 en_66,Info
 en_67,Done
@@ -75,7 +75,7 @@ en_73,"Confirm delete bookmark'%s'"
 en_74,"Send Message"
 en_75,Chat
 en_76,"Want to exit?"
-en_77,"Menu | Exit "
+en_77,"Menu | Server | Exit "
 en_78,Revive
 en_79,"You are Dead"
 en_80,"Town respawn | Exit game "
@@ -726,3 +726,20 @@ en_724,"Remain silent"
 en_725,"Thank you for playing Teon. How do you like Teon so far?"
 en_726,"Accepted"
 en_727,"Completed"
+en_728,"Invite"
+en_729,"My Invitation:"
+en_730,"Copy"
+en_731,"Share"
+en_732,"Invite your friends to join Teon. You will be rewarded when he / she fufils certain requirement!"
+en_733,"Rules--"
+en_734,"Copied to your clip board"
+en_735,"Copy failed"
+en_736,"%s\f=Legends:%s\n"
+en_737,"Quest List"
+en_738,"Repeatable"
+en_739,"Acceptable"
+en_740,"Cannot Accept"
+en_741,"Not Completed"
+en_742,"Completed"
+en_743,能力分布
+en_744,屬性影響說明

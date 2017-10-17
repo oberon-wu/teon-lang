@@ -62,7 +62,7 @@ de_60,Quest
 de_61,Lok.
 de_62,Soz.
 de_63,Gesamt
-de_64,Hilfe
+de_64,Clan
 de_65,Beenden
 de_66,Info
 de_67,Fertig
@@ -75,7 +75,7 @@ de_73,"Löschen des Lesezeichens „%s” bestätigen"
 de_74,"Nachricht senden"
 de_75,Chat
 de_76,Beenden?
-de_77,"Neustart | Beenden "
+de_77,"Neustart | Server | Beenden "
 de_78,Wiederbeleben
 de_79,"Du bist tot"
 de_80,"Stadt neu starten | Spiel beenden "
@@ -726,3 +726,20 @@ de_724,"Bleibe ruhig"
 de_725,"Vielen Dank, dass du Teon spielst. Wie gefällt dir Teon bis jetzt?"
 de_726,"Akzeptiert"
 de_727,"Abgeschlossen"
+de_728,"Einladen"
+de_729,"Meine Einladung:"
+de_730,"Kopieren"
+de_731,"Teilen"
+de_732,"Lade deine Freunde zu Teon ein. Freue dich auf eine Prämie, wenn er/sie bestimmte Anforderungen erfüllt!"
+de_733,"Regeln--"
+de_734,"In deine Zwischenablage kopiert"
+de_735,"Konnte nicht kopiert werden"
+de_736,"%s\f=Legenden:%s\n"
+de_737,"Quest-Liste"
+de_738,"Wiederholbar"
+de_739,"Akzeptierbar"
+de_740,"Kann nicht akzeptierde"
+de_741,"Nicht abgeschlossen"
+de_742,"abgeschlossen"
+de_743,能力分布
+de_744,屬性影響說明
