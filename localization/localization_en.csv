@@ -731,7 +731,11 @@ en_729,"My Invitation:"
 en_730,"Copy"
 en_731,"Share"
 en_732,"Invite your friends to join Teon. You will be rewarded when he / she fufils certain requirement!"
-en_733,"Rules--"
+en_733,"Rules--\n1. The invitation link is unique to each inviter's account. A player joining Teon through this link is counted as an invitee.\n
+2. The inviter will be rewarded when his / her invitees complete certain actions in game.\n
+3. An inviter can have multiple invitees at the same time.\n
+4. The inviter and his / her invitee must be on the same server.\n
+5. The inviter will be rewarded when his / her invitees reach level 30, 49, 59 or subscribe."
 en_734,"Copied to your clip board"
 en_735,"Copy failed"
 en_736,"%s\f=Legends:%s\n"
@@ -741,5 +745,5 @@ en_739,"Acceptable"
 en_740,"Cannot Accept"
 en_741,"Not Completed"
 en_742,"Completed"
-en_743,能力分布
-en_744,屬性影響說明
+en_743,"Stat Points"
+en_744,"Effect of Stat Points"
