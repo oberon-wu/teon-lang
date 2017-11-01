@@ -731,7 +731,7 @@ de_729,"Meine Einladung:"
 de_730,"Kopieren"
 de_731,"Teilen"
 de_732,"Lade deine Freunde zu Teon ein. Freue dich auf eine Prämie, wenn er/sie bestimmte Anforderungen erfüllt!"
-de_733,"Regeln--\n1. Der Einladungslink ist für jedes Konto eines Einladenden eindeutig. Ein Spieler, der sich über diesen Link bei Teon anmeldet, gilt als eingeladener Spieler.\n2. Der Einladende wird belohnt, wenn seine/ihre Eingeladenen bestimmte Aktionen im Spiel durchführen.\n3. Ein Einladender kann mehrere Teilnehmer gleichzeitig einladen.\n4. Der Einladende und sein/ihr Eingeladener müssen sich auf demselben Server befinden.\n5. Der Einladende erhält eine Belohnung, wenn seine/ihre Eingeladenen Level 30, 49 und 59 erreichen oder sich anmelden.\n6.邀请礼包I：终极治愈药水*10，强化自我加速药水*3。\n7.邀请礼包Ⅱ：破旧的高级变形卷轴*3\n8.邀请礼包Ⅲ：高级变形卷轴*3\n9.邀请月费礼包：对防具强化的卷轴*1，对武器强化的卷轴*1，几率获得一个对武器强化的卷轴（祝福）或对防具强化的卷轴（祝福）或保护卷轴"
+de_733,"Regeln--\n1. Der Einladungslink ist für jedes Konto eines Einladenden eindeutig. Ein Spieler, der sich über diesen Link bei Teon anmeldet, gilt als eingeladener Spieler.\n2. Der Einladende wird belohnt, wenn seine/ihre Eingeladenen bestimmte Aktionen im Spiel durchführen.\n3. Ein Einladender kann mehrere Teilnehmer gleichzeitig einladen.\n4. Der Einladende und sein/ihr Eingeladener müssen sich auf demselben Server befinden.\n5. Der Einladende erhält eine Belohnung, wenn seine/ihre Eingeladenen Level 30, 49 und 59 erreichen oder sich anmelden.\n6.Geschenk für EinladendenI:Großer Heiltrank*10，Größere Eile (Trank)*3\n7.Geschenk für EinladendenⅡ:Zerlumpte,fortgeschrittene Polymorph-Rolle(Gebunden)*3\n8.Geschenk für EinladendenⅢ:Erweiterte Rolle der Deformation (Gebunden)*3\n9.Premium-Geschenk für Einladenden:Rolle der Verzaubernden Rüstung*1,Rolle der Verzaubernden Waffe*1,Chance, einen zu bekommen Rolle der Verzaubernden Waffe(segnen) oder Rolle der Verzaubernden Rüstung(segnen) oder Schutzrolle"
 de_734,"In deine Zwischenablage kopiert"
 de_735,"Konnte nicht kopiert werden"
 de_736,"%s\f=Legenden:%s\n"
@@ -744,3 +744,14 @@ de_742,"abgeschlossen"
 de_743,"Statistikpunkte"
 de_744,"Effekt von Statistikpunkten"
 de_745,"Stadt neu starten | 原地復活 | Spiel beenden "
+tw_746 = 地图
+tw_747 = 请输入坐标
+tw_748 = \f2你的位置
+tw_749 = 区域
+tw_750 = 世界
+tw_751 = NPC
+tw_752 = 书签
+tw_753 = \f3请输入正确的坐标格式
+tw_754 = \f3已超出地图坐标
+tw_755 = \f2导航
+tw_756 = \f2传送
