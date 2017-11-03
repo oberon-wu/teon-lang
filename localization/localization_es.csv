@@ -744,14 +744,15 @@ es_742,"Completada"
 es_743,"Puntos de estadísticas"
 es_744,"Efecto de los puntos de estadísticas"
 es_745,"Resucitar al pueblo | 原地復活 | Salir del juego "
-tw_746 = 地图
-tw_747 = 请输入坐标
-tw_748 = \f2你的位置
-tw_749 = 区域
-tw_750 = 世界
-tw_751 = NPC
-tw_752 = 书签
-tw_753 = \f3请输入正确的坐标格式
-tw_754 = \f3已超出地图坐标
-tw_755 = \f2导航
-tw_756 = \f2传送
+es_746,"地图
+es_747,"请输入坐标
+es_748,"\f2你的位置
+es_749,"区域
+es_750,"世界
+es_751,"NPC
+es_752,"书签
+es_753,"\f3请输入正确的坐标格式
+es_754,"\f3已超出地图坐标
+es_755,"\f2导航
+es_756,"\f2传送
+es_757,"你所在區域的空間不穩定，無法使用路線指引功能。"

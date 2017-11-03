@@ -744,14 +744,15 @@ de_742,"abgeschlossen"
 de_743,"Statistikpunkte"
 de_744,"Effekt von Statistikpunkten"
 de_745,"Stadt neu starten | 原地復活 | Spiel beenden "
-tw_746 = 地图
-tw_747 = 请输入坐标
-tw_748 = \f2你的位置
-tw_749 = 区域
-tw_750 = 世界
-tw_751 = NPC
-tw_752 = 书签
-tw_753 = \f3请输入正确的坐标格式
-tw_754 = \f3已超出地图坐标
-tw_755 = \f2导航
-tw_756 = \f2传送
+de_746,"地图"
+de_747,"请输入坐标"
+de_748,"\f2你的位置"
+de_749,"区域"
+de_750,"世界"
+de_751,"NPC"
+de_752,"书签"
+de_753,"\f3请输入正确的坐标格式"
+de_754,"\f3已超出地图坐标"
+de_755,"\f2导航"
+de_756,"\f2传送"
+de_757,"你所在區域的空間不穩定，無法使用路線指引功能。"
