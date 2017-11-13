@@ -586,10 +586,10 @@ en_584,"Redemption Code Rules:"
 en_585,"Server"
 en_586,Server
 en_587,"Select a server first!"
-en_588,操作
+en_588,Action
 en_589,"%s spawned [%s] %s"
 en_590,"Consignment House"
-en_591,"The Sealed Oath (15-Day) will be unsealed upon purchase. 360 hours will also be added to its duration."
+en_591,"360 hours will be added to your current Oath upon the purchase of Sealed Oath [15 Days]."
 en_592,"You can consign again or retrieve the item if it hasn't been sold after 6 hours."
 en_593,"*Purchase is irreversible. Please double-check the price."
 en_594,"Remaining %s"
