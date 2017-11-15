@@ -589,7 +589,7 @@ fr_587,"Sélectionnez d'abord un serveur !"
 fr_588,Action
 fr_589,"%s spawn [%s] %s"
 fr_590,"Maison des consignations"
-fr_591,"Le Serment cacheté (15 jours) sera décacheté au moment de l'achat. 360 heures seront ajoutées à sa durée."
+fr_591,"360 heures seront ajoutées à votre serment actuel après l'achat du serment cacheté [15 jours]."
 fr_592,"Vous pouvez récupérer ou consigner à nouveau l'objet s'il n'a pas été vendu au bout de 6 heures."
 fr_593,"*L'achat est irréversible. Veuillez bien vérifier le prix."
 fr_594,"Restant %s"
