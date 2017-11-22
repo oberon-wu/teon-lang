@@ -104,7 +104,7 @@ de_102,Windschuß,"Erhöht Trefferquote für Fernangriffe des Ziels um 6 Punkte.
 de_103,Windweg,"Erhöht Bewegungsgeschwindigkeit des Zaubernden während der Gültigkeitsdauer.\nAnforderung:\nElf:Ebene 30."
 de_104,Erdhülle,"Erhöht AC des Ziels um 6 Punkte. Kann nicht mehrmals auf gleiches Ziel angewendet werden.\nAnforderung:\nElf:Ebene 30."
 de_105,Verwickeln,"Chance Bewegungsgeschwindigkeit des Ziels um 25% zu verringern.\nAnforderung:\nElf:Ebene 30."
-de_106,"Zauber entfernen","Chance AC des Ziels um 75% zu senken. AC des Ziels erholt sich, nachdem es zum ersten Mal magischen Schaden erlitten hat.\nAnforderung:\nElf:Ebene 40."
+de_106,"Zauber entfernen","Chance MR des Ziels um 75% zu senken. MR des Ziels erholt sich, nachdem es zum ersten Mal magischen Schaden erlitten hat.\nAnforderung:\nElf:Ebene 40."
 de_107,"Geringere Elemente beschwören","Beschwört Elf mit deinen Attributen.\nAnforderung:\nElf:Ebene 40."
 de_108,"Tanzende Feuersbrunst","Erhöht ATK von dir und freundlichen Einheiten um 4 Punkte.\nAnforderung:\nElf:Ebene 40."
 de_109,"Auge des Sturms","Erhöht für dich und freundliche Einheiten Trefferrate von Fernangriffen um 2 Punkte und Fernschaden um 3 Punkte.\nAnforderung:\nElf:Ebene 40."

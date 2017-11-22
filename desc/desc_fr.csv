@@ -1,5 +1,4 @@
-﻿
-fr_0,"Même s'il n'a généralement aucun pouvoir, il y a quand même une très faible chance de tuer l'autre."
+﻿fr_0,"Même s'il n'a généralement aucun pouvoir, il y a quand même une très faible chance de tuer l'autre."
 fr_1,NULL
 fr_2,"Dague de novice. Une bonne dague pour les débutants."
 fr_3,"Une dague en mithril possédant des pouvoirs magiques qui aide à restaurer vos PM."
@@ -270,11 +269,11 @@ fr_266,"Vénérez Teon et devenez un héros du hall de justice"
 fr_267,"Vénérez Teon et devenez un sage du hall de justice"
 fr_268,"Contient quelques secrets inconnus d'Edin"
 fr_269,"Un cadeau pour avoir renouvelé votre abonnement"
-fr_270,"Un cadeau pour avoir renouvelé votre abonnement, peut s'utiliser pour la loterie à l'émissaire des cadeaux"
+fr_270,"La Pierre runique de fortune peut être obtenue uniquement lorsque votre abonnement est renouvelé automatiquement et sans interruption. Peut être utilisé pour la loterie réservée aux membres à l'émissaire des dons."
 fr_271,"Vous avez invité un nouveau joueur dans le monde de Teon ! Bien joué !"
 fr_272,"Votre invité(e) est désormais un(e) membre abonné(e) ! Houra !"
-fr_273,NULL
-fr_274,NULL
+fr_273,"Guide de bataille de Hunter. Gagnez 5000 d'expérience une fois utilisé."
+fr_274,"Guérison de poison. Peut également guérir la paralysie venant des goules"
 fr_275,NULL
 fr_276,NULL
 fr_277,NULL

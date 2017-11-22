@@ -104,7 +104,7 @@ pt_102,"Disparo do Vento","Aumenta em 6 pontos a taxa de acerto de a distância 
 pt_103,"Caminhada do Vento","Aumenta a velocidade de movimento de quem fez o feitiço durante o tempo em atividade.\nRequisito de aprendizado:\nElfo:Nível 30."
 pt_104,"Pele da Terra","Aumenta em 6 pontos o AC do alvo. Não pode ser usado várias vezes no mesmo alvo.\nRequisito de aprendizado:\nElfo:Nível 30."
 pt_105,Emaranhar,"Pode diminuir em 25% a velocidade de movimento do alvo.\nRequisito de aprendizado:\nElfo:Nível 30."
-pt_106,"Eliminar Magia","Pode diminuir em 75% o AC do alvo. AC do alvo irá recuperar depois de receber dano mágico pela primeira vez.\nRequisito de aprendizado:\nElfo:Nível 40."
+pt_106,"Eliminar Magia","Pode diminuir em 75% o MR do alvo. MR do alvo irá recuperar depois de receber dano mágico pela primeira vez.\nRequisito de aprendizado:\nElfo:Nível 40."
 pt_107,"Invocar Elemental Inferior","Convoca um elfo com o mesmo atributo que você.\nRequisito de aprendizado:\nElfo:Nível 40."
 pt_108,"Labareda Dançarina","Aumenta 4 pontos de ATQ físico para você e suas unidades aliadas.\nRequisito de aprendizado:\nElfo:Nível 40."
 pt_109,"Olho da Tempestade","Aumenta em 2 pontos a taxa de acerto de ataques a distância e em 3 pontos o dano a distância para você e unidades aliadas.\nRequisito de aprendizado:\nElfo:Nível 40."

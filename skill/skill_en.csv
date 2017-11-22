@@ -104,7 +104,7 @@ en_102,"Wind Shot","Increase target’s ranged hit rate by 6 points.\nLearning r
 en_103,"Wind Walk","While active, increase spell caster’s movement speed.\nLearning requirement:\nElf:Level 30."
 en_104,"Earth Skin","Increase target’s AC by 6 points. Does not stack.\nLearning requirement:\nElf:Level 30."
 en_105,Entangle,"Has a chance to lower target’s movement speed by 25%.\nLearning requirement:\nElf:Level 30."
-en_106,"Erase Magic","Has a chance to decrease target's AC by 75%. Target's AC will recover after they receive magic damage for the first time.\nLearning requirement:\nElf:Level 40."
+en_106,"Erase Magic","Has a chance to decrease target's MR by 75%. Target's MR will recover after they receive magic damage for the first time.\nLearning requirement:\nElf:Level 40."
 en_107,"Summon Lesser Elemental","Summon an elemental with the same attribute as yours.\nLearning requirement:\nElf:Level 40."
 en_108,"Dancing Blaze","Increase 4 points of physical ATK for yourself and friendly units.\nLearning requirement:\nElf:Level 40."
 en_109,"Eye of Storm","Increase hit rate of ranged attacks by 2 points and ranged damage by 3 points for yourself and friendly units.\nLearning requirement:\nElf:Level 40."
