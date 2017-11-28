@@ -1,7 +1,7 @@
 ﻿﻿en_0,"Lesser Heal","Heal the target for a small amount of HP. Can also deal damage to the undead.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 20."
 en_1,Light,"Use magic to summon a light source that illuminates an area around the spell caster for 3600 secs.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 10."
 en_2,"Magical Shield","Form a protective shield and increase own AC by 2 points. Cannot be stacked.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 30."
-en_3,"Energy Bolt","Launch a magic missile that deals a small amount of damage to the target.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 50."
+en_3,"Energy Bolt","Launch a magic missile that deals a small amount of damage to the target.Mage class will consume 0 mana when casting this spell under level 30; Elf and Royal class will consume 0 mana when casrting this spell under level 20.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 50."
 en_4,Teleport,"Teleport to a random place. Can also select a specific spot to teleport to by using \“Ring of Teleportation\”.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 50."
 en_5,"Ice Dagger","Shoot arrows of ice at the target to deal damage to them"\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 50."
 en_6,"Wind Shuriken","Throw a blade made of wind to deal damage to the target.\nLearning requirement:\nRoyal:Level 10\nMage:Level 4\nElf:Level 8\nKnight:Level 50."
