@@ -699,7 +699,7 @@ es_696,"Daño mágico +1\nUn bastón refinado fabricado con roble de gran calida
 es_697,"Un escudo alto poderoso."
 es_698,"Este libro de magia raro proviene de las bendiciones de Teon y contiene poderosas habilidades mágicas. \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Intercambia las posiciones entre el lanzador del hechizo y el objetivo. \n Requisito de aprendizaje: \n Mago: Nivel 40"
 es_699,"Un arma de novicio poderosa. "
-es_700,"Este libro de magia raro proviene de las bendiciones de Teon y contiene poderosas habilidades mágicas. \n Categoría: Habilidad de nivel 3 (clase) \n Efecto: Lanzar un tornado llameante inflige daño a todos los enemigos que rodean al lanzador, excepto a los jugadores azules y blancos. \n Requisito de aprendizaje: \n Mago: Nivel 36"
+es_700,"Este libro de magia raro proviene de las bendiciones de Teon y contiene poderosas habilidades mágicas. \n Categoría: Habilidad de nivel 3 (clase) \n Efecto: Lanzar un tornado llameante inflige daño a todos los enemigos que rodean al lanzador, Inflige daño a todos los objetivos (excepto a los jugadores con nombre blanco y nombre azul) alrededor del lanzador. \n Requisito de aprendizaje: \n Mago: Nivel 36"
 es_701,"Un casco de hierro con hechizos de protección inscritos que puede absorber el daño mágico. Por cada nivel de mejora, aumenta la resistencia a la magia +1."
 es_702,"Los cristales de tierra provienen de la bendición de la Diosa de la Luna y contienen poderosos atributos de tierra. \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Aumenta la PR en 7 puntos para ti y tu equipo. \n Requisito de aprendizaje: \n Elfo: Nivel 40"
 es_703,"Un montón de hierro"

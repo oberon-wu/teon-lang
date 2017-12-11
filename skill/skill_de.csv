@@ -66,7 +66,7 @@ de_64,"Nebel des Schlafes","Chance, dass Ziel und Feinde im Abstand von 1 Einhei
 de_65,Formänderung,"Ändert die Form des Ziels. Chance, dass dies für eine bestimmte Zeit anhält.\nAnforderung:\nMagier:Ebene 36."
 de_66,"Schild von Protektion","Erzeugt riesiges magisches Schutzschild für Gildenmitglieder, unter dem alle erhaltenen Schäden während Wirkungsdauer halbiert werden.\nAnforderung:\nMagier:Ebene 36."
 de_67,Massenteleport,"Teleportiert Zaubernden und Gildenmitglieder im Abstand von 1 Einheit an zufälligen Ort. Mit „Ring der Teleportation“ kann ein bestimmter Ort gewählt werden.\nAnforderung:\nMagier:Ebene 36."
-de_68,Feuersturm,"Sendet einen brennenden Tornado, der alle Feinde um den Zauberer beschädigt. Außer Spieler mit blauem oder weißem Namen.\nAnforderung:\nMagier:Ebene 36."
+de_68,Feuersturm,"Sendet einen brennenden Tornado, der alle Feinde um den Zauberer beschädigt. Verursacht Schaden an allen Zielen (mit Ausnahme von Spielern mit weißem und blauem Namen) um den Zaubernden herum.\nAnforderung:\nMagier:Ebene 36."
 de_69,Fäulnistrank,"Friert alle Tränke am Ziel. Chance, dass es während Wirkungsdauer keine Tränke einsetzen kann.\nAnforderung:\nMagier:Ebene 36."
 de_70,Gegenerkennung,"Findet verborgene Monster sowie Spieler auf dem Bildschirm und macht diese sichtbar und fügt Schäden zu.\nAnforderung:\nMagier:Ebene 36."
 de_71,"Magische Waffe erstellen","Chance, dass Waffe des Zauberers permanent in ein Waffe +1 umgewandelt wird. Kann nicht mehrfach für dieselbe Waffe verwendet werden.\nAnforderung:\nMagier:Ebene 40."
