@@ -66,7 +66,7 @@ pt_64,"Névoa do Sono","Pode fazer com que o alvo e os inimigos a uma unidade de
 pt_65,"Troca de Forma","Altera a forma do alvo durando possivelmente um período de tempo.\nRequisito de aprendizado:\nMago:Nível 36."
 pt_66,"Protetor de Proteção","Cria um escudo de proteção mágico enorme para membros da Guilda, onde todo o dano recebido será dividido pela metade durante o período em atividade.\nRequisito de aprendizado:\nMago:Nível 36."
 pt_67,"Teleporte em Massa","Teleporta quem faz o feitiço e membros da Guilda dentro de uma unidade de distância para uma posição aleatória. Pode selecionar um local específico para teleportar usando ""Anel de Teleporte"".\nRequisito de aprendizado:\nMago:Nível 36."
-pt_68,"Tempestade de Fogo","Lança um tornado flamejante, causando dano a todos os inimigos ao redor do lançador, exceto a jogadores com nomes em Azul e Branco.\nRequisito de aprendizado:\nMago:Nível 36."
+pt_68,"Tempestade de Fogo","Lança um tornado flamejante, causando dano a todos os inimigos ao redor do lançador, Causa dano a todos os alvos (exceto a jogadores com nomes em Branco e Azul) ao redor do lançador do encanto.\nRequisito de aprendizado:\nMago:Nível 36."
 pt_69,"Poção de Deterioração","Congela todas as poções do alvo, com possibilidade de causar impossibilidade de usar poções durante o período em atividade.\nRequisito de aprendizado:\nMago:Nível 36."
 pt_70,"Contra Detecção","Encontra monstros e jogadores escondidos na tela, transformando-os em visíveis e causando dano.\nRequisito de aprendizado:\nMago:Nível 36."
 pt_71,"Criar Arma Mágica","Chance de alterar permanentemente a arma de quem faz o feitiço por uma arma mágica +1. Não pode ser usado repetidamente na mesma arma.\nRequisito de aprendizado:\nMago:Nível 40."
