@@ -278,14 +278,14 @@ de_275,"Hunters Schlachtführer. Sammeln 10.000 Erfahrung bei Anwendung"
 de_276,"Hunters Schlachtführer. Sammeln 100.000 Erfahrung bei Anwendung"
 de_277,背面刻有秘銀紋飾。
 de_278,背面刻有猩紅紋飾。
-de_279,NULL
-de_280,NULL
-de_281,NULL
-de_282,NULL
-de_283,NULL
-de_284,NULL
-de_285,NULL
-de_286,NULL
+de_279,"在對強化等級小於12級的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）消失。"
+de_280,秘銀劍的描述
+de_281,蠍子毒液的描述
+de_282,藥物的描述
+de_283,蜥蜴人皮的描述
+de_284,通行證的描述
+de_285,毒箭的描述
+de_286,毒矛的描述
 de_287,NULL
 de_288,NULL
 de_289,NULL

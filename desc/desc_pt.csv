@@ -278,14 +278,14 @@ pt_275,"Guia de Batalha do Caçador. Receba 10000 de Experiência quando usar"
 pt_276,"Guia de Batalha do Caçador. Receba 100000 de Experiência quando usar"
 pt_277,背面刻有秘銀紋飾。
 pt_278,背面刻有猩紅紋飾。
-pt_279,NULL
-pt_280,NULL
-pt_281,NULL
-pt_282,NULL
-pt_283,NULL
-pt_284,NULL
-pt_285,NULL
-pt_286,NULL
+pt_279,"在對強化等級小於12級的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）消失。"
+pt_280,秘銀劍的描述
+pt_281,蠍子毒液的描述
+pt_282,藥物的描述
+pt_283,蜥蜴人皮的描述
+pt_284,通行證的描述
+pt_285,毒箭的描述
+pt_286,毒矛的描述
 pt_287,NULL
 pt_288,NULL
 pt_289,NULL

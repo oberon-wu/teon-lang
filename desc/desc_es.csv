@@ -278,14 +278,14 @@ es_275,"Guía de batalla del cazador. Obtén 10000 de experiencia al usarlo."
 es_276,"Guía de batalla del cazador. Obtén 100000 de experiencia al usarlo."
 es_277,背面刻有秘銀紋飾。
 es_278,背面刻有猩紅紋飾。
-es_279,NULL
-es_280,NULL
-es_281,NULL
-es_282,NULL
-es_283,NULL
-es_284,NULL
-es_285,NULL
-es_286,NULL
+es_279,"在對強化等級小於12級的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）消失。"
+es_280,秘銀劍的描述
+es_281,蠍子毒液的描述
+es_282,藥物的描述
+es_283,蜥蜴人皮的描述
+es_284,通行證的描述
+es_285,毒箭的描述
+es_286,毒矛的描述
 es_287,NULL
 es_288,NULL
 es_289,NULL

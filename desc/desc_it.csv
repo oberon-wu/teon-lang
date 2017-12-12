@@ -278,14 +278,14 @@ it_275,"Guida di battaglia di Hunter. Ottieni 10000 exp quando la usi"
 it_276,"Guida di battaglia di Hunter. Ottieni 100000 exp quando la usi"
 it_277,背面刻有秘銀紋飾。
 it_278,背面刻有猩紅紋飾。
-it_279,NULL
-it_280,NULL
-it_281,NULL
-it_282,NULL
-it_283,NULL
-it_284,NULL
-it_285,NULL
-it_286,NULL
+it_279,"在對強化等級小於12級的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）消失。"
+it_280,秘銀劍的描述
+it_281,蠍子毒液的描述
+it_282,藥物的描述
+it_283,蜥蜴人皮的描述
+it_284,通行證的描述
+it_285,毒箭的描述
+it_286,毒矛的描述
 it_287,NULL
 it_288,NULL
 it_289,NULL
