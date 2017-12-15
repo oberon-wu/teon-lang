@@ -279,13 +279,13 @@ en_276,"Hunter's Battle Guide. Gain 100000 Experience when used"
 en_277,背面刻有秘銀紋飾。
 en_278,背面刻有猩紅紋飾。
 en_279,"在對超過安定值，且強化等級小於12的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）或者物品轉移時消失。"
-en_280,秘銀劍的描述
-en_281,蠍子毒液的描述
-en_282,藥物的描述
-en_283,蜥蜴人皮的描述
-en_284,通行證的描述
-en_285,毒箭的描述
-en_286,毒矛的描述
+en_280,哥爾委託製作的劍。\n任務道具
+en_281,蠍子尾部的毒液。\n任務道具
+en_282,專門醫治腰痛的藥物。\n任務道具
+en_283,蜥蜴人的皮，保暖效果非常好。\n任務道具
+en_284,進入沙棘木城堡的通行證。\n任務道具
+en_285,塗有毒藥的箭。\n任務道具\n任務道具
+en_286,塗有毒藥的矛。\n任務道具
 en_287,NULL
 en_288,NULL
 en_289,NULL
@@ -639,7 +639,7 @@ en_636,"This amulet calms your mind."
 en_637,"Although the bow is small, one shouldn’t underestimate its attack power."
 en_638,"These rare spell books came from the blessings of Teon. They contain advanced magic spells. \n Category: Skill level 4 (Class) \n Effect: Chance to paralyze all enemies on the screen. \n Learning requirement: \n Mage: Level 40"
 en_639,"Refined high quality leather"
-en_640,"A mysterious crystal engraved with ancient writings of Elves, contains amazing magical powers! 
+en_640,"A mysterious crystal engraved with ancient writings of Elves, contains amazing magical powers!
 \nCategory: Skill level 3 (Class) \n Effect: Chance to release monsters which were summoned. \n Learning requirement: \n Mage: Level 30"
 en_641,"Sharp knives on both sides of the halberd and barbs on its body make it hard for people to dodge."
 en_642,"A rough piece of platinum"
