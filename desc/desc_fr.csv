@@ -222,10 +222,10 @@ fr_220,"Un ancien objet de sort de brouillard !\nUn objet nécessaire pour lanc
 fr_221,"La bénédiction de la déesse de la lune !\nC'est un objet de tâche."
 fr_222,"Ailes elfiques bénies.\nC'est un objet de tâche."
 fr_223,"Un parchemin magique doté de runes qui peuvent vous transformer en un monstre pendant un certain temps. "
-fr_224,"紅色的毛絨聖誕帽子\n活動道具"
-fr_225,"紅色的毛絨聖誕襪\n活動道具"
-fr_226,一份珍貴的聖誕節禮物
-fr_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福。
+fr_224,"Un bonnet tout doux du Père Noël\nObjet d'événement"
+fr_225,"Une paire de chaussettes rouges toutes douces du Père Noël\nObjet d'événement"
+fr_226,"Un cadeau de Noël précieux"
+fr_227,"Un cadeau de Noël précieux, avec la bénédiction de la déesse de la fortune"
 fr_228,"Une carte qui indique l'emplacement d'un trésor.Cela pourrait également être un piège."
 fr_229,"Un morceau de la carte au trésor. Elle semble détenir un très grand secret !"
 fr_230,"Une carte qui indique l'emplacement d'un gros trésor. Il parait que c'est tout ce que possédait le pirate.Cela pourrait également être un piège."
@@ -240,7 +240,7 @@ fr_238,"Un parchemin magique sur lequel sont peintes des runes qui peuvent vous 
 fr_239,"Il parait que le dispositif magique que Meilin a perdu en cherchant refuge sur l'île promise peut être échangé contre un parchemin relié amélioré"
 fr_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
 fr_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
-fr_242,"Matériau utilisé dans la fonction de polymorphie. Utilisez-le pour fabriquer un parchemin de polymorphie abîmé avancé."
+fr_242,"Matériau utilisé dans la fabrication ou l'enchantement de différents parchemins de polymorphe."
 fr_243,"Teon, le dieu de la création, a pu sentir la gentillesse de ses aventuriers sur la Terre d'Edin, et il a imprégné cette bague de son grand pouvoir."
 fr_244,"Un cadeau de la part d'Olivia. Vous pouvez ouvrir cette boîte cadeau et recevoir des ressources en récompense chaque fois que votre personnage atteint un niveau."
 fr_245,"L'île du ciel a été contaminée par une aura maléfique. Olivia a envoyé un signal de détresse à Odin dans l'espoir que quelqu'un vienne porter secours à l'île. Utilisez la lumière de l'espoir pour suivre le signal et vous rendre à l'île en détresse."
@@ -633,7 +633,7 @@ fr_630,"Ce livre de sorts d'Edin contient des sorts élémentaires.\nCatégorie�
 fr_631,"C'est une pièce d'or brut. "
 fr_632,"Bottes de Beleth. Elles sont confectionnées par un artisan de talent. "
 fr_633,"L'aile blanche est brillante et offre un grand pouvoir défensif. Elle augmente aussi la récupération des PM. "
-fr_634,"Offre une défense, mais blesse également les ennemis qui vous attaquent.\nParamétrer effet(s) : AC -3"
+fr_634,"Ce bouclier à pointes fournit une bonne défense. En voyant sa grande pointe, vos ennemis vont y réfléchir à deux fois avant d'attaquer !\nEffet(s) fixes : CA -3"
 fr_635,"Ces anciens écrits de mage contiennent des pouvoirs magiques. \nCatégorie : niveau de compétence 2 (Classe)\nEffet : une chance d'emprisonner l'adversaire avec la magie et de l'empêcher d'utiliser la magie pendant un certain temps.\nPrérequis d'apprentissage :  \nMage : niveau 32"
 fr_636,"Cette amulette vous apaise."
 fr_637,"Même si l'arc est petit, il ne faut pas sous-estimer sa puissance d'attaque."
@@ -704,7 +704,7 @@ fr_701,"Un heaume en fer gravé de runes protectrices qui peuvent absorber des d
 fr_702,"Les cristaux de terre proviennent de la bénédiction de la déesse de la lune et contiennent des attributs de terre puissants !\nCatégorie : niveau de compétence 4 (Classe)\nEffet : diminuer l'AC de 7 points pour vous et votre équipe.\nPrérequis d'apprentissage :  \nElfe : niveau 40"
 fr_703,"Un morceau de fer."
 fr_704,"Ce livre de magie précieux contenant le puissant pouvoir des dieux et des démons contient des compétences magiques avancées.\nCatégorie : niveau de compétence 5 (Commun) \nEffet : invoquer Ombre Noire pour pouvoir aveugler les ennemis pendant 32 secondes.\nPrérequis d'apprentissage :  \nMage : niveau 20 \nElfe : niveau 40"
-fr_705,"Le parchemin mystérieux qui pourrait provenir de Teon protège l'équipement des dégâts pendant le processus de renforcement."
+fr_705,"Ce parchemin mystérieux, qui est supposé venir de Teon, accorde une protection temporaire à l'équipement, ce qui garantit que seul le niveau de l'enchantement disparait et que l'équipement restera intact si le processus d'enchantement échoue."
 fr_706,"Un arc long amélioré."
 fr_707,"Les cristaux de terre proviennent de la bénédiction de la déesse de la lune et contiennent des attributs de terre puissants ! \nCatégorie : niveau de compétence 5 (Classe)\nEffet : permettre au lanceur du sort de récupérer des PV et de la puissance magique même s'il est surchargé d'objets.\nPrérequis d'apprentissage :  \nElfe : niveau 50"
 fr_708,"Une émeraude parfaite."

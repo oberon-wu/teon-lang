@@ -222,10 +222,10 @@ de_220,"Objekt für alten Nebelzauber!\nEin Objekt, das für den alten Nebelzaub
 de_221,"Segen der Mondgöttin!\nDies ist ein Aufgabenobjekt."
 de_222,"Gesegnete Elfenflügel.\nDies ist ein Aufgabenobjekt."
 de_223,"Eine magische Schriftrolle mit Runen, die dich für bestimmte Zeit in ein Monster verwandeln kann."
-de_224,"紅色的毛絨聖誕帽子\n活動道具"
-de_225,"紅色的毛絨聖誕襪\n活動道具"
-de_226,一份珍貴的聖誕節禮物
-de_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福。
+de_224,"Ein flauschiger Santa-Hut\nEreignis-Artikel"
+de_225,"Ein Paar rote Santa-Socken\nEreignis-Artikel"
+de_226,"Ein kostbares Weihnachtsgeschenk"
+de_227,"Ein kostbares Weihnachtsgeschenk mit dem Segen der Göttin des Glücks"
 de_228,"Eine markierte Karte, die die Position des Schatzes enthält.Dies könnte auch eine Falle sein."
 de_229,"Ein Fragment der markierten Schatzkarte. Scheinbar ist darin ein großes Geheimnis verborgen!"
 de_230,"Eine markierte Karte, die den großen Schatz kennzeichnet. Es wird gesagt, es ist alles, was der Piratenanführer ergattert hat.Dies könnte auch eine Falle sein."
@@ -240,7 +240,7 @@ de_238,"Eine magische Schriftrolle, gemalt mit Runen, mit der man sich für eine
 de_239,"Es heißt, dass die magische Ausrüstung, die Meilin auf der Insel der Verheißung während seiner Zuflucht verloren hat, gegen eine gebundene, verstärkte Rolle eingetauscht werden kann."
 de_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
 de_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
-de_242,"Material, das für die Polymorph-Funktion verwendet wird. Verwende es, um eine zerlumpte, fortgeschrittene Polymorph-Rolle herzustellen."
+de_242,"Material zur Herstellung oder Verzauberung verschiedener Polymorph-Rollen."
 de_243,"Teon, der Gott der Schöpfung, spürte die Güte der Abenteurer im Lande Edin, und so erfüllte er diesen Ring mit seiner großen Macht."
 de_244,"Ein Geschenk von Olivia. Du kannst diese Geschenkbox öffnen und dich jedes Mal, wenn dein Charakter ein bestimmtes Level erreicht über Ressourcen als Belohnung freuen."
 de_245,"Die Himmelsinsel ist durch eine böse Aura befleckt. Olivia hat einen Notsignal an Edin gesendet und hofft darauf, dass jemand kommen wird, um die Insel zu retten. Verwende das Licht der Hoffnung, um dem Notsignal zu folgen und zur gebeutelten Insel zu gelangen."
@@ -633,7 +633,7 @@ de_630,"Dieses seltene Edin-Zauberbuch enthält mittlere Zaubersprüche.\nKatego
 de_631,"Es ist ein raues Stück Gold."
 de_632,"Beleths Stiefel. Sie werden von einem feinen Handwerker geschustert."
 de_633,"Der weiße Flügel ist hell und besitzt eine große Verteidigungskraft. Ebenfalls kann die MP-Wiederherstellung erhöht werden."
-de_634,"Dies sorgt für Verteidigung, aber verletzt auch Feinde, die dich angreifen.\nSeteffekt(e): RK -3"
+de_634,"Dieser stachelige Schild bietet eine gute Verteidigung. Der große Stachel auf ihm lässt deine Feinde zweimal überlegen, bevor sie angreifen!\nSeteffekt(e): RK -3"
 de_635,"Diese alten Magieraufzeichnungen besitzen magische Kräfte.\nKategorie: Fertigkeitsstufe 2 (Klasse)\nWirkung: Chance, Gegner mit Magie einzufangen. Gegner kann für bestimmte Zeit keine Magie verwenden.\nAnforderung:\nMagier: Level 32"
 de_636,"Dieses Amulett beruhigt deinen Geist."
 de_637,"Obwohl der Bogen klein ist, sollte man seine Angriffskraft nicht unterschätzen."
@@ -704,7 +704,7 @@ de_701,"Ein Eisenhelm mit Schutzeinsätzen, die magischen Schaden absorbieren k�
 de_702,"Erdkristalle wurden von der Mondgöttin gesegnet und enthalten Erdattribute!\nKategorie: Fertigkeitsstufe 4 (Klasse)\nWirkung: AC verringert sich für dich und dein Team um 7 Punkte.\nAnforderung:\n Elf: Level 40"
 de_703,"Ein Klumpen Eisen."
 de_704,"Diese kostbaren Zauberbücher enthalten die starke Macht der Götter und Dämonen in fortgeschrittenen magischen Fähigkeiten.\nKategorie: Fertigkeitsstufe 5 (Allgemein)\nWirkung: Beschwört den Dunklen Schatten mit der Chance, Feinde für 32 s zu blenden.\nAnforderung:\nMagier: Level 20\n Elf: Level 40"
-de_705,"Die geheimnisvolle Rolle soll von Teon stammen und beschützt Ausrüstung vor Schäden während des Verstärkungsprozesses."
+de_705,"Diese geheimnisvolle Rolle, die vermutlich von Teon stammt, gewährt der Ausrüstung einen vorübergehenden Schutz, der sicherstellt, dass nur die Stufe der Verzauberung verschwindet und die Ausrüstung unberührt bleibt, wenn der Verzauberungsprozess fehlschlägt."
 de_706,"Ein verbesserter Langbogen."
 de_707,"Erdkristalle wurden von der Mondgöttin gesegnet und enthalten Erdattribute!\nKategorie: Fertigkeitsstufe 5 (Klasse)\nWirkung: Ermöglicht Zaubernden LP und magische Kraft wiederherzustellen, sogar, wenn mit Objekten überladen.\nAnforderung:\n Elf: Level 50"
 de_708,"Ein perfekter Smaragd."

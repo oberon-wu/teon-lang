@@ -222,10 +222,10 @@ es_220,"¡Antiguo objeto de hechizo de bruma! \n ¡Un objeto necesario para lanz
 es_221,"¡Bendición de la Diosa de la Luna! \n  Este es un objeto de tarea."
 es_222,"Alas de elfo bendecidas. \n  Este es un objeto de tarea."
 es_223,"Un pergamino mágico con runas que puede convertirte en un monstruo durante un tiempo. "
-es_224,"紅色的毛絨聖誕帽子\n活動道具"
-es_225,"紅色的毛絨聖誕襪\n活動道具"
-es_226,一份珍貴的聖誕節禮物
-es_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福。
+es_224,"Un mullido gorro de Papá Noel\nObjeto de evento"
+es_225,"Un par de suaves calcetines rojos de Papá Noel\nObjeto de evento"
+es_226,"Un precioso regalo de Navidad"
+es_227,"Un precioso regalo de Navidad, con la bendición de la Diosa de la Fortuna"
 es_228,"Un mapa marcado que registra la ubicación del tesoro.También puede ser una trampa."
 es_229,"Un trozo del mapa del tesoro marcado. ¡Parece que oculta un gran secreto en su interior!"
 es_230,"Un mapa marcado que indica un gran tesoro; se dice que es todo lo que tenía el líder pirata.También puede ser una trampa."
@@ -240,7 +240,7 @@ es_238,"Un pergamino mágico con runas que puede convertirte en un monstruo avan
 es_239,"Se rumorea que el utensilio mágico que Meilin perdió en la Isla Prometida se puede intercambiar por un pergamino vinculado mejorado."
 es_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
 es_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
-es_242,"Material utilizado en la función de mutación. Se usa para crear un pergamino de mutación avanzado andrajoso."
+es_242,"Material que se usa en la creación o encantamiento de diferentes pergaminos de mutación."
 es_243,"Teon, el Dios de la Creación, podía percibir la amabilidad de los aventureros de la Tierra de Edin, e imbuyó este anillo con su inmenso poder."
 es_244,"Un regalo de Olivia. Puedes abrir esta caja regalo y recibir recursos como recompensa siempre que tu personaje alcance un determinado nivel."
 es_245,"Isla del Cielo está corrompida por un aura maléfica. Olivia envió una señal de auxilio a Edin con la esperanza de que alguien acudiera a salvar la isla. Usa la Luz de esperanza para seguir la señal de auxilio y acude a la isla en peligro."
@@ -633,7 +633,7 @@ es_630,"Este libro de hechizos raro de Edin contiene hechizos intermedios. \n Ca
 es_631,"Un fragmento de oro tosco. "
 es_632,"Botas de Beleth. Están creadas con fina artesanía. "
 es_633,"Su ala blanca es brillante y posee un gran poder defensivo. También aumenta la recuperación de PM. "
-es_634,"Proporciona defensa, pero también causa daño a los enemigos que te atacan.\n Efecto(s) de conjunto: PR -3"
+es_634,"El escudo con pincho proporciona una buena defensa. Su pincho hace que los enemigos se lo piensen dos veces antes de atacar.\n Efecto(s) de conjunto: AC -3"
 es_635,"Estas escrituras de mago antiguas tienen poderes mágicos. \n Categoría: Habilidad de nivel 2 (clase) \n Efecto: Tiene una probabilidad de encerrar mágicamente al oponente e impide que pueda usar la magia durante un periodo de tiempo. \n Requisito de aprendizaje: \n Mago: Nivel 32"
 es_636,"Este amuleto tranquiliza tu mente."
 es_637,"Aunque el arco es pequeño, no se debería subestimar su poder de ataque."
@@ -704,7 +704,7 @@ es_701,"Un casco de hierro con hechizos de protección inscritos que puede absor
 es_702,"Los cristales de tierra provienen de la bendición de la Diosa de la Luna y contienen poderosos atributos de tierra. \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Aumenta la PR en 7 puntos para ti y tu equipo. \n Requisito de aprendizaje: \n Elfo: Nivel 40"
 es_703,"Un montón de hierro"
 es_704,"Estos valiosos libros mágicos contienen el gran poder de dioses y demonios y registros de habilidades mágicas avanzadas. \n Categoría: Habilidad de nivel 5 (común) \n Efecto: Invoca la sombra oscura para obtener la probabilidad de cegar a los enemigos durante 32 segundos. \n Requisito de aprendizaje: \n Mago: Nivel 20 \n Elfo: Nivel 40"
-es_705,"Se cree que este misterioso pergamino proviene de Teon. Protege el equipo e impide que reciba daños durante el proceso de fortalecimiento."
+es_705,"Este misterioso pergamino, presuntamente originario de Teon, otorga una protección temporal al equipo, lo que garantiza que solo desaparece el nivel de encantamiento y el equipo no se ve afectado cuando el proceso de encantamiento falla."
 es_706,"Un arco largo mejorado."
 es_707,"Los cristales de tierra provienen de la bendición de la Diosa de la Luna y contienen poderosos atributos de tierra. \n Categoría: Habilidad de nivel 5 (clase) \n Efecto: Permite al lanzador del hechizo recuperar PS y poder mágico aunque esté sobrecargado de objetos. \n Requisito de aprendizaje: \n Elfo: Nivel 50"
 es_708,"Una esmeralda perfecta."

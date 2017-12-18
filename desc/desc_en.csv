@@ -222,10 +222,10 @@ en_220,"Ancient fog Spell item! \n An item needed to cast the ancient fog spell.
 en_221,"Moon goddess's blessing! \nThis is a quest item."
 en_222,"Blessed Elven wings\nThis is a quest item."
 en_223,"A magical scroll with runes that can turn you into a monster for a period of time "
-en_224,"紅色的毛絨聖誕帽子\n活動道具"
-en_225,"紅色的毛絨聖誕襪\n活動道具"
-en_226,一份珍貴的聖誕節禮物
-en_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福.
+en_224,"A fluffy Santa Hat\nEvent Item"
+en_225,"A pair of soft red Santa socks\nEvent Item"
+en_226,"A precious Christmas Gift"
+en_227,"A precious Christmas Gift, with the blessings from the Goddess of Fortune.""
 en_228,"A marked map that records the location of treasure. This might also be a trap."
 en_229,"A scrap of the marked treasure map. A huge secret seems to be hidden within it!"
 en_230,"A marked map that records big treasure - it's said to be everything that the pirate leader got. This might also be a trap."
@@ -240,7 +240,7 @@ en_238,"A magical scroll painted with runes can turn yourself into an advanced m
 en_239,"A magical appliance Meilin lost when he took refuge in Promise Island, can be exchanged for a bound enchant scroll"
 en_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
 en_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
-en_242,"Material used in the polymorph spell. Use it to make a Ragged Advanced Polymorph Scroll."
+en_242,"Material used in crafting or enchanting different polymorph scrolls"
 en_243,"Teon, the God of Creation, could sense the kindness of the adventurers in the Land of Edin, and he imbued this ring with his great power."
 en_244,"A gift from Olivia. You can open this gift box and receive resources as a reward every time your character reaches a certain level."
 en_245,"Sky Island has been tainted with an evil aura. Olivia sent out a distress signal to Edin in hopes that someone would come and save the island. Use Light of Hope to follow the distress signal and go to the troubled island."
@@ -633,7 +633,7 @@ en_630,"This rare Edin spell book contains intermediate spell. \n Category: Skil
 en_631,"A rough piece of gold"
 en_632,"Beleth’s boots. They are made by a fine craftsman. "
 en_633,"This white wing is bright and possesses a great defense power. It can also increase MP recovery. "
-en_634,"This provides defense, but also hurts enemies that attack you.\n Set Effect(s):  AC -3"
+en_634,"This spiky shield provides good defense. The large spike on it makes your enemies think twice before they attack!\n Set Effect(s): AC -3"
 en_635,"These ancient mage writings have magical powers. \n Category: Skill level 2 (Class) \n Effect: Chance to imprison opponent with magic and causes them to be unable to use magic for period of time. \n Learning requirement: \n Mage: Level 32"
 en_636,"This amulet calms your mind."
 en_637,"Although the bow is small, one shouldn’t underestimate its attack power."
@@ -705,8 +705,7 @@ en_701,"An iron helmet inscribed with protective wards that can absorb magic dam
 en_702,"Earth crystals came from the Moon Goddess's blessings, which contain powerful earth attributes! \n Category: Skill level 4 (Class) \n Effect: AC decreased by 7 points for you and team. \n Learning requirement: \n Elf: Level 40"
 en_703,"A lump of iron"
 en_704,"This precious magic books containing strong power of Gods and Demons records the advanced magic skills. \n Category: Skill level 5 (Common) \n Effect: Summon Dark Shadow for a chance to blind enemies for 32 secs. \n Learning requirement: \n Mage: Level 20 \n Elf: Level 40"
-en_705,"This mysterious scroll, believed to come from Teon, grants equipment a temporary protection, which ensures only enchant level disappears and the equipment untouched when the enchanting process fails.
-Note: After next enchant (whether successful or not) or when the character goes offline, this protection disappears."
+en_705,"This mysterious scroll, believed to come from Teon, grants equipment a temporary protection, which ensures only enchant level disappears and the equipment untouched when the enchanting process fails.\n Note: After next enchant (whether successful or not) or when the character goes offline, this protection disappears."
 en_706,"An ameliorated longbow"
 en_707,"Earth crystals came from the Moon Goddess's blessings, which contain powerful earth attributes! \n Category: Skill level 5 (Class) \n Effect: Allow spell caster to recover HP and magic power even when overloaded with items. \n Learning requirement: \n Elf: Level 50"
 en_708,"A perfect emerald"
