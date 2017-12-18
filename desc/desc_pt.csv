@@ -222,10 +222,10 @@ pt_220,"Item de Encanto de Névoa Antigo! \nUm item necessário para lançar o e
 pt_221,"Bênção da Deusa da Lua! \nEste é um item de tarefa."
 pt_222,"Asas de Elfo abençoadas. \nEste é um item de tarefa."
 pt_223,"Um pergaminho mágico com runas que pode transformar você em monstro por um tempo. "
-pt_224,"紅色的毛絨聖誕帽子\n活動道具"
-pt_225,"紅色的毛絨聖誕襪\n活動道具"
-pt_226,一份珍貴的聖誕節禮物
-pt_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福。
+pt_224,"Um fofinho gorro do Noel\nItem do Evento"
+pt_225,"Um par de meias vermelhas do Noel\nItem do Evento"
+pt_226,"Um precioso Presente de Natal"
+pt_227,"Um precioso Presente de Natal, com as bênçãos da Deusa da Fortuna"
 pt_228,"Um mapa marcado com a localização de um tesouro.Isso também pode ser uma armadilha."
 pt_229,"Um pedaço do mapa do tesouro marcado. Parece que há um grande segredo escondido nele!"
 pt_230,"Um mapa marcado com um grande tesouro - acredita-se ser tudo que o líder pirata acumulou.Isso também pode ser uma armadilha."
@@ -240,7 +240,7 @@ pt_238,"Um pergaminho mágico pintado com runas pode transformar você em um mon
 pt_239,"Dizem que o aparelho mágico de Merlin, perdido na Ilha prometida em refúgio, pode ser trocado por um pergaminho aprimorado vinculado"
 pt_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
 pt_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
-pt_242,"Material utilizado na função de polimorfo. Use para criar um pergaminho rasgado avançado de polimorfo."
+pt_242,"Material usado na criação ou no encantamento de diferentes pergaminhos de polimorfo."
 pt_243,"Teon, o Rei da Criação, pode sentir a bondade dos aventureiros na Terra de Edin e imbuiu este anel com seu grande poder."
 pt_244,"Un regalo da parte di Olivia. Puoi aprire questa scatola regalo e ricevere risorse ogni volta che il tuo personaggio raggiunge un certo livello."
 pt_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo."
@@ -633,7 +633,7 @@ pt_630,"Este Livro de Encantos Raro de Edin contém encantos intermediários. \n
 pt_631,"É um pedaço de ouro bruto. "
 pt_632,"Botas de Beleth. São feitas por um ótimo artesão. "
 pt_633,"A Asa Branca é brilhante e possui um enorme poder de defesa. Também pode aumentar a recuperação de MP. "
-pt_634,"Fornece defesa, mas também fere inimigos que atacarem você.\nEfeito(s) do conjunto: CA -3"
+pt_634,"Este escudo pontudo fornece uma boa defesa. Sua grande ponta faz os inimigos pensarem duas vezes antes de atacarem você!\nEfeito(s) do Conjunto: AC -3"
 pt_635,"Estas Escrituras de Magos Antigas têm poderes mágicos. \nCategoria: Nível de habilidade 2 (Classe) \nEfeito: Chance de aprisionar o oponente com magia, fazendo com que ele não consiga usar magia durante um período. \nRequisito de aprendizado: \nMago: Nível 32"
 pt_636,"Este amuleto acalma a mente."
 pt_637,"Embora o arco seja pequeno, seu poder de ataque não deve ser subestimado."
@@ -704,7 +704,7 @@ pt_701,"Um capacete de ferro com barreiras que podem absorver dano mágico. Para
 pt_702,"Cristais da Terra originários das bênçãos da Deusa da Lua com atributos da Terra! \nCategoria: Nível de habilidade 4 (Classe) \nEfeito: CA diminuída em 7 pontos para você e sua equipe. \nRequisito de aprendizado: \nElfo: Nível 40"
 pt_703,"Um monte de ferro."
 pt_704,"Este Livro de Magia Precioso com fortes poderes de Deuses e Demônios apresenta registros de habilidades mágicas avançadas. \nCategoria: Nível de habilidade 5 (Comum) \nEfeito: Invoca a Sombra da Escuridão para uma chance de cegar os inimigos por 32 s. \nRequisito de aprendizado: \nMago: Nível 20 \nElfo: Nível 40"
-pt_705,"Acredita-se que o Pergaminho Misterioso originário de Teon protege os equipamentos de serem danificados durante o processo de fortalecimento."
+pt_705,"Este misterioso pergaminho, que muitos acreditam vir de Teon, concede uma proteção temporária ao equipamento, que assegura que apenas o nível de encantamento desapareça e o equipamento permaneça intacto quando o processo de encantamento fracassa."
 pt_706,"Um arco longo melhorado."
 pt_707,"Cristais da Terra originários das bênçãos da Deusa da Lua com atributos da Terra! \nCategoria: Nível de habilidade 5 (Classe) \nEfeito: Permite que o lançador de encantos recupere o HP e o poder mágico mesmo estando sobrecarregado de itens. \nRequisito de aprendizado: \nElfo: Nível 50"
 pt_708,"Uma esmeralda perfeita."

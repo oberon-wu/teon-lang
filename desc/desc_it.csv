@@ -222,10 +222,10 @@ it_220,"Oggetto per antichi incantesimi di nebbia! \nUn oggetto necessario per l
 it_221,"La benedizione della dea della luna! \nQuesto oggetto serve per un compito."
 it_222,"Ali elfiche benedette. \nQuesto oggetto serve per un compito."
 it_223,"Una pergamena magica con rune che possono trasformarti in mostro per un periodo di tempo. "
-it_224,"紅色的毛絨聖誕帽子\n活動道具"
-it_225,"紅色的毛絨聖誕襪\n活動道具"
-it_226,一份珍貴的聖誕節禮物
-it_227,一份珍貴的聖誕節禮物，藏有幸運女神的祝福。
+it_224,"Un morbido cappello da Babbo Natale\nOggetto d'evento"
+it_225,"Un paio di morbidi calzini di Babbo Natale\nOggetto d'evento"
+it_226,"Un prezioso dono natalizio"
+it_227,"Un prezioso dono natalizio, con la benedizione della Dea della Fortuna"
 it_228,"Una mappa che segnala il luogo del tesoro.Questa potrebbe essere una trappola."
 it_229,"Un frammento della mappa del tesoro. Sembra che nasconda un gran segreto!"
 it_230,"Una mappa che nasconde un gran tesoro: corre voce che si tratti di tutto il bottino del capo dei pirati.Questa potrebbe essere una trappola."
@@ -240,7 +240,7 @@ it_238,"Una pergamena magica con rune che possono trasformarti in un mostro avan
 it_239,"Si dice che il congegno magico di Meilin perduto nell'isola promessa possa essere scambiato per una pergamena potenziata"
 it_240,TEON週年慶禮包，裏面有贈予你的禮物以及幸運女神對你的祝福
 it_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮物，感謝你對TEON的支持
-it_242,"Materiale usato per la funzione polimorfa. Usato per ottenere una pergamena polimorfa avanzata e lacera."
+it_242,"Materiale usato per la creazione e per gli incantesimi di ogni tipo di pergamena del polimorfo."
 it_243,"Teon, dio della creazione, avvertiva la bontà degli avventurieri nella Terra di Edin e impregnò l'anello della sua grande potenza."
 it_244,"Un regalo da parte di Olivia. Puoi aprire questa scatola regalo e ricevere risorse ogni volta che il tuo personaggio raggiunge un certo livello."
 it_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo."
@@ -633,7 +633,7 @@ it_630,"Questo raro libro d'incantesimi di Edin contiene incantesimi intermedi. 
 it_631,"Un pezzo di oro grezzo. "
 it_632,"Stivali di Beleth. Sono un prodotto artigianale esclusivo. "
 it_633,"L'ala bianca è lucente e possiede un gran potere di difesa. Può anche aumentare il recupero di PM. "
-it_634,"Fornisce difesa e ferisce i nemici che ti attaccano.\nEffetto/i:  AC -3"
+it_634,"Lo scudo spinato offre una buona difesa. I suoi spuntoni inibiscono gli attacchi da parte dei tuoi nemici! Imposta effetto/i: AC-3"
 it_635,"Queste antiche scritture conferiscono poteri magici. \nCategoria: Livello di abilità 2 (classe) \nEffetto: Possibilità di imprigionare l'avversario con la magia e di impedirgli di usare la magia per un periodo di tempo. \nRequisito d'apprendimento: \nMago: Livello 32"
 it_636,"Questo amuleto ti calma la mente."
 it_637,"Nonostante l'arco sia piccolo, il suo potere d'attacco non è da sottovalutare."
@@ -704,7 +704,7 @@ it_701,"Un elmo di ferro inciso con con cerchi protettivi che assorbono i danni 
 it_702,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: livello di abilità 4 (classe) \nEffetto: CA diminuisce di 7 punti per te e per i membri della tua squadra. \nRequisito d'apprendimento: \nElfo: Livello 40"
 it_703,"Un blocco di ferro."
 it_704,"Questi preziosi libri magici contengono la grande potenza degli dei e dei demoni e conoscenze magiche avanzate. \nCategoria: Livello di abilità 5 (comune) \nEffetto: Evoca un'ombra scura che può accecare i nemici per 32 secondi. \nRequisito d'apprendimento: \nMago: Livello 20 \nElfo: Livello 40"
-it_705,"Una pergamena misteriosa che si dice provenga da Teon e che protegge l'attrezzatura dai danni durante il processo di rafforzamento."
+it_705,"Si dice che questa misteriosa pergamena provenga da Teon. Garantisce una protezione temporanea che, in caso di fallimento della procedura di incantesimo, assicura solo l'eliminazione del livello di incantesimo senza toccare l'attrezzatura."
 it_706,"Un arco lungo migliorato."
 it_707,"I cristalli terrestri provengono dalle benedizioni della dea della luna e contengono potenti attributi terrestri! \nCategoria: Livello di abilità 5 (classe) \nEffetto: Permette a chi lancia l'incantesimo di recuperare HP e poteri magici anche in caso di sovraccarico di oggetti. \nRequisito d'apprendimento: \nElfo: Livello 50"
 it_708,"Uno smeraldo perfetto."
