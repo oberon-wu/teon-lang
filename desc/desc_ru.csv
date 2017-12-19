@@ -276,16 +276,16 @@ ru_273,"Боевое руководство охотника. При испол�
 ru_274,"Противоядие. Также исцеляет паралич, накладываемый гулями."
 ru_275,"Боевое руководство охотника. При использовании дает 10000 опыта."
 ru_276,"Боевое руководство охотника. При использовании дает 100000 опыта."
-ru_277,背面刻有秘銀紋飾。
-ru_278,背面刻有猩紅紋飾。
-ru_279,"在對超過安定值，且強化等級小於12的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）或者物品轉移時消失。"
-ru_280,哥爾委託製作的劍。\n任務道具
-ru_281,蠍子尾部的毒液。\n任務道具
-ru_282,專門醫治腰痛的藥物。\n任務道具
-ru_283,蜥蜴人的皮，保暖效果非常好。\n任務道具
-ru_284,進入沙棘木城堡的通行證。\n任務道具
-ru_285,塗有毒藥的箭。\n任務道具
-ru_286,塗有毒藥的矛。\n任務道具
+ru_277,"A mithril ornamentation is engraved at the back"
+ru_278,"A blood ornamentation is engraved at the back"
+ru_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+ru_280,"A sword orderred by Gol \nQuest item"
+ru_281,"Toxic substains extracted from a scorpien.\nQuest item"
+ru_282,"Medicine for Granny Olan\nQuest item"
+ru_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+ru_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+ru_285,"An arrow with toxic substains applied at the tip\nQuest item"
+ru_286,"A spear with toxic substains applied at the tip\nQuest item"
 ru_287,NULL
 ru_288,NULL
 ru_289,NULL

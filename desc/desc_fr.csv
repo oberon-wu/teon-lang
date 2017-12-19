@@ -276,16 +276,16 @@ fr_273,"Guide de bataille de Hunter. Gagnez 5000 d'expérience une fois utilisé
 fr_274,"Guérison de poison. Peut également guérir la paralysie venant des goules"
 fr_275,"Guide de bataille de Hunter. Gagnez 10000 d'expérience une fois utilisé."
 fr_276,"Guide de bataille de Hunter. Gagnez 100000 d'expérience une fois utilisé."
-fr_277,背面刻有秘銀紋飾。
-fr_278,背面刻有猩紅紋飾。
-fr_279,"在對超過安定值，且強化等級小於12的武器使用後，該武器獲得一個臨時的保護狀態，在保護狀態下強化失敗時，強化等級隨機降低1~3，裝備不會消失。 \n注意：此保護狀態在下一次強化時（無論成功或失敗）或者物品轉移時消失。"
-fr_280,哥爾委託製作的劍。\n任務道具
-fr_281,蠍子尾部的毒液。\n任務道具
-fr_282,專門醫治腰痛的藥物。\n任務道具
-fr_283,蜥蜴人的皮，保暖效果非常好。\n任務道具
-fr_284,進入沙棘木城堡的通行證。\n任務道具
-fr_285,塗有毒藥的箭。\n任務道具
-fr_286,塗有毒藥的矛。\n任務道具
+fr_277,"A mithril ornamentation is engraved at the back"
+fr_278,"A blood ornamentation is engraved at the back"
+fr_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+fr_280,"A sword orderred by Gol \nQuest item"
+fr_281,"Toxic substains extracted from a scorpien.\nQuest item"
+fr_282,"Medicine for Granny Olan\nQuest item"
+fr_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+fr_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+fr_285,"An arrow with toxic substains applied at the tip\nQuest item"
+fr_286,"A spear with toxic substains applied at the tip\nQuest item"
 fr_287,NULL
 fr_288,NULL
 fr_289,NULL
