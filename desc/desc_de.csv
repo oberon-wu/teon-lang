@@ -276,16 +276,16 @@ de_273,"Hunters Schlachtführer. Sammeln 5.000 Erfahrung bei Anwendung"
 de_274,"Heiltrank. Kann auch Lähmungen von Ghuls heilen"
 de_275,"Hunters Schlachtführer. Sammeln 10.000 Erfahrung bei Anwendung"
 de_276,"Hunters Schlachtführer. Sammeln 100.000 Erfahrung bei Anwendung"
-de_277,NULL
-de_278,NULL
-de_279,NULL
-de_280,NULL
-de_281,NULL
-de_282,NULL
-de_283,NULL
-de_284,NULL
-de_285,NULL
-de_286,NULL
+de_277,"A mithril ornamentation is engraved at the back"
+de_278,"A blood ornamentation is engraved at the back"
+de_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+de_280,"A sword orderred by Gol \nQuest item"
+de_281,"Toxic substains extracted from a scorpien.\nQuest item"
+de_282,"Medicine for Granny Olan\nQuest item"
+de_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+de_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+de_285,"An arrow with toxic substains applied at the tip\nQuest item"
+de_286,"A spear with toxic substains applied at the tip\nQuest item"
 de_287,NULL
 de_288,NULL
 de_289,NULL
@@ -542,7 +542,7 @@ de_539,"Feiglinge sind nicht würdig, den Ehrentitel Ritter zu tragen!\nRitterko
 de_540,"Das Kettenhemd der Elfen ist leicht und praktisch im Vergleich zu Mithril."
 de_541,"Bequeme Lederrüstung für Anfänger."
 de_542,"Leichte Rüstung aus Hartholz."
-de_543,"Ursprünglich nur ein gewöhnlicher verdorrter Holzstab, aber nachdem er mit magischem Blut der goldenen Riesenschlange getränkt wurde, besitzt er mächtige Magie."
+de_543,"Magischer Schaden +3\nUrsprünglich nur ein gewöhnlicher verdorrter Holzstab, aber nachdem er mit magischem Blut der goldenen Riesenschlange getränkt wurde, besitzt er mächtige Magie."
 de_544,"Eine mächtige Lanze."
 de_545,"Die Wollhandschuhe aus Goldseide schützen sehr gut vor Kälte."
 de_546,"Die tiefblaue Farbe des Perfekten Saphirs gleicht dem Himmel oder dem Meer."
@@ -555,7 +555,7 @@ de_552,"Das seltene Zauberbuch von Edin besitzt mittlere magische Fähigkeiten.\
 de_553,"Das Amulett des Charismas besitzt instabile Macht."
 de_554,"Der Elfenhelm der Verfassung wurde von der Göttin der Elfen gesegnet."
 de_555,"Der goldene Ring besitzt eine starke magische Verteidigung."
-de_556,"Alte Magier-Aufzeichnungen mit seltenen Inhalten.\nKategorie: Fertigkeitsstufe 1 (Klasse)\nWirkung: Fügt Ziel Schaden zu und besitzt Chance, Ziel für 16 s einzufrieren. Das gefrorene Ziel kann von niemandem angegriffen werden und sich nicht bewegen.\nAnforderung:\nMagier: Level 28"
+de_556,"Alte Magier-Aufzeichnungen mit seltenen Inhalten.\nKategorie: Fertigkeitsstufe 1 (Klasse)\nWirkung: Fügt Ziel Schaden zu und besitzt Chance, Ziel für 10 s einzufrieren. Das gefrorene Ziel kann von niemandem angegriffen werden und sich nicht bewegen.\nAnforderung:\nMagier: Level 28"
 de_557,"Eine gewöhnliche Axt."
 de_558,"Das Kurzschwert der Zaubersprüche ist von den Elfen gesegnet und fügt Untoten zusätzlichen Schaden zu."
 de_559,"Ein Pfeil aus Gold kann großen Schaden anrichten."
@@ -615,7 +615,7 @@ de_612,"Rüstung des tapferen Ritters – Eisenvisier.\nSeteffekt(e): RK -3"
 de_613,"Scatha-Schuppe ist ein seltenes und hochwertiges Material."
 de_614,"Rüstung des tapferen Ritters – Eisenschild.\nSeteffekt(e): RK -3"
 de_615,"Die Ritterkopftuch."
-de_616,"Magischer Schaden +3\nDieser antike Zauberstab kann seinen Meister beschützen."
+de_616,"Magischer Schaden +5\nDieser antike Zauberstab kann seinen Meister beschützen."
 de_617,"Diese Lederrüstung hat bespickte Schultern."
 de_618,"Es kann Gegner mit Stahlrüstungen angreifen und erhebliche Schäden verursachen."
 de_619,"Diese alte Rolle kann die Toten wiederbeleben."

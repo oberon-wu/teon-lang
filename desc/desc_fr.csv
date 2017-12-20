@@ -276,16 +276,16 @@ fr_273,"Guide de bataille de Hunter. Gagnez 5000 d'expérience une fois utilisé
 fr_274,"Guérison de poison. Peut également guérir la paralysie venant des goules"
 fr_275,"Guide de bataille de Hunter. Gagnez 10000 d'expérience une fois utilisé."
 fr_276,"Guide de bataille de Hunter. Gagnez 100000 d'expérience une fois utilisé."
-fr_277,NULL
-fr_278,NULL
-fr_279,NULL
-fr_280,NULL
-fr_281,NULL
-fr_282,NULL
-fr_283,NULL
-fr_284,NULL
-fr_285,NULL
-fr_286,NULL
+fr_277,"A mithril ornamentation is engraved at the back"
+fr_278,"A blood ornamentation is engraved at the back"
+fr_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+fr_280,"A sword orderred by Gol \nQuest item"
+fr_281,"Toxic substains extracted from a scorpien.\nQuest item"
+fr_282,"Medicine for Granny Olan\nQuest item"
+fr_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+fr_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+fr_285,"An arrow with toxic substains applied at the tip\nQuest item"
+fr_286,"A spear with toxic substains applied at the tip\nQuest item"
 fr_287,NULL
 fr_288,NULL
 fr_289,NULL
@@ -542,7 +542,7 @@ fr_539,"Les lâches ne méritent pas de recevoir le titre honorable de chevalier
 fr_540,"Les cottes de mailles elfiques sont légères et pratiques comparées au mithril."
 fr_541,"Confortable armure en cuir de novice."
 fr_542,"Armure en bois dure et légère"
-fr_543,"Simple bâton en bois vieilli à l'origine, il possède désormais une magie puissante après avoir été entaché par le sang magique du serpent doré géant."
+fr_543,"Dégats de magie +3\nSimple bâton en bois vieilli à l'origine, il possède désormais une magie puissante après avoir été entaché par le sang magique du serpent doré géant."
 fr_544,"Une lance puissante."
 fr_545,"Les gantelets en laine fabriqués avec de la soie dorée possèdent une résistance supérieure au froid. "
 fr_546,"Le bleu céruléen du saphir parfait donne l'impression de regarder le ciel ou la mer."
@@ -555,7 +555,7 @@ fr_552,"Le rare livre de sorts d'Edin possède des compétences magiques interm�
 fr_553,"L'amulette de charisme possède un pouvoir instable. "
 fr_554,"Le heaume de constitution elfique a été béni par la déesse des elfes."
 fr_555,"L'anneau doré possède une défense magique solide."
-fr_556,"D'anciens enregistrements de mage contenant des enregistrements rares. \nCatégorie : niveau de compétence 1 (Classe)\nEffet : infliger des dégâts à la cible avec une chance de geler une cible pendant 16 secondes. La cible gelée ne subira aucune attaque et ne pourra pas bouger.\nPrérequis d'apprentissage :  \nMage : niveau 28 "
+fr_556,"D'anciens enregistrements de mage contenant des enregistrements rares. \nCatégorie : niveau de compétence 1 (Classe)\nEffet : infliger des dégâts à la cible avec une chance de geler une cible pendant 10 secondes. La cible gelée ne subira aucune attaque et ne pourra pas bouger.\nPrérequis d'apprentissage :  \nMage : niveau 28 "
 fr_557,"Une hache ordinaire. "
 fr_558,"L'épée courte des sorts dotée de la bénédiction des elfes inflige des dégâts supplémentaires aux morts-vivants. "
 fr_559,"Une flèche en or qui peut infliger de grands dégâts. "
@@ -615,7 +615,7 @@ fr_612,"Armure du chevalier brave - Viseur en fer.\nParamétrer effet(s) : AC -
 fr_613,"L'écaille de Scatha est un matériau rare et de grande qualité. "
 fr_614,"Armure du chevalier brave - Bouclier en fer.\nParamétrer effet(s) : AC -3"
 fr_615,"Turban du chevalier. "
-fr_616,"Dégats de magie +3\nCet ancien bâton de sorcier peut protéger son maître."
+fr_616,"Dégats de magie +5\nCet ancien bâton de sorcier peut protéger son maître."
 fr_617,"Cette armure en cuir a des épaules à pointes."
 fr_618,"Il peut attaquer et endommager ceux portant une armure d'acier, infligeant des dégâts considérables. "
 fr_619,"Cet ancien parchemin peut ressusciter les morts."

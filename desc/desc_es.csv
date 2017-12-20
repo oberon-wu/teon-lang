@@ -276,16 +276,16 @@ es_273,"Guía de batalla del cazador. Obtén 5000 de experiencia al usarlo."
 es_274,"Cura el veneno. También puede curar la parálisis de los necrófagos."
 es_275,"Guía de batalla del cazador. Obtén 10000 de experiencia al usarlo."
 es_276,"Guía de batalla del cazador. Obtén 100000 de experiencia al usarlo."
-es_277,NULL
-es_278,NULL
-es_279,NULL
-es_280,NULL
-es_281,NULL
-es_282,NULL
-es_283,NULL
-es_284,NULL
-es_285,NULL
-es_286,NULL
+es_277,"A mithril ornamentation is engraved at the back"
+es_278,"A blood ornamentation is engraved at the back"
+es_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+es_280,"A sword orderred by Gol \nQuest item"
+es_281,"Toxic substains extracted from a scorpien.\nQuest item"
+es_282,"Medicine for Granny Olan\nQuest item"
+es_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+es_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+es_285,"An arrow with toxic substains applied at the tip\nQuest item"
+es_286,"A spear with toxic substains applied at the tip\nQuest item"
 es_287,NULL
 es_288,NULL
 es_289,NULL
@@ -542,7 +542,7 @@ es_539,"¡Los cobardes no son dignos de recibir el honorable título de caballer
 es_540,"La cadena de malla élfica es ligera y práctica en comparación con la de mithril."
 es_541,"Armadura cómoda de cuero de novicio."
 es_542,"Armadura de madera ligera endurecida."
-es_543,"Originalmente, solo era un bastón de madera ordinario y marchito, pero después de haber sido teñido con sangre mágica de una serpiente gigante de oro, pasó a poseer una magia poderosa."
+es_543,"Daño mágico +3\nOriginalmente, solo era un bastón de madera ordinario y marchito, pero después de haber sido teñido con sangre mágica de una serpiente gigante de oro, pasó a poseer una magia poderosa."
 es_544,"Una lanza poderosa."
 es_545,"Los guanteletes de lana fabricados con seda de oro tienen una mayor resistencia contra el frío. "
 es_546,"El color azul cerúleo del zafiro perfecto es como mirar el cielo o el mar."
@@ -555,7 +555,7 @@ es_552,"El raro libro de hechizos de Edin tiene habilidades mágicas intermedias
 es_553,"El amuleto de carisma tiene un poder inestable. "
 es_554,"El yelmo élfico de la constitución ha sido bendecido por la Diosa de los Elfos."
 es_555,"El anillo de oro tiene una fuerte defensa mágica."
-es_556,"Los registros de mago antiguos contienen extrañas anotaciones. \n Categoría: Habilidad de nivel 1 (clase) \n Efecto: Inflige daño a un objetivo y tiene una probabilidad de congelarlo durante 16 segundos; el objetivo congelado no podrá recibir ataques de nadie y tampoco podrá moverse. \n Requisito de aprendizaje: \n Mago: Nivel 28 "
+es_556,"Los registros de mago antiguos contienen extrañas anotaciones. \n Categoría: Habilidad de nivel 1 (clase) \n Efecto: Inflige daño a un objetivo y tiene una probabilidad de congelarlo durante 10 segundos; el objetivo congelado no podrá recibir ataques de nadie y tampoco podrá moverse. \n Requisito de aprendizaje: \n Mago: Nivel 28 "
 es_557,"Un hacha ordinaria. "
 es_558,"La espada corta de hechizos con bendiciones de los elfos inflige daño adicional a los no muertos. "
 es_559,"Una flecha hecha de oro que puede infligir gran daño. "
@@ -615,7 +615,7 @@ es_612,"Armadura del caballero valiente - Visera de hierro.\n Efecto(s) de conju
 es_613,"La escama de Scatha es un material raro de alta calidad. "
 es_614,"Armadura del caballero valiente - Escudo de hierro.\n Efecto(s) de conjunto: PR -3"
 es_615,"La Capuz de un caballero."
-es_616,"Daño mágico +3\nEste bastón de mago antiguo puede proteger a su maestro."
+es_616,"Daño mágico +5\nEste bastón de mago antiguo puede proteger a su maestro."
 es_617,"Esta armadura de cuero tiene hombreras con púas."
 es_618,"Puede atacar e infligir daño a los que llevan armadura de acero, y les causa heridas considerables+E308. "
 es_619,"Este pergamino antiguo puede resucitar a los muertos."
