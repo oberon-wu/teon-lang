@@ -276,16 +276,16 @@ it_273,"Guida di battaglia di Hunter. Ottieni 5000 exp quando la usi"
 it_274,"Antidoto: puoi curare anche la paralisi dei ghul"
 it_275,"Guida di battaglia di Hunter. Ottieni 10000 exp quando la usi"
 it_276,"Guida di battaglia di Hunter. Ottieni 100000 exp quando la usi"
-it_277,NULL
-it_278,NULL
-it_279,NULL
-it_280,NULL
-it_281,NULL
-it_282,NULL
-it_283,NULL
-it_284,NULL
-it_285,NULL
-it_286,NULL
+it_277,"A mithril ornamentation is engraved at the back"
+it_278,"A blood ornamentation is engraved at the back"
+it_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+it_280,"A sword orderred by Gol \nQuest item"
+it_281,"Toxic substains extracted from a scorpien.\nQuest item"
+it_282,"Medicine for Granny Olan\nQuest item"
+it_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+it_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+it_285,"An arrow with toxic substains applied at the tip\nQuest item"
+it_286,"A spear with toxic substains applied at the tip\nQuest item"
 it_287,NULL
 it_288,NULL
 it_289,NULL
@@ -542,7 +542,7 @@ it_539,"I codardi non meritano di ricevere l'onorevole titolo di cavaliere! \nIl
 it_540,"La cotta di maglia elfica è più leggera e pratica rispetto a quella di mithril."
 it_541,"Confortevole armatura del novizio in pelle."
 it_542,"Armatura leggera e resistente in legno"
-it_543,"In origine un semplice bastone rinsecchito, una volta macchiato con il sangue magico del serpente gigante dorato, ora possiede grandi poteri magici."
+it_543,"Danno magico +3\nIn origine un semplice bastone rinsecchito, una volta macchiato con il sangue magico del serpente gigante dorato, ora possiede grandi poteri magici."
 it_544,"Una potente asta."
 it_545,"I guanti di lana in seta d'oro offrono una buona resistenza contro il freddo. "
 it_546,"Il colore blu ceruleo dello zaffiro perfetto è uguale a quello del cielo o del mare."
@@ -555,7 +555,7 @@ it_552,"Il raro libro d'incantesimi di Edin possiede abilità magiche intermedie
 it_553,"Questo amuleto del carisma ha un potere instabile. "
 it_554,"L'elmo elfico della costituzione è stato benedetto della dea degli elfi."
 it_555,"L'anello d'oro possiede una gran difesa magica."
-it_556,"Antichi libri magici contenenti incantesimi rari.\nCategoria: Livello di abilità 1 (classe) \nEffetto: Causa danni all'obiettivo e può congelarlo per 16 secondi. L'obiettivo congelato non può essere attaccato né si può muovere. \nRequisito d'apprendimento: \nMago: Livello 28 "
+it_556,"Antichi libri magici contenenti incantesimi rari.\nCategoria: Livello di abilità 1 (classe) \nEffetto: Causa danni all'obiettivo e può congelarlo per 10 secondi. L'obiettivo congelato non può essere attaccato né si può muovere. \nRequisito d'apprendimento: \nMago: Livello 28 "
 it_557,"Una normale ascia. "
 it_558,"La spada corta degli incantesimi, benedetta dagli elfi, infligge danni in più ai morti viventi. "
 it_559,"Una freccia d'oro che può causare gravi danni. "
@@ -615,7 +615,7 @@ it_612,"Armatura del cavaliere coraggioso - Visiera di ferro.\nEffetto/i:  AC -3
 it_613,"La squama di Scatha è un materiale pregiato e raro. "
 it_614,"Armatura del cavaliere coraggioso - Scudo di ferro.\nEffetto/i:  AC -3"
 it_615,"Il Foulard del cavaliere."
-it_616,"Danno magico +3\nQuesto antico bastone dello stregone può proteggere chi lo usa."
+it_616,"Danno magico +5\nQuesto antico bastone dello stregone può proteggere chi lo usa."
 it_617,"Questa armatura di pelle possiede spalliere chiodate."
 it_618,"Può attaccare e infliggere gravi danni a chi indossa un'armatura di acciaio. "
 it_619,"Questa antica pergamena può far risorgere i morti."

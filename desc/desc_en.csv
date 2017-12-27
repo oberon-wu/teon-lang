@@ -276,16 +276,16 @@ en_273,"Hunter's Battle Guide. Gain 5000 Experience when used"
 en_274,"Cure poison. Can also cure paralyze from Ghouls"
 en_275,"Hunter's Battle Guide. Gain 10000 Experience when used"
 en_276,"Hunter's Battle Guide. Gain 100000 Experience when used"
-en_277,NULL
-en_278,NULL
-en_279,NULL
-en_280,NULL
-en_281,NULL
-en_282,NULL
-en_283,NULL
-en_284,NULL
-en_285,NULL
-en_286,NULL
+en_277,"A mithril ornamentation is engraved at the back"
+en_278,"A blood ornamentation is engraved at the back"
+en_279,"This scroll can temporary protect a weapon with an enchantment level below 12. When the enchanting process failed on a protected weapon, the weapon will not disappear, and the enchantment level will be lowered randomly from 1 to 3 levels.\nNotice: the protection state will disappear after one enchantment (even if it succeeded), or when the weapon is transferred"
+en_280,"A sword orderred by Gol \nQuest item"
+en_281,"Toxic substains extracted from a scorpien.\nQuest item"
+en_282,"Medicine for Granny Olan\nQuest item"
+en_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
+en_284,"This pass is needed to enter Sandwood Castle\nQuest item"
+en_285,"An arrow with toxic substains applied at the tip\nQuest item"
+en_286,"A spear with toxic substains applied at the tip\nQuest item"
 en_287,NULL
 en_288,NULL
 en_289,NULL
@@ -542,7 +542,7 @@ en_539,"""Cowards are not worthy to be endowed with the honorable title of Knigh
 en_540,"A Elven chainmail is made of mithril and it is light and practical."
 en_541,"A novice leather armor, good for beginners"
 en_542,"A hard wooden armor"
-en_543,"Originally only an ordinary withered wooden staff, but after being stained with the magical blood of the golden giant snake, it now possesses powerful magic."
+en_543,"Magic Damage +3\nOriginally only an ordinary withered wooden staff, but after being stained with the magical blood of the golden giant snake, it now possesses powerful magic."
 en_544,"A mighty lance"
 en_545,"Gauntlets made of gold silk, have stronger resistance against the cold"
 en_546,"The Perfect Sapphire’s cerulean blue color is like looking at the sky or sea."
@@ -555,7 +555,7 @@ en_552,"A rare spell book from Edin describing intermediate magic skills \n Cate
 en_553,"This amulet of Charisma contains unstable power. "
 en_554,"The Elven Helmet of Constitution has been blessed by the Goddess of Elves."
 en_555,"A golden ring with strong magic defense"
-en_556,"A rare ancient mage records \n Category: Skill level 1 (Class) \n Effect: Cause damage to target and has chance to freeze target for 16 seconds; the frozen target will not incur attacks from anyone and cannot move as well. \n Learning requirement: \nMage: Level 28 "
+en_556,"A rare ancient mage records \n Category: Skill level 1 (Class) \n Effect: Cause damage to target and has chance to freeze target for 10 seconds; the frozen target will not incur attacks from anyone and cannot move as well. \n Learning requirement: \nMage: Level 28 "
 en_557,"An ordinary axe"
 en_558,"A short sword of spells with blessings of the Elves delivers extra damage to the undead"
 en_559,"An arrow made of gold, causes great damage"
@@ -615,7 +615,7 @@ en_612,"Armor of the Brave Knight – Iron Visor.\n Set Effect(s):  AC -3"
 en_613,"Scatha Scale is a rare and high quality material. "
 en_614,"Armor of the Brave Knight - Iron Shield.\n Set Effect(s):  AC -3"
 en_615,"The Knight's headscarf"
-en_616,"Magic Damage +3\nThis ancient Wizard’s Staff can protect its master."
+en_616,"Magic Damage +5\nThis ancient Wizard’s Staff can protect its master."
 en_617,"This leather armor has spiked shoulders."
 en_618,"It can attack and damage those wearing steel armor, causing considerable damage. "
 en_619,"This ancient scroll can resurrect the dead."
@@ -639,7 +639,7 @@ en_636,"This amulet calms your mind."
 en_637,"Although the bow is small, one shouldn’t underestimate its attack power."
 en_638,"These rare spell books came from the blessings of Teon. They contain advanced magic spells. \n Category: Skill level 4 (Class) \n Effect: Chance to paralyze all enemies on the screen. \n Learning requirement: \n Mage: Level 40"
 en_639,"Refined high quality leather"
-en_640,"A mysterious crystal engraved with ancient writings of Elves, contains amazing magical powers! 
+en_640,"A mysterious crystal engraved with ancient writings of Elves, contains amazing magical powers!
 \nCategory: Skill level 3 (Class) \n Effect: Chance to release monsters which were summoned. \n Learning requirement: \n Mage: Level 30"
 en_641,"Sharp knives on both sides of the halberd and barbs on its body make it hard for people to dodge."
 en_642,"A rough piece of platinum"
