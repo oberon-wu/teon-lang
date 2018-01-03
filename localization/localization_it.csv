@@ -652,7 +652,7 @@ it_650,"Pagamento verificato. Ti preghiamo di controllare."
 it_651,"Se effettui un altro acquisto, il sistema tenterà una verifica del tuo acquisto precedentemente non andato a buon fine (fino a 3 volte)."
 it_652,"Finalizzazione del pagamento non andata a buon fine. Ti preghiamo di controllare lo stato del tuo account collegato."
 it_653,"*La spedizione è irreversibile. Ti preghiamo ti ricontrollare il prezzo."
-it_654,"Set armatura"
+it_654,"Set armatura [%s] --- %s"
 it_655,"Collega il tuo account prima di effettuare un pagamento."
 it_656,Stendardo
 it_657,"Scegli un nome per il tuo Stendardo."

@@ -652,7 +652,7 @@ de_650,"Zahlung bestätigt. Bitte nachsehen."
 de_651,"Das System versucht, deinen zuvor fehlgeschlagenen Kauf (bis zu dreimal) zu bestätigen, wenn du einen weiteren Kauf durchführst."
 de_652,"ZahlungsproZeses konnte nicht abgeschlossen werden. Bitte prüfe den Status deines verknüpften Kontos."
 de_653,"*Eine Hinterlegung ist unwiderruflich. Bitte prüfe genau, ob der Preis stimmt."
-de_654,Rüstungssatz
+de_654,"Rüstungssatz [%s] --- %s"
 de_655,"Verknüpfe zuerst dein Konto, bevor du eine Zahlung durchführst."
 de_656,Kriegsflagge
 de_657,"Wähle einen Namen für deine Kriegsflagge aus."

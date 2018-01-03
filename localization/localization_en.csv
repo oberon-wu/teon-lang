@@ -652,7 +652,7 @@ en_650,"Payment verified. Please check."
 en_651,"The system will attempt to verify your previously failed purchase (up to 3 times) if you make another purchase."
 en_652,"Failed to complete the payment process. Please check the status of your linked account."
 en_653,"*Consignment is irreversible. Please double-check the price."
-en_654,"Armor Set"
+en_654,"Armor Set [%s] --- %s"
 en_655,"Link your account first before you make a payment."
 en_656,Warflag
 en_657,"Pick a name for your Warflag."
