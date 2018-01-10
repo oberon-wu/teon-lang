@@ -652,7 +652,7 @@ fr_650,"Paiement vérifié. Veuillez consulter les informations."
 fr_651,"Le système tentera de vérifier votre achat précédemment échoué (jusqu'à 3 fois) si vous réalisez un autre achat."
 fr_652,"Échec de la finalisation du processus de paiement. Veuillez vérifier l'état de votre compte lié."
 fr_653,"*La consignation est irréversible. Veuillez bien vérifier le prix."
-fr_654,"Ensemble d'armure [%s] --- %s"
+fr_654,"Ensemble d'armure"
 fr_655,"Liez d'abord votre compte avant d'effectuer un paiement."
 fr_656,"Bannière de guerre"
 fr_657,"Choisissez un nom pour votre bannière de guerre."
@@ -796,7 +796,7 @@ fr_794,"Attaquer des monstres"
 fr_795,"Identifier des objets"
 fr_796,"Apprendre des sorts"
 fr_797,"Enchanter des équipements"
-fr_798,"Discard %s x %d ?"
+fr_798,"Rejeter ‘%d’ x‘%s’ ?"
 fr_799,月費類型
 fr_800,月費到期時間
 fr_801,無
@@ -805,6 +805,6 @@ fr_803,會員
 fr_804,十年
 fr_805,封印
 fr_806,試用
-fr_807,“Nom du clan ”
-fr_808,“Membre”
-fr_809,“Leader”
+fr_807,血盟名稱
+fr_808,人數
+fr_809,盟主名稱

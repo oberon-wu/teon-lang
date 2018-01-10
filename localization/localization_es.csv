@@ -652,7 +652,7 @@ es_650,"Pago verificado. Compruébalo."
 es_651,"El sistema intentará verificar la compra fallida anterior (hasta 3 veces) si realizas otra compra."
 es_652,"No se ha completado el proceso de pago. Comprueba el estado de la cuenta vinculada."
 es_653,"*La consigna es irreversible. Revisa el precio."
-es_654,"Conjunto de armadura [%s] --- %s"
+es_654,"Conjunto de armadura"
 es_655,"Vincula tu cuenta antes de realizar un pago."
 es_656,"Bandera de guerra"
 es_657,"Elige un nombre para tu bandera de guerra."
@@ -796,7 +796,7 @@ es_794,"Atacar a monstruos"
 es_795,"Identificar objetos"
 es_796,"Aprender hechizos"
 es_797,"Encantar equipos"
-es_798,"Discard %s x %d ?"
+es_798,"¿Descartar '%d' x'%s'?"
 es_799,月費類型
 es_800,月費到期時間
 es_801,無
@@ -805,6 +805,6 @@ es_803,會員
 es_804,十年
 es_805,封印
 es_806,試用
-es_807,“Nombre del clan”
-es_808,“Miembro”
-es_809,“Líder”
+es_807,血盟名稱
+es_808,人數
+es_809,盟主名稱

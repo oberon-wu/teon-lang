@@ -652,7 +652,7 @@ pt_650,"Pagamento verificado. Por favor, consulte."
 pt_651,"O sistema tentará verificar a sua compra anteriormente não concluída (até 3 veZese) se você fizer outra compra."
 pt_652,"Falha ao concluir o processo de pagamento. Verifique o status da sua conta vinculada."
 pt_653,"*A consignação é irreversível. Verifique o preço com atenção."
-pt_654,"Conjunto de Armadura [%s] --- %s"
+pt_654,"Conjunto de Armadura"
 pt_655,"Vincule sua conta antes de fazer um pagamento."
 pt_656,"Bandeira de guerra"
 pt_657,"Escolha um nome para a sua Bandeira de guerra."
@@ -796,7 +796,7 @@ pt_794,"Atacando Monstros"
 pt_795,"Identificando Itens"
 pt_796,"Aprendendo Encantos"
 pt_797,"Encantando Equipamentos"
-pt_798,"Discard %s x %d ?"
+pt_798,"Descartar ‘%d’ x‘%s’?"
 pt_799,月費類型
 pt_800,月費到期時間
 pt_801,無
@@ -805,6 +805,6 @@ pt_803,會員
 pt_804,十年
 pt_805,封印
 pt_806,試用
-pt_807,“Nome do Clã”
-pt_808,“Membro”
-pt_809,“Líder”
+pt_807,血盟名稱
+pt_808,人數
+pt_809,盟主名稱

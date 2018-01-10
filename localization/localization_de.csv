@@ -652,7 +652,7 @@ de_650,"Zahlung bestätigt. Bitte nachsehen."
 de_651,"Das System versucht, deinen zuvor fehlgeschlagenen Kauf (bis zu dreimal) zu bestätigen, wenn du einen weiteren Kauf durchführst."
 de_652,"ZahlungsproZeses konnte nicht abgeschlossen werden. Bitte prüfe den Status deines verknüpften Kontos."
 de_653,"*Eine Hinterlegung ist unwiderruflich. Bitte prüfe genau, ob der Preis stimmt."
-de_654,"Rüstungssatz [%s] --- %s"
+de_654,Rüstungssatz
 de_655,"Verknüpfe zuerst dein Konto, bevor du eine Zahlung durchführst."
 de_656,Kriegsflagge
 de_657,"Wähle einen Namen für deine Kriegsflagge aus."
@@ -796,7 +796,7 @@ de_794,"Monster angreifen"
 de_795,"Gegenstände identifizieren"
 de_796,"Zaubersprüche erlernen"
 de_797,"Ausrüstung verzaubern"
-de_798,"Discard %s x %d ?"
+de_798,"‚%d‘ x ‚%s‘ verwerfen?"
 de_799,月費類型
 de_800,月費到期時間
 de_801,無
@@ -805,6 +805,6 @@ de_803,會員
 de_804,十年
 de_805,封印
 de_806,試用
-de_807,“Clanname”
-de_808,“Mitglied”
-de_809,“Anführer”
+de_807,血盟名稱
+de_808,人數
+de_809,盟主名稱
