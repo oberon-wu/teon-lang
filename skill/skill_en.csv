@@ -46,7 +46,7 @@ en_44,Sunburst,"Cause fiery explosions on target, dealing a huge amount of damag
 en_45,Weakness,"Chance to lower the target's close combat physical ATK damage and hit rate. Casting this spell causes your Lawful value to decrease.\nLearning requirement:\nMage:Level 24\nElf:Level 48."
 en_46,"Bless Weapon","Empower target's weapon by casting a blessing spell on it. This increases the target's DMG and hit rate.\nLearning requirement:\nMage:Level 24\nElf:Level 48."
 en_47,"Healing Pledge","Heal all Clan members on the screen.\nLearning requirement:\nMage:Level 28."
-en_48,Freeze,"Deal damage on the target, with the possibility of freezing them for 10 secs. When frozen, the target cannot be attacked and cannot move.\nLearning requirement:\nMage:Level 28."
+en_48,Freeze,"Deal damage on the target, with the possibility of freezing them for 5 secs. When frozen, the target cannot be attacked and cannot move.\nLearning requirement:\nMage:Level 28."
 en_49,"Summon Monster","Summon monsters that fight for you. The number of monsters summoned depends on the spell caster’s level of charisma. The spell caster’s level affects the types of monsters summoned. Casting this spell causes your Lawful value to decrease by 10.\nLearning requirement:\nMage:Level 28."
 en_50,"Holy Walk","Empower the spell caster's own feet to increase movement speed.\nLearning requirement:\nMage:Level 28."
 en_51,Tornado,"Summon a strong whirlwind, dealing damage on all enemies within 2 units of distance from the spell caster.\nLearning requirement:\nMage:Level 28."

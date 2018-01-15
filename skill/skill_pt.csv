@@ -46,7 +46,7 @@ pt_44,"Raio de Sol","Causa explosões de fogo no alvo, causando muito dano.\nReq
 pt_45,Fraqueza,"Este feitiço pode reduzir o dano de ATQ físico a queima-roupa e a taxa de acerto do alvo. Fazer este feitiço reduz 10 pontos do seu valor Legal.\nRequisito de aprendizado:\nMago:Nível 24\nElfo:Nível 48."
 pt_46,"Abençoar Arma","Dá força à arma do alvo fazendo um feitiço de bênção nela. Isso aumenta o DAN e taxa de acerto do alvo.\nRequisito de aprendizado:\nMago:Nível 24\nElfo:Nível 48."
 pt_47,"Promessa de Cura","Cura todos os membros da Guilda na tela.\nRequisito de aprendizado:\nMago:Nível 28."
-pt_48,Congelar,"Causa dano no alvo, com possibilidade de congelar eles por 10 segs. Ao estar congelado, o alvo não pode ser atacado e mover-se.\nRequisito de aprendizado:\nMago:Nível 28."
+pt_48,Congelar,"Causa dano no alvo, com possibilidade de congelar eles por 5 segs. Ao estar congelado, o alvo não pode ser atacado e mover-se.\nRequisito de aprendizado:\nMago:Nível 28."
 pt_49,"Invocar Monstro","Convoca monstros que lutam por você. O número de monstros convocados depende do nível de carisma de quem faz o feitiço. O nível de quem faz o feitiço influencia os tipos de monstros convocados. Fazer este feitiço reduz 10 pontos do seu valor Legal.\nRequisito de aprendizado:\nMago:Nível 28."
 pt_50,"Caminhada Sagrada","Dá força ao pé de quem fez o feitiço para aumentar a velocidade de movimento.\nRequisito de aprendizado:\nMago:Nível 28."
 pt_51,Tornado,"Convoca um forte redemoinho, causando dano em todos os inimigos dentro de 2 unidades de distância de quem fez o feitiço.\nRequisito de aprendizado:\nMago:Nível 28."

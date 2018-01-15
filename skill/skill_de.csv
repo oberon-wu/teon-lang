@@ -46,7 +46,7 @@ de_44,Sonnenschein,"Erzeugt feurige Explosionen am Ziel und fügt erheblichen Sc
 de_45,Schwäche,"Dieser Zauber kann den physischen ATK-Schaden sowie die Trefferquote des Ziels im Nahkampf verringern. Einsatz diesen Zaubers verringert Rechtmäßigkeitspunkte um 10.\nAnforderung:\nMagier:Ebene 24\nElf:Ebene 48."
 de_46,"Waffe segnen","Verleiht den Waffen des Ziels Kraft durchs Segenszauber. Erhöht DMG und Trefferquote des Ziels.\nAnforderung:\nMagier:Ebene 24\nElf:Ebene 48."
 de_47,Heilversprechen,"Heilt alle Gildenmitglieder auf dem Bildschirm.\nAnforderung:\nMagier:Ebene 28."
-de_48,Einfrieren,"Fügt dem Ziel Schaden zu. Chance auf Einfrieren für 10 s. Wenn Eingefroren, kann Ziel nicht angegriffen oder bewegt werden.\nAnforderung:\nMagier:Ebene 28."
+de_48,Einfrieren,"Fügt dem Ziel Schaden zu. Chance auf Einfrieren für 5 s. Wenn Eingefroren, kann Ziel nicht angegriffen oder bewegt werden.\nAnforderung:\nMagier:Ebene 28."
 de_49,"Monster beschwören","Beschwört Monster, dass für dich kämpft. Anzahl der beschworenen Monster abhängig vom Charismalevel des Zaubernden. Level des Zaubernden bestimmt Typ der beschworenen Monster. Einsatz dieses Zaubers verringert Rechtmäßigkeitspunkte um 10.\nAnforderung:\nMagier:Ebene 28."
 de_50,"Heiliger Weg","Verleiht Füßen des Zaubernden Kraft, um Bewegungsgeschwindigkeit zu erhöhen.\nAnforderung:\nMagier:Ebene 28."
 de_51,Tornado,"Beschwört starken Wirbelwind, der alle Feinde im Umkreis von 2 Einheiten vom Zaubernden Schäden zufügt.\nAnforderung:\nMagier:Ebene 28."
