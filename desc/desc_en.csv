@@ -246,7 +246,7 @@ en_244,"A gift from Olivia. You can open this gift box and receive resources as 
 en_245,"Sky Island has been tainted with an evil aura. Olivia sent out a distress signal to Edin in hopes that someone would come and save the island. Use Light of Hope to follow the distress signal and go to the troubled island."
 en_246,"The light of protection you receive after praying at the Parth Temple. It allows you to stay in Sky Island; however, as time passes by, the light will fade until it completely vanishes.\nNote: Zese can send you to Sky Island (Conquered)"
 en_247,"A ring that brings hope and peace. If the wearer already believes in Teon and has the Monthly Oath, they'll receive Teon's blessing, increasing maximum basic carrying capacity by 15%."
-en_248,"Powerful weapon that belonged to Zese. Use it to fend off enemy attacks. 
+en_248,"Powerful weapon that belonged to Zese. Use it to fend off enemy attacks.
 Quest Item"
 en_249,"Limited to the enhancement quest. Can only be used to enhance the quest weapon."
 en_250,"In the name of Maria the God of Death, this rune stone protects the bearer from the unholy aura inside the Cave of Evil."
@@ -286,8 +286,8 @@ en_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
 en_284,"This pass is needed to enter Sandwood Castle\nQuest item"
 en_285,"An arrow with toxic substains applied at the tip\nQuest item"
 en_286,"A spear with toxic substains applied at the tip\nQuest item"
-en_287,梅林大法師研制的神秘魔法藥水，可重置50等後的獎勵屬性點，每個角色僅可重置3點。
-en_288,保護飾品在強化時，若是超過安定值並且強化失敗，飾品裝備的強化等級歸0，裝備不會被銷毀。
+en_287,"A magical potion created by the great mage Merlin. It can reset a status point gained after level 50. Each character can only reset their points up to 3 times."
+en_288,"Protect an accessory from being destoryed when an enchanting process fails."
 en_289,NULL
 en_290,NULL
 en_291,NULL
@@ -501,7 +501,7 @@ en_498,"""With my shield and legion, I serve and protect my country!""\n-Crimson
 en_499,"Blade of hopes of peace. "
 en_500,"A pair of leather gauntlets made by an elf artisan."
 en_501,"Equipping this helm allows you to use Enchant Mighty, Create Magical Weapon and Detection"
-en_502,"A mysterious crystal engraved with ancient writings of Elves. Contains amazing magical powers!\nCategory: Level 4. Skill (Class)\nEffect: Chance to lower target’s AC by 50%% according to your own level.\nLearning requirement:\nElf: Level 40"
+en_502,"A mysterious crystal engraved with ancient writings of Elves. Contains amazing magical powers!\nCategory: Level 4. Skill (Class)\nEffect: Has a chance to lower target’s elemental resistance to your own elemental type by 50%.\nLearning requirement:\nElf: Level 40"
 en_503,"This is a horrible staff which can make people confused. Beleth was tempted by the staff when he was secretly practicing dark magic and became extremely evil. MP recovery will be increased.  "
 en_504,"In order to fight against the invasion of orcs, the Elves' master blacksmith found this precious material from the Drake’s Hill and successfully forged the Mail Breaker. Cause extra damage to the undead."
 en_505,"A mysterious scroll with extraordinary power that can strengthen fire items "
@@ -583,7 +583,7 @@ en_580,"The sharp Scatha’s claw is a rare and high quality material. "
 en_581,"Ordinary leather gauntlets"
 en_582,"A sharp great sword with breathtaking power"
 en_583,"An ordinary iron helmet with sorcery of protection.\n Set Effect(s):  AC -3"
-en_584,"This precious spell book contains the spells of Gods and demons. \n Category: Skill level 6 (Common) \n Effect: Turn targeted corpse into a zombie. The zombie will follow and help the spell caster. \n Learning requirement: \n Mage: Level 24 \n Elf: Level 48"
+en_584,"This precious spell book contains the spells of Gods and demons. \n Category: Skill level 6 (Common) \n Effect: Create a puppet from the target, which will follow and support the spell caster. \n Learning requirement: \n Mage: Level 24 \n Elf: Level 48"
 en_585,"A black key"
 en_586,"Essence of a golem's soul"
 en_587,"Earth crystal originated from the blessings of the Goddess of Moon contains earth attributes! \n Category: Skill level 4 (Class) \n Effect: Chance to make opponent unable to attack any target for 6 secs.\n Learning requirement: \n Elf: Level 40"
@@ -778,7 +778,7 @@ en_774,"This belt is badly damaged, and the energy within has become very unstab
 en_775,"A ferry ticket for one"
 en_776,"A pair of leather boots"
 en_777,"These rare magic books came from Teon's blessings, they contain advanced magic teachings. \n Category: Skill level 3 (Class) \n Effect: Summon lightning and storms to attack your enemy within one unit distance from casting target. \n Learning requirement: \n Mage: Level 36"
-en_778,"This precious enchanting scroll can be used to strengthen and upgrade armor."
+en_778,"This precious enchanting scroll can be used to strengthen and upgrade armor.\nNo extra effects when enchanting an item with an enchantment level 6 or above."
 en_779,"An ordinary sapphire"
 en_780,"This amulet is badly damaged, and the energy within has become very unstable.	"
 en_781,"Wind crystals came from the Moon Goddess's blessings, which contain wind attributes. \n Category: Skill level 5 (Class) \n Effect: Chance to make target lose ability to evade range attacks for a period of time. \n Learning requirement: \n Elf: Level 50"
@@ -1083,3 +1083,4 @@ en_1079,"A considerable amount of food\nQuest Item"
 en_1080,"A creepy magic stone box"
 en_1081,"Written Oath between the world and its creator - TEON"
 en_1082,"Ancient coin made from platinum, that you can trade with merchants"
+en_1083,"This precious enchanting scroll can be used to strengthen and upgrade weapons.\nNo extra effects when enchanting an item with an enchantment level 7 or above."
