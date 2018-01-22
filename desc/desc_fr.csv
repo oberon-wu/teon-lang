@@ -286,8 +286,8 @@ fr_283,"Peau d’homme lézard, du cuir de qualité pour une veste chaude. Objet
 fr_284,"Ce laissez-passer est nécessaire pour entrer dans le château de Sandwood\nObjet de quête"
 fr_285,"Une flèche avec des substances toxiques sur la pointe\nObjet de quête"
 fr_286,"Une lance avec des substances toxiques sur la pointe\nObjet de quête"
-fr_287,梅林大法師研制的神秘魔法藥水，可重置50等後的獎勵屬性點，每個角色僅可重置3點。
-fr_288,保護飾品在強化時，若是超過安定值並且強化失敗，飾品裝備的強化等級歸0，裝備不會被銷毀。
+fr_287,"Une potion magique créée par le grand Mage Merlin. Elle peut réinitialiser un point d'état gagné après le niveau 50. Chaque personne ne peut réaliser ses points que jusqu'à 3 fois."
+fr_288,"Empêche un accessoire d'être détruit quand un processus d'enchantement échoue."
 fr_289,NULL
 fr_290,NULL
 fr_291,NULL
@@ -501,7 +501,7 @@ fr_498,"Avec mon bouclier et ma légion, je sers et je protège mon pays !\n- S
 fr_499,"Lames d'espoir de paix. "
 fr_500,"Des gantelets en cuir créés par un artisan elfe."
 fr_501,"S'équiper de ce heaume vous permet d'utiliser « enchantement puissant », « créer une arme magique » et « détection »."
-fr_502,"Le cristal mystérieux sur lequel sont gravés d'anciens écrits elfiques contient des pouvoirs magiques incroyables !\nCatégorie : niveau de compétence 4 (Classe)\nEffet : une chance de réduire la CA de la cible de 50%% selon votre niveau.\nPrérequis d'apprentissage : \nElfe : niveau 40"
+fr_502,"Un mystérieux cristal sur lequel sont gravées des anciennes écritures elfiques.\nContient des pouvoirs magiques incroyables !\nCatégorie : niveau 4. Compétence (Classe)\nEffet : a une chance de faire baisser la résistance à l'élémentaire de la cible à votre propre type d'élémentaire de 50 %.\nCondition d'apprentissage :\nElfe : niveau 40"
 fr_503,"C'est un horrible bâton qui peut désorienter les gens. Beleth fut tenté par le bâton lorsqu'il pratiquait la magie noire en secret et il devint extrêmement maléfique. La récupération des PM augmentera. "
 fr_504,"Afin de combattre l'invasion des orques, le maître forgeron des elfes trouva ce matériau précieux dans la colline de Drake et créa le destructeur de maille qui permet d'infliger des dégâts supplémentaires aux morts-vivants."
 fr_505,"Le parchemin mystérieux doté d'un pouvoir extraordinaire qui peut renforcer les objets de feu. "
@@ -583,7 +583,7 @@ fr_580,"Le croc tranchant de Scata est un matériau rare et de grande qualité. 
 fr_581,"Gantelets en cuir ordinaires."
 fr_582,"Une grande épée tranchante dotée d'un pouvoir à couper le souffle."
 fr_583,"Un heaume en fer ordinaire doté d'une protection de sorcellerie.\nParamétrer effet(s) : AC -3"
-fr_584,"Ce livre de sorts précieux contient les sorts des dieux et des démons.\nCatégorie : niveau de compétence 6 (Commun) \nEffet : transforme le corps ciblé en zombie. Le zombie suivra et aidera le lanceur du sort.\nPrérequis d'apprentissage :  \nMage : niveau 24 \nElfe : niveau 48"
+fr_584,"Ce livre de sorts précieux contient les sorts des dieux et des démons.\nCatégorie : niveau de compétence 6 (Commun) \nEffet : Crée une poupée à partir de la cible, qui suivra et soutiendra le lanceur de sort.\nPrérequis d'apprentissage :  \nMage : niveau 24 \nElfe : niveau 48"
 fr_585,"Une clé noire."
 fr_586,"Essence d'âme de golem."
 fr_587,"Le cristal de terre provient de la bénédiction de la déesse de la lune et contient des attributs de terre !\nCatégorie : niveau de compétence 4 (Classe)\nEffet : une chance d'empêcher l'adversaire d'attaquer n'importe quelle cible pendant 6 s.\nPrérequis d'apprentissage :  \nElfe : niveau 40"
@@ -777,7 +777,7 @@ fr_774,"Son pouvoir est très instable, à cause des dégâts qu'elle a subis."
 fr_775,"Un ticket de ferry pour une personne."
 fr_776,"Bottes en cuir souple."
 fr_777,"Ces livres de magie rares proviennent de la bénédiction de Teon. Ils contiennent des enseignements magiques avancés. \nCatégorie : niveau de compétence 3 (Classe)\nEffet : invoquer foudre et orages pour attaquer vos ennemis à une distance d'une unité de la cible du sort.\nPrérequis d'apprentissage :  \nMage : niveau 36"
-fr_778,"Ce parchemin renforce et améliore l'armure."
+fr_778,"Ce parchemin renforce et améliore l'armure.\nAucun effet supplémentaire lors de l'enchantement d'un objet avec un enchantement de niveau 6 ou supérieur."
 fr_779,"Un saphir ordinaire."
 fr_780,"Le pouvoir de cette amulette délabrée est très instable."
 fr_781,"Les cristaux de vent proviennent de la bénédiction de la déesse de la lune et contiennent des attributs de vent.\nCatégorie : niveau de compétence 5 (Classe)\nEffet : une chance de faire perdre à la cible sa capacité d'esquiver les attaques à distance pendant un certain temps.\nPrérequis d'apprentissage :  \nElfe : niveau 50"
@@ -1083,3 +1083,4 @@ fr_1079,"Une quantité considérable de nourriture.\nObjet de quête"
 fr_1080,"Une boîte de pierres magiques et inquiétantes."
 fr_1081,"Un serment écrit entre le monde et son créateur - TEON."
 fr_1082,"Ancienne pièce en platine que vous pouvez échanger auprès des marchands."
+fr_1083,"Ce parchemin précieux renforce et améliore les armes.\nAucun effet supplémentaire lors de l'enchantement d'un objet avec un enchantement de niveau 7 ou supérieur."
