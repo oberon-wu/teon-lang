@@ -246,7 +246,7 @@ es_244,"Un regalo de Olivia. Puedes abrir esta caja regalo y recibir recursos co
 es_245,"Isla del Cielo está corrompida por un aura maléfica. Olivia envió una señal de auxilio a Edin con la esperanza de que alguien acudiera a salvar la isla. Usa la Luz de esperanza para seguir la señal de auxilio y acude a la isla en peligro."
 es_246,"La luz de la protección que recibes después de rezar en el Templo de Parth. Te permite permanecer en la Isla del Cielo; no obstante, a medida que pasa el tiempo, la luz se atenúa hasta desaparecer por completo.\nNota: Zese puede enviarte a la Isla del Cielo (conquistado)"
 es_247,"Un anillo que trae la paz y la esperanza. Si el portador ya cree en Teon y tiene el juramento mensual, recibirá la bendición de Teon, lo que aumentará la capacidad de carga básica máxima en un 15%."
-es_248,"Arma poderosa que pertenecía a Zese. Se usa para desviar ataques enemigos. 
+es_248,"Arma poderosa que pertenecía a Zese. Se usa para desviar ataques enemigos.
 Objeto de misión"
 es_249,"Se limita a la misión de mejora. Solo se puede usar para mejorar el arma de misión."
 es_250,"En nombre de Maria el Dios de la Muerte, esta piedra de runa protege a su portador del aura impía del interior de la Cueva del Mal."
@@ -286,8 +286,8 @@ es_283,"Piel de lagarto, un buen cuero para hacer chaquetas abrigadas.\nArtícul
 es_284,"Este pase es necesario para acceder al Castillo de Sandwood.\nArtículo de misión"
 es_285,"Una flecha con sustancias tóxicas aplicadas en la punta.\nArtículo de misión"
 es_286,"Una lanza con sustancias tóxicas aplicadas en la punta.\nArtículo de misión"
-es_287,梅林大法師研制的神秘魔法藥水，可重置50等後的獎勵屬性點，每個角色僅可重置3點。
-es_288,保護飾品在強化時，若是超過安定值並且強化失敗，飾品裝備的強化等級歸0，裝備不會被銷毀。
+es_287,"Una poción mágica creada por el gran mago Merlín. Puede restablecer un punto de estado obtenido después del nivel 50. Cada personaje solo puede restablecer sus puntos un máximo de 3 veces."
+es_288,"Impide la destrucción de un accesorio cuando falla el proceso de encantamiento."
 es_289,NULL
 es_290,NULL
 es_291,NULL
@@ -501,7 +501,7 @@ es_498,"¡Con mi escudo y legión, serviré y protegeré a mi país!\nJuramento 
 es_499,"Hoja de esperanza de paz. "
 es_500,"Un par de guanteletes de cuero fabricados por un artesano elfo."
 es_501,"Equipar este yelmo permite usar encantamiento poderoso, crear arma mágica y detección."
-es_502,"¡El misterioso cristal grabado con escrituras antiguas de elfos contiene sorprendentes poderes mágicos! \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Probabilidad de reducir la PR del objetivo un 50%% en función de tu propio nivel.  \n Requisito de aprendizaje: \n Elfo: Nivel 40"
+es_502,"Un misterioso cristal grabado con escrituras ancestrales de los elfos. Contiene poderes mágicos asombrosos.\nCategoría: nivel 4. Habilidad (clase)\nEfecto: Tiene una probabilidad de reducir la resistencia elemental del objetivo a tu propio tipo elemental en un 50%.\nRequisito de aprendizaje:\nElfo: nivel 40"
 es_503,"Es un bastón horrible que puede confundir a las personas. Beleth experimentó la tentación del bastón cuando practicaba magia oscura en secreto y se volvió extremadamente malvado. Aumentará la recuperación de PM.  "
 es_504,"Para luchar contra la invasión de los orcos, el maestro herrero elfo encontró este material precioso en la colina del Draco y consiguió forjar el Perforador de malla, que inflige daño adicional a los no muertos."
 es_505,"Pergamino misterioso con un extraordinario poder que puede fortalecer objetos de fuego. "
@@ -583,7 +583,7 @@ es_580,"La afilada garra de Scatha es un material raro de alta calidad. "
 es_581,"Guanteletes de cuero ordinarios."
 es_582,"Una gran espada afilada con un poder sobrecogedor."
 es_583,"Un cinturón de hierro ordinario con hechicería de protección.\n Efecto(s) de conjunto: PR -3"
-es_584,"Este valioso libro de hechizos contienen conjuros de dioses y demonios. \n Categoría: Habilidad de nivel 6 (común) \n Efecto: Convierte el cadáver objetivo en un zombi que seguirá y ayudará al lanzador del hechizo. \n Requisito de aprendizaje: \n Mago: Nivel 24 \n Elfo: Nivel 48"
+es_584,"Este valioso libro de hechizos contienen conjuros de dioses y demonios. \n Categoría: Habilidad de nivel 6 (común) \n Efecto: Crea una marioneta del objetivo que sigue y ayuda al lanzador del hechizo. \n Requisito de aprendizaje: \n Mago: Nivel 24 \n Elfo: Nivel 48"
 es_585,"Una llave negra."
 es_586,"Esencia de alma de gólem."
 es_587,"¡El cristal de tierra originado a partir de las bendiciones de la Diosa de la Luna contiene atributos de tierra! \n Categoría: Habilidad de nivel 4 (clase) \n Efecto: Probabilidad de hacer que el oponente no pueda atacar a ningún objetivo durante 6 segundos.\n Requisito de aprendizaje: \n Elfo: Nivel 40"
@@ -777,7 +777,7 @@ es_774,"Su poder es muy inestable, ya que ha sufrido daños."
 es_775,"Un billete de ferry para uno."
 es_776,"Botas de cuero suave."
 es_777,"Estos libros de hechizos raros provienen de las bendiciones de Teon y contienen enseñanzas mágicas avanzadas. \n Categoría: Habilidad de nivel 3 (clase) \n Efecto: Invoca relámpagos y tormentas para atacar a tu enemigo dentro de una unidad de distancia del objetivo de lanzamiento. \n Requisito de aprendizaje: \n Mago: Nivel 36"
-es_778,"Este pergamino fortalece y mejora la armadura."
+es_778,"Este pergamino fortalece y mejora la armadura.\nKNo existen efectos adicionales si se encanta un objeto de nivel de encantamiento 6 o superior."
 es_779,"Un zafiro ordinario."
 es_780,"El poder de este amuleto está dilapidado y es inestable."
 es_781,"Los cristales de viento provienen de la bendición de la Diosa de la Luna, que contiene atributos de viento. \n Categoría: Habilidad de nivel 5 (clase) \n Efecto: Probabilidad de hacer que el objetivo pierda su habilidad de evasión de ataques lejanos durante un periodo de tiempo. \n Requisito de aprendizaje: \n Elfo: Nivel 50"
@@ -1082,3 +1082,4 @@ es_1079,"Una cantidad considerable de comida.\nObjeto de misión"
 es_1080,"Una caja de piedra mágica escalofriante."
 es_1081,"Juramento escrito entre el mundo y su creador - TEON."
 es_1082,"Una moneda antigua hecha de platino que puedes intercambiar con los comerciantes."
+es_1083,"Este valioso pergamino fortalece y mejora tus armas.\nNo existen efectos adicionales si se encanta un objeto de nivel de encantamiento 7 o superior."
