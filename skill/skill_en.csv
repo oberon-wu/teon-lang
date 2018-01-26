@@ -84,7 +84,7 @@ en_82,"Solid Carriage","Increase own evasion rate. It only works when a shield i
 en_83,"Counter Barrier","Has a chance to reflect close combat physical damage received back to the attacked. This skill can only be used when two-handed sword type weapons are equipped.\nLearning requirement:\nKnight:Level 50."
 en_84,"True Target","Mark a non-allied target for 45 secs, during which its location will be revealed to the spell caster's allies. Marked targets will suffer additional damage from attacks.\nLearning requirement:\nRoyal:Level 15."
 en_85,"Glowing Aura","Increase MR and hit rate for yourself and friendly units. This status will remove Shining Aura.\nLearning requirement:\nRoyal:Level 40."
-en_86,"Shining Aura","Increase 8 AC for yourself, friendly units and Clan members. This status will remove Inspiring Aura.\nLearning requirement:\nRoyal:Level 55."
+en_86,"Shining Aura","Increase 8 AC for yourself, friendly units and Clan members. This status will remove Glowing Aura.\nLearning requirement:\nRoyal:Level 55."
 en_87,"Call Clan","Summon members from the same Clan to your current position.\nLearning requirement:\nRoyal:Level 30."
 en_88,"Brave Aura","Increase physical ATK by 5 points for yourself and friendly units.\nLearning requirement:\nRoyal:Level 50."
 en_89,"Learn Clan","Teleport yourself to a specific member from the same Clan.\nLearning requirement:\nRoyal:Level 45."
