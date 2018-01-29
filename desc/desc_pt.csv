@@ -289,14 +289,14 @@ pt_286,"Uma lança com substâncias tóxicas aplicadas na ponta\nItem de missão
 pt_287,"Uma poção mágica criada pelo grande mago Merlin. Ela pode redefinir um ponto de status obtido após o nível 50. Cada personagem só pode redefinir seus pontos até 3 vezes."
 pt_288,"Protege um acessório contra ser destruído quando um processo de encantamento falhar."
 pt_289,"極為珍貴的絲綢。\n活動道具"
-pt_290,NULL
-pt_291,NULL
-pt_292,NULL
-pt_293,NULL
-pt_294,NULL
-pt_295,NULL
-pt_296,NULL
-pt_297,NULL
+pt_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
+pt_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
+pt_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
+pt_293,"燃放煙花後獲得美好的祝願。\n任務道具"
+pt_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+pt_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+pt_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+pt_297,"神秘的物品，可用於購回死亡經驗"
 pt_298,NULL
 pt_299,NULL
 pt_300,NULL

@@ -289,14 +289,14 @@ es_286,"Una lanza con sustancias tóxicas aplicadas en la punta.\nArtículo de m
 es_287,"Una poción mágica creada por el gran mago Merlín. Puede restablecer un punto de estado obtenido después del nivel 50. Cada personaje solo puede restablecer sus puntos un máximo de 3 veces."
 es_288,"Impide la destrucción de un accesorio cuando falla el proceso de encantamiento."
 es_289,"極為珍貴的絲綢。\n活動道具"
-es_290,NULL
-es_291,NULL
-es_292,NULL
-es_293,NULL
-es_294,NULL
-es_295,NULL
-es_296,NULL
-es_297,NULL
+es_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
+es_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
+es_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
+es_293,"燃放煙花後獲得美好的祝願。\n任務道具"
+es_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+es_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+es_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+es_297,"神秘的物品，可用於購回死亡經驗"
 es_298,NULL
 es_299,NULL
 es_300,NULL
