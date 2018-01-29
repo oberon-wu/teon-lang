@@ -289,14 +289,14 @@ de_286,"Ein Speer mit giftiger Substanz, die auf der Spitze aufgetragen wurde.\n
 de_287,"Dieser Zaubertrank wurde vom großen Magier Merlin erschaffen und kann einen nach Level 50 erhaltenen Statuspunkt zurücksetzen. Jeder Charakter kann nur bis zu 3 Punkte zurücksetzen."
 de_288,"Schützt einen Gegenstand vor der Zerstörung, falls die Verzauberung fehlschlägt."
 de_289,"極為珍貴的絲綢。\n活動道具"
-de_290,"炫彩煙花"
-de_291,"煙花"
-de_292,"慶典煙花"
-de_293,"美好的祝願（任務）"
-de_294,NULL
-de_295,NULL
-de_296,NULL
-de_297,NULL
+de_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
+de_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
+de_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
+de_293,"燃放煙花後獲得美好的祝願。\n任務道具"
+de_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+de_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+de_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。不可同時存在多種經驗倍數狀態，使用新狀態會替換舊狀態，死亡時清空該狀態"
+de_297,"神秘的物品，可用於購回死亡經驗"
 de_298,NULL
 de_299,NULL
 de_300,NULL
