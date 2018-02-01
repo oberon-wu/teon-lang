@@ -27,7 +27,7 @@ de_25,Waffenpause,"Verwendet Magie, um Waffen des Ziels zu umschlingen und mögl
 de_26,Vampirberührung,"Absorbiert LP des Ziels und fügt sie deinen hinzu. Einsatz dieses Zaubers verringert deine Rechtmäßigkeitspunkte um 5.\nAnforderung:\nMagier:Ebene 16\nElf:Ebene 32."
 de_27,Langsam,"Ändert Umgebung um Feinde mit Windkraft. Chance, alle Geschwindigkeitstypen des Ziels zu verringern.\nAnforderung:\nMagier:Ebene 16\nElf:Ebene 32."
 de_28,Erdgefängnis,"Erzeugt gigantische Dornensträucher, die aus dem Untergrund wachsen und sich um das Ziel legen. Fügt dem Ziel und Feinden im Abstand von 1 Einheit Schaden zu.\nAnforderung:\nMagier:Ebene 16\nElf:Ebene 32."
-de_29,Gegenzauber,"Erzeugt magisches Schutzschild um dich. Schützt dich vor 1 magischen Angriff. Hält für 16 s.\nAnforderung:\nMagier:Ebene 16\nElf:Ebene 32."
+de_29,Gegenzauber,"Erzeugt magisches Schutzschild um dich. Schützt dich vor 1 magischen Angriff. Hält für 5 s.\nAnforderung:\nMagier:Ebene 16\nElf:Ebene 32."
 de_30,Meditation,"Versetzt dich in Meditation, in der sich deine MP schneller als gewöhnlich erholen. Jedoch, ist dieser nicht länger wirksam, wenn du dich bewegst, einen Zauberspruch einsetzt oder Kampfhandlungen durchführst.\nAnforderung:\nMagier:Ebene 16\nElf:Ebene 32."
 de_31,"Fluch: Lähmen","Beschwört Mumie, die aus der Erde steigt und deine Feinde angreift. Chance, Ziel zu lähmen. Einsatz dieses Zaubers verringert deine Rechtmäßigkeitspunkte um 500.\nAnforderung:\nMagier:Ebene 20\nElf:Ebene 40."
 de_32,"Blitzschlag rufen","Beschwört Blitze, um deine Feinde zu zerschmettern. Fügt Ziel erheblichen Schaden zu.\nAnforderung:\nMagier:Ebene 20\nElf:Ebene 40."
