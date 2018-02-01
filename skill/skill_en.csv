@@ -27,7 +27,7 @@ en_25,"Weapon Break","Use magic to wrap around targets' weapons, possibly damagi
 en_26,"Vampiric Touch","Absorb target’s HP and add it to your own. Using this spell causes your Lawful value to decrease by 5.\nLearning requirement:\nMage:Level 16\nElf:Level 32."
 en_27,Slow,"Change the environment around the enemies with wind power, with a chance to reduce all speed types of the target.\nLearning requirement:\nMage:Level 16\nElf:Level 32."
 en_28,"Earth Jail","Create giant brambles that sprout from underground and wrap themselves around the target, dealing damage on the target and enemies within one unit distance from them.\nLearning requirement:\nMage:Level 16\nElf:Level 32."
-en_29,"Counter Magic","Cast a protective magical shield around self, protecting self from one magic attack. Last for 16 secs.\nLearning requirement:\nMage:Level 16\nElf:Level 32."
+en_29,"Counter Magic","Cast a protective magical shield around self, protecting self from one magic attack. Last for 5 secs.\nLearning requirement:\nMage:Level 16\nElf:Level 32."
 en_30,Meditate,"Go into meditative state, in which your MP recovery rate is faster than usual. However, this will no longer be effective as soon as you move, cast a spell or perform any battle actions.\nLearning requirement:\nMage:Level 16\nElf:Level 32."
 en_31,"Curse: Paralyze","Summon a mummy to rise from the ground and attack your enemies, with a chance to paralyze target. Casting this spell causes your Lawful value to decrease by 500.\nLearning requirement:\nMage:Level 20\nElf:Level 40."
 en_32,"Call Lightning","Summon lightning to strike down your enemies, dealing serious damage on the target.\nLearning requirement:\nMage:Level 20\nElf:Level 40."

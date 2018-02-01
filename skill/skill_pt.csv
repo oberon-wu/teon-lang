@@ -27,7 +27,7 @@ pt_25,"Quebra de Arma","Usa magia para envolver as armas dos alvos, causando pos
 pt_26,"Toque do Vampiro","Absorve HP do alvo e adiciona ao seu. Usar este feitiço reduz 5 pontos do seu valor Legal.\nRequisito de aprendizado:\nMago:Nível 16\nElfo:Nível 32."
 pt_27,Lento,"Mude o ambiente ao redor dos seus inimigos com poder do vento. Pode reduzir todos os tipos de velocidades do alvo.\nRequisito de aprendizado:\nMago:Nível 16\nElfo:Nível 32."
 pt_28,"Prisão da Terra","Cria arbustos gigantes que germinam do subsolo e abraçam o alvo, causando dano ao alvo e em inimigos a uma unidade de distância dele.\nRequisito de aprendizado:\nMago:Nível 16\nElfo:Nível 32."
-pt_29,"Contra Magia","Convoca um escudo de proteção mágico ao seu redor para proteger de um ataque mágico. Dura 16 segs.\nRequisito de aprendizado:\nMago:Nível 16\nElfo:Nível 32."
+pt_29,"Contra Magia","Convoca um escudo de proteção mágico ao seu redor para proteger de um ataque mágico. Dura 5 segs.\nRequisito de aprendizado:\nMago:Nível 16\nElfo:Nível 32."
 pt_30,Meditação,"Entra em estado de meditação, em que a sua taxa de recuperação de MP é mais rápida que o comum. No entanto, não terá mais efeito assim que você se mover, fizer um feitiço ou qualquer ação de batalha.\nRequisito de aprendizado:\nMago:Nível 16\nElfo:Nível 32."
 pt_31,"Maldição: Paralisia","Convoca uma múmia que surge do chão e ataca seus inimigos. Pode paralisar o alvo. Fazer este feitiço reduz 500 pontos do seu valor Legal.\nRequisito de aprendizado:\nMago:Nível 20\nElfo:Nível 40."
 pt_32,"Invocar Relâmpago","Convoca relâmpago para atacar seus inimigos, causando dano sério no alvo.\nRequisito de aprendizado:\nMago:Nível 20\nElfo:Nível 40."
