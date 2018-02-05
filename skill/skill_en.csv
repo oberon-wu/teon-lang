@@ -78,7 +78,7 @@ en_76,"Absolute Barrier","Create an invincible protective shield for the spell c
 en_77,"Advance Spirit","While active, increase target's max HP and MP by 20%.\nLearning requirement:\nMage:Level 40."
 en_78,"Ice Spike","Summon a swirling snowstorm, dealing damage on enemies within 5 units distance from the spell caster. Has a chance to freeze the target. Casting this spell causes your Lawful value to decrease by 10.\nLearning requirement:\nMage:Level 40."
 en_79,"Shock Stun","May possibly stun the target for a few seconds. This skill can be used only when two-handed swords are equipped.\nLearning requirement:\nKnight:Level 50."
-en_80,"Reduction Armor","Increase AC and reduce the amount of damage received. The higher the level, the greater amount of damage will be reduced.\nLearning requirement:\nKnight:Level 50."
+en_80,"Reduction Armor","Reduce the amount of physical damage received. The higher the character level, the greater amount of damage will be reduced.\nLearning requirement:\nKnight:Level 50."
 en_81,"Bounce Attack","Cause magical spikes to sprout from your armor. Has a chance to damage the weapons of enemies who try to attack you at a close range.\nLearning requirement:\nKnight:Level 60."
 en_82,"Solid Carriage","Increase own evasion rate. It only works when a shield is equipped.\nLearning requirement:\nKnight:Level 50."
 en_83,"Counter Barrier","Has a chance to reflect close combat physical damage received back to the attacked. This skill can only be used when two-handed sword type weapons are equipped.\nLearning requirement:\nKnight:Level 50."
