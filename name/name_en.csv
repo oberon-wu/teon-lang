@@ -207,7 +207,7 @@ en_205,Galen
 en_206,Scarecrow
 en_207,"Elite Skeleton Spear"
 en_208,Kirsten
-en_209,Kell
+en_209,"Kell [Preacher]"
 en_210,"Skeleton Mage"
 en_211,Hen
 en_212,Laura
@@ -1234,13 +1234,13 @@ en_1232,"Special Spirit Crystal (Earth)"
 en_1233,"Special Spirit Crystal (Water)"
 en_1234,"Special Spirit Crystal (Wind)"
 en_1235,"Special Spirit Crystal (Fire)"
-en_1236,福气袋[新]
-en_1237,福气袋[年]
-en_1238,福气袋[快]
-en_1239,福气袋[乐]
-en_1240,年糕
-en_1241,新年礼盒
-en_1242,新年幸运礼盒
+en_1236,"Lucky Pocket [T]"
+en_1237,"Lucky Pocket [E]"
+en_1238,"Lucky Pocket [O]"
+en_1239,"Lucky Pocket [N]"
+en_1240,"Celebration Cake"
+en_1241,"Celebration Gift"
+en_1242,"Sage's Blessing"
 en_1243,红爆竹
 en_1244,新年变形卷轴
 en_1245,快乐变形卷轴
@@ -1593,16 +1593,16 @@ en_1591,"Scroll of Accessory Protection"
 en_1592,"Staff of Gem"
 en_1593,"Bounty Hunter's Badges"
 en_1594,"Staff of Mystics"
-en_1595,如意絲綢
-en_1596,炫彩煙花
-en_1597,煙花
-en_1598,慶典煙花
-en_1599,美好的祝願（任務）
-en_1600,1.2倍經驗物品
-en_1601,1.5倍經驗物品
-en_1602,2倍經驗物品
-en_1603,經驗魔方
-en_1604,傳教士
-en_1605,慶典使者
-en_1606,邪惡地獄犬
+en_1595,"Wishful Silk"
+en_1596,"Firework"
+en_1597,"Firework (Quest)"
+en_1598,"Celebration Firework"
+en_1599,"Best Wishes (Quest)"
+en_1600,"Exp x 120%"
+en_1601,"Exp x 130%"
+en_1602,"Exp x 140%"
+en_1603,"EXP Cube"
+en_1604,"Predicador"
+en_1605,"Celebration Emissary"
+en_1606,"Evil Cerberus"
 en_1607,"Advanced Polymorph Scroll (bound)"

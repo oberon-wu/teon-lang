@@ -207,7 +207,7 @@ de_205,Galen
 de_206,Vogelscheuche
 de_207,Elite-Skelett-Speer
 de_208,Kirsten
-de_209,Kell
+de_209,"Kell [Prediger]"
 de_210,Skelett-Magier
 de_211,Henne
 de_212,Laura
@@ -1234,13 +1234,13 @@ de_1232,"Spezial-Geist-Kristall (Erde)"
 de_1233,"Spezial-Geist-Kristall (Wasser)"
 de_1234,"Spezial-Geist-Kristall (Wind)"
 de_1235,"Spezial-Geist-Kristall (Feuer)"
-de_1236,NULL
-de_1237,NULL
-de_1238,NULL
-de_1239,NULL
-de_1240,NULL
-de_1241,NULL
-de_1242,NULL
+de_1236,"Glückstasche [T]"
+de_1237,"Glückstasche [E]"
+de_1238,"Glückstasche [O]"
+de_1239,"Glückstasche [N]"
+de_1240,"Festtagskuchen"
+de_1241,"Festtagsgeschenk"
+de_1242,"Segnung des Weisen"
 de_1243,NULL
 de_1244,NULL
 de_1245,NULL
@@ -1593,16 +1593,16 @@ de_1591,"Zubehörschutzrolle"
 de_1592,"Stab des Juwels"
 de_1593,"Abzeichen des Kopfgeldjägers"
 de_1594,"Stab der Mystiker"
-de_1595,如意絲綢
-de_1596,炫彩煙花
-de_1597,煙花
-de_1598,慶典煙花
-de_1599,美好的祝願（任務）
-de_1600,1.2倍經驗物品
-de_1601,1.5倍經驗物品
-de_1602,2倍經驗物品
-de_1603,經驗魔方
-de_1604,傳教士
-de_1605,慶典使者
-de_1606,邪惡地獄犬
+de_1595,"Wünschelseide"
+de_1596,"Feuerwerk"
+de_1597,"Feuerwerk (Quest)"
+de_1598,"Festtagsfeuerwerk"
+de_1599,"Beste Wünsche (Quest)"
+de_1600,"120% Erfahrung"
+de_1601,"130% Erfahrung"
+de_1602,"140% Erfahrung"
+de_1603,"Erfahrungswürfel"
+de_1604,"Predicador"
+de_1605,"Festtagsbotschafter"
+de_1606,"Böser Kerberos"
 de_1607,"Erweiterte Rolle der Deformation (Gebunden)"

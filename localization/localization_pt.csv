@@ -780,7 +780,7 @@ pt_778,"Tutoriais"
 pt_779,"Avançado"
 pt_780,"Uploads do Jogador"
 pt_781,"Iniciando Tutoriais em Vídeo"
-pt_782,"Vídeo: %s\nRecomendado para novos jogadores"
+pt_782,"Vídeo: %s\nAltamente recomendado se você estiver jogando o Teon pela primeira vez. Se você quiser assistir novamente os vídeos de tutorial, pode encontrá-los na lista de vídeos."
 pt_783," Pular | Exibir "
 pt_784,"Ir"
 pt_785,"Rejeitar"
@@ -809,18 +809,18 @@ pt_807,"Nome do Clã"
 pt_808,"Membro"
 pt_809,"Líder"
 pt_810,"\f>%sDano de Encanto: %+d\n"
-pt_811,賞金獵人
-pt_812,獵人 :
-pt_813,PK值 :
-pt_814,賞金 :
-pt_815,剩餘追獵次數:
-pt_816,目標 :
-pt_817,剩餘時間:
-pt_818,放棄追獵
-pt_819,追獵目標
-pt_820,規則說明
-pt_821,規則內容
-pt_822,"NORMAL"
-pt_823,冒險區
-pt_824,"%s逃竄到%s(%d,%d),請在%d分鐘內追捕目標。"
-pt_825,"需要消耗%d本被封印的誓約書[15天]才能放監"
+pt_811,"Ordem de Procurado"
+pt_812,"Caçador:"
+pt_813,"Contagem de PK:"
+pt_814,"Recompensa:"
+pt_815,"Contagem de Caçadas:"
+pt_816,"Alvo:"
+pt_817,"Tempo Restante:"
+pt_818,"Desistir"
+pt_819,"Procurado"
+pt_820,"Instruções"
+pt_821,"Instruções"
+pt_822,"Normal "
+pt_823,"PK "
+pt_824,"%s escapou para %s(%d,%d). Cace o seu alvo em %d minutos."
+pt_825,"Para sair da prisão imediatamente, você deve entregar um Juramento Selado x %d."

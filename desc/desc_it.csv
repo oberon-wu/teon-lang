@@ -229,10 +229,10 @@ it_227,"Un prezioso dono natalizio, con la benedizione della Dea della Fortuna"
 it_228,"Una mappa che segnala il luogo del tesoro.Questa potrebbe essere una trappola."
 it_229,"Un frammento della mappa del tesoro. Sembra che nasconda un gran segreto!"
 it_230,"Una mappa che nasconde un gran tesoro: corre voce che si tratti di tutto il bottino del capo dei pirati.Questa potrebbe essere una trappola."
-it_231,新年福氣袋，滿載祝福與願望。
-it_232,農歷腊月，家家戶戶都為歡度新年而制的年糕。
-it_233,一份珍貴的新年禮盒
-it_234,一份珍貴的新年禮盒，藏有幸運女神的祝福。
+it_231,"Tasche fortunate, che contengono grandi fortune e i migliori auguri."
+it_232,"Una torta preparata per la Celebrazione del Nuovo Mondo."
+it_233,"Un prezioso Dono per la celebrazione."
+it_234,"Un prezioso Dono per la celebrazione con la benedizione della Dea della fortuna."
 it_235,新年紅爆竹，人們常常用它驅趕年獸。
 it_236,新年變形卷軸，使用後可變成特殊怪物造型。
 it_237,"Non elimina le maledizioni. Possibilità di ridurre il livello di potenziamento dell'attrezzatura dell'obiettivo."
@@ -243,7 +243,7 @@ it_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮�
 it_242,"Materiale usato per la creazione e per gli incantesimi di ogni tipo di pergamena del polimorfo."
 it_243,"Teon, dio della creazione, avvertiva la bontà degli avventurieri nella Terra di Edin e impregnò l'anello della sua grande potenza."
 it_244,"Un regalo da parte di Olivia. Puoi aprire questa scatola regalo e ricevere risorse ogni volta che il tuo personaggio raggiunge un certo livello."
-it_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo."
+it_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo.\n\n Puoi ottenere tanto oro dai mostri della turbolenta Isola del cielo."
 it_246,"La luce della protezione che ricevi dopo aver pregato nel Tempio di Parth ti permette di rimanere presso l'isola del cielo. Tuttavia, col passare del tempo, la luce si affievolirà fino a sparire.\nN.B.: Zese può inviarti all’isola del cielo (conquistata)"
 it_247,"Un anello che porta pace e speranza. Se chi lo indossa già crede in Teon e possiede il Giuramento mensile, riceverà la benedizione di Teon, che aumenta la sua capacità di trasporto del 15%."
 it_248,"Un'arma potente che apparteneva a Zese. Usala per contrastare gli attacchi nemici.
@@ -288,15 +288,15 @@ it_285,"Una freccia con sostanze tossiche sulla punta\nOggetto della missione"
 it_286,"Una lancia con sostanze tossiche sulla punta\nOggetto della missione"
 it_287,"Una pozione magica creata dal grande mago Merlino. Può ripristinare un punto di stato ottenuto dopo il livello 50. Ogni personaggio può ripristinare i propri punti fino a 3 volte."
 it_288,"Proteggi un accessorio dalla distruzione in caso di fallimento della procedura di incantesimo."
-it_289,"極為珍貴的絲綢。\n活動道具"
-it_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
-it_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
-it_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
-it_293,"燃放煙花後獲得美好的祝願。\n任務道具"
-it_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。死亡時清空該狀態"
-it_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。死亡時清空該狀態"
-it_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。死亡時清空該狀態"
-it_297,"神秘的物品，可用於購回死亡經驗"
+it_289,"Una catasta di seta molto preziosa. \nOggetto d’evento"
+it_290,"Lancia fuochi d’artificio e ottieni una ricompensa."
+it_291,"Lancia fuochi d’artificio. \nOggetto della missione"
+it_292,"Lancia fuochi d’artificio e ottieni  EXP."
+it_293,"Lancia fuochi d’artificio e esprimi un desiderio. \nOggetto della missione"
+it_294,"Una reliquia magica. La tua esperienza acquisita diventerà del 120% dopo aver usato questa reliquia."
+it_295,"Una reliquia magica. La tua esperienza acquisita diventerà del 130% dopo aver usato questa reliquia."
+it_296,"Una reliquia magica. La tua esperienza acquisita diventerà del 140% dopo aver usato questa reliquia."
+it_297,"Una reliquia magica. Puoi recuperare l’esperienza perduta da \fCKell [Predicatore]\f>."
 it_298,NULL
 it_299,NULL
 it_300,NULL
