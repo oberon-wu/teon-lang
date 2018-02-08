@@ -207,7 +207,7 @@ it_205,Galen
 it_206,Spaventapasseri
 it_207,"Lancia di scheletro d'elite"
 it_208,Kirsten
-it_209,Kell
+it_209,"Kell [Predicatore]"
 it_210,"Scheletro mago"
 it_211,Gallina
 it_212,Laura
@@ -1234,13 +1234,13 @@ it_1232,"Cristallo speciale dello spirito (terra)"
 it_1233,"Cristallo speciale dello spirito (acqua)"
 it_1234,"Cristallo speciale dello spirito (vento)"
 it_1235,"Cristallo speciale dello spirito (fuoco)"
-it_1236,NULL
-it_1237,NULL
-it_1238,NULL
-it_1239,NULL
-it_1240,NULL
-it_1241,NULL
-it_1242,NULL
+it_1236,"Tasca fortunata [T]"
+it_1237,"Tasca fortunata [E]"
+it_1238,"Tasca fortunata [0]"
+it_1239,"Tasca fortunata [N]"
+it_1240,"Torta della celebrazione"
+it_1241,"Dono della celebrazione"
+it_1242,"Benedizione del saggio"
 it_1243,NULL
 it_1244,NULL
 it_1245,NULL
@@ -1593,16 +1593,16 @@ it_1591,"Pergamena della protezione di accessori"
 it_1592,"Bastone di gemme"
 it_1593,"Distintivi del cacciatore di taglie"
 it_1594,"Bastone mistico"
-it_1595,如意絲綢
-it_1596,炫彩煙花
-it_1597,煙花
-it_1598,慶典煙花
-it_1599,美好的祝願（任務）
-it_1600,1.2倍經驗物品
-it_1601,1.5倍經驗物品
-it_1602,2倍經驗物品
-it_1603,經驗魔方
-it_1604,傳教士
-it_1605,慶典使者
-it_1606,邪惡地獄犬
+it_1595,"Seta della speranza"
+it_1596,"Fuochi d'artificio"
+it_1597,"Fuochi d'artificio (Missione)"
+it_1598,"Fuochi d'artificio della celebrazione"
+it_1599,"Migliori auguri (Missione)"
+it_1600,"Exp x 120%"
+it_1601,"Exp x 130%"
+it_1602,"Exp x 140%"
+it_1603,"Cubo EXP"
+it_1604,"Predicador"
+it_1605,"Emissario della celebrazione"
+it_1606,"Cerbero malefico"
 it_1607,"Pergamena della deformazione avanzata (vincolata)"

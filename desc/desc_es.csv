@@ -229,10 +229,10 @@ es_227,"Un precioso regalo de Navidad, con la bendición de la Diosa de la Fortu
 es_228,"Un mapa marcado que registra la ubicación del tesoro.También puede ser una trampa."
 es_229,"Un trozo del mapa del tesoro marcado. ¡Parece que oculta un gran secreto en su interior!"
 es_230,"Un mapa marcado que indica un gran tesoro; se dice que es todo lo que tenía el líder pirata.También puede ser una trampa."
-es_231,新年福氣袋，滿載祝福與願望。
-es_232,農歷腊月，家家戶戶都為歡度新年而制的年糕。
-es_233,一份珍貴的新年禮盒
-es_234,一份珍貴的新年禮盒，藏有幸運女神的祝福。
+es_231,"Bolsas de la suerte. En su interior se encuentran grandes fortunas y buenos deseos."
+es_232,"Tarta preparada para la Celebración del Nuevo Mundo."
+es_233,"Un precioso regalo de Celebración."
+es_234,"Un precioso regalo de Celebración, con la bendición de la Diosa de la Fortuna."
 es_235,新年紅爆竹，人們常常用它驅趕年獸。
 es_236,新年變形卷軸，使用後可變成特殊怪物造型。
 es_237,"No elimina maldiciones. Probabilidad de reducir el nivel de mejora del equipo del objetivo."
@@ -243,7 +243,7 @@ es_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮�
 es_242,"Material que se usa en la creación o encantamiento de diferentes pergaminos de mutación."
 es_243,"Teon, el Dios de la Creación, podía percibir la amabilidad de los aventureros de la Tierra de Edin, e imbuyó este anillo con su inmenso poder."
 es_244,"Un regalo de Olivia. Puedes abrir esta caja regalo y recibir recursos como recompensa siempre que tu personaje alcance un determinado nivel."
-es_245,"Isla del Cielo está corrompida por un aura maléfica. Olivia envió una señal de auxilio a Edin con la esperanza de que alguien acudiera a salvar la isla. Usa la Luz de esperanza para seguir la señal de auxilio y acude a la isla en peligro."
+es_245,"Isla del Cielo está corrompida por un aura maléfica. Olivia envió una señal de auxilio a Edin con la esperanza de que alguien acudiera a salvar la isla. Usa la Luz de esperanza para seguir la señal de auxilio y acude a la isla en peligro.\n\n Se puede obtener una gran cantidad de oro de los monstruos de la atribulada Isla del Cielo."
 es_246,"La luz de la protección que recibes después de rezar en el Templo de Parth. Te permite permanecer en la Isla del Cielo; no obstante, a medida que pasa el tiempo, la luz se atenúa hasta desaparecer por completo.\nNota: Zese puede enviarte a la Isla del Cielo (conquistado)"
 es_247,"Un anillo que trae la paz y la esperanza. Si el portador ya cree en Teon y tiene el juramento mensual, recibirá la bendición de Teon, lo que aumentará la capacidad de carga básica máxima en un 15%."
 es_248,"Arma poderosa que pertenecía a Zese. Se usa para desviar ataques enemigos.
@@ -288,15 +288,15 @@ es_285,"Una flecha con sustancias tóxicas aplicadas en la punta.\nArtículo de 
 es_286,"Una lanza con sustancias tóxicas aplicadas en la punta.\nArtículo de misión"
 es_287,"Una poción mágica creada por el gran mago Merlín. Puede restablecer un punto de estado obtenido después del nivel 50. Cada personaje solo puede restablecer sus puntos un máximo de 3 veces."
 es_288,"Impide la destrucción de un accesorio cuando falla el proceso de encantamiento."
-es_289,"極為珍貴的絲綢。\n活動道具"
-es_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
-es_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
-es_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
-es_293,"燃放煙花後獲得美好的祝願。\n任務道具"
-es_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。死亡時清空該狀態"
-es_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。死亡時清空該狀態"
-es_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。死亡時清空該狀態"
-es_297,"神秘的物品，可用於購回死亡經驗"
+es_289,"Un montón de seda preciosa. \nObjeto de evento"
+es_290,"Lanza fuegos artificiales y obtén un objeto aleatorio como recompensa."
+es_291,"Lanza fuegos artificiales. \nObjeto de misión"
+es_292,"Lanza fuegos artificiales y obtén de EXP."
+es_293,"Lanza fuegos artificiales y pide un buen deseo. \nObjeto de misión"
+es_294,"Una reliquia mágica. Su experiencia obtenida se convertirá en 120% después de usar esta reliquia."
+es_295,"Una reliquia mágica. Su experiencia obtenida se convertirá en 130% después de usar esta reliquia."
+es_296,"Una reliquia mágica. Su experiencia obtenida se convertirá en 140% después de usar esta reliquia."
+es_297,"Una reliquia mágica. Puede recuperar la experiencia perdida en \fCKell [Predicador]\f>."
 es_298,NULL
 es_299,NULL
 es_300,NULL

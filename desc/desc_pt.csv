@@ -229,10 +229,10 @@ pt_227,"Um precioso Presente de Natal, com as bênçãos da Deusa da Fortuna"
 pt_228,"Um mapa marcado com a localização de um tesouro.Isso também pode ser uma armadilha."
 pt_229,"Um pedaço do mapa do tesouro marcado. Parece que há um grande segredo escondido nele!"
 pt_230,"Um mapa marcado com um grande tesouro - acredita-se ser tudo que o líder pirata acumulou.Isso também pode ser uma armadilha."
-pt_231,新年福氣袋，滿載祝福與願望。
-pt_232,農歷腊月，家家戶戶都為歡度新年而制的年糕。
-pt_233,一份珍貴的新年禮盒
-pt_234,一份珍貴的新年禮盒，藏有幸運女神的祝福。
+pt_231,"Bolsas da Sorte, existem grandes fortunas e desejos de felicidade dentro delas."
+pt_232,"Bolo preparado para a Celebração do Novo Mundo."
+pt_233,"Um precioso Presente da Celebração."
+pt_234,"Um precioso Presente da Celebração, com as bênçãos da Deusa da Fortuna."
 pt_235,新年紅爆竹，人們常常用它驅趕年獸。
 pt_236,新年變形卷軸，使用後可變成特殊怪物造型。
 pt_237,"Não remove maldições. Chance de reduzir o nível de melhoria do equipamento alvo."
@@ -243,7 +243,7 @@ pt_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮�
 pt_242,"Material usado na criação ou no encantamento de diferentes pergaminhos de polimorfo."
 pt_243,"Teon, o Rei da Criação, pode sentir a bondade dos aventureiros na Terra de Edin e imbuiu este anel com seu grande poder."
 pt_244,"Un regalo da parte di Olivia. Puoi aprire questa scatola regalo e ricevere risorse ogni volta che il tuo personaggio raggiunge un certo livello."
-pt_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo."
+pt_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo.\n\nVocê pode obter muito ouro com os monstros na atormentada Ilha do Céu."
 pt_246,"La luce della protezione che ricevi dopo aver pregato nel Tempio di Parth ti permette di rimanere presso l'isola del cielo. Tuttavia, col passare del tempo, la luce si affievolirà fino a sparire.\nAtenção: Zese pode enviar você para a Ilha do Céu (Conquistada)"
 pt_247,"Um anel que traz esperança e paz. Se a pessoa que usar já acreditar em Teon e possuir o Juramento Mensal, ela receberá a bênção de Teon, aumentando a capacidade de carga básica máxima em 15%."
 pt_248,"Arma poderosa que pertenceu a Zese. Use para repelir ataques inimigos. 
@@ -288,15 +288,15 @@ pt_285,"Uma flecha com substâncias tóxicas aplicadas na ponta\nItem de missão
 pt_286,"Uma lança com substâncias tóxicas aplicadas na ponta\nItem de missão"
 pt_287,"Uma poção mágica criada pelo grande mago Merlin. Ela pode redefinir um ponto de status obtido após o nível 50. Cada personagem só pode redefinir seus pontos até 3 vezes."
 pt_288,"Protege um acessório contra ser destruído quando um processo de encantamento falhar."
-pt_289,"極為珍貴的絲綢。\n活動道具"
-pt_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
-pt_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
-pt_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
-pt_293,"燃放煙花後獲得美好的祝願。\n任務道具"
-pt_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。死亡時清空該狀態"
-pt_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。死亡時清空該狀態"
-pt_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。死亡時清空該狀態"
-pt_297,"神秘的物品，可用於購回死亡經驗"
+pt_289,"Uma pilha de seda muito preciosa.\nItem de Evento"
+pt_290,"Lança um fogo de artifício e obtém um item aleatório como recompensa."
+pt_291,"Lança um fogo de artifício. \nItem de Missão"
+pt_292,"Lança um fogo de artifício e obtém  de EXP."
+pt_293,"Lança um fogo de artifício e faz um desejo. \nItem de Missão"
+pt_294,"Uma relíquia mágica. Sua experiência obtida se tornará 120% depois de usar essa relíquia."
+pt_295,"Uma relíquia mágica. Sua experiência obtida se tornará 130% depois de usar essa relíquia."
+pt_296,"Uma relíquia mágica. Sua experiência obtida se tornará 140% depois de usar essa relíquia."
+pt_297,"Uma relíquia mágica. Pode recuperar experiência perdida no \fCKell [Pregador]\f>."
 pt_298,NULL
 pt_299,NULL
 pt_300,NULL

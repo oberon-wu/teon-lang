@@ -780,7 +780,7 @@ fr_778,"Tutoriels"
 fr_779,"Avancé"
 fr_780,"Téléchargements du joueur"
 fr_781,"Début des tutoriels vidéo"
-fr_782,"Vidéo : %s\nRecommandé pour les nouveaux joueurs"
+fr_782,"Vidéo : %s\nFortement recommandé si vous jouez à Teon pour la première fois. Si vous voulez revoir les tutoriels vidéo, vous pouvez les retrouver dans la liste de vidéos."
 fr_783," Passer | Voir "
 fr_784,"Aller"
 fr_785,"Rejeter"
@@ -809,18 +809,18 @@ fr_807,"Nom du clan"
 fr_808,"Membre"
 fr_809,"Leader"
 fr_810,"\f>%sDégâts de sort : %+d\n"
-fr_811,賞金獵人
-fr_812,獵人 :
-fr_813,PK值 :
-fr_814,賞金 :
-fr_815,剩餘追獵次數:
-fr_816,目標 :
-fr_817,剩餘時間:
-fr_818,放棄追獵
-fr_819,追獵目標
-fr_820,規則說明
-fr_821,規則內容
-fr_822,"NORMAL"
-fr_823,冒險區
-fr_824,"%s逃竄到%s(%d,%d),請在%d分鐘內追捕目標。"
-fr_825,"需要消耗%d本被封印的誓約書[15天]才能放監"
+fr_811,"Ordre de recherche"
+fr_812,"Chasseur :"
+fr_813,"Compte de PK :"
+fr_814,"Prime :"
+fr_815,"Compte de chasse :"
+fr_816,"Cible :"
+fr_817,"Temps restant :"
+fr_818,"Abandonner"
+fr_819,"Recherché"
+fr_820,"Instructions"
+fr_821,"Instructions"
+fr_822,"Normal"
+fr_823,"PK "
+fr_824,"%s s'est échappé vers %s(%d,%d). Veuillez pourchasser votre cible pendant %d minutes."
+fr_825,"Pour quitter la prison immédiatement, vous devez donner Serment cacheté x %d."

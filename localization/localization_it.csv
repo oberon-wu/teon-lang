@@ -780,7 +780,7 @@ it_778,"Tutorial"
 it_779,"Avanzato"
 it_780,"Caricamenti giocatori"
 it_781,"Inizio video tutorial"
-it_782,"Video: %s\nConsigliato per nuovi giocatori"
+it_782,"Video: %s\n Vivamente consigliato in caso di prima partita a Teon. Se desideri completare video tutorial, li trovi sull’elenco dei video."
 it_783,"　Salta | Visualizza "
 it_784,"Vai"
 it_785,"Rifiuta"
@@ -809,18 +809,18 @@ it_807,"Nome clan"
 it_808,"Membro"
 it_809,"Capo"
 it_810,"\f>%sDanno dell’incantesimo: %+d\n"
-it_811,賞金獵人
-it_812,獵人 :
-it_813,PK值 :
-it_814,賞金 :
-it_815,剩餘追獵次數:
-it_816,目標 :
-it_817,剩餘時間:
-it_818,放棄追獵
-it_819,追獵目標
-it_820,規則說明
-it_821,規則內容
-it_822,"NORMALE"
-it_823,冒險區
-it_824,"%s逃竄到%s(%d,%d),請在%d分鐘內追捕目標。"
-it_825,"需要消耗%d本被封印的誓約書[15天]才能放監"
+it_811,"Ordine di cattura"
+it_812,"Cacciatore:"
+it_813,"Calcolo PK:"
+it_814,"Taglia:"
+it_815,"Conteggio caccia:"
+it_816,"Obiettivo:"
+it_817,"Tempo rimasto:"
+it_818,"Arrenditi"
+it_819,"Ricercato"
+it_820,"Istruzioni"
+it_821,"Istruzioni"
+it_822,"Normale "
+it_823,"PK "
+it_824,"%s è scappato a %s(%d,%d). Scova il tuo obiettivo entro %d minuti."
+it_825,"Per abbandonare immediatamente la prigione, devi consegnare il Giuramento sigillato x %d."
