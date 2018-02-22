@@ -229,10 +229,10 @@ fr_227,"Un cadeau de Noël précieux, avec la bénédiction de la déesse de la 
 fr_228,"Une carte qui indique l'emplacement d'un trésor.Cela pourrait également être un piège."
 fr_229,"Un morceau de la carte au trésor. Elle semble détenir un très grand secret !"
 fr_230,"Une carte qui indique l'emplacement d'un gros trésor. Il parait que c'est tout ce que possédait le pirate.Cela pourrait également être un piège."
-fr_231,新年福氣袋，滿載祝福與願望。
-fr_232,農歷腊月，家家戶戶都為歡度新年而制的年糕。
-fr_233,一份珍貴的新年禮盒
-fr_234,一份珍貴的新年禮盒，藏有幸運女神的祝福。
+fr_231,"Paquets porte-bonheur, vous y trouverez richesse et des vœux de bonheur."
+fr_232,"Gâteau préparé pour la fête du Nouveau monde."
+fr_233,"Un gâteau de fête précieux."
+fr_234,"Un cadeau de fête précieux avec la bénédiction de la Déesse de la fortune."
 fr_235,新年紅爆竹，人們常常用它驅趕年獸。
 fr_236,新年變形卷軸，使用後可變成特殊怪物造型。
 fr_237,"Ne retire pas les sorts. Une chance de réduire le niveau d'amélioration de l'équipement de la cible."
@@ -243,7 +243,7 @@ fr_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮�
 fr_242,"Matériau utilisé dans la fabrication ou l'enchantement de différents parchemins de polymorphe."
 fr_243,"Teon, le dieu de la création, a pu sentir la gentillesse de ses aventuriers sur la Terre d'Edin, et il a imprégné cette bague de son grand pouvoir."
 fr_244,"Un cadeau de la part d'Olivia. Vous pouvez ouvrir cette boîte cadeau et recevoir des ressources en récompense chaque fois que votre personnage atteint un niveau."
-fr_245,"L'île du ciel a été contaminée par une aura maléfique. Olivia a envoyé un signal de détresse à Odin dans l'espoir que quelqu'un vienne porter secours à l'île. Utilisez la lumière de l'espoir pour suivre le signal et vous rendre à l'île en détresse."
+fr_245,"L'île du ciel a été contaminée par une aura maléfique. Olivia a envoyé un signal de détresse à Odin dans l'espoir que quelqu'un vienne porter secours à l'île. Utilisez la lumière de l'espoir pour suivre le signal et vous rendre à l'île en détresse.\n\nVous pouvez récupéré beaucoup d'or sur les monstres dans l'île du ciel chaotique."
 fr_246,"La lumière de protection que vous recevez après avoir prié au temple de Parth. Elle vous permet de rester sur l'île du ciel, la lumière s'atténuera avec le temps et finira par totalement disparaître.\nNote : Zese peut vous envoyer vers l'île céleste (conquise)"
 fr_247,"Une bague qui apporte l'espoir et la paix. Si celui qui la porte croit déjà en Teon et qu'il possède un Serment mensuel, il recevra la bénédication de Teon, qui augmentera de 15 % la capacité de transport de base."
 fr_248,"Arme puissante qui appartenait à Zese. Utilisez-la pour parer les attaques de vos ennemis.
@@ -286,17 +286,17 @@ fr_283,"Peau d’homme lézard, du cuir de qualité pour une veste chaude. Objet
 fr_284,"Ce laissez-passer est nécessaire pour entrer dans le château de Sandwood\nObjet de quête"
 fr_285,"Une flèche avec des substances toxiques sur la pointe\nObjet de quête"
 fr_286,"Une lance avec des substances toxiques sur la pointe\nObjet de quête"
-fr_287,"Une potion magique créée par le grand Mage Merlin. Elle peut réinitialiser un point d'état gagné après le niveau 50. Chaque personne ne peut réaliser ses points que jusqu'à 3 fois."
+fr_287,"Une potion magique créée par le grand Mage Merlin. Elle peut réinitialiser un point d'état gagné après le niveau 50. Chaque personne ne peut réaliser ses points que jusqu'à 3 fois.\nNiveau requis : 50 à 69\nRendez visite au \f3Mage mystérieux\f> pour réinitialiser certains de vos points de stat"
 fr_288,"Empêche un accessoire d'être détruit quand un processus d'enchantement échoue."
-fr_289,"極為珍貴的絲綢。\n活動道具"
-fr_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
-fr_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
-fr_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
-fr_293,"燃放煙花後獲得美好的祝願。\n任務道具"
-fr_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。死亡時清空該狀態"
-fr_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。死亡時清空該狀態"
-fr_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。死亡時清空該狀態"
-fr_297,"神秘的物品，可用於購回死亡經驗"
+fr_289,"Une pile de soie très précieuse.\nObjet d'événement"
+fr_290,"Lancez un feu d'artifice, et soyez-en récompensé."
+fr_291,"Lancez un feu d'artifice, et soyez-en récompensé.\nObjet de quête"
+fr_292,"Lancez un feu d'artifice, et soyez-en récompensé."
+fr_293,"Lancez un feu d'artifice et faites un vœu.\nObjet de quête"
+fr_294,"Une relique magique. Votre expérience acquise deviendra 120% après avoir utilisé cette relique."
+fr_295,"Une relique magique. Votre expérience acquise deviendra 130% après avoir utilisé cette relique."
+fr_296,"Une relique magique. Votre expérience acquise deviendra 140% après avoir utilisé cette relique."
+fr_297,"Une relique magique. Peut récupérer l'expérience perdue à \fCKell [Prêcheur]\f>."
 fr_298,NULL
 fr_299,NULL
 fr_300,NULL
@@ -1033,7 +1033,7 @@ fr_1029,"Une pièce de platine brillante."
 fr_1030,"Armure en cuir souple."
 fr_1031,"Les flèches faites de mithril infligent de grands dégâts."
 fr_1032,"Le code de chevalerie du chevalier inclut des compétences de combat, leur manière de se comporter et leur vraie source de pouvoir.\nCatégorie : niveau de compétence 1 (Classe)\nEffet : une chance d'étourdir l'ennemi. Il ne fonctionne qu'avec une épée à deux mains.\nPrérequis d'apprentissage :  \nChevalier : niveau 50"
-fr_1033,"Le code de chevalerie du chevalier inclut des compétences de combat, leur manière de se comporter et leur vraie source de pouvoir.\nCatégorie : niveau de compétence 1 (Classe)\nEffet : réduire l'AC et les dégâts encaissés. Plus le niveau est élevé, plus la quantité des dégâts diminue.\nPrérequis d'apprentissage :  \nChevalier : niveau 50"
+fr_1033,"Le code de chevalerie du chevalier inclut des compétences de combat, leur manière de se comporter et leur vraie source de pouvoir.\nCatégorie : niveau de compétence 1 (Classe)\nEffet : réduit la quantité de dégâts physiques reçus. Plus le niveau du personnage est élevé, plus la quantité de dégâts réduits sera importante.\nPrérequis d'apprentissage :\nChevalier : niveau 50."
 fr_1034,"Une carapace de scorpion."
 fr_1035,"Une grande ceinture d'ogre."
 fr_1036,"Solide cotte de mailles."

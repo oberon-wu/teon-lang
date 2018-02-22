@@ -780,7 +780,7 @@ de_778,"Anleitungen"
 de_779,"Erweitert"
 de_780,"Spieler-Uploads"
 de_781,"Videoanleitungen starten"
-de_782,"Video: %s\nEmpfohlen für neue Spieler"
+de_782,"Video: %s\n Unsere Empfehlung, wenn du Teon zum ersten Mal spielst. Wenn du dir noch einmal die Anleitungsvideos ansehen möchtest, gehe einfach zur Videoliste."
 de_783,"　Überspringen | Anleitung "
 de_784,"Los"
 de_785,"Ablehnen"
@@ -809,21 +809,21 @@ de_807,"Clanname"
 de_808,"Mitglied"
 de_809,"Anführer"
 de_810,"\f>%s Zauberschaden: %+d\n"
-de_811,賞金獵人
-de_812,獵人 :
-de_813,PK值 :
-de_814,賞金 :
-de_815,剩餘追獵次數:
-de_816,目標 :
-de_817,剩餘時間:
-de_818,放棄追獵
-de_819,追獵目標
-de_820,規則說明
-de_821,規則內容
-de_822,"NORMAL"
-de_823,冒險區
-de_824,"%s逃竄到%s(%d,%d),請在%d分鐘內追捕目標。"
-de_825,"需要消耗%d本被封印的誓約書[15天]才能放監"
+de_811,"Gesucht"
+de_812,"Hunter:"
+de_813,"PK-Anzahl:"
+de_814,"Kopfgeld:"
+de_815,"Jagdanzahl:"
+de_816,"Ziel:"
+de_817,"Restzeit:"
+de_818,"Aufgeben"
+de_819,"Gesucht"
+de_820,"Anweisungen"
+de_821,"Anweisungen"
+de_822,"Normal "
+de_823,"PK "
+de_824,"%s ist nach %s(%d,%d) geflohen. Bitte hole dein Ziel binnen %d Minuten ein."
+de_825,"Um das Gefängnis sofort zu verlassen, musst du %dx den besiegelten Eid abgeben."
 de_826,"\\f3Zu wdeig MP. Kein Zauberspruch möglich."
 de_827,\f9傳  聞
 de_828,\fQ傳  聞

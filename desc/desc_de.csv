@@ -229,10 +229,10 @@ de_227,"Ein kostbares Weihnachtsgeschenk mit dem Segen der Göttin des Glücks"
 de_228,"Eine markierte Karte, die die Position des Schatzes enthält.Dies könnte auch eine Falle sein."
 de_229,"Ein Fragment der markierten Schatzkarte. Scheinbar ist darin ein großes Geheimnis verborgen!"
 de_230,"Eine markierte Karte, die den großen Schatz kennzeichnet. Es wird gesagt, es ist alles, was der Piratenanführer ergattert hat.Dies könnte auch eine Falle sein."
-de_231,新年福氣袋，滿載祝福與願望。
-de_232,農歷腊月，家家戶戶都為歡度新年而制的年糕。
-de_233,一份珍貴的新年禮盒
-de_234,一份珍貴的新年禮盒，藏有幸運女神的祝福。
+de_231,"Glückstaschen: Sie enthalten viel Glück und beste Wünsche."
+de_232,"Kuchen, der anlässlich des Neuweltsfests gebacken wurde."
+de_233,"Ein wertvolles Festtagsgeschenk."
+de_234,"Ein wertvolles Geschenk mit der Segnung der Glücksgöttin."
 de_235,新年紅爆竹，人們常常用它驅趕年獸。
 de_236,新年變形卷軸，使用後可變成特殊怪物造型。
 de_237,"Entfernt keine Flüche. Chance, das Erweiterungslevel der Ausrüstung des Ziels zu senken."
@@ -243,7 +243,7 @@ de_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮�
 de_242,"Material zur Herstellung oder Verzauberung verschiedener Polymorph-Rollen."
 de_243,"Teon, der Gott der Schöpfung, spürte die Güte der Abenteurer im Lande Edin, und so erfüllte er diesen Ring mit seiner großen Macht."
 de_244,"Ein Geschenk von Olivia. Du kannst diese Geschenkbox öffnen und dich jedes Mal, wenn dein Charakter ein bestimmtes Level erreicht über Ressourcen als Belohnung freuen."
-de_245,"Die Himmelsinsel ist durch eine böse Aura befleckt. Olivia hat einen Notsignal an Edin gesendet und hofft darauf, dass jemand kommen wird, um die Insel zu retten. Verwende das Licht der Hoffnung, um dem Notsignal zu folgen und zur gebeutelten Insel zu gelangen."
+de_245,"Die Himmelsinsel ist durch eine böse Aura befleckt. Olivia hat einen Notsignal an Edin gesendet und hofft darauf, dass jemand kommen wird, um die Insel zu retten. Verwende das Licht der Hoffnung, um dem Notsignal zu folgen und zur gebeutelten Insel zu gelangen.\n\n Du kannst eine Menge Gold von den Monstern der Gestörten Himmelsinsel erhalten."
 de_246,"Das Schutzlicht, das du erhältst, nachdem du im Parth Tempel gebetet hast. Es ermöglicht dir, auf der Himmelsinsel zu bleiben. Beachte jedoch, dass das Licht mit der Zeit verblasst, bis es vollständig verschwindet.\nHinweis: Zese kann dich auf die Himmelsinsel (erobert) schicken"
 de_247,"Ein Ring, der Hoffnung und Frieden bringt. Wenn der Träger bereits an Teon glaubt und den monatlichen Eid hat, erhält er Teons Segen. Hierdurch erhöht sich die maximale Grund-Tragekapazität um 15 %."
 de_248,"Eine mächtige Waffe, die Zese gehört hat. Hiermit kannst du viele feindliche Angriffe abwehren. 
@@ -286,17 +286,17 @@ de_283,"Haut eines Echsenmenschen, gutes Leder für eine warme Jacke\nQuest-Obje
 de_284,"Dieser Passierschein ist erforderlich, um die Burg von Sandwood betreten zu können.\nQuest-Objekt"
 de_285,"Ein Pfeil mit giftiger Substanz, die auf der Spitze aufgetragen wurde.\nQuest-Objekt"
 de_286,"Ein Speer mit giftiger Substanz, die auf der Spitze aufgetragen wurde.\nQuest-Objekt"
-de_287,"Dieser Zaubertrank wurde vom großen Magier Merlin erschaffen und kann einen nach Level 50 erhaltenen Statuspunkt zurücksetzen. Jeder Charakter kann nur bis zu 3 Punkte zurücksetzen."
+de_287,"Dieser Zaubertrank wurde vom großen Magier Merlin erschaffen und kann einen nach Level 50 erhaltenen Statuspunkt zurücksetzen. Jeder Charakter kann nur bis zu 3 Punkte zurücksetzen.\nErforderlicher Level: 50 bis 69\nBesuche den \f3Mysteriösen Magier\f>, um einige deiner Statistikpunkte zurückzusetzen"
 de_288,"Schützt einen Gegenstand vor der Zerstörung, falls die Verzauberung fehlschlägt."
-de_289,"極為珍貴的絲綢。\n活動道具"
-de_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
-de_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
-de_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
-de_293,"燃放煙花後獲得美好的祝願。\n任務道具"
-de_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。死亡時清空該狀態"
-de_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。死亡時清空該狀態"
-de_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。死亡時清空該狀態"
-de_297,"神秘的物品，可用於購回死亡經驗"
+de_289,"Ein Stapel höchst wertvoller Seide. \nEreignisartikel"
+de_290,"Zündet ein Feuerwerk. Erhalte eine Belohnung dafür."
+de_291,"Zündet ein Feuerwerk. Erhalte eine Belohnung dafür.\nQuest-Artikel"
+de_292,"Zündet ein Feuerwerk. Erhalte eine Belohnung dafür."
+de_293,"Zündet ein Feuerwerk. Du darfst dir was wünschen.\nQuest-Artikel"
+de_294,"Ein magisches Relikt. Ihre Erfahrung wird zu 120% nach Verwendung dieses Relikts."
+de_295,"Ein magisches Relikt. Ihre Erfahrung wird zu 130% nach Verwendung dieses Relikts."
+de_296,"Ein magisches Relikt. Ihre Erfahrung wird zu 140% nach Verwendung dieses Relikts."
+de_297,"Ein magisches Relikt. Kann die verlorene Erfahrung beim \fCKell [Prediger]\f> zurückholen."
 de_298,NULL
 de_299,NULL
 de_300,NULL
@@ -1032,7 +1032,7 @@ de_1029,"Ein glänzendes Stück Platin."
 de_1030,"Weiche Lederrüstung."
 de_1031,"Die Pfeile aus Mithril verursachen großen Schaden."
 de_1032,"Der Rittercode umfasst Kampffähigkeiten, Verhaltensregeln und ihre wahre Quelle der Macht.\nKategorie: Fertigkeitsstufe 1 (Klasse)\nWirkung: Chance, den Feind schwindelig zu machen. Es funktioniert nur mit einem Zweihänder.\nAnforderung:\nRitter: Level 50"
-de_1033,"Der Rittercode umfasst Kampffähigkeiten, Verhaltensregeln und ihre wahre Quelle der Macht.\nKategorie: Fertigkeitsstufe 1 (Klasse)\nWirkung: Verringert AC und erlittenen Schaden. Je höher der Level, desto mehr Schaden wird reduziert.\nAnforderung:\nRitter: Level 50"
+de_1033,"Der Rittercode umfasst Kampffähigkeiten, Verhaltensregeln und ihre wahre Quelle der Macht.\nKategorie: Fertigkeitsstufe 1 (Klasse)\nWirkung: Verringert erlittenen physischen Schaden. Je höher der Charakter-Level, desto mehr Schaden wird reduziert.\nLernvoraussetzung:\nRitter: Level 50"
 de_1034,"Eine Skorpionshülle."
 de_1035,"Ein breiter Ogergürtel."
 de_1036,"Starker Eisenpanzer."

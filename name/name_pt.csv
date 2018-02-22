@@ -207,7 +207,7 @@ pt_205,Galen
 pt_206,Espantalho
 pt_207,"Lança de Esqueleto de Elite"
 pt_208,Kirsten
-pt_209,Kell
+pt_209,"Kell [Pregador]"
 pt_210,"Mago Esqueleto"
 pt_211,Galinha
 pt_212,Laura
@@ -1234,13 +1234,13 @@ pt_1232,"Cristal do Espírito Especial (Terra)"
 pt_1233,"Cristal do Espírito Especial (Água)"
 pt_1234,"Cristal do Espírito Especial (Vento)"
 pt_1235,"Cristal do Espírito Especial (Fogo)"
-pt_1236,NULL
-pt_1237,NULL
-pt_1238,NULL
-pt_1239,NULL
-pt_1240,NULL
-pt_1241,NULL
-pt_1242,NULL
+pt_1236,"Bolsa da Sorte [T]"
+pt_1237,"Bolsa da Sorte [E]"
+pt_1238,"Bolsa da Sorte [O]"
+pt_1239,"Bolsa da Sorte [N]"
+pt_1240,"Bolo da Celebração"
+pt_1241,"Presente da Celebração"
+pt_1242,"Bênção do Sábio"
 pt_1243,NULL
 pt_1244,NULL
 pt_1245,NULL
@@ -1593,16 +1593,17 @@ pt_1591,"Pergaminho de Proteção de Acessórios"
 pt_1592,"Cajado de Gema"
 pt_1593,"Insígnias do Caçador de Recompensas"
 pt_1594,"Cajado Místico"
-pt_1595,如意絲綢
-pt_1596,炫彩煙花
-pt_1597,煙花
-pt_1598,慶典煙花
-pt_1599,美好的祝願（任務）
-pt_1600,1.2倍經驗物品
-pt_1601,1.5倍經驗物品
-pt_1602,2倍經驗物品
-pt_1603,經驗魔方
-pt_1604,傳教士
-pt_1605,慶典使者
-pt_1606,邪惡地獄犬
-pt_1607,"Pergaminho de Deformação Avançado(vinculado)"
+pt_1595,"Seda dos Desejos"
+pt_1596,"Fogo de Artifício"
+pt_1597,"Fogo de Artifício (Missão)"
+pt_1598,"Fogo de Artifício da Celebração"
+pt_1599,"Desejos de Felicidade (Missão)"
+pt_1600,"Cubo de EXP (Buff de 120% de EXP)"
+pt_1601,"Cubo de EXP (Buff de 130% de EXP)"
+pt_1602,"Cubo de EXP (Buff de 140% de EXP)"
+pt_1603,"Cubo de EXP"
+pt_1604,"Predicador"
+pt_1605,"Emissário da Celebração"
+pt_1606,"Cérbero Maligno"
+pt_1607,"Mini Pergaminho de Polimorfo Avançado (Vinculado)"
+pt_1608,"Bolo da Celebração(Exclusivo da Missão)"

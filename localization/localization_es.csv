@@ -780,7 +780,7 @@ es_778,"Tutoriales"
 es_779,"Avanzado"
 es_780,"Subidas de jugador"
 es_781,"Iniciando tutoriales en vídeo"
-es_782,"Vídeo: %s\nRecomendado para nuevos jugadores"
+es_782,"Vídeo: %s\n Te lo recomendamos encarecidamente si juegas a Teon por primera vez. Si quieres revisar los vídeos tutoriales, los encontrarás en la lista de vídeos."
 es_783,"　Omitir | Ver "
 es_784,"Ir"
 es_785,"Rechazar"
@@ -809,21 +809,21 @@ es_807,"Nombre del clan"
 es_808,"Miembro”"
 es_809,"Líder”"
 es_810,"\f>%sDaño de hechizo %+d\n"
-es_811,賞金獵人
-es_812,獵人 :
-es_813,PK值 :
-es_814,賞金 :
-es_815,剩餘追獵次數:
-es_816,目標 :
-es_817,剩餘時間:
-es_818,放棄追獵
-es_819,追獵目標
-es_820,規則說明
-es_821,規則內容
-es_822,"NORMAL"
-es_823,冒險區
-es_824,"%s逃竄到%s(%d,%d),請在%d分鐘內追捕目標。"
-es_825,"需要消耗%d本被封印的誓約書[15天]才能放監"
+es_811,"Orden de búsqueda"
+es_812,"Cazador:"
+es_813,"Recuento de PM:"
+es_814,"Recompensa:"
+es_815,"Recuento de caza:"
+es_816,"Objetivo:"
+es_817,"Tiempo restante:"
+es_818,"Abandonar"
+es_819,"Buscado"
+es_820,"Instrucciones"
+es_821,"Instrucciones"
+es_822,"Normal "
+es_823,"PM"
+es_824,"%s ha escapado a %s(%d,%d). Da caza al objetivo en menos de %d minutos."
+es_825,"Para salir de la cárcel de inmediato, debes entregar juramentos sellados x%d."
 es_826,"\\f3No puedes lanzar hechizos porque no tieses suficiestes PM。"
 es_827,\f9傳  聞
 es_828,\fQ傳  聞

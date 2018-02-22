@@ -78,7 +78,7 @@ de_76,"Absolute Barriere","Erzeugt ein undurchdringbares Schutzschild für den Z
 de_77,"Erweiterter Geist","Erhöht LP des Ziels um 20% sowie Max. MP während Wirkungsdauer.\nAnforderung:\nMagier:Ebene 40."
 de_78,Eisstachel,"Beschwört wirbelnden Schneesturm, der Feinden im Abstand von 5 Einheiten um den Zaubernden Schäden zufügt. Chance, das Ziel einzufrieren. Einsatz dieses Zaubers verringert deine Rechtmäßigkeitspunkte um 10.\nAnforderung:\nMagier:Ebene 40."
 de_79,Schockbetäubung,"Chance, Ziel für ein paar Sekunden zu lähmen. Diese Fähigkeit kann nur mit angelegten Zweihandschwertern eingesetzt werden.\nAnforderung:\nRitter:Ebene 50."
-de_80,Reduzierungsrüstung,"Erhöht AC und reduziert erhaltenen Schaden. Je höher das Level, desto mehr Schaden wird reduziert.\nAnforderung:\nRitter:Ebene 50."
+de_80,"Reduzierungsrüstung","Verringert erlittenen physischen Schaden. Je höher der Charakter-Level, desto mehr Schaden wird reduziert.\nLernvoraussetzung:\nRitter: Level 50."
 de_81,Schwungangriff,"Erzeugt magische Dornen auf deiner Rüstung. Chance, die Waffen des Feindes zu beschädigen, dich im Nahkampf angreift.\nAnforderung:\nRitter:Ebene 60."
 de_82,"Solide Beförderung","Erhöht eigene Ausweichrate. Funktioniert nur, wenn Schild angelegt ist.\nAnforderung:\nRitter:Ebene 50."
 de_83,Gegenbarriere,"Chance, erhaltenen physischen Schaden im Nahkampf auf den Angreifer zu reflektieren. Diese Fähigkeit kann nur mit angelegten Zweihandschwertern eingesetzt werden.\nAnforderung:\nRitter:Ebene 50."

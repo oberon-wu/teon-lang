@@ -207,7 +207,7 @@ fr_205,Galen
 fr_206,Épouvantail
 fr_207,"Lance squelette d'élite"
 fr_208,Kirsten
-fr_209,Kell
+fr_209,"Kell [Prêcheur]"
 fr_210,"Mage squelette"
 fr_211,Hen
 fr_212,Laura
@@ -1234,13 +1234,13 @@ fr_1232,"Cristal d'esprit spécial (Terre)"
 fr_1233,"Cristal d'esprit spécial (Eau)"
 fr_1234,"Cristal d'esprit spécial (Vent)"
 fr_1235,"Cristal d'esprit spécial (Feu)"
-fr_1236,NULL
-fr_1237,NULL
-fr_1238,NULL
-fr_1239,NULL
-fr_1240,NULL
-fr_1241,NULL
-fr_1242,NULL
+fr_1236,"Paquet porte-bonheur [T]"
+fr_1237,"Paquet porte-bonheur [E]"
+fr_1238,"Paquet porte-bonheur [O]"
+fr_1239,"Paquet porte-bonheur [N]"
+fr_1240,"Gâteau de fête"
+fr_1241,"Cadeau de fête"
+fr_1242,"Bénédiction du sage"
 fr_1243,NULL
 fr_1244,NULL
 fr_1245,NULL
@@ -1593,16 +1593,17 @@ fr_1591,"Parchemin de protection d'accessoire"
 fr_1592,"Bâton de gemme"
 fr_1593,"Les badges du chasseur de primes"
 fr_1594,"Bâton mystique"
-fr_1595,如意絲綢
-fr_1596,炫彩煙花
-fr_1597,煙花
-fr_1598,慶典煙花
-fr_1599,美好的祝願（任務）
-fr_1600,1.2倍經驗物品
-fr_1601,1.5倍經驗物品
-fr_1602,2倍經驗物品
-fr_1603,經驗魔方
-fr_1604,傳教士
-fr_1605,慶典使者
-fr_1606,邪惡地獄犬
-fr_1607,"Parchemin de déformation avancé (lié)"
+fr_1595,"Soie à vœux"
+fr_1596,"Feu d'artifice"
+fr_1597,"Feu d'artifice (Quête)"
+fr_1598,"Feu d'artifice de fête"
+fr_1599,"Meilleurs vœux (Quête)"
+fr_1600,"EXP Cube (120 % EXP Buff)"
+fr_1601,"EXP Cube (130 % EXP Buff)"
+fr_1602,"EXP Cube (140 % EXP Buff)"
+fr_1603,"Exp Cube"
+fr_1604,"Predicador"
+fr_1605,"Émissaire de fête"
+fr_1606,"Cerbère maléfique"
+fr_1607,"Mini parchemin de polymorphe avancé (relié)"
+fr_1608,"Gâteau de fête(exclusivité de quête)"

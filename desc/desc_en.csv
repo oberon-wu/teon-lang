@@ -229,10 +229,10 @@ en_227,"A precious Christmas Gift, with the blessings from the Goddess of Fortun
 en_228,"A marked map that records the location of treasure. This might also be a trap."
 en_229,"A scrap of the marked treasure map. A huge secret seems to be hidden within it!"
 en_230,"A marked map that records big treasure - it's said to be everything that the pirate leader got. This might also be a trap."
-en_231,新年福氣袋，滿載祝福與願望.
-en_232,農歷腊月，家家戶戶都為歡度新年而制的年糕.
-en_233,一份珍貴的新年禮盒
-en_234,一份珍貴的新年禮盒，藏有幸運女神的祝福.
+en_231,"Lucky Pockets, there are great fortunes and best wishes within."
+en_232,"Cake prepared for the New World Celebration."
+en_233,"A precious Celebration Gift."
+en_234,"A precious Celebration Gift with the blessing from the Goddess of Fortune."
 en_235,新年紅爆竹，人們常常用它驅趕年獸.
 en_236,新年變形卷軸，使用後可變成特殊怪物造型.
 en_237,"Does not remove curses. Chance to reduce the target gear's enhancement level."
@@ -243,7 +243,7 @@ en_241,伺服器開服周年喜慶禮包，裏面包含了一些隨機的小禮�
 en_242,"Material used in crafting or enchanting different polymorph scrolls"
 en_243,"Teon, the God of Creation, could sense the kindness of the adventurers in the Land of Edin, and he imbued this ring with his great power."
 en_244,"A gift from Olivia. You can open this gift box and receive resources as a reward every time your character reaches a certain level."
-en_245,"Sky Island has been tainted with an evil aura. Olivia sent out a distress signal to Edin in hopes that someone would come and save the island. Use Light of Hope to follow the distress signal and go to the troubled island."
+en_245,"Sky Island has been tainted with an evil aura. Olivia sent out a distress signal to Edin in hopes that someone would come and save the island. Use Light of Hope to follow the distress signal and go to the troubled island.\n\n You can obtain a lot of gold from the monsters in the Troubled Sky Island."
 en_246,"The light of protection you receive after praying at the Parth Temple. It allows you to stay in Sky Island; however, as time passes by, the light will fade until it completely vanishes.\nNote: Zese can send you to Sky Island (Conquered)"
 en_247,"A ring that brings hope and peace. If the wearer already believes in Teon and has the Monthly Oath, they'll receive Teon's blessing, increasing maximum basic carrying capacity by 15%."
 en_248,"Powerful weapon that belonged to Zese. Use it to fend off enemy attacks.
@@ -286,17 +286,17 @@ en_283,"Skin of a lizardman, good leather for a warm jacket\nQuest item"
 en_284,"This pass is needed to enter Sandwood Castle\nQuest item"
 en_285,"An arrow with toxic substains applied at the tip\nQuest item"
 en_286,"A spear with toxic substains applied at the tip\nQuest item"
-en_287,"A magical potion created by the great mage Merlin. It can reset a status point gained after level 50. Each character can only reset their points up to 3 times."
+en_287,"A magical potion created by the great mage Merlin. It can reset a status point gained after level 50. Each character can only reset their points up to 3 times.\nRequired Level: 50 to 69\n Visit the \f3Mysterious Mage\f> to reset some of your stat points"
 en_288,"Protect an accessory from being destoryed when an enchanting process fails."
-en_289,"極為珍貴的絲綢。\n活動道具"
-en_290,"使用後可以燃放各類炫麗多彩的煙花，並隨機獲得物品獎勵"
-en_291,"使用後可以燃放各類炫麗多彩的煙花。\n任務道具"
-en_292,"使用後可以燃放各類炫麗多彩的煙花，並獲得500經驗"
-en_293,"燃放煙花後獲得美好的祝願。\n任務道具"
-en_294,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.2倍。死亡時清空該狀態"
-en_295,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗1.5倍。死亡時清空該狀態"
-en_296,"擁有神奇的魔法，使用後，可在一定時間內獲得打怪經驗2倍。死亡時清空該狀態"
-en_297,"神秘的物品，可用於購回死亡經驗"
+en_289,"A stack of very precious silk. \nEvent Item"
+en_290,"Launches a firework, and be rewarded for doing so."
+en_291,"Launches a firework, and be rewarded for doing so. \nQuest Item"
+en_292,"Launches a firework, and be rewarded for doing so."
+en_293,"Launches a firework and make a good wish. \nQuest Item"
+en_294,"A Magical relic. Your experience obtained will become 120% after using this relic."
+en_295,"A Magical relic. Your experience obtained will become 130% after using this relic."
+en_296,"A Magical relic. Your experience obtained will become 140% after using this relic."
+en_297,"A magical relic. Can recover lost experience at \fCKell [Preacher]\f>."
 en_298,NULL
 en_299,NULL
 en_300,NULL

@@ -780,7 +780,7 @@ en_778,"Tutorials"
 en_779,"Advanced"
 en_780,"Player Uploads"
 en_781,"Starting Video Tutorials"
-en_782,"Video: %s\nRecommended for new players"
+en_782,"Video: %s\n Strongly recommended if you are playing Teon for the first time. If you would like to review tutorial videos, you can find them in the video list."
 en_783,"　Skip | View "
 en_784,"Go"
 en_785,"Reject"
@@ -809,21 +809,21 @@ en_807,"Clan Name"
 en_808,"Member"
 en_809,"Leader"
 en_810,"\f>%sSpell Damage: %+d\n"
-en_811,賞金獵人
-en_812,獵人 :
-en_813,PK值 :
-en_814,賞金 :
-en_815,剩餘追獵次數:
-en_816,目標 :
-en_817,剩餘時間:
-en_818,放棄追獵
-en_819,追獵目標
-en_820,規則說明
-en_821,規則內容
-en_822,"NORMAL"
-en_823,冒險區
-en_824,"%s逃竄到%s(%d,%d),請在%d分鐘內追捕目標。"
-en_825,"需要消耗%d本被封印的誓約書[15天]才能放監"
+en_811,"Wanted Order"
+en_812,"Hunter:"
+en_813,"PK Count:"
+en_814,"Bounty:"
+en_815,"Hunting Count:"
+en_816,"Target:"
+en_817,"Time Left:"
+en_818,"Give Up"
+en_819,"Wanted"
+en_820,"Instructions"
+en_821,"Instructions"
+en_822,"Normal "
+en_823,"PK "
+en_824,"%s has escaped to %s(%d,%d). Please hunt down your target within %d minutes."
+en_825,"To leave the jail immediately, you have to turn in Sealed Oath x %d."
 en_826,"\\f3Cannot cast spell due to insufficient mp。"
 en_827,\f9傳  聞
 en_828,\fQ傳  聞

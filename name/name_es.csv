@@ -207,7 +207,7 @@ es_205,Galen
 es_206,Espantapájaros
 es_207,"Lancero esqueleto de élite"
 es_208,Kirsten
-es_209,Kell
+es_209,Kell [Predicador]
 es_210,"Mago Esqueleto"
 es_211,Gallina
 es_212,Laura
@@ -1234,13 +1234,13 @@ es_1232,"Cristal Espiritual Especial (Tierra)"
 es_1233,"Cristal Espiritual Especial (Agua)"
 es_1234,"Cristal Espiritual Especial (Viento)"
 es_1235,"Cristal Espiritual Especial (Fuego)"
-es_1236,NULL
-es_1237,NULL
-es_1238,NULL
-es_1239,NULL
-es_1240,NULL
-es_1241,NULL
-es_1242,NULL
+es_1236,"Bolsa de la suerte [T]"
+es_1237,"Bolsa de la suerte [E]"
+es_1238,"Bolsa de la suerte [O]"
+es_1239,"Bolsa de la suerte [N]"
+es_1240,"Tarta de Celebración"
+es_1241,"Regalo de Celebración"
+es_1242,"Bendición del sabio"
 es_1243,NULL
 es_1244,NULL
 es_1245,NULL
@@ -1593,16 +1593,17 @@ es_1591,"Pergamino de protección de accesorio"
 es_1592,"Vara de gema"
 es_1593,"Emblemas de cazarrecompensas"
 es_1594,"Bastón del los Místicos"
-es_1595,如意絲綢
-es_1596,炫彩煙花
-es_1597,煙花
-es_1598,慶典煙花
-es_1599,美好的祝願（任務）
-es_1600,1.2倍經驗物品
-es_1601,1.5倍經驗物品
-es_1602,2倍經驗物品
-es_1603,經驗魔方
-es_1604,傳教士
-es_1605,慶典使者
-es_1606,邪惡地獄犬
-es_1607,"Pergamino avanzado de deformación (enlazado)"
+es_1595,"Seda del deseo"
+es_1596,"Fuegos artificiales"
+es_1597,"Fuegos artificiales (misión)"
+es_1598,"Fuegos artificiales de Celebración"
+es_1599,"Mejores deseos (misión)"
+es_1600,"Cubo de EXP (ventaja de 120% de EXP)"
+es_1601,"Cubo de EXP (ventaja de 130% de EXP)"
+es_1602,"Cubo de EXP (ventaja de 140% de EXP)"
+es_1603,"Cubo de EXP"
+es_1604,"[Predicador"
+es_1605,"Emisario de Celebración"
+es_1606,"Cerbero malvado"
+es_1607,"Minipergamino de polimorfia avanzado (vinculado)"
+es_1608,"Tarta de Celebración(exclusivo de misión)"

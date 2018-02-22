@@ -78,7 +78,7 @@ pt_76,"Barreira Absoluta","Cria um escudo de proteção invencível para quem fa
 pt_77,"Avançar Espírito","Aumenta HP do alvo em 20%, além de valor de MP máx durante o período em atividade.\nRequisito de aprendizado:\nMago:Nível 40."
 pt_78,"Estaca de Gelo","Convoca uma nevasca vertiginosa, causando dano em todos os inimigos dentro de 5 unidades de distância de quem fez o feitiço. Pode congelar o alvo. Fazer este feitiço reduz 10 pontos do seu valor Legal.\nRequisito de aprendizado:\nMago:Nível 40."
 pt_79,"Choque Atordoante","Pode atordoar o alvo por alguns segundos. Esta habilidade pode ser usada apenas quando espadas de duas mãos estão equipadas.\nRequisito de aprendizado:\nCavaleiro:Nível 50."
-pt_80,"Armadura de Redução","Aumenta AC e reduz a quantidade de dano recebido. Quanto maior o nível, maior a quantidade de dano reduzido.\nRequisito de aprendizado:\nCavaleiro:Nível 50."
+pt_80,"Armadura de Redução","reduz a quantidade de dano físico recebido. Quanto maior o nível do personagem, maior a quantidade de dano reduzido.\nRequisito de aprendizado:\nCavaleiro: Nível 50."
 pt_81,"Ataque Ricochete","Faz com que espinhos mágicos cresçam na sua armadura. Pode danificar as armas de inimigos que tentarem atacar você de perto.\nRequisito de aprendizado:\nCavaleiro:Nível 60."
 pt_82,"Carruagem Sólida","Aumenta a própria taxa de evasão. Funciona apenas quando tem um escudo equipado.\nRequisito de aprendizado:\nCavaleiro:Nível 50."
 pt_83,"Contra Barreira","Pode refletir dano físico a queima-roupa de volta para o atacante. Esta habilidade só pode ser usada quando armas de duas mãos estão equipadas.\nRequisito de aprendizado:\nCavaleiro:Nível 50."
