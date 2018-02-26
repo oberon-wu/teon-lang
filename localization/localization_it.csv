@@ -824,3 +824,9 @@ it_822,"Normale "
 it_823,"PK "
 it_824,"%s è scappato a %s(%d,%d). Scova il tuo obiettivo entro %d minuti."
 it_825,"Per abbandonare immediatamente la prigione, devi consegnare il Giuramento sigillato x %d."
+it_826,"\\f3Impossibile lanciare l'incantesimo a causa di PM insufficienti。"
+it_827,\f9傳  聞
+it_828,\fQ傳  聞
+it_829,你閃避了%s的攻擊
+it_830,%s攻擊了你，造成了%d點傷害
+it_831,%s使用技能攻擊了你，造成了%d點傷害

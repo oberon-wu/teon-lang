@@ -824,3 +824,9 @@ fr_822,"Normal"
 fr_823,"PK "
 fr_824,"%s s'est échappé vers %s(%d,%d). Veuillez pourchasser votre cible pendant %d minutes."
 fr_825,"Pour quitter la prison immédiatement, vous devez donner Serment cacheté x %d."
+fr_826,"\\f3Impossible de lancer le sort à cause de PM insuffisants"
+fr_827,\f9傳  聞
+fr_828,\fQ傳  聞
+fr_829,你閃避了%s的攻擊
+fr_830,%s攻擊了你，造成了%d點傷害
+fr_831,%s使用技能攻擊了你，造成了%d點傷害
