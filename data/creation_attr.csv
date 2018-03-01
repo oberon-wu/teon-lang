@@ -1,0 +1,5 @@
+name,id,con,str,dex,wis,cha,int
+ROYAL,0,1,4,4,1,0,0
+KNIGHT,1,2,3,4,1,0,0
+ELF,2,0,3,2,4,1,0
+MAGE,3,0,4,1,4,1,0
