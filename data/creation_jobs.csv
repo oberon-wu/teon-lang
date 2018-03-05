@@ -1,0 +1,5 @@
+name,id,damage,remoteDamage,magicPower,sustainedPower,physiquePower,difficulty
+ROYAL,0,100,10,40,50,70,60
+KNIGHT,1,100,100,49,100,68,30
+ELF,2,100,100,100,10,100,79
+MAGE,3,10,100,100,20,98,100
