@@ -412,7 +412,7 @@ pt_410,"\fGVocê está paralisado. Não pode se mover."
 pt_411,"\fGVocê está petrificado. Não pode se mover."
 pt_412,"\fGHipnotizado"
 pt_413,"\faCongelado"
-pt_414,"\\Entrou em coma"
+pt_414,"\Entrou em coma"
 pt_415,"\faRestringido"
 pt_416,"\fGRecuperação de restrição"
 pt_417,"s "
@@ -824,7 +824,7 @@ pt_822,"Normal "
 pt_823,"PK "
 pt_824,"%s escapou para %s(%d,%d). Cace o seu alvo em %d minutos."
 pt_825,"Para sair da prisão imediatamente, você deve entregar um Juramento Selado x %d."
-pt_826,"\\f3Não foi possível lançar o encanto devido a uma insuficiência de MP。"
+pt_826,"\f3Não foi possível lançar o encanto devido a uma insuficiência de MP。"
 pt_827,\f9傳  聞
 pt_828,\fQ傳  聞
 pt_829,你閃避了%s的攻擊
