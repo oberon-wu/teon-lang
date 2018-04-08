@@ -824,7 +824,7 @@ es_822,"Normal "
 es_823,"PM"
 es_824,"%s ha escapado a %s(%d,%d). Da caza al objetivo en menos de %d minutos."
 es_825,"Para salir de la cárcel de inmediato, debes entregar juramentos sellados x%d."
-es_826,"\\f3No puedes lanzar hechizos porque no tieses suficiestes PM。"
+es_826,"\f3No puedes lanzar hechizos porque no tieses suficiestes PM。"
 es_827,\f9傳  聞
 es_828,\fQ傳  聞
 es_829,你閃避了%s的攻擊

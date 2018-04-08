@@ -824,7 +824,7 @@ en_822,"Normal "
 en_823,"PK "
 en_824,"%s has escaped to %s(%d,%d). Please hunt down your target within %d minutes."
 en_825,"To leave the jail immediately, you have to turn in Sealed Oath x %d."
-en_826,"\\f3Cannot cast spell due to insufficient mp。"
+en_826,"\f3Cannot cast spell due to insufficient mp。"
 en_827,\f9傳  聞
 en_828,\fQ傳  聞
 en_829,你閃避了%s的攻擊
