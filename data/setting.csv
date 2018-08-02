@@ -1,2 +1,6 @@
-id,key,value
-1,EULA_VERSION,1
+id,key,value,desc
+1,EULA_VERSION,1,玩家守則版本號，提高版本號可以彈出顯示玩家守則
+2,ENABLE_DOCUMENT_CHECK,0,破解版檢測開關，1為開啟，0為關閉
+3,LOGIN_BROWSER_URL,https://www.facebook.com/teongame/,登錄介面點擊彈出頁面鏈接
+4,LOGIN_BACKGROUND_TW,"login_bg_1,login_bg_2,login_bg_3",登錄介面背景圖（tw)
+5,LOGIN_BACKGROUND_CN,"login_bg_1,login_bg_2,login_bg_3",登錄介面背景圖（cn)
