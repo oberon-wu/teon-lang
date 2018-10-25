@@ -1,10 +1,11 @@
 id,key,value,desc
-1,ENABLE_CHAT_EMOJI_UI,1,и║?бд?иж?бщив?имимб└ик?иж?иж??бъ1?ж╠иж?0?ж╠и║DижY
-2,ACTION_WAND_RANGE,20,?ии??икбз1гд?1?
-3,ACTION_SPELL_DIR_RANGE,20,???и░D?и║?бдбз
-4,ACTION_SPELL_NO_DIR_RANGE,20,бд????и░D?и║?бдбз
-5,ACTION_BLOW_RANGE,20,1-1гд?1?
-6,ENABLE_INVITE_FEATURE,1,и║?бд?иж?бщ?1|?и╣бъ?1?ж╠иж?0?ж╠и║DижY
-7,MARKET_DEFAULT_INDEX,1,??и░б┴?и┤??ии???????б└и║
-8,MARKET_SPELLBOOK_INDEX,1,??и░б┴?и┤???и╣и║иж??????б└и║
-9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8"
+1,ENABLE_CHAT_EMOJI_UI,1,я┐╜я┐╜?я┐╜я┐╜?я┐╜я┐╜?я┐╜щив?я┐╜я┐╜я┐╜я┐╜я┐бя┐╜я┐бя┐╜я┐╜я┐╜?я┐╜я┐╜??я┐╜я┐╜1?я┐╜╠ия┐╜?0?я┐╜╠ия┐╜Dя┐╜я┐╜Y
+2,ACTION_WAND_RANGE,20,?я╛ия╛и??я╛ия╛кя╛бя╛з1я╛б┼╛я┐╜?1?
+3,ACTION_SPELL_DIR_RANGE,20,???я╛ия╛░D?я╛ия╛║?я╛бя╛дя╛бя╛з
+4,ACTION_SPELL_NO_DIR_RANGE,20,я╛бя╛д????я╛ия╛░D?я╛ия╛║?я╛бя╛дя╛бя╛з
+5,ACTION_BLOW_RANGE,20,1-1я╛б┼╛я┐╜?1?
+6,ENABLE_INVITE_FEATURE,1,я┐╜я┐╜?я┐╜я┐╜?я┐╜я┐╜?я┐╜я┐╜?1|?я┐╜я┐╜я┐╜я┐╜?1?я┐╜╠ия┐╜?0?я┐╜╠ия┐╜Dя┐╜я┐╜Y
+7,MARKET_DEFAULT_INDEX,1,??я┐╜я┐╜я┐╜я┐╜?я┐╜я┐╜??я┐╜я┐╜???????я┐бя┐╜я┐╜
+8,MARKET_SPELLBOOK_INDEX,1,??я┐╜я┐╜я┐╜я┐╜?я┐╜я┐╜???я┐╜я┐╜я┐╜я┐╜я┐╜я┐╜??????я┐бя┐╜я┐╜
+9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8",цК╜чНОхЛХчХл
+10,GME_ENABLE_OPEN,0,0:(not display gme ui) 1:(display gme ui)
