@@ -7,5 +7,5 @@ id,key,value,desc
 6,ENABLE_INVITE_FEATURE,0,��?��?��?��?1|?����?1?�̨�?0?�̨�D��Y
 7,MARKET_DEFAULT_INDEX,1,??����?��??��???????￡��
 8,MARKET_SPELLBOOK_INDEX,1,??����?��???������??????￡��
-9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8",
+9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8",抽獎動畫
 10,GME_ENABLE_OPEN,1,0:(not display gme ui)  1:(display gme ui)
