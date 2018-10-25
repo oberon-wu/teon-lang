@@ -1,10 +1,11 @@
 id,key,value,desc
-1,ENABLE_CHAT_EMOJI_UI,0,¨º?¡¤?¨¦?¡é¨¢?¨¬¨¬¡À¨ª?¨¦?¨¦??¡ê1?¦Ì¨¦?0?¦Ì¨ºD¨¦Y
-2,ACTION_WAND_RANGE,20,?¨¨??¨ª¡§1£¤?1?
-3,ACTION_SPELL_DIR_RANGE,20,???¨°D?¨º?¡¤¡§
-4,ACTION_SPELL_NO_DIR_RANGE,20,¡¤????¨°D?¨º?¡¤¡§
-5,ACTION_BLOW_RANGE,8,1-1£¤?1?
-6,ENABLE_INVITE_FEATURE,0,¨º?¡¤?¨¦?¡é?1|?¨¹¡ê?1?¦Ì¨¦?0?¦Ì¨ºD¨¦Y
-7,MARKET_DEFAULT_INDEX,1,??¨°¡Á?¨´??¨¨???????¡À¨º
-8,MARKET_SPELLBOOK_INDEX,1,??¨°¡Á?¨´???¨¹¨º¨¦??????¡À¨º
-9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8"
+1,ENABLE_CHAT_EMOJI_UI,0,ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½é¨¢?ï¿½ï¿½ï¿½ï¿½ï¿¡ï¿½ï¿¡ï¿½ï¿½ï¿½?ï¿½ï¿½??ï¿½ï¿½1?ï¿½Ì¨ï¿½?0?ï¿½Ì¨ï¿½Dï¿½ï¿½Y
+2,ACTION_WAND_RANGE,20,?ï¾¨ï¾¨??ï¾¨ï¾ªï¾¡ï¾§1ï¾¡Å¾ï¿½?1?
+3,ACTION_SPELL_DIR_RANGE,20,???ï¾¨ï¾°D?ï¾¨ï¾º?ï¾¡ï¾¤ï¾¡ï¾§
+4,ACTION_SPELL_NO_DIR_RANGE,20,ï¾¡ï¾¤????ï¾¨ï¾°D?ï¾¨ï¾º?ï¾¡ï¾¤ï¾¡ï¾§
+5,ACTION_BLOW_RANGE,8,1-1ï¾¡Å¾ï¿½?1?
+6,ENABLE_INVITE_FEATURE,0,ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?1|?ï¿½ï¿½ï¿½ï¿½?1?ï¿½Ì¨ï¿½?0?ï¿½Ì¨ï¿½Dï¿½ï¿½Y
+7,MARKET_DEFAULT_INDEX,1,??ï¿½ï¿½ï¿½ï¿½?ï¿½ï¿½??ï¿½ï¿½???????ï¿¡ï¿½ï¿½
+8,MARKET_SPELLBOOK_INDEX,1,??ï¿½ï¿½ï¿½ï¿½?ï¿½ï¿½???ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½??????ï¿¡ï¿½ï¿½
+9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8",
+10,GME_ENABLE_OPEN,1,0:(not display gme ui)  1:(display gme ui)
