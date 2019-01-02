@@ -743,7 +743,7 @@ it_741,"Non completato"
 it_742,"Completato"
 it_743,"Punti Statistiche"
 it_744,"Effetto di Punti Statistiche"
-it_745,"Rigenerazione città | Resurrezione | Esci dal gioco "
+it_745,"Rigenerazione città | Resurrezione "
 it_746,"Mappa"
 it_747,"Inserisci coordinate"
 it_748,"\f2La tua posizione"
@@ -824,12 +824,12 @@ it_822,"Normale "
 it_823,"PK "
 it_824,"%s è scappato a %s(%d,%d). Scova il tuo obiettivo entro %d minuti."
 it_825,"Per abbandonare immediatamente la prigione, devi consegnare il Giuramento sigillato x %d."
-it_826,"\\f3Impossibile lanciare l'incantesimo a causa di PM insufficienti。"
+it_826,"\f3Impossibile lanciare l'incantesimo a causa di PM insufficienti。"
 it_827,\f9傳  聞
 it_828,\fQ傳  聞
 it_829,你閃避了%s的攻擊
 it_830,%s攻擊了你，造成了%d點傷害
-it_831,%s使用技能攻擊了你，造成了%d點傷害
+it_831,%s使用魔法攻擊了你，造成了%d點傷害
 it_832,\f2鎖定的裝備不能強化
 it_833,"近戰傷害"
 it_834,"遠程傷害"
@@ -839,3 +839,10 @@ it_837,"體能強度"
 it_838,"操作難度"
 it_839,"創建角色"
 it_840,"可以創建新角色"
+it_841,"你處於受保護狀態，不可執行此操作，解除保護可到應許村找永生者(32728,32770)"
+it_842,"戰鬥"
+it_843,"快捷鍵"
+it_844,"重新開始"
+it_845,"返回選服"
+it_846,"離開遊戲"
+it_888,戰期:%s

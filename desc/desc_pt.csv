@@ -192,7 +192,7 @@ pt_190,"Uma armadura elegante feita pelos Elfos. Ela pode ser usada para reparar
 pt_191,"O sangue do Ogro é sua fonte de poder."
 pt_192,"As Asas de Elfo podem ser usadas para teleportar até a aldeia mais próxima. "
 pt_193,"\f3【內部測試物品】\n召喚怪物魔杖。使用一次召喚一隻怪物。"
-pt_194,"\f3【內部測試物品】\n重置技能藥水。使用一次能夠重置所有已學的技能。"
+pt_194,"\f3【內部測試物品】\n重置魔法藥水。使用一次能夠重置所有已學的魔法。"
 pt_195,"A Varinha de Pedra Misteriosa pode roubar o poder mágico das pessoas."
 pt_196,"Uma grande habilidade dos elfos foi utilizada para criar este Elmo de Couro (Constituição)."
 pt_197,"A habilidade intensa do elfo foi usada para criar este Elmo de Elfo Antigo (Destreza)."
@@ -246,7 +246,7 @@ pt_244,"Un regalo da parte di Olivia. Puoi aprire questa scatola regalo e riceve
 pt_245,"L'isola del cielo è stata contaminata da un'aura malefica. Olivia ha inviato un segnale di emergenza a Edin nella speranza che qualcuno accorra a salvare l'isola. Usa la Luce della speranza per seguire il segnale d'emergenza e recarti presso l'isola in pericolo.\n\nVocê pode obter muito ouro com os monstros na atormentada Ilha do Céu."
 pt_246,"La luce della protezione che ricevi dopo aver pregato nel Tempio di Parth ti permette di rimanere presso l'isola del cielo. Tuttavia, col passare del tempo, la luce si affievolirà fino a sparire.\nAtenção: Zese pode enviar você para a Ilha do Céu (Conquistada)"
 pt_247,"Um anel que traz esperança e paz. Se a pessoa que usar já acreditar em Teon e possuir o Juramento Mensal, ela receberá a bênção de Teon, aumentando a capacidade de carga básica máxima em 15%."
-pt_248,"Arma poderosa que pertenceu a Zese. Use para repelir ataques inimigos. 
+pt_248,"Arma poderosa que pertenceu a Zese. Use para repelir ataques inimigos.
 Item da Missão"
 pt_249,"Limitado a missão de aprimoramento. Só pode ser usado para aprimorar a arma da missão."
 pt_250,"Em nome de Maria, a Deusa da Morte, esta pedra de runa protege seu portador contra a aura profana que existe no interior da Caverna Maldita."
@@ -1083,3 +1083,51 @@ pt_1080,"Uma caixa de pedras mágicas sinistra"
 pt_1081,"Juramento escrito entre o mundo e o seu criador - TEON."
 pt_1082,"Moeda antiga de platina que pode ser trocada com os comerciantes"
 pt_1083,"Este pergaminho precioso fortalece e melhora as armas.\nNenhum efeito extra ao encantar um item com um nível de encantamento de 7 ou mais."
+pt_1084,"平民家中常見的糧食。\n任務道具"
+pt_1085,"可用於加固房屋的木材。\n任務道具"
+pt_1086,"守衛常用的普通木弓。\n任務道具"
+pt_1087,"侏儒戰士頭上戴著的頭盔。\n任務道具"
+pt_1088,"神秘的紫色藥水。\n任務道具"
+pt_1089,"獸人戰士身上的毛髮。\n任務道具"
+pt_1090,"裝著藥品的箱子。\n任務道具"
+pt_1091,"屍羅蜘蛛強而有力的牙。\n任務道具"
+pt_1092,"屍羅蜘蛛的毒液來自於此毒腺。\n任務道具"
+pt_1093,"從喪尸腐爛的身上掉落的骨頭。\n任務道具"
+pt_1094,"魔眼細長的觸手。\n任務道具"
+pt_1095,"喪尸身上破舊衣服的一部分。\n任務道具"
+pt_1096,"狼人手上尖銳的爪牙。\n任務道具"
+pt_1097,"阿特瑪與丈夫的結婚戒指。\n任務道具"
+pt_1098,"骷髏的骨骼早已經和生前穿戴的盔甲融合在一起。\n任務道具"
+pt_1099,"屍羅蜘蛛強而有力的牙。\n任務道具"
+pt_1100,"獸人戰士常用的斧頭。\n任務道具"
+pt_1101,"屍羅蜘蛛的毒液來自於此毒腺。\n任務道具"
+pt_1102,"恰西的魔法陣的魔石。\n任務道具"
+pt_1103,"散發著邪惡魔法的戒指，是恰西邪惡魔法的來源。\n任務道具"
+pt_1104,"雷文的家族戒指。\n任務道具"
+pt_1105,"由應許村守衛所頒發的勇士徽章。\n任務道具"
+pt_1106,"初心者訓練之用。"
+pt_1107,侏儒手中的憑證\n任務道具
+pt_1108,哥布林手中的匕首\n任務道具
+pt_1109,霍布哥布林手中的大刀\n任務道具
+pt_1110,豺狼人尖尖的牙齒\n任務道具
+pt_1111,豺狼人身上的毛髮\n任務道具
+pt_1112,被侏儒盜取的金屬塊\n任務道具
+pt_1113,被哥布林讀取的物資\n任務道具
+pt_1114,地精手中的棍\n任務道具
+pt_1115,經過長時間使用，已經破損嚴重的弓\n任務道具
+pt_1116,證明霍布哥布林騷擾農場的證據\n任務道具
+pt_1117,長得像火一樣的草\n任務道具
+pt_1118,蜘蛛身上的腿\n任務道具
+pt_1119,蜘蛛產下的卵\n任務道具
+pt_1120,人生前的怨念，死後化為靈魂結晶，使人成為行屍走肉的喪屍\n任務道具
+pt_1121,魔眼身上的肉\n任務道具
+pt_1122,狼人死後的靈魂的結晶\n任務道具
+pt_1123,一大塊金屬，在部分地下組織是流通貨幣\n任務道具
+pt_1124,蜘蛛身上的腿\n任務道具
+pt_1125,獸人鎧甲上的肩甲\n任務道具
+pt_1126,破爛不堪的衣服\n任務道具
+pt_1127,蜘蛛身上的毒液\n任務道具
+pt_1128,護法者之間信息傳遞的信函\n任務道具
+pt_1129,人狼身上的皮毛\n任務道具
+pt_1130,吉爾維格 [魔法書]想你幫忙銷毀這些破舊不堪的魔法書。 \n任務道具
+pt_1131,已經不能再使用了的頭盔，邪惡者想你幫忙存到角色倉庫，以便以後給鐵匠維修。 \n任務道具

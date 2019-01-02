@@ -743,7 +743,7 @@ fr_741,"Non terminé"
 fr_742,"Terminé"
 fr_743,"Points stat"
 fr_744,"Effet des points stat"
-fr_745,"Respawn dans la ville | Ressusciter | Quitter le jeu "
+fr_745,"Respawn dans la ville | Ressusciter "
 fr_746,"Carte"
 fr_747,"Saisir les coordonnées"
 fr_748,"\f2Votre localisation"
@@ -824,12 +824,12 @@ fr_822,"Normal"
 fr_823,"PK "
 fr_824,"%s s'est échappé vers %s(%d,%d). Veuillez pourchasser votre cible pendant %d minutes."
 fr_825,"Pour quitter la prison immédiatement, vous devez donner Serment cacheté x %d."
-fr_826,"\\f3Impossible de lancer le sort à cause de PM insuffisants"
+fr_826,"\f3Impossible de lancer le sort à cause de PM insuffisants"
 fr_827,\f9傳  聞
 fr_828,\fQ傳  聞
 fr_829,你閃避了%s的攻擊
 fr_830,%s攻擊了你，造成了%d點傷害
-fr_831,%s使用技能攻擊了你，造成了%d點傷害
+fr_831,%s使用魔法攻擊了你，造成了%d點傷害
 fr_832,\f2鎖定的裝備不能強化
 fr_833,"近戰傷害"
 fr_834,"遠程傷害"
@@ -839,3 +839,10 @@ fr_837,"體能強度"
 fr_838,"操作難度"
 fr_839,"創建角色"
 fr_840,"可以創建新角色"
+fr_841,"你處於受保護狀態，不可執行此操作，解除保護可到應許村找永生者(32728,32770)"
+fr_842,"戰鬥"
+fr_843,"快捷鍵"
+fr_844,"重新開始"
+fr_845,"返回選服"
+fr_846,"離開遊戲"
+fr_888,戰期:%s

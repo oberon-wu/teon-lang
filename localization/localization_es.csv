@@ -743,7 +743,7 @@ es_741,"No completada"
 es_742,"Completada"
 es_743,"Puntos de estadísticas"
 es_744,"Efecto de los puntos de estadísticas"
-es_745,"Resucitar al pueblo | Resurrección | Salir del juego "
+es_745,"Resucitar al pueblo | Resurrección "
 es_746,"Mapa"
 es_747,"Introducir coordenadas"
 es_748,"\f2Tu ubicación"
@@ -806,8 +806,8 @@ es_804,十年
 es_805,封印
 es_806,試用
 es_807,"Nombre del clan"
-es_808,"Miembro”"
-es_809,"Líder”"
+es_808,"Miembro"
+es_809,"Líder"
 es_810,"\f>%sDaño de hechizo %+d\n"
 es_811,"Orden de búsqueda"
 es_812,"Cazador:"
@@ -824,12 +824,12 @@ es_822,"Normal "
 es_823,"PM"
 es_824,"%s ha escapado a %s(%d,%d). Da caza al objetivo en menos de %d minutos."
 es_825,"Para salir de la cárcel de inmediato, debes entregar juramentos sellados x%d."
-es_826,"\\f3No puedes lanzar hechizos porque no tieses suficiestes PM。"
+es_826,"\f3No puedes lanzar hechizos porque no tieses suficiestes PM。"
 es_827,\f9傳  聞
 es_828,\fQ傳  聞
 es_829,你閃避了%s的攻擊
 es_830,%s攻擊了你，造成了%d點傷害
-es_831,%s使用技能攻擊了你，造成了%d點傷害
+es_831,%s使用魔法攻擊了你，造成了%d點傷害
 es_832,\f2鎖定的裝備不能強化
 es_833,"近戰傷害"
 es_834,"遠程傷害"
@@ -839,3 +839,10 @@ es_837,"體能強度"
 es_838,"操作難度"
 es_839,"創建角色"
 es_840,"可以創建新角色"
+es_841,"你處於受保護狀態，不可執行此操作，解除保護可到應許村找永生者(32728,32770)"
+es_842,"戰鬥"
+es_843,"快捷鍵"
+es_844,"重新開始"
+es_845,"返回選服"
+es_846,"離開遊戲"
+es_888,戰期:%s

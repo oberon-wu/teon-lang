@@ -743,7 +743,7 @@ de_741,"Nicht abgeschlossen"
 de_742,"abgeschlossen"
 de_743,"Statistikpunkte"
 de_744,"Effekt von Statistikpunkten"
-de_745,"Stadt neu starten | Auferstehen | Spiel beenden "
+de_745,"Stadt neu starten | Auferstehen "
 de_746,"Karte"
 de_747,"Koordinaten eingeben"
 de_748,"\f2Dein Standort"
@@ -824,12 +824,12 @@ de_822,"Normal "
 de_823,"PK "
 de_824,"%s ist nach %s(%d,%d) geflohen. Bitte hole dein Ziel binnen %d Minuten ein."
 de_825,"Um das Gefängnis sofort zu verlassen, musst du %dx den besiegelten Eid abgeben."
-de_826,"\\f3Zu wdeig MP. Kein Zauberspruch möglich."
+de_826,"\f3Zu wdeig MP. Kein Zauberspruch möglich."
 de_827,\f9傳  聞
 de_828,\fQ傳  聞
 de_829,你閃避了%s的攻擊
 de_830,%s攻擊了你，造成了%d點傷害
-de_831,%s使用技能攻擊了你，造成了%d點傷害
+de_831,%s使用魔法攻擊了你，造成了%d點傷害
 de_832,\f2鎖定的裝備不能強化
 de_833,"近戰傷害"
 de_834,"遠程傷害"
@@ -839,3 +839,10 @@ de_837,"體能強度"
 de_838,"操作難度"
 de_839,"創建角色"
 de_840,"可以創建新角色"
+de_841,"你處於受保護狀態，不可執行此操作，解除保護可到應許村找永生者(32728,32770)"
+de_842,"戰鬥"
+de_843,"快捷鍵"
+de_844,"重新開始"
+de_845,"返回選服"
+de_846,"離開遊戲"
+de_888,戰期:%s
