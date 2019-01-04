@@ -36,3 +36,4 @@
 <item>H1Pj5zI24oPiChv038f1BXzGmMdGdvAjrYk4/nhSx6U=</item>               <!-- com.ashens.xposedmodules -->
 <item>KfvvCoJNTZUnPsFRnoO1+Zpd56yQ0cVOgTdRMWY1RHs=</item>               <!-- com.uncube.account -->
 <item>yVn6AliyNfzpFyDjqFl8eRc2cbmXNaOvpblEfsk/qiw=</item>               <!-- com.apowersoft.mirror -->
+<item>L4NASUapDi/AxvINnGR3FA==</item>               					<!-- com.zhushou.cc -->
