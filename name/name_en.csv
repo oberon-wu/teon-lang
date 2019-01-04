@@ -99,84 +99,84 @@ en_97,NULL
 en_98,NULL
 en_99,NULL
 en_100,NULL
-en_101,Goblin
-en_102,Orc
+en_101,"Goblin"
+en_102,"Orc"
 en_103,"Goblin Thief"
-en_104,Werewolf
-en_105,Imp
-en_106,Dwarf
-en_107,Slime
-en_108,Zombie
+en_104,"Werewolf"
+en_105,"Imp"
+en_106,"Dwarf"
+en_107,"Slime"
+en_108,"Zombie"
 en_109,"Floating Eye"
-en_110,Gnoll
+en_110,"Gnoll"
 en_111,"Dwarf Warrior"
-en_112,Skeleton
+en_112,"Skeleton"
 en_113,"Soldier Ant"
 en_114,"Skeleton Archer"
 en_115,"Stone Golem"
 en_116,"Skeleton Axeman"
 en_117,"Skeleton Spear"
-en_118,Shelob
-en_119,Hobgoblin
-en_120,Lizardman
-en_121,Owlbear
-en_122,Troglodyte
-en_123,Ghoul
-en_124,Nightshade
-en_125,Lycanthrope
-en_126,Ungoliant
-en_127,Doppelganger
+en_118,"Shelob"
+en_119,"Hobgoblin"
+en_120,"Lizardman"
+en_121,"Owlbear"
+en_122,"Troglodyte"
+en_123,"Ghoul"
+en_124,"Nightshade"
+en_125,"Lycanthrope"
+en_126,"Ungoliant"
+en_127,"Doppelganger"
 en_128,"Giant Ant"
-en_129,Ghast
+en_129,"Ghast"
 en_130,"Elder Mage"
-en_131,Bugbear
-en_132,Cerberus
-en_133,Scorpion
-en_134,Harpy
-en_135,Ogre
-en_136,Troll
-en_137,Griffon
-en_138,Beholder
-en_139,Cockatrice
-en_140,Ettin
-en_141,Basilisk
-en_142,Succubus
-en_143,Cyclop
+en_131,"Bugbear"
+en_132,"Cerberus"
+en_133,"Scorpion"
+en_134,"Harpy"
+en_135,"Ogre"
+en_136,"Troll"
+en_137,"Griffon"
+en_138,"Beholder"
+en_139,"Cockatrice"
+en_140,"Ettin"
+en_141,"Basilisk"
+en_142,"Succubus"
+en_143,"Cyclop"
 en_144,"Succubus Queen"
-en_145,Necromancer
-en_146,Skuld
-en_147,Sauroner
-en_148,Endor
-en_149,Svipdag
-en_150,Drake
+en_145,"Necromancer"
+en_146,"Skuld"
+en_147,"Sauroner"
+en_148,"Endor"
+en_149,"Svipdag"
+en_150,"Drake"
 en_151,"Dark Elder"
-en_152,Baphomet
-en_153,Beleth
-en_154,Bran
+en_152,"Baphomet"
+en_153,"Beleth"
+en_154,"Bran"
 en_155,"Death Knight"
 en_156,"Ant Queen"
-en_157,Scatha
-en_158,Joanna
-en_159,Alfred
-en_160,Inka
-en_161,Bertrand
-en_162,Olga
-en_163,Boyce
-en_164,Brooks
-en_165,Cyril[Polymorph]
-en_166,Zeke
-en_167,Cordelia
-en_168,Chad
-en_169,Cassandra
-en_170,Carina
-en_171,Dog
-en_172,Horse
+en_157,"Scatha"
+en_158,"Joanna"
+en_159,"Alfred"
+en_160,"Inka"
+en_161,"Bertrand"
+en_162,"Olga"
+en_163,"Boyce"
+en_164,"Brooks"
+en_165,"Cyril[Polymorph]"
+en_166,"Zeke"
+en_167,"Cordelia"
+en_168,"Chad"
+en_169,"Cassandra"
+en_170,"Carina"
+en_171,"Dog"
+en_172,"Horse"
 en_173,"Taylor [Potion Shop]"
-en_174,Justina
-en_175,Leah
-en_176,Friar
+en_174,"Justina"
+en_175,"Leah"
+en_176,"Friar"
 en_177,NULL
-en_178,Cow
+en_178,"Cow"
 en_179,"Orc Fighter"
 en_180,NULL
 en_181,NULL
@@ -192,77 +192,77 @@ en_190,"Orc Guard"
 en_191,"Orc Slurbow"
 en_192,"Orc Zombie"
 en_193,"Orc Mage"
-en_194,Drow
-en_195,Lolth
+en_194,"Drow"
+en_195,"Lolth"
 en_196,"Elite Skeleton"
-en_197,Cora
+en_197,"Cora"
 en_198,"Elite Skeleton Archer"
-en_199,Faustus
+en_199,"Faustus"
 en_200,"Elite Skeleton Axeman"
 en_201,"Elite Skeleton Mage"
-en_202,Doris
-en_203,Damon
+en_202,"Doris"
+en_203,"Damon"
 en_204,"Gullveig [Spellbook]"
-en_205,Galen
-en_206,Scarecrow
+en_205,"Galen"
+en_206,"Scarecrow"
 en_207,"Elite Skeleton Spear"
-en_208,Kirsten
+en_208,"Kirsten"
 en_209,"Kell [Preacher]"
 en_210,"Skeleton Mage"
-en_211,Hen
-en_212,Laura
-en_213,Naomi
-en_214,Nairobi
-en_215,Marla
-en_216,Duck
-en_217,Marcia
-en_218,Goose
-en_219,Nedra
-en_220,Pig
-en_221,Ptolemy
-en_222,Rabbit
+en_211,"Hen"
+en_212,"Laura"
+en_213,"Naomi"
+en_214,"Nairobi"
+en_215,"Marla"
+en_216,"Duck"
+en_217,"Marcia"
+en_218,"Goose"
+en_219,"Nedra"
+en_220,"Pig"
+en_221,"Ptolemy"
+en_222,"Rabbit"
 en_223,"Pascal [Weapon Shop]"
 en_224,"Rhoda"
 en_225,"Somali [Item Shop]"
-en_226,Ramla
-en_227,Ram
+en_226,"Ramla"
+en_227,"Ram"
 en_228,"Rabia [Armor Shop]"
-en_229,Sheep
+en_229,"Sheep"
 en_230,"Somali [Item Shop]"
-en_231,Sadie
-en_232,Thurston
-en_233,Themis
-en_234,Uta
-en_235,Upton
+en_231,"Sadie"
+en_232,"Thurston"
+en_233,"Themis"
+en_234,"Uta"
+en_235,"Upton"
 en_236,"Promise Island Port Boatman"
-en_237,Merlin
-en_238,Natalia
-en_239,Soldier
+en_237,"Merlin"
+en_238,"Natalia"
+en_239,"Soldier"
 en_240,NULL
 en_241,NULL
-en_242,Elbereth
+en_242,"Elbereth"
 en_243,NULL
 en_244,NULL
 en_245,NULL
 en_246,"Weakened Harpy"
 en_247,NULL
 en_248,"Weakened Werewolf"
-en_249,Andrew
-en_250,Grazob
+en_249,"Andrew"
+en_250,"Grazob"
 en_251,NULL
 en_252,"Karguk [Warehouse]"
 en_253,"Piggu [Weapon Shop]"
 en_254,"Agrob [Armor Shop]"
 en_255,"Lazgar [Item Shop]"
-en_256,Lana
-en_257,Laucian
-en_258,Owen
+en_256,"Lana"
+en_257,"Laucian"
+en_258,"Owen"
 en_259,"Weakened Scorpion"
 en_260,NULL
 en_261,NULL
 en_262,NULL
 en_263,"Weakened Owlbear"
-en_264,Shadbak
+en_264,"Shadbak"
 en_265,"Weakened Imp"
 en_266,NULL
 en_267,"Weakened Troglodyte"
@@ -279,16 +279,16 @@ en_277,NULL
 en_278,NULL
 en_279,NULL
 en_280,NULL
-en_281,Edith
-en_282,Gus
-en_283,Percy
-en_284,Gwen
-en_285,Hoover
-en_286,Irvin
-en_287,Inez
+en_281,"Edith"
+en_282,"Gus"
+en_283,"Percy"
+en_284,"Gwen"
+en_285,"Hoover"
+en_286,"Irvin"
+en_287,"Inez"
 en_288,"Dura [Potion Shop]"
-en_289,Lum
-en_290,Yatur
+en_289,"Lum"
+en_290,"Yatur"
 en_291,NULL
 en_292,NULL
 en_293,NULL
@@ -302,110 +302,110 @@ en_300,NULL
 en_301,NULL
 en_302,"Hermes [Promise Island Dungeon]"
 en_303,"Brooks [Weapon Shop]"
-en_304,Boatman
+en_304,"Boatman"
 en_305,"Justina [Item Shop]"
 en_306,"Leah [Armor Shop]"
 en_307,"Andrew [Warehouse]"
 en_308,"Ptolemy [Bone Specialist]"
 en_309,"Doris [Tailor Shop]"
 en_310,"Zese [Sky Island Teleporter]"
-en_311,Gary
-en_312,Olivia
-en_313,Carlos
-en_314,Vicky
-en_315,Ambrose
-en_316,Brandon
-en_317,Rufus
-en_318,Falice
-en_319,Nelson
-en_320,Elsa
-en_321,Gia
-en_322,Camilla
-en_323,Lorelei
-en_324,Lohan
-en_325,Cal
-en_326,Sala
-en_327,Wesley
-en_328,Gaqe
-en_329,Loretta
-en_330,Brian
-en_331,Nanette
-en_332,Calder
-en_333,Portia
-en_334,Rance
-en_335,Karl
-en_336,David
-en_337,Maris
-en_338,Jill
-en_339,Hosea
-en_340,Gareth
-en_341,Shiloh
-en_342,Camellia
-en_343,Craiq
-en_344,Lennon
-en_345,Pheadra
+en_311,"Gary"
+en_312,"Olivia"
+en_313,"Carlos"
+en_314,"Vicky"
+en_315,"Ambrose"
+en_316,"Brandon"
+en_317,"Rufus"
+en_318,"Falice"
+en_319,"Nelson"
+en_320,"Elsa"
+en_321,"Gia"
+en_322,"Camilla"
+en_323,"Lorelei"
+en_324,"Lohan"
+en_325,"Cal"
+en_326,"Sala"
+en_327,"Wesley"
+en_328,"Gaqe"
+en_329,"Loretta"
+en_330,"Brian"
+en_331,"Nanette"
+en_332,"Calder"
+en_333,"Portia"
+en_334,"Rance"
+en_335,"Karl"
+en_336,"David"
+en_337,"Maris"
+en_338,"Jill"
+en_339,"Hosea"
+en_340,"Gareth"
+en_341,"Shiloh"
+en_342,"Camellia"
+en_343,"Craiq"
+en_344,"Lennon"
+en_345,"Pheadra"
 en_346,"Garth [Edin Peak Teleporter]"
-en_347,Bettina
-en_348,Aaron
-en_349,Martin
+en_347,"Bettina"
+en_348,"Aaron"
+en_349,"Martin"
 en_350,"Karol [Warehouse]"
-en_351,Lia
-en_352,Valanthe
-en_353,Heian
-en_354,Antinua
+en_351,"Lia"
+en_352,"Valanthe"
+en_353,"Heian"
+en_354,"Antinua"
 en_355,NULL
 en_356,NULL
-en_357,Enialis
-en_358,Hermes
-en_359,Polyrhachis
-en_360,Rick
+en_357,"Enialis"
+en_358,"Hermes"
+en_359,"Polyrhachis"
+en_360,"Rick"
 en_361,"Fire Ant"
-en_362,Termite
+en_362,"Termite"
 en_363,NULL
-en_364,Lemur
+en_364,"Lemur"
 en_365,"Red Panda"
-en_366,Atub
-en_367,Urim
+en_366,"Atub"
+en_367,"Urim"
 en_368,"Bumph [Potion Shop]"
 en_369,"Yotul [Item Shop]"
 en_370,"Mogak [Armor Shop]"
-en_371,Slog
+en_371,"Slog"
 en_372,"Epkagut [Warehouse]"
 en_373,"Jogug [Weapon Shop]"
-en_374,Bashuk
-en_375,Bor
-en_376,Omugug
-en_377,Supgugh
-en_378,Panda
-en_379,Bear
-en_380,Armadillo
+en_374,"Bashuk"
+en_375,"Bor"
+en_376,"Omugug"
+en_377,"Supgugh"
+en_378,"Panda"
+en_379,"Bear"
+en_380,"Armadillo"
 en_381,"Cassandra's Guard"
-en_382,Adventurer
-en_383,Felix
-en_384,Patch
-en_385,Magister
-en_386,Force
-en_387,Teleporter
-en_388,Pangolin
-en_389,Warren
-en_390,Gordon
-en_391,Erik
-en_392,Dellas
-en_393,Hunter
-en_394,Cat
+en_382,"Adventurer"
+en_383,"Felix"
+en_384,"Patch"
+en_385,"Magister"
+en_386,"Force"
+en_387,"Teleporter"
+en_388,"Pangolin"
+en_389,"Warren"
+en_390,"Gordon"
+en_391,"Erik"
+en_392,"Dellas"
+en_393,"Hunter"
+en_394,"Cat"
 en_395,"Tyson [Armor Specialist]"
-en_396,Prince
-en_397,Knight
-en_398,Mage
-en_399,Elf
-en_400,Princess
-en_401,Knight
-en_402,Mage
-en_403,Elf
-en_404,Lawful
-en_405,Chaotic
-en_406,Neutral
-en_407,Weapon-Dagger
+en_396,"Prince"
+en_397,"Knight"
+en_398,"Mage"
+en_399,"Elf"
+en_400,"Princess"
+en_401,"Knight"
+en_402,"Mage"
+en_403,"Elf"
+en_404,"Lawful"
+en_405,"Chaotic"
+en_406,"Neutral"
+en_407,"Weapon-Dagger"
 en_408,NULL
 en_409,NULL
 en_410,NULL
@@ -437,16 +437,16 @@ en_435,NULL
 en_436,NULL
 en_437,"Theodore [Market]"
 en_438,"Sky [Clan Manager]"
-en_439,Nat
+en_439,"Nat"
 en_440,"Roger [Enchant]"
 en_441,"Event Merchant [limited time only]"
 en_442,"Event Agent [limited time only]"
 en_443,"Evil Slayer"
 en_444,"Evil Watcher"
 en_445,"Evil Inquisitor"
-en_446,Alchemist
-en_447,Tiago
-en_448,Merchant
+en_446,"Alchemist"
+en_447,"Tiago"
+en_448,"Merchant"
 en_449,"Disguised Werewolf"
 en_450,"Disguised Dwarf"
 en_451,"Disguised Orc"
@@ -456,8 +456,8 @@ en_454,"Disguised Goblin"
 en_455,"Disguised Hobgoblin"
 en_456,"Disguised Dwarf Fighter"
 en_457,"Havel [Enchant]"
-en_458,Swain
-en_459,Traveler
+en_458,"Swain"
+en_459,"Traveler"
 en_460,"Rating Master"
 en_461,"Darkness Bugbear"
 en_462,"Darkness Thri Kreen"
@@ -485,7 +485,7 @@ en_483,"Teon's gift"
 en_484,"Teon's gift(7 day)"
 en_485,"Servant of Maria"
 en_486,"The Fallen Gatekeeper"
-en_487,"Maria, Servant of the Dead [transfer]"
+en_487,"Maria"
 en_488,"Clive [Clan Warehouse]"
 en_489,"Pan [shepherd]"
 en_490,"Withered Wood Spirit"
@@ -503,18 +503,18 @@ en_501,"Scroll of Protection"
 en_502,"Holy book"
 en_503,"Copper Key"
 en_504,"Wooden Key"
-en_505,Spellbook
-en_506,Scroll
+en_505,"Spellbook"
+en_506,"Scroll"
 en_507,"Potion of Wisdom"
 en_508,"Brave Potion"
-en_509,Bark
+en_509,"Bark"
 en_510,"Branch of Life"
-en_511,Feather
-en_512,Flute
+en_511,"Feather"
+en_512,"Flute"
 en_513,"Bone Fragments"
-en_514,Crystal
-en_515,Powder
-en_516,Bouquet
+en_514,"Crystal"
+en_515,"Powder"
+en_516,"Bouquet"
 en_517,"Potion of Haste"
 en_518,"Green Potion"
 en_519,"Lesser Healing Potion"
@@ -527,9 +527,9 @@ en_525,"Greater Healing Potion"
 en_526,"White Potion"
 en_527,"Healing Potion"
 en_528,"Orange Potion"
-en_529,Pumpkin
-en_530,Corn
-en_531,Gold
+en_529,"Pumpkin"
+en_530,"Corn"
+en_531,"Gold"
 en_532,"Elven Wafer"
 en_533,"Scroll of Return - Promise Island Town"
 en_534,"Scroll of Return - Promise Island Dungeon 1F"
@@ -585,12 +585,12 @@ en_583,"Special Spirit Crystal (Fire)"
 en_584,"Special Spirit Crystal (Wind)"
 en_585,"Special Spirit Crystal (Earth)"
 en_586,"General Scroll"
-en_587,Map
+en_587,"Map"
 en_588,"Ferry Ticket"
-en_589,NULL
-en_590,NULL
-en_591,NULL
-en_592,NULL
+en_589,"+1 level up scroll"
+en_590,"-1 level down scroll"
+en_591,"+10k lawful value scroll"
+en_592,"-10k lawful value scroll"
 en_593,"Death Potion"
 en_594,"Scroll of Summon"
 en_595,"Scroll of Return - Maros Town Hotel 1"
@@ -636,16 +636,16 @@ en_634,"Time Crystal"
 en_635,"Leah's Armor Storage"
 en_636,"Leah's Healing Potion"
 en_637,"Hunter's Leather"
-en_638,Spellbook
-en_639,Novice
+en_638,"Spellbook"
+en_639,"Novice"
 en_640,"Death Knight's Servant"
 en_641,"Scroll of Polymorph(Novice)"
 en_642,"Shield (Magic)"
 en_643,"Energy Bolt"
 en_644,"Ice Dagger"
 en_645,"Lesser Heal"
-en_646,Teleport
-en_647,Light
+en_646,"Teleport"
+en_647,"Light"
 en_648,"Holy Weapon"
 en_649,"Wind Shuriken"
 en_650,"Hell Fang"
@@ -653,22 +653,22 @@ en_651,"Chill Touch"
 en_652,"Enchant Weapon"
 en_653,"Curse: Poison"
 en_654,"Fire Arrow"
-en_655,Detection
+en_655,"Detection"
 en_656,"Cure Poison"
 en_657,"Decrease Weight"
-en_658,Heal
+en_658,"Heal"
 en_659,"Freezing Cloud"
-en_660,Lightning
+en_660,"Lightning"
 en_661,"Reveal Weakness"
 en_662,"Turn Undead"
 en_663,"Blessed Armor"
 en_664,"Curse: Blind"
-en_665,Meditation
+en_665,"Meditation"
 en_666,"Vampire Touch"
 en_667,"Weapon Break"
 en_668,"Earth Jail"
-en_669,Fireball
-en_670,Slow
+en_669,"Fireball"
+en_670,"Slow"
 en_671,"Physical Enchant: DEX"
 en_672,"Counter Magic"
 en_673,"Cone of Cold"
@@ -678,32 +678,32 @@ en_676,"Remove Curse"
 en_677,"Tame Monster"
 en_678,"Greater Heal"
 en_679,"Mana Drain"
-en_680,Darkness
-en_681,Haste
-en_682,Eruption
-en_683,Weakness
-en_684,Sunburst
+en_680,"Darkness"
+en_681,"Haste"
+en_682,"Eruption"
+en_683,"Weakness"
+en_684,"Sunburst"
 en_685,"Bless Weapon"
 en_686,"Summoning Dead"
 en_687,"Physical Enchant: STR"
 en_688,"Cancel Magic"
-en_689,Freeze
+en_689,"Freeze"
 en_690,"Summon Monster"
 en_691,"Greater Haste"
-en_692,Berserk
-en_693,Disease
+en_692,"Berserk"
+en_693,"Disease"
 en_694,"Holy Walk"
 en_695,"Heal Pledge"
-en_696,Tornado
+en_696,"Tornado"
 en_697,"Magical Mine"
 en_698,"Full Heal"
-en_699,Blizzard
+en_699,"Blizzard"
 en_700,"Life Stream"
-en_701,Firewall
-en_702,Resurrection
-en_703,Invisibility
-en_704,Earthquake
-en_705,Silence
+en_701,"Firewall"
+en_702,"Resurrection"
+en_703,"Invisibility"
+en_704,"Earthquake"
+en_705,"Silence"
 en_706,"Counter Detection"
 en_707,"Fog of Sleeping"
 en_708,"Fire Storm"
@@ -717,7 +717,7 @@ en_715,"Inner Sight"
 en_716,"Ice Spike"
 en_717,"Create Magical Weapon"
 en_718,"Meteor Strike"
-en_719,Destroy
+en_719,"Destroy"
 en_720,"Greater Resurrection"
 en_721,"Absolute Barrier"
 en_722,"Mass Slow"
@@ -745,7 +745,7 @@ en_743,"Resist Elemental"
 en_744,"Clear Mind"
 en_745,"Triple Arrow"
 en_746,"Protection from Elemental"
-en_747,Entangle
+en_747,"Entangle"
 en_748,"Earth Skin"
 en_749,"Water Life"
 en_750,"Fire Weapon"
@@ -799,11 +799,11 @@ en_797,"Bean Paste Mooncake"
 en_798,"Osmanthus Mooncake"
 en_799,"Lotus Mooncake"
 en_800,"Double Eggs Mooncake"
-en_801,Lamp
-en_802,Lanterns
-en_803,Kerosene
+en_801,"Lamp"
+en_802,"Lanterns"
+en_803,"Kerosene"
 en_804,"Magic Lanterns"
-en_805,Candles
+en_805,"Candles"
 en_806,"Wand of Conjure Monster"
 en_807,"Wand of Pine"
 en_808,"Wand of Call Lightning"
@@ -833,13 +833,13 @@ en_831,"Elixir (DEX)"
 en_832,"Elixir (INT)"
 en_833,"Elixir (WIS)"
 en_834,"Elixir (CHA)"
-en_835,Wine
-en_836,Whiskey
+en_835,"Wine"
+en_836,"Whiskey"
 en_837,"Potion of Mental Acuity"
-en_838,Diamond
-en_839,Ruby
-en_840,Sapphire
-en_841,Emerald
+en_838,"Diamond"
+en_839,"Ruby"
+en_840,"Sapphire"
+en_841,"Emerald"
 en_842,"High Quality Diamond"
 en_843,"High Quality Ruby"
 en_844,"High Quality Sapphire"
@@ -848,14 +848,14 @@ en_846,"Highest Quality Diamond"
 en_847,"Highest Quality Ruby"
 en_848,"Highest Quality Sapphire"
 en_849,"Highest Quality Emerald"
-en_850,Meat
+en_850,"Meat"
 en_851,"Meat of Floating Eye"
-en_852,Egg
-en_853,Carrot
-en_854,Lemon
-en_855,Banana
-en_856,Apple
-en_857,Orange
+en_852,"Egg"
+en_853,"Carrot"
+en_854,"Lemon"
+en_855,"Banana"
+en_856,"Apple"
+en_857,"Orange"
 en_858,"Scroll of Enchant Armor"
 en_859,"Scroll of Destroy Armor"
 en_860,"Scroll of Escape"
@@ -873,11 +873,11 @@ en_871,"Scroll of Identify"
 en_872,"Golem Heart"
 en_873,"Golden Key"
 en_874,"Drake Heart"
-en_875,Platinum
+en_875,"Platinum"
 en_876,"Inn Room Key"
 en_877,"Silver Key"
 en_878,"Pet Collar"
-en_879,Whetstone
+en_879,"Whetstone"
 en_880,"Magic Gem"
 en_881,"Spirit Gem"
 en_882,"Scale of Scatha"
@@ -892,13 +892,13 @@ en_890,"Fire Dragon Scale"
 en_891,"Wind Dragon Scale"
 en_892,"Water Dragon Scale"
 en_893,"Earth Dragon Scale"
-en_894,Leather
+en_894,"Leather"
 en_895,"Hard Leather"
 en_896,"Lump of Iron"
 en_897,"Web of Lolth"
 en_898,"Wolf Pelt"
 en_899,"Platinum Plate"
-en_900,Platinum
+en_900,"Platinum"
 en_901,"Rough Platinum Piece"
 en_902,"Juice of Slime"
 en_903,"Dark Mithril"
@@ -907,7 +907,7 @@ en_905,"Dark Mithril Plate"
 en_906,"Blue cloth"
 en_907,"Red cloth"
 en_908,"White cloth"
-en_909,Scale
+en_909,"Scale"
 en_910,"Scorpion Shell"
 en_911,"Lump of Silver"
 en_912,"Rough of Silver Piece"
@@ -922,8 +922,8 @@ en_920,"Griffon Feather"
 en_921,"Mithril Thread"
 en_922,"Lump of Mithril"
 en_923,"Mithril Plate"
-en_924,Thread
-en_925,Orichalcum
+en_924,"Thread"
+en_925,"Orichalcum"
 en_926,"Orichalcum Plate"
 en_927,"Blood of Ogre"
 en_928,"Elements of stone"
@@ -933,7 +933,7 @@ en_931,"Thin Plate"
 en_932,"Black Keys"
 en_933,"Red Key"
 en_934,"Ancient Arrow"
-en_935,Arrow
+en_935,"Arrow"
 en_936,"Silver Arrow"
 en_937,"Golden Arrow"
 en_938,"Mithril Arrow"
@@ -941,17 +941,17 @@ en_939,"Dark Mithril Arrow"
 en_940,"Orichalcum Arrow"
 en_941,"Steel block"
 en_942,"Lump of Rough Iron"
-en_943,Stones
-en_944,Solvent
-en_945,Flour
-en_946,Tomato
+en_943,"Stones"
+en_944,"Solvent"
+en_945,"Flour"
+en_946,"Tomato"
 en_947,"Holy Water"
 en_948,"Scroll of Enchant Weapon: Fire"
 en_949,"Scroll of Enchant Weapon: Earth"
 en_950,"Scroll of Enchant Weapon: Water"
 en_951,"Scroll of Enchant Weapon: Wind"
 en_952,"Potion of Rebirth"
-en_953,Letter
+en_953,"Letter"
 en_954,"Scroll of Enchant Accessory"
 en_955,"Iron-blood Badge"
 en_956,"Rare Plate"
@@ -1001,7 +1001,7 @@ en_999,NULL
 en_1000,"Orcish Dagger"
 en_1001,"Dice Dagger"
 en_1002,"Body of Short Sword"
-en_1003,Dagger
+en_1003,"Dagger"
 en_1004,"Elven Dagger"
 en_1005,"Novice Dagger"
 en_1006,"Mithril Dagger"
@@ -1015,7 +1015,7 @@ en_1013,"Broad Sword"
 en_1014,"Short Sword"
 en_1015,"Silver Sword"
 en_1016,"Dwarvish Short Sword"
-en_1017,Scimitar
+en_1017,"Scimitar"
 en_1018,"Elven Short Sword"
 en_1019,"Long Silver Sword"
 en_1020,"Sword of the Red Knight"
@@ -1024,32 +1024,32 @@ en_1022,"Sword of the Dark Knights"
 en_1023,"Novice One-Handed Sword"
 en_1024,"Damascus Sword"
 en_1025,"Dagger of the Dark Knights"
-en_1026,Katana
-en_1027,Rapier
-en_1028,Shamshir
+en_1026,"Katana"
+en_1027,"Rapier"
+en_1028,"Shamshir"
 en_1029,"Novice Two-Handed Sword"
 en_1030,"Two Handed Sword"
 en_1031,"Sword of Bran"
-en_1032,Tsurugi
+en_1032,"Tsurugi"
 en_1033,"Death Knight's Fire Sword"
 en_1034,"Doom Blade"
 en_1035,"Great Sword"
 en_1036,"Pan's Horn"
 en_1037,"Mithril-Coated Horn"
-en_1038,Bardiche
+en_1038,"Bardiche"
 en_1039,"Orcish Spear"
 en_1040,"Bill Guisarme"
-en_1041,Trident
-en_1042,Partisan
-en_1043,Lance
-en_1044,Spear
-en_1045,Guisarme
-en_1046,Glaive
+en_1041,"Trident"
+en_1042,"Partisan"
+en_1043,"Lance"
+en_1044,"Spear"
+en_1045,"Guisarme"
+en_1046,"Glaive"
 en_1047,"Elven Spear"
 en_1048,"Orichalcum-Coated Horn"
 en_1049,"Spear of Nestro"
-en_1050,Halberd
-en_1051,Fauchard
+en_1050,"Halberd"
+en_1051,"Fauchard"
 en_1052,"Novice Spear"
 en_1053,"Crow's Peck War Spear"
 en_1054,"Elven Short Sword of Magic Resistance"
@@ -1064,11 +1064,11 @@ en_1062,"Steel Staff of Mana"
 en_1063,"Oak Staff"
 en_1064,"Wizard's Staff"
 en_1065,"Staff of Strength"
-en_1066,Axe
-en_1067,Athame
-en_1068,Club
-en_1069,Flail
-en_1070,Mace
+en_1066,"Axe"
+en_1067,"Athame"
+en_1068,"Club"
+en_1069,"Flail"
+en_1070,"Mace"
 en_1071,"War Hammer"
 en_1072,"Silver Axe"
 en_1073,"Battle Axe"
@@ -1080,12 +1080,12 @@ en_1078,"Great Axe"
 en_1079,"Hunter Bow"
 en_1080,"Elven Bow"
 en_1081,"Orcish Bow"
-en_1082,Bow
+en_1082,"Bow"
 en_1083,"Short Bow"
 en_1084,"Novice Stone Bow"
 en_1085,"Novice Bow"
-en_1086,Crossbow
-en_1087,Yumi
+en_1086,"Crossbow"
+en_1087,"Yumi"
 en_1088,"Ancient Bowgun"
 en_1089,"Venti's Bow"
 en_1090,"Elven Short Sword of Spell Power"
@@ -1126,9 +1126,9 @@ en_1124,"Scroll of Return - Maros Dungeon 5F (bound)"
 en_1125,"Scroll of Return - Maros Dungeon 6F (bound)"
 en_1126,"Scroll of Return - Maros Dungeon 7F (bound)"
 en_1127,"Sheep's Bones"
-en_1128,Deadwood
+en_1128,"Deadwood"
 en_1129,"Essence of Bone Meal"
-en_1130,Totem
+en_1130,"Totem"
 en_1131,"Totem Fragments"
 en_1132,"Great Pumpkin [Halloween]"
 en_1133,"Pumpkin Biscuit [Halloween]"
@@ -1147,39 +1147,39 @@ en_1145,"Christmas Gift"
 en_1146,"Lucky Chrismas Gift"
 en_1147,"Temporary Oath"
 en_1148,"Treasure Map (Promise Island)"
-en_1149,藏寶圖（馬洛斯地區）
-en_1150,藏寶圖（妖魔地區）
-en_1151,藏寶圖（精靈園林）
-en_1152,藏寶圖（沙棘木地區）
+en_1149,NULL
+en_1150,NULL
+en_1151,NULL
+en_1152,NULL
 en_1153,"Advanced Treasure Map (Promise Island)"
 en_1154,"Piece of Advanced Treasure Map I (Promise Island)"
 en_1155,"Piece of Advanced Treasure Map II (Promise Island)"
 en_1156,"Piece of Advanced Treasure Map III (Promise Island)"
 en_1157,"Piece of Advanced Treasure Map IV (Promise Island)"
-en_1158,一等變形卷軸(騎士)
-en_1159,二等變形卷軸(騎士)
-en_1160,三等變形卷軸(騎士)
-en_1161,四等變形卷軸(騎士)
-en_1162,五等變形卷軸(騎士)
-en_1163,六等變形捲軸(騎士)
-en_1164,一等變形卷軸(法師)
-en_1165,二等變形卷軸(法師)
-en_1166,三等變形卷軸(法師)
-en_1167,四等變形卷軸(法師)
-en_1168,五等變形卷軸(法師)
-en_1169,六等變形捲軸(法師)
-en_1170,一等變形卷軸(精靈)
-en_1171,二等變形卷軸(精靈)
-en_1172,三等變形卷軸(精靈)
-en_1173,四等變形卷軸(精靈)
-en_1174,五等變形卷軸(精靈)
-en_1175,六等變形捲軸(精靈)
-en_1176,一等變形卷軸(王族)
-en_1177,二等變形卷軸(王族)
-en_1178,三等變形卷軸(王族)
-en_1179,四等變形卷軸(王族)
-en_1180,五等變形卷軸(王族)
-en_1181,六等變形捲軸(王族)
+en_1158,NULL
+en_1159,NULL
+en_1160,NULL
+en_1161,NULL
+en_1162,NULL
+en_1163,NULL
+en_1164,NULL
+en_1165,NULL
+en_1166,NULL
+en_1167,NULL
+en_1168,NULL
+en_1169,NULL
+en_1170,NULL
+en_1171,NULL
+en_1172,NULL
+en_1173,NULL
+en_1174,NULL
+en_1175,NULL
+en_1176,NULL
+en_1177,NULL
+en_1178,NULL
+en_1179,NULL
+en_1180,NULL
+en_1181,NULL
 en_1182,"Ungoliant Monarch"
 en_1183,"Kobold Chieftain"
 en_1184,"Cerberus Monarch"
@@ -1241,19 +1241,19 @@ en_1239,"Lucky Pocket [N]"
 en_1240,"Celebration Cake"
 en_1241,"Celebration Gift"
 en_1242,"Sage's Blessing"
-en_1243,红爆竹
-en_1244,新年变形卷轴
-en_1245,快乐变形卷轴
-en_1246,调皮的年兽
-en_1247,贪吃的年兽
-en_1248,逃窜的年兽
+en_1243,NULL
+en_1244,NULL
+en_1245,NULL
+en_1246,NULL
+en_1247,NULL
+en_1248,NULL
 en_1249,"Ragged Advanced Polymorph Scroll(bound)"
 en_1250,"Advanced Polymorph Scroll (bound)"
 en_1251,"Essence of Polymorph"
 en_1252,"Magical appliance of Meilin"
-en_1253,Teon週年慶禮包
-en_1254,伺服器週年慶禮包
-en_1255,bound
+en_1253,NULL
+en_1254,NULL
+en_1255,"bound"
 en_1256,"Bloodthirsty Werewolf"
 en_1257,"Bloodthirsty Ogre"
 en_1258,"Bloodthirsty Werewolf Alpha"
@@ -1261,12 +1261,12 @@ en_1259,"Bloodthirsty Ogre Cheiftain"
 en_1260,"Crimson Knight's Shield"
 en_1261,"Succubus Leader"
 en_1262,"Cockatrice Leader"
-en_1263,Old
-en_1264,Shining
-en_1265,Amy[Costume]
-en_1266,Greedy
+en_1263,"Old"
+en_1264,"Shining"
+en_1265,"Amy[Costume]"
+en_1266,"Greedy"
 en_1267,"[Chaotic Arena]"
-en_1268,[Market]
+en_1268,"[Market]"
 en_1269,"[Attribute Conversion]"
 en_1270,"Character Growth Gift Box"
 en_1271,"Sacred Stone of Hope"
@@ -1275,7 +1275,7 @@ en_1273,"Ring of Peace"
 en_1274,"Zese's Mighty Weapon"
 en_1275,"Weapon Enchantment Scroll (Quest Exclusive)"
 en_1276,"Sealed Oath (15-Day)"
-en_1277,Gloria
+en_1277,"Gloria"
 en_1278,"Magic Rune Stone"
 en_1279,"Magical Dye"
 en_1280,"Special Magical Dye"
@@ -1312,7 +1312,7 @@ en_1310,"Helm of Magic: Speed"
 en_1311,"Helm of Magic: Healing"
 en_1312,"Helm of Magic: Power"
 en_1313,"Cap of Svipdag"
-en_1314,Crown
+en_1314,"Crown"
 en_1315,"Elven Helm of Dexterity"
 en_1316,"Helm of Wind"
 en_1317,"Helmet of King Attila"
@@ -1330,7 +1330,7 @@ en_1328,"Elven Helm of Constitution"
 en_1329,"Cap of Endor"
 en_1330,"Helmet of Bran"
 en_1331,"Circlet of Niviane"
-en_1332,Helmet
+en_1332,"Helmet"
 en_1333,"Bone Helmet"
 en_1334,"Golden Wing of the Giant Ant Queen"
 en_1335,"Silver Wing of the Giant Ant Queen"
@@ -1351,7 +1351,7 @@ en_1349,"Cloak of Invisibility"
 en_1350,"Cloak of Displacement"
 en_1351,"Oilskin Cloak"
 en_1352,"Novice T-Shirt"
-en_1353,T-shirt
+en_1353,"T-shirt"
 en_1354,"Leather Armor"
 en_1355,"Leather Vest"
 en_1356,"Iron Plate Mail"
@@ -1394,12 +1394,12 @@ en_1392,"Snow Gloves"
 en_1393,"Crystal Gloves"
 en_1394,"Gloves of Earth Spirit"
 en_1395,"Gloves of Fire Spirit"
-en_1396,Gloves
+en_1396,"Gloves"
 en_1397,"Gloves of Bran"
 en_1398,"Gloves of Niviane"
 en_1399,"Power Gloves"
 en_1400,"Gloves of Wind Spirit"
-en_1401,Bracer
+en_1401,"Bracer"
 en_1402,"Leather Boots"
 en_1403,"Leather Sandals"
 en_1404,"Iron Boots"
@@ -1440,7 +1440,7 @@ en_1438,"Old Amulet of Constitution"
 en_1439,"Amulet of Charisma"
 en_1440,"Amulet of Dexterity"
 en_1441,"Promise Island Amulet"
-en_1442,"Orcish Amulet "
+en_1442,"Orcish Amulet"
 en_1443,"Amulet of Strength"
 en_1444,"Amulet of Intelligence"
 en_1445,"Amulet of Wisdom"
@@ -1583,7 +1583,7 @@ en_1581,"Juliana[Market]"
 en_1582,"Xiu[Trader in the Oasis]"
 en_1583,"To Sandwood Region"
 en_1584,"Vampiric Touch"
-en_1585,Traveler
+en_1585,"Traveler"
 en_1586,"Pincer"
 en_1587,"Fire Ant Monarch"
 en_1588,"Soldier Ant Monarch"
@@ -1607,94 +1607,584 @@ en_1605,"Celebration Emissary"
 en_1606,"Evil Cerberus"
 en_1607,"Mini Advanced Scroll of Polymorph (Bound)"
 en_1608,"Celebration Cake(Quest Exclusive)"
-en_1609,弱化侏儒
-en_1610,弱化哥布林
-en_1611,弱化霍布哥布林
-en_1612,弱化豺狼人
-en_1613,庫力特
-en_1614,生命之源
-en_1615,防具強化卷軸(任務專屬)
-en_1616,新手斗篷
-en_1617,糧食
-en_1618,木材
-en_1619,木弓
-en_1620,矮人戰士的頭盔
-en_1621,霍布哥布林之血
-en_1622,獸人戰士的心臟
-en_1623,藥物
-en_1624,屍羅蜘蛛的牙
-en_1625,屍羅蜘蛛的毒腺
-en_1626,喪屍的腐肉
-en_1627,魔眼的觸
-en_1628,喪屍的腐肉
-en_1629,狼人的爪
-en_1630,銀戒指
-en_1631,骷髏鎧甲
-en_1632,屍羅蜘蛛的牙
-en_1633,獸人戰士的心臟
-en_1634,屍羅蜘蛛的毒腺
-en_1635,法陣魔石
-en_1636,魔戒
-en_1637,卡夏
-en_1638,法拉
-en_1639,雷文
-en_1640,赫伯特
-en_1641,阿卡拉
-en_1642,凱恩
-en_1643,阿特瑪
-en_1644,傑拉瑪
-en_1645,愛西亞
-en_1646,霍頓
-en_1647,侏儒的信物
-en_1648,哥布林的匕首
-en_1649,哥布林的大刀
-en_1650,豺狼人的尖牙
-en_1651,豺狼人的皮毛
-en_1652,被盜的金屬塊
-en_1653,被盜的物資
-en_1654,地精的棍棒
-en_1655,損壞的弓
-en_1656,騷擾農場的證據
-en_1657,火藤草
-en_1658,蜘蛛的腿
-en_1659,蜘蛛的卵
-en_1660,靈魂結晶
-en_1661,魔眼的肉
-en_1662,狼人的血
-en_1663,金屬塊（任務物品）
-en_1664,蜘蛛的腿
-en_1665,獸人的骨頭
-en_1666,喪屍的腐肉
-en_1667,蜘蛛的毒液
-en_1668,信函
-en_1669,人狼的皮毛
-en_1670,破舊的書本(需要銷毀)
-en_1671,破舊的頭盔(需要存放到個人倉庫)
-en_1672,初心者匕首
-en_1673,初心者之弓
-en_1674,初心者之劍
-en_1675,初心者之杖
-en_1676,閃亮的初心者之弓
-en_1677,閃亮的初心者之劍
-en_1678,閃亮的初心者之杖
-en_1679,初心者T恤
-en_1680,初心者之甲
-en_1681,初心者披風
-en_1682,初心者頭盔
-en_1683,初心者手套
-en_1684,初心者之靴
-en_1685,初心者之盾
-en_1686,初心者之戒
-en_1687,閃亮的初心者披風
-en_1688,閃亮的初心者頭盔
-en_1689,納爾德
-en_1690,阿爾諾
-en_1691,阿森林
-en_1692,巴瑞特
-en_1693,德魯
-en_1694,德拉斯的藥水
-en_1695,德拉斯的道具
-en_1696,德拉斯的武器
-en_1697,德拉斯的防具
-en_1698,雷文的戒指
-en_1699,勇士徽章
+en_1609,"Weaken Dwarf"
+en_1610,"Weaken Goblin"
+en_1611,"Weaken Hobgoblin"
+en_1612,"Weaken Gnoll"
+en_1613,"Kurtz"
+en_1614,"Source of Life"
+en_1615,"Scroll of Enchant Armor (Quest Item)"
+en_1616,"Novice Cloak"
+en_1617,"Food Supply Packs"
+en_1618,"Wood"
+en_1619,"Wooden Bow"
+en_1620,"Dwarf Warrior Helmet"
+en_1621,"Purple Potion"
+en_1622,"Orc Fighter Hair"
+en_1623,"Medicine "
+en_1624,"Rotten Meat"
+en_1625,"Floating Eye Soul Crystal"
+en_1626,"Rotten Meat"
+en_1627,"Fruit of Eternal Life"
+en_1628,"Torned Leather"
+en_1629,"Werewolf Claw"
+en_1630,"Silver Ring"
+en_1631,"Skeleton Armor"
+en_1632,"Shelob Fangs"
+en_1633,"Orc Fighter Axe"
+en_1634,"Phoenix Feather"
+en_1635,"Alchemist Stone"
+en_1636,"Magic Ring"
+en_1637,"Kashya"
+en_1638,"Fara"
+en_1639,"Raven"
+en_1640,"Herbert"
+en_1641,"Akara"
+en_1642,"Kane"
+en_1643,"Atma"
+en_1644,"Gerome"
+en_1645,"Aisha"
+en_1646,"Horton"
+en_1647,"Dwarf Token"
+en_1648,"Goblin Dagger"
+en_1649,"Servant Soul Crystal"
+en_1650,"Deadly Lotus Petal"
+en_1651,"Deadly Lotus Seed"
+en_1652,"Stolen Lump of Iron"
+en_1653,"Stolen Supplies"
+en_1654,"Goblin Thief Club"
+en_1655,"Broken Bow"
+en_1656,"Wrecking Farm Evidence"
+en_1657,"Fire Vine"
+en_1658,"Token of the Loved Ones"
+en_1659,"Soldiers Name Tag"
+en_1660,"Soul Crystal"
+en_1661,"Floating Eye Meat"
+en_1662,"Werewolf Soul Crystal"
+en_1663,"Lump of Iron (Quest Item)"
+en_1664,"Shelob Legs"
+en_1665,"Werewolf Fangs"
+en_1666,"Shelob Silk"
+en_1667,"Ungoliant Venom"
+en_1668,"Letter"
+en_1669,"Lycanthrope Fur"
+en_1670,"Old Book (Discard Required)"
+en_1671,"Old Helmet (Character Warehouse-Deposit Required)"
+en_1672,"Prime Dagger"
+en_1673,"Prime Bow"
+en_1674,"Prime Sword"
+en_1675,"Prime Staff"
+en_1676,"Shining Prime Bow"
+en_1677,"Shining Prime Sword"
+en_1678,"Shining Prime Staff"
+en_1679,"Prime T-Shirt"
+en_1680,"Prime Armor"
+en_1681,"Prime Cloak"
+en_1682,"Prime Helmet"
+en_1683,"Prime Glove"
+en_1684,"Prime Boots"
+en_1685,"Prime Shield"
+en_1686,"Prime Ring"
+en_1687,"Shining Prime Cloak"
+en_1688,"Shining Prime Helmet"
+en_1689,"Herald"
+en_1690,"Arnold"
+en_1691,"Ashlyn"
+en_1692,"Barret"
+en_1693,"Drew"
+en_1694,"Dellas Potion"
+en_1695,"Dellas Item Kit"
+en_1696,"Dellas Weapon"
+en_1697,"Dellas Armor"
+en_1698,"Raven Ring"
+en_1699,"Warrior Badge"
+en_1700,"Magic Axe"
+en_1701,"Guidance Bird"
+en_1702,"Aisha's Map"
+en_1703,"Gabriel [Self Training]"
+en_1704,"Powell [Navigation Tutor]"
+en_1705,NULL
+en_1706,NULL
+en_1707,NULL
+en_1708,NULL
+en_1709,NULL
+en_1710,NULL
+en_1711,"Brad [Clan War]"
+en_1712,"Hanna [Clan House]"
+en_1713,"Teleport to the Post War Zone Scroll"
+en_1714,"Armor Fragments"
+en_1715,"Desert Hound"
+en_1716,"Deadly Lotus"
+en_1717,"Harpoon Spider"
+en_1718,"Skeleton Bone"
+en_1719,"Desert Hound Alpha"
+en_1720,"Deadly Lotus Monarch"
+en_1721,"Harpoon Spider Monarch"
+en_1722,NULL
+en_1723,NULL
+en_1724,NULL
+en_1725,NULL
+en_1726,NULL
+en_1727,NULL
+en_1728,NULL
+en_1729,NULL
+en_1730,NULL
+en_1731,NULL
+en_1732,NULL
+en_1733,NULL
+en_1734,"Sealed Ancient Crossbow"
+en_1735,"Sealed Ancient Two-handed Sword"
+en_1736,"Sealed Ancient Sword"
+en_1737,"Sealed Ancient Dagger"
+en_1738,"Sealed Ancient Spear"
+en_1739,"Sealed Ancient Axe"
+en_1740,"Ancient Crossbow"
+en_1741,"Ancient Two-handed Sword"
+en_1742,"Ancient Sword"
+en_1743,"Ancient Dagger"
+en_1744,"Ancient Spear"
+en_1745,"Ancient Axe"
+en_1746,"Scroll of Almighty"
+en_1747,"Ancient Lesser Healing Potion"
+en_1748,"Ancient Healing Potion"
+en_1749,"Tauren"
+en_1750,"Tauren Warrior"
+en_1751,"Medusa"
+en_1752,"Ancient Bladeling"
+en_1753,"Ancient Hook "
+en_1754,"Demon Elder"
+en_1755,"Tauren Elite"
+en_1756,"Tauren Warrior Elite"
+en_1757,"Medusa Monarch"
+en_1758,"Ancient Bladeling Elite"
+en_1759,"Ancient Hook Leader"
+en_1760,"Demon Elder Leader"
+en_1761,"Ancient Drake General"
+en_1762,"Imp Leader"
+en_1763,NULL
+en_1764,NULL
+en_1765,NULL
+en_1766,"Abandoned Island Boatman"
+en_1767,"Abandoned Island Boat Ticket"
+en_1768,NULL
+en_1769,NULL
+en_1770,"Weakened Orc Archer"
+en_1771,"Weakened Deadly Lotus"
+en_1772,"Alice [Conductor]"
+en_1773,"Boat ticket"
+en_1774,"Aileen [Weapon Specialist / Teleporter]"
+en_1775,"Ancient Blood Crystal"
+en_1776,"Ancient Greater Healing Potion"
+en_1777,"Ancient Tears of the Exiles"
+en_1778,"Ancient Cockatrice"
+en_1779,"Ancient Bugbear"
+en_1780,"Ancient Ettin"
+en_1781,"Ancient Imp"
+en_1782,"Ancient Cockatrice Leader"
+en_1783,"Ancient Bugbear Monarch"
+en_1784,"Ancient Ettin Leader"
+en_1785,"Ancient Drake"
+en_1786,"Joshua [Merchant]"
+en_1787,"Alan"
+en_1788,"Milon"
+en_1789,"Arthur"
+en_1790,"Alcock"
+en_1791,"Selena"
+en_1792,"Self Training Book"
+en_1793,"Ticket Box [Test Item]"
+en_1794,"Entrance Ticket [Test Item]"
+en_1795,"Power of the Exiles [Paralyze]"
+en_1796,"Magic of the Exiles [Paralyze]"
+en_1797,"Tears of the Exiles [Paralyze]"
+en_1798,"Power of the Exiles [Poison]"
+en_1799,"Magic of the Exiles [Poison]"
+en_1800,"Tears of the Exiles [Poison]"
+en_1801,"Stolen Supplies"
+en_1802,"Goblin Club"
+en_1803,"Deadly Lotus Branch"
+en_1804,"Farm Wrackage Evidence"
+en_1805,"Bayard [Medieval Field Teleporter]"
+en_1806,"Orc Mage Robe"
+en_1807,"Ungoliant Silk"
+en_1808,"Demon Helmet"
+en_1809,"Demon Cloak"
+en_1810,"Demon Chain Mail"
+en_1811,"Demon T-shirt"
+en_1812,"Demon Boots"
+en_1813,"Owlbear Leader"
+en_1814,"Werewolf Skin"
+en_1815,"Skeleton Round Shield"
+en_1816,"Skeleton Staff"
+en_1817,"Skeleton Axe"
+en_1818,"Lycantrophe Bone"
+en_1819,"Blue Crystal"
+en_1820,"Red Crystal"
+en_1821,"White Crystal"
+en_1822,"Brown Crystal"
+en_1823,"Ghast Acid"
+en_1824,"Cerberus Fangs"
+en_1825,"Zombie Jade"
+en_1826,"Owlbear Meat"
+en_1827,"Drow Arrow"
+en_1828,"Web of Lolth"
+en_1829,"Orc Guard Badge"
+en_1830,"Orc Shaman Blood"
+en_1831,"Orc Slurbow Arrow"
+en_1832,"Hero Ring Lv.1"
+en_1833,"Hero Ring Lv.2"
+en_1834,"Hero Ring Lv.3"
+en_1835,"Hero Ring Lv.4"
+en_1836,"Hero's Totem"
+en_1837,"Sword of Castel"
+en_1838,"Excecutioner"
+en_1839,"Dragon Twin Blade"
+en_1840,"Shahr War Spear"
+en_1841,"Fine Steel Great Axe"
+en_1842,"Dragon Tomahawk"
+en_1843,"Staff of Darkness"
+en_1844,"Staff of Light"
+en_1845,"Dagger of Baldur"
+en_1846,"Onyx Dagger"
+en_1847,"Bow of Grace"
+en_1848,"Balaar Helm"
+en_1849,"Elven Helm"
+en_1850,"Cosmo Helm"
+en_1851,"Cosmo Cloak"
+en_1852,"Silver Knight Cloak"
+en_1853,"Cloak of Foresight"
+en_1854,"Swift Cloak"
+en_1855,"Cosmo T-Shirt"
+en_1856,"Soft Leather Armor"
+en_1857,"Refine Leather Armor"
+en_1858,"Silver Silk Armor"
+en_1859,"Golden Silk Armor"
+en_1860,"Castel Chain Mail"
+en_1861,"Cosmo Chain Mail"
+en_1862,"HP Glove"
+en_1863,"MP Glove"
+en_1864,"Glove of Dexterity"
+en_1865,"Glove of Spell Power"
+en_1866,"Cosmo Glove"
+en_1867,"Drake"
+en_1868,"Drake Servant"
+en_1869,"Demon Glove"
+en_1870,"Soft Leather Boots"
+en_1871,"Long Boots"
+en_1872,"Cosmo Boots"
+en_1873,"Practitioner Boots"
+en_1874,"Protector Boots"
+en_1875,"Bandit Boots"
+en_1876,"Prosecutor Boots"
+en_1877,"Believer Boots"
+en_1878,"Cosmo Shield"
+en_1879,"Hero Amulet Lv.1"
+en_1880,"Lia's Amulet"
+en_1881,"Hero Amulet Lv.2"
+en_1882,"Beimler Necklace"
+en_1883,"Hero Amulet Lv.3"
+en_1884,"Protector Amulet"
+en_1885,"Hero Amulet Lv.4 [HP]"
+en_1886,"Hero Amulet Lv.4 [MP]"
+en_1887,"Hero Amulet Lv.4 [Dex]"
+en_1888,"Blind Earrings"
+en_1889,"Freeze Earrings"
+en_1890,"Silence Earrings"
+en_1891,"Stun Earrings"
+en_1892,"Paralyze Earrings"
+en_1893,"Poison Earrings"
+en_1894,"Zodiac Earrings"
+en_1895,"Eclipse Earrings"
+en_1896,"Dawn Earrings"
+en_1897,"Casa War Spear"
+en_1898,"Ring of Friendship"
+en_1899,"Ring of Joy"
+en_1900,"Energy Ring"
+en_1901,"Cosmo Ring"
+en_1902,"Fire Ring"
+en_1903,"Ice Ring"
+en_1904,"Terra Ring"
+en_1905,"Fairy Ring"
+en_1906,"Old Belt of HP"
+en_1907,"Old Belt of Energy"
+en_1908,"Old Belt of MP"
+en_1909,"HP Belt"
+en_1910,"Energy Belt"
+en_1911,"MP Belt"
+en_1912,"Long White Sword"
+en_1913,"Long Golden Sword"
+en_1914,"Rapier of Madness"
+en_1915,"Sword of Prophecy"
+en_1916,"Crescent Crossbow"
+en_1917,"Hunter Bow"
+en_1918,"Weapon Purification Potion Lv.1"
+en_1919,"Weapon Purification Potion Lv.2"
+en_1920,"Weapon Purification Potion Lv.3"
+en_1921,"Weapon Purification Potion Lv.4"
+en_1922,"Weapon Purification Potion Lv.5"
+en_1923,"Weapon Purification Potion Lv.6"
+en_1924,"Weapon Purification Potion Lv.7"
+en_1925,"Weapon Purification Potion Lv.8"
+en_1926,"Weapon Purification Potion Lv.9"
+en_1927,"Armor Purification Potion Lv.1"
+en_1928,"Armor Purification Potion Lv.2"
+en_1929,"Armor Purification Potion Lv.3"
+en_1930,"Armor Purification Potion Lv.4"
+en_1931,"Armor Purification Potion Lv.5"
+en_1932,"Armor Purification Potion Lv.6"
+en_1933,"Armor Purification Potion Lv.7"
+en_1934,"Armor Purification Potion Lv.8"
+en_1935,"Armor Purification Potion Lv.9"
+en_1936,"Accessory Purification Potion Lv.1"
+en_1937,"Accessory Purification Potion Lv.2"
+en_1938,"Accessory Purification Potion Lv.3"
+en_1939,"Accessory Purification Potion Lv.4"
+en_1940,"Accessory Purification Potion Lv.5"
+en_1941,"Accessory Purification Potion Lv.6"
+en_1942,"Accessory Purification Potion Lv.7"
+en_1943,"Accessory Purification Potion Lv.8"
+en_1944,"Accessory Purification Potion Lv.9"
+en_1945,"Blemish Sword of Castel"
+en_1946,"Blemish Spectre Knight Sword"
+en_1947,"Blemish Silver Knight Sword"
+en_1948,"Blemish Long White Sword"
+en_1949,"Blemish Long Golden Sword"
+en_1950,"Blemish Long Sword of Madness"
+en_1951,"Blemish Sword of Prophecy"
+en_1952,"Blemish Two handed Sword"
+en_1953,"Blemish Shahr War Spear"
+en_1954,"Blemish Fine Steel Great Axe"
+en_1955,"Blemish Dragon Tomahawk"
+en_1956,"Blemish Staff of Mana"
+en_1957,"Blemish Staff of Darkness"
+en_1958,"Blemish Staff of Light"
+en_1959,"Blemish Dagger of Baldur"
+en_1960,"Blemish Onyx Dagger"
+en_1961,"Blemish Crossbow"
+en_1962,"Nature's Seal"
+en_1963,"Blemish Crescent Crossbow"
+en_1964,"Blemish Hunter Bow"
+en_1965,"Blemish Studded Leather Cap"
+en_1966,"Blemish Knight Visor"
+en_1967,"Blemish Balaar Helm"
+en_1968,"Crystal of Healing"
+en_1969,"Crystal of Strength"
+en_1970,"Blemish Cosmo Helm"
+en_1971,"Blemish Demon Helmet"
+en_1972,"Steel Willpower"
+en_1973,"Blemish Red Knight's Hood"
+en_1974,"Blemish Elven Helm"
+en_1975,"Blemish Oilskin Cloak"
+en_1976,"Blemish Cloak of Mithril Ornamentation"
+en_1977,"Blemish Cloak of Blood Ornamentation"
+en_1978,"Blemish Cloak of Protection"
+en_1979,"Blemish Cosmo Cloak"
+en_1980,"Blemish Demon Cloak"
+en_1981,"Blemish Silver Knight Cloak"
+en_1982,"Blemish Cloak of Foresight"
+en_1983,"Blemish Swift Cloak"
+en_1984,"Blemish T-Shirt"
+en_1985,"Blemish Cosmo T-Shirt"
+en_1986,"Blemish Demon T-Shirt"
+en_1987,"Blemish Soft Leather Armor"
+en_1988,"Blemish Refine Leather Armor "
+en_1989,"Blemish Silver Silk Armor"
+en_1990,"Blemish Golden Silk Armor"
+en_1991,"Blemish Castel Chain Mail"
+en_1992,"Blemish Cosmo Chain Mail"
+en_1993,"Blemish Elven Breast Plate"
+en_1994,"Blemish Demon Chain Mail"
+en_1995,"Steel Willpower"
+en_1996,"Blemish Elven Chain Mail"
+en_1997,"Blemish HP Glove"
+en_1998,"Blemish MP Glove"
+en_1999,"Blemish Glove of Protection"
+en_2000,"Steel Willpower"
+en_2001,"Demon Archer Blood"
+en_2002,"Succubus Blood"
+en_2003,"Ogre Blood"
+en_2004,"Blemish Cosmo Glove"
+en_2005,"Blemish Demon Glove"
+en_2006,"Blemish Soft Leather Boots"
+en_2007,"Blemish Low Boots"
+en_2008,"Blemish Long Boots"
+en_2009,"Blemish Cosmo Boots"
+en_2010,"Practitioner's Mystery"
+en_2011,"Protector's Resolution"
+en_2012,"Bandit's Greed"
+en_2013,"Prosecutor's Insight"
+en_2014,"Believer's Deceit"
+en_2015,"Blemish Demon Boots"
+en_2016,"Steel Willpower"
+en_2017,"Blemish Small Shield"
+en_2018,"Blemish Large Shield"
+en_2019,"Steel Willpower"
+en_2020,"Blemish Silver Knight Shield"
+en_2021,"Blemish Red Knight's Shield"
+en_2022,"Blemish Cosmo Shield"
+en_2023,"Blemish Elven Shield"
+en_2024,"Blemish Lia's Amulet"
+en_2025,"Blemish Beimler Necklace"
+en_2026,"Blemish Protector Amulet"
+en_2027,"Blemish Blind Earrings"
+en_2028,"Blemish Freeze Earrings"
+en_2029,"Blemish Silence Earrings"
+en_2030,"Blemish Stun Earrings"
+en_2031,"Blemish Paralyze Earrings"
+en_2032,"Blemish Poison Earrings"
+en_2033,"Blemish Zodiac Earrings"
+en_2034,"Blemish Eclipse Earrings"
+en_2035,"Blemish Dawn Earrings"
+en_2036,"Blemish Energy Ring"
+en_2037,"Blemish Cosmo Ring"
+en_2038,"Blemish HP Belt (Small) "
+en_2039,"Blemish Energy Belt (Small)"
+en_2040,"Blemish MP Belt (Small)"
+en_2041,"Blemish HP Belt"
+en_2042,"Blemish Energy Belt"
+en_2043,"Blemish MP Belt"
+en_2044,"Blemish Troll Belt"
+en_2045,"Blemish Ogre Belt"
+en_2046,"Long Sword of Madness"
+en_2047,"Silver Knight Sword"
+en_2048,"Blue Magic Gem"
+en_2049,"Black Magic Gem"
+en_2050,"Green Magic Gem"
+en_2051,"Gold Sand"
+en_2052,"Venom"
+en_2053,"Harpy's Quill"
+en_2054,"Deadly Lotus Pollen"
+en_2055,"Venom Samples"
+en_2056,"Branch of the World Tree"
+en_2057,"Blemish Rapier"
+en_2058,"Blemish Tsurugi"
+en_2059,"Mail Breaker"
+en_2060,"Red Eyed Shield"
+en_2061,"Blemish Mail Breaker"
+en_2062,"Blemish Mana Crystal Ball"
+en_2063,"Blemish Red Eyed Shield"
+en_2064,"Scroll of Teleportation (Blessed)"
+en_2065,"Bear Skin"
+en_2066,"Hero Print"
+en_2067,"Blemish Casa War Spear"
+en_2068,"Elmer [Spellbook]"
+en_2069,"Teon's Voucher"
+en_2070,"Sweet Liquor"
+en_2071,"Blemish Katana"
+en_2072,"Blemish Damascus Sword"
+en_2073,"Blemish Long Silver Sword"
+en_2074,"Purification Potion Gift Pack 3"
+en_2075,"Purification Potion Gift Pack 4"
+en_2076,"Advanced Scroll of Polymorph (Tester)"
+en_2077,"Spectre Knight Sword"
+en_2078,"Spectre Knight"
+en_2079,"Spectre Archer"
+en_2080,"Spectre Axeman"
+en_2081,"Spectre Knight General"
+en_2082,"Spectre Pharmacist"
+en_2083,"Purification Potion Gift Pack 41"
+en_2084,"Spectre Knight Lieutenant"
+en_2085,"Spectre Archer Lieutenant"
+en_2086,"Spectre Axeman Lieutenant"
+en_2087,"Spectre Pharmacist Lieutenant"
+en_2088,"Bladeling   "
+en_2089,"Bladeling Elite"
+en_2090,"Hook"
+en_2091,"Hook Leader"
+en_2092,"Blade of Bladeling"
+en_2093,"Claw of Hook"
+en_2094,"Mountain Breaker"
+en_2095,"Heavy Rattan Bow"
+en_2096,"Knight Sabre"
+en_2097,"Snake Wand"
+en_2098,"Physic Spectre Ring"
+en_2099,"Magic Spectre Ring"
+en_2100,"Undead Breath "
+en_2101,"Damelot Dungeon"
+en_2102,NULL
+en_2103,NULL
+en_2104,NULL
+en_2105,NULL
+en_2106,NULL
+en_2107,NULL
+en_2108,"Darkness Skeleton"
+en_2109,"Darkness Skeleton Lieutenant"
+en_2110,NULL
+en_2111,NULL
+en_2112,NULL
+en_2113,NULL
+en_2114,"Spectre Magic Crystal"
+en_2115,"Character Rename Scroll"
+en_2116,"Clan Rename Scroll"
+en_2117,"Warflag Rename Scroll"
+en_2118,"Nightmare Knight"
+en_2119,"Skeleton Prints"
+en_2120,"Halloween Gift Box"
+en_2121,"+9 Weapon Exchange Voucher"
+en_2122,"+8 Weapon Exchange Voucher"
+en_2123,"Piece of Advanced Scroll of Polymorph"
+en_2124,"Scroll of Enchant Weapon [Gift Box]"
+en_2125,"Scroll of Enchant Armor [Gift Box]"
+en_2126,"Hero Amulet Lv.5 [HP]"
+en_2127,"Hero Amulet Lv.5 [MP]"
+en_2128,"Hero Amulet Lv.5 [Dex]"
+en_2129,"Hero Amulet Lv.6 [HP]"
+en_2130,"Hero Amulet Lv.6 [MP]"
+en_2131,"Hero Amulet Lv.6 [Dex]"
+en_2132,"Time Stone"
+en_2133,"Jade of Dark Spirit"
+en_2134,"Elements Gift Box"
+en_2135,"Supreme·Advanced Scroll of Polymorph"
+en_2136,"Paticipation Gratitude"
+en_2137,"Entangle"
+en_2138,"Storm Walk"
+en_2139,"Haste Potion Gift Pack"
+en_2140,"Surprise Gift Pack"
+en_2141,"Rambo [Enchant Mutation]"
+en_2142,"Scroll of Enchant Gift Box"
+en_2143,"Source of Harvest"
+en_2144,"Golden Wheat"
+en_2145,"Bold Potion"
+en_2146,"Practice Magic Potion"
+en_2147,"Divine Liquor"
+en_2148,"Fresh Brewed Liquor"
+en_2149,NULL
+en_2150,NULL
+en_2151,NULL
+en_2152,NULL
+en_2153,NULL
+en_2154,NULL
+en_2155,NULL
+en_2156,NULL
+en_2157,NULL
+en_2158,NULL
+en_2159,NULL
+en_2160,NULL
+en_2161,NULL
+en_2162,NULL
+en_2163,NULL
+en_2164,NULL
+en_2165,NULL
+en_2166,NULL
+en_2167,NULL
+en_2168,NULL
+en_2169,NULL
+en_2170,NULL
+en_2171,NULL
+en_2172,NULL
+en_2173,NULL
+en_2174,NULL
+en_2175,NULL
+en_2176,NULL
+en_2177,NULL
+en_2178,NULL
+en_2179,NULL
+en_2180,NULL
+en_2181,NULL
+en_2182,NULL
+en_2183,NULL
+en_2184,NULL
+en_2185,NULL
+en_2186,NULL
+en_2187,NULL
+en_2188,NULL
+en_2189,NULL
