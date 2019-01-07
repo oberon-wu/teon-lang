@@ -868,14 +868,13 @@ en_866,"Configure additional stats points"
 en_867,"Lvl %d"
 en_868,"Select stats point"
 en_869,"Reset stats point"
-en_870,""
+en_870,NULL
 en_871,"1. Your current level is %d, you can configure your [Initial stats point]. \n2. [Initial stats points] consist of fixed stats point and free stats point. Each class has a different fixed stats point, which is determined by the system. When configuring [Initial stats point], fixed stats point cannot be reset and only the free stats point can be reset. \n3. After [Reset stats point] have been completed and the “Confirm” button have been pressed, the point configuration will take effect immediately and is irreversible. Your character will carry the new stats point until you have reached level %d."
 en_872,"Advantage: High HP \nDisadvantage: Low Magic resistance, AC, and Physical Damage \nTips: Tank build, rely on high HP, able to give support to clan members, a role model for clan leaders."
 en_873,"Advantage: High Physical damage \nDisadvantage: Low AC and Magic resistance \nTips: Strength build, definition of a warrior, able to give support for clan members, a role model for clan leaders."
 en_874,"Advantage: High HP and Physical Damage \nDisadvantage: Low AC and Magic resistance \nTips: Sub-Strength build, able to give support to clan members, a role model for clan leaders."
 en_875,"Advantage: High Critical damage and Clan members recruit \nDisadvantage: Low HP, AC and Magic Resistance \nTips: Crit build, definition of a warrior, able to give support to clan members, a role model for clan leaders."
-en_876,""Advantage: High Magic resistance and faster MP regenteration \nDisadvantage: Low HP, AC and Physical damage \nTips: Resist Magic build, rely on high magic resistance, able to give support to clan members, a role model for clan leaders.
-""
+en_876,"Advantage: High Magic resistance and faster MP regenteration \nDisadvantage: Low HP, AC and Physical damage \nTips: Resist Magic build, rely on high magic resistance, able to give support to clan members, a role model for clan leaders."
 en_877,"Advantage: High Physical damage \nDisadvantage: Low AC and HP \nTips: Equipment-based, will have a very high damage once all the equipments have been build, attack line of the team, fast level up"
 en_878,"Advantage: High HP and Carrying capacity \nDisadvantage: Low AC and Physical damage\nTips: Equipment-based, will have a very high amount of HP once all the  equipments have been build, defense line of the team, slow level up"
 en_879,"Advantage: Both offensive and defensive, with endurance ability \nDisadvantage: Highly dependant on Helm of Magic: Healing \nTips: Solo-player build, will have a good endurance and magic resistance once being built, process of building takes more time, medium level up"
@@ -898,8 +897,8 @@ en_895,"Note"
 en_896,"Confirm Purchase"
 en_897,"Receive free oath upon subscription | Membership applies to all servers under the same account | Lower processing fee when selling item into the market | Use member exclusive equipments | 3 Days free trial"
 en_898,"You will receive a free oath upon subscribing and can start travelling to the Land of Edin. \nThe duration of the oath is synchronized with your membership. | Membership applies to all servers under the same account. | The system will reduce the processing fee for members when selling item into the market | Members can use member exclusive equipments: Ring of Peace, Moon Shine Earrings. \nMembers can choose exclusive avatar borders. | Before your subcription is activated, you can try it free for 3 days."
-en_899,""
-en_900,""
+en_899,NULL
+en_900,NULL
 en_901,"Sealed Oath [15 Days] \n1. Cost NTD180 (+/- 6 USD), for each purchase. \n2. Sealed Oath [15 Days] applies to all servers under the same account. \n3. Players will receive an oath which last for 15 days upon purchasing (not considered as membership) \n4. The duration of Sealed Oath [15 Days] can be stack. \n"
 en_902,""
 en_903,"%s，Do you want to purchase Sealed Oath [15 Days] ? \n(Please read the information below before you proceed)  \n1. Cost NTD180 (+/- 6 USD), for each purchase. \n2. Sealed Oath [15 Days] applies to all servers under the same account. \n3. Players will receive an oath which last for 15 days upon purchasing (not considered as membership). \n"
@@ -917,7 +916,7 @@ en_914,"Updating patch client does not consume any data traffic, please wait"
 en_915,"Recommended Scheme 5"
 en_916,"Recommended Scheme 6"
 en_917,"Advantage: High Spell damage and Physical damage \nDisadvantage: Low AC and Magic resistance \nTips: Semi-magic build, will perform physical attack most of the time, able to strengthen its magic ability during the late gameplay, encouraged to be good at both physical and magic attack"
-en_918,""
+en_918,NULL
 en_919,"You are in protected state, you can't perform this operation. Find The Timeless One (32728 to remove your protection."
 en_920,"EXP"
 en_921,"Auto switch"
@@ -1111,13 +1110,13 @@ en_1108,"The [Mutation Result] enchantment level will become lower than or equal
 en_1109,"There are unsaved equipments, cannot exit"
 en_1110,"Equipment Mutation Rules"
 en_1111,"Mutation Method: "
-en_1112,""
-en_1113,""
-en_1114,""
+en_1112,NULL
+en_1113,NULL
+en_1114,NULL
 en_1115,"Material Equipment"
-en_1116,""
+en_1116,NULL
 en_1117,"Target Equipment"
-en_1118,""
+en_1118,NULL
 en_1119,"Mutation Result"
 en_1120,"Mutation"
 en_1121,"Keep"
@@ -1129,9 +1128,9 @@ en_1126,"Lottery"
 en_1127,"Please input [Material Equipment]"
 en_1128,"Please input [Target Equipment]"
 en_1129,"Please confirm the equipment to be mutated: \nMaterial Equipment: %s\nTarget Equipment: %s\n\f= [Mutation Result] will inherits Target Equipment's enchantment level \nand will turn into bound item."
-en_1130,""
-en_1131,""
-en_1132,""
+en_1130,NULL
+en_1131,NULL
+en_1132,NULL
 en_1133,"Gold Consumption"
 en_1134,"Insufficient points, redemption requires %u points"
 en_1135,"Points"

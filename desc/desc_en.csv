@@ -625,7 +625,7 @@ en_622,"Refined high quality metals."
 en_623,"These ancient mage writings contain knowledge of magical powers. \n Category: Skill level 1 (Class) \n Effect: Empower the spell caster's own feet to increase movement speed. \nLearning requirement: \nMage: Level 28"
 en_624,"There is no weapon that Nestor cannot use, even this unique bounded blade. It can cause extra damage to the undead."
 en_625,"A traditional Edin musical instrument"
-en_626,"These ancient mage writings have magical powers. \n Category: Skill level 2 (Class) \n Effect: Turn the spellcaster into invisible state. Will be inactive once you receive attacks from the enemy." Learning Requirement: \nMage: Level 32"
+en_626,"These ancient mage writings have magical powers. \n Category: Skill level 2 (Class) \n Effect: Turn the spellcaster into invisible state. Will be inactive once you receive attacks from the enemy. Learning Requirement: \nMage: Level 32"
 en_627,"The Royal Secret Tome contains all the knowledge of all the kings since the beginning. \nCategory: Skill level 1 (Class) \nEffect: Mark your opponent for 45 seconds. During the duration, the spell caster's clan member can see the mark; if the marked target is a player, it will take additional damage when attacked. \n Learning requirement: \n Royal: Level 15"
 en_628,"There are mysterious incantations engraved inside allowing you to change your appearance."
 en_629,"An earth dragon scale that contains earth power"
@@ -1156,7 +1156,7 @@ en_1153,"Ticket to the Abandoned Island, talk to \fWAbandoned Island Boatman(321
 en_1154,"Crystal containing blood from the ancient time, can be use to remove the seal from ancient weapons."
 en_1155,"Potion left from the ancient times, can be used to recover a great amount of HP"
 en_1156,"Tears collected from the living creatures during the ancient time, Aileen in Abandoned Island is collecting this item."
-en_1157,A book needed for self training, only by obtaining this book you can enter Dimensional Crack
+en_1157,"A book needed for self training, only by obtaining this book you can enter Dimensional Crack"
 en_1158,"A box containing a ticket to the Dimensional Crack"
 en_1159,"A ticket to enter the Dimensional Crack, will disappear after expired."
 en_1160,"Stolen supplies obtained from the Weaken Dwarf. \nQuest Item"
@@ -1204,7 +1204,7 @@ en_1201,"A cloak once used by Merlin, containing mysterious magic."
 en_1202,"An unusual magic cloak, makes you swift as a swallow after being equipped."
 en_1203,"A t-shirt made with special techniques, able to form magical shield to reduce magic damage from the enemies"
 en_1204,"A soft armor made from leather."
-en_1205,"A refined high-grade leather armor
+en_1205,"A refined high-grade leather armor"
 en_1206,"An armor made from combination of silver."
 en_1207,"\f3Range Accuracy-4\f> \nAn armor made from combination of gold."
 en_1208,"A chan mail made by an ugly blacksmith Castel"
@@ -1339,12 +1339,12 @@ en_1336,"Castel chain mail compound item. \n\nAttributes: \nClass: [Knight][Roya
 en_1337,"Cosmo chain mail compound item"
 en_1338,"Elven breast plate compound item"
 en_1339,"Demon chain mail compound item"
-en_1340,
+en_1340,NULL
 en_1341,"Elven chain mail compound item"
 en_1342," HP glove compound item. \n\nAttributes: \nClass: All class \nAC: 0 \nHP+10 \n\nLook into「FAQ」for further information"
 en_1343,"MP glove compound item. \n\nAttributes: \nClass: All class \nAC: 0 \nMP+5 \n\nLook into「FAQ」for further information"
 en_1344,"Glove of protection compound item"
-en_1345,
+en_1345,NULL
 en_1346,"Glove of dexterity compound item"
 en_1347,"Glove of spell power compound item"
 en_1348,"Power gloves compound item"
@@ -1360,10 +1360,10 @@ en_1357,"Bandit boots compound item"
 en_1358,"Prosecutor boots compound item"
 en_1359,"Believer boots compound item"
 en_1360,"Demon boots compound item"
-en_1361,
+en_1361,NULL
 en_1362,"Small shield compound item. \n\nAttributes: \nClass: All class \nAC: -1 \nHP +10 \n\nLook into「FAQ」for further information"
 en_1363,"Large shield compound item. \n\nAttributes: \nClass: [Knight][Royal][Elf] \nAC: -2 \n\nLook into「FAQ」for further information"
-en_1364,
+en_1364,NULL
 en_1365,"Silver knight shield compound item"
 en_1366,"Red knight's shield compound item"
 en_1367,"Cosmo shield compound item"
