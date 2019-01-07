@@ -900,7 +900,7 @@ en_898,"You will receive a free oath upon subscribing and can start travelling t
 en_899,NULL
 en_900,NULL
 en_901,"Sealed Oath [15 Days] \n1. Cost NTD180 (+/- 6 USD), for each purchase. \n2. Sealed Oath [15 Days] applies to all servers under the same account. \n3. Players will receive an oath which last for 15 days upon purchasing (not considered as membership) \n4. The duration of Sealed Oath [15 Days] can be stack. \n"
-en_902,""
+en_902,NULL
 en_903,"%s，Do you want to purchase Sealed Oath [15 Days] ? \n(Please read the information below before you proceed)  \n1. Cost NTD180 (+/- 6 USD), for each purchase. \n2. Sealed Oath [15 Days] applies to all servers under the same account. \n3. Players will receive an oath which last for 15 days upon purchasing (not considered as membership). \n"
 en_904,"In order to thank the first users who have entered Teon, the Goddess of Teon have provide free oath to enter The Land of Edin. \nGoddess of Teon only gives Written Oath [10 Years] for those who are kind hearted, the system will retrieve Written Oath [10 Years] back if the player violate the rules and regulations. \nWritten Oath [10 Years] is a gift from our system and only applies once."
 en_905,"Remaining: %d Days"

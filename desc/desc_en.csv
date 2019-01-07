@@ -896,7 +896,7 @@ en_893,"This magical scroll has drawings depicting the appearance of creatures f
 en_894,"These rare spell books came from the blessings of Teon. They contain advanced magic spells. \n Category: Skill level 4 (Class) \n Effect: Teleportation area set by spell caster can be reviewed on screen. \n Learning requirement: \n Mage: Level 40"
 en_895,"An orc warrior's short sword"
 en_896,"This precious spell books contain advanced spells giving you the power of Gods and Demons! \n Category: Skill level 6 (Common) \n Effect: Use flames to increase target's STR by 5 points. Cannot be stacked. \nLearning Requirement: \nMage: Level 24 \nElf: Level 48"
-en_897,"Mysterious crystals engraved with ancient writings of the Elves contain amazing magical powers! \n Category: Skill level 5 (Class) \n Effect: "Has a chance to disable magic use for all players and NPCs on screen for 16 secs. \nLearning requirement: \nElf: Level 50"
+en_897,"Mysterious crystals engraved with ancient writings of the Elves contain amazing magical powers! \n Category: Skill level 5 (Class) \n Effect: Has a chance to disable magic use for all players and NPCs on screen for 16 secs. \nLearning requirement: \nElf: Level 50"
 en_898,"An ordinary key to a room of an inn"
 en_899,"This green magic potion temporarily increases movement speed for a period of time."
 en_900,"This mysterious crystal engraved with the ancient writings of elves and contains an amazing magic power! \n Category: Skill level 4 (Class) \n Effect: Summon an elf with the same attributes as the spellcaster's. \n Learning requirement: \n Elf : Level 40"
@@ -1417,7 +1417,7 @@ en_1414,"\f3Weight Reduce -10\f> \nA very huge belt worn by the Ogre. \n\n(Level
 en_1415,"Ogre Belt compound item"
 en_1416,"Damascus sword compound item. \nAttributes: \nClass: All Class \nDamage to large monsters: 11 \nDamage to small monsters: 10 \nUnbreakable \nLook into「FAQ」for further information"
 en_1417,"Long silver sword compound item.\nAttributes: \nClass: All Class \nDamage to large monsters: 12 \nDamage to small monsters: 8 \nLook into「FAQ」for further information"
-en_1418,"Open to obtain Weapon Purification Potion Lv. 1 x2, Armor Purification Potion Lv.1 x4
+en_1418,"Open to obtain Weapon Purification Potion Lv. 1 x2, Armor Purification Potion Lv.1 x4"
 en_1419,"Blade obtained from the Bladeling. \nQuest Item"
 en_1420,"Claw obtained from the Hook. \nQuest Item"
 en_1421,"Axe obtained from the Spectre Axeman \nQuest Item"
@@ -1432,7 +1432,7 @@ en_1429,"A sparkling moonlight stone. \nYou can obtain ancient platinum coins x5
 en_1430,"A fresh meat steak, go to the designated coordinate to roast it"
 en_1431,"A well done meat steak with delightful taste."
 en_1432,"A not properly done meat steak with bad flavor"
-en_1433,"An over cooked meat steak. \n\f= Chance to be poison: Your HP will be reduce 50 every 5 secs, last for 30 secs
+en_1433,"An over cooked meat steak. \n\f= Chance to be poison: Your HP will be reduce 50 every 5 secs, last for 30 secs"
 en_1434,"Tears of the Moon Goddess. \nKnight and Royal can obtain Brave potion effect. \nMage and Elf can obtain Elven waffer effect."
 en_1435,"Spectre Ring compound item"
 en_1436,"A beautiful print of the Skeleton"
