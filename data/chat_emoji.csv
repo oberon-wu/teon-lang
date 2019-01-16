@@ -1,6 +1,4 @@
-id,emojiId,emojiIndex,gfxId,actionId
-0,1,0,5216,0
-1,1,1,5217,0
-2,1,2,5218,0
-3,254,0,10494,0
-4,255,-1,10494,0
+id,emojiId,gfxId,actionId,isAnimation
+0,1,5216,0,1
+1,254,10494,0,1
+2,255,10494,0,0
