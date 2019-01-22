@@ -16,5 +16,5 @@ id,key,value,desc
 15,INHERIT_BLESSED,"2,2200,2000,2,800",祝福武器繼承強化等級系數
 16,INHERIT_NORMAL,"2,1500,1000,2,500",普通武器繼承強化等級系數
 17,INHERIT_LEVEL_MAX_DIFF,3,所选装备与目標装备强化等级差   
-18,JACKPOT_SETTING,"2,10,100000,600000000",speed_min speed_max_time line
-19,OPEN_NEW_ATTR_PANEL,1,0:(display old ui) 1:(display new ui)
+18,JACKPOT_SETTING,"5,10,600000,600000000",speed_min speed_max_time line
+19,OPEN_NEW_ATTR_PANEL,0,0:(display old ui) 1:(display new ui)
