@@ -23,3 +23,4 @@ id,key,value,desc
 22,DISABLE_ATTR_ENCHANT_KIND,3,disable bit value
 23,ATTR_ENCHANT_MAX_LEVEL,5,attr enchant max level limit
 24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,7,attr enchant min enchant level limit
+25,MAX_DIFF_LEVEL,15,monster change color level
