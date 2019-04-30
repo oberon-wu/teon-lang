@@ -47,41 +47,41 @@ en_45,"Hobgoblin Patrol"
 en_46,"Riverside Orc Fighter"
 en_47,"Riverside Orc Archer"
 en_48,"Riverside Orc Mage"
-en_49,"Raged Bear"
-en_50,"Swamp Gnoll"
-en_51,NULL
-en_52,NULL
-en_53,NULL
-en_54,NULL
-en_55,NULL
-en_56,NULL
-en_57,NULL
-en_58,NULL
-en_59,NULL
-en_60,NULL
-en_61,NULL
-en_62,NULL
-en_63,NULL
-en_64,NULL
-en_65,NULL
-en_66,NULL
-en_67,NULL
-en_68,NULL
-en_69,NULL
-en_70,NULL
-en_71,NULL
-en_72,NULL
-en_73,NULL
-en_74,NULL
-en_75,NULL
-en_76,NULL
-en_77,NULL
-en_78,NULL
-en_79,NULL
-en_80,NULL
-en_81,NULL
-en_82,NULL
-en_83,NULL
+en_49,"Enraged Bear"
+en_50,"Swamp Bugbear"
+en_51,"Swamp Golem"
+en_52,"Runestone Golem"
+en_53,"Swamp Zombie"
+en_54,"Swamp Ghoul"
+en_55,"Swamp Ghast"
+en_56,"Skel Swordsman"
+en_57,"Skel Axeman"
+en_58,"Skel Bowman"
+en_59,"Skel Spearman"
+en_60,"Skel Bowman"
+en_61,"Skel Mage"
+en_62,"Skel Guard (Sword)"
+en_63,"Skel Guard (Axe)"
+en_64,"Skel Guard (Bow)"
+en_65,"Orc Fighter Vanguard"
+en_66,"Orc Archer Vanguard"
+en_67,"Orc Mage Vanguard"
+en_68,"Ancient Swordsman"
+en_69,"Ancient Axeman"
+en_70,"Ancient Spearman"
+en_71,"Ancient Bowman"
+en_72,"Ancient Mage"
+en_73,"Ancient Elder Mage"
+en_74,"Guardian Watcher"
+en_75,"Dungeon Ungoliant"
+en_76,"Dungeon Werewolf"
+en_77,"Dungeon Gnoll"
+en_78,"Dungeon Thri-Kreen"
+en_79,"Hellhound"
+en_80,"Ancient General"
+en_81,"Ancient Guard (Sword)"
+en_82,"Ancient Guard (Axe)"
+en_83,"Ancient Guard (Bow)"
 en_84,NULL
 en_85,NULL
 en_86,NULL
@@ -1703,7 +1703,7 @@ en_1701,"Guidance Bird"
 en_1702,"Aisha's Map"
 en_1703,"Gabriel [Self Training]"
 en_1704,"Powell [Navigation Tutor]"
-en_1705,NULL
+en_1705,"Trainee Buffer"
 en_1706,NULL
 en_1707,NULL
 en_1708,NULL
