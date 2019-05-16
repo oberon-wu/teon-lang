@@ -3,88 +3,87 @@ en_1,Worn
 en_2,Worn
 en_3,On
 en_4,Empty
-en_5,"Invading Dwarf Theif"
-en_6,"Invading Dwarf"
-en_7,"Invading Lesser Goblin"
-en_8,"Island Deadly Lotus"
-en_9,"Hobgoblin Farmwrecker"
-en_10,"Invading Dwarf Warrior"
-en_11,"Invading Dwarf Servant"
-en_12,"Graveyard Lotus"
-en_13,"Deceased Villager"
-en_14,"Invading Orc Fighter"
-en_15,"Invading Orc"
-en_16,"Summoned Dead"
-en_17,"Devourer Lotus"
-en_18,"Evil Watcher"
-en_19,"Invading Goblin"
-en_20,"Coastal Hobgoblin"
-en_21,"Coastal Hobgoblin Berserker"
-en_22,"Island Golem"
-en_23,"Lesser Island Shelob"
-en_24,"Invading Orc Ritualist"
-en_25,"Island Werewolf"
-en_26,"Island Shelob"
-en_27,"Island Ungoliant"
-en_28,"Island Lycanthrope"
-en_29,"Island Werewolf Fighter"
-en_30,"Expedition Friar"
-en_31,"Fallen Swordsman"
-en_32,"Cave Werewolf"
-en_33,"Fallen Axeman"
-en_34,"Fallen Bowman"
-en_35,"Fallen Spearman"
-en_36,"Cave Shelob"
-en_37,"Cave Golem"
-en_38,"Cave Lycanthrope"
-en_39,"Cave Ungoliant"
-en_40,"Fallen Mage"
-en_41,"Evil Eye"
-en_42,"Goblin Bandit"
-en_43,"Goblin Looter"
-en_44,"Hobgoblin Pillager"
-en_45,"Hobgoblin Patrol"
-en_46,"Riverside Orc Fighter"
-en_47,"Riverside Orc Archer"
-en_48,"Riverside Orc Mage"
-en_49,"Enraged Bear"
-en_50,"Swamp Bugbear"
-en_51,"Swamp Golem"
-en_52,"Runestone Golem"
-en_53,"Swamp Zombie"
-en_54,"Swamp Ghoul"
-en_55,"Swamp Ghast"
-en_56,"Skel Swordsman"
-en_57,"Skel Axeman"
-en_58,"Skel Bowman"
-en_59,"Skel Spearman"
-en_60,"Skel Bowman"
-en_61,"Skel Mage"
-en_62,"Skel Guard (Sword)"
-en_63,"Skel Guard (Axe)"
-en_64,"Skel Guard (Bow)"
-en_65,"Orc Fighter Vanguard"
-en_66,"Orc Archer Vanguard"
-en_67,"Orc Mage Vanguard"
-en_68,"Ancient Swordsman"
-en_69,"Ancient Axeman"
-en_70,"Ancient Spearman"
-en_71,"Ancient Bowman"
-en_72,"Ancient Mage"
-en_73,"Ancient Elder Mage"
-en_74,"Guardian Watcher"
-en_75,"Dungeon Ungoliant"
-en_76,"Dungeon Werewolf"
-en_77,"Dungeon Gnoll"
-en_78,"Dungeon Thri-Kreen"
-en_79,"Hellhound"
-en_80,"Ancient General"
-en_81,"Ancient Guard (Sword)"
-en_82,"Ancient Guard (Axe)"
-en_83,"Ancient Guard (Bow)"
-en_84,"Promise Island Defender"
-en_85,"Hostile Dwarf"
-en_86,"Gnoll Invader"
+en_5,NULL
+en_6,NULL
+en_7,NULL
+en_8,NULL
+en_9,NULL
+en_10,NULL
+en_12,NULL
+en_13,NULL
+en_14,NULL
+en_15,NULL
+en_16,NULL
+en_17,NULL
+en_18,NULL
+en_19,NULL
+en_20,NULL
+en_21,NULL
+en_22,NULL
+en_23,NULL
+en_24,NULL
+en_25,NULL
+en_26,NULL
+en_27,NULL
+en_28,NULL
+en_29,NULL
+en_30,NULL
+en_31,NULL
+en_32,NULL
+en_33,NULL
+en_34,NULL
+en_35,NULL
+en_36,NULL
+en_37,NULL
+en_38,NULL
+en_39,NULL
+en_40,NULL
+en_41,NULL
+en_42,NULL
+en_43,NULL
+en_44,NULL
+en_45,NULL
+en_46,NULL
+en_47,NULL
+en_48,NULL
+en_49,NULL
+en_50,NULL
+en_51,NULL
+en_52,NULL
+en_53,NULL
+en_54,NULL
+en_55,NULL
+en_56,NULL
+en_57,NULL
+en_58,NULL
+en_59,NULL
+en_60,NULL
+en_61,NULL
+en_62,NULL
+en_63,NULL
+en_64,NULL
+en_65,NULL
+en_66,NULL
+en_67,NULL
+en_68,NULL
+en_69,NULL
+en_70,NULL
+en_71,NULL
+en_72,NULL
+en_73,NULL
+en_74,NULL
+en_75,NULL
+en_76,NULL
+en_77,NULL
+en_78,NULL
+en_79,NULL
+en_80,NULL
+en_81,NULL
+en_82,NULL
+en_83,NULL
+en_84,NULL
+en_85,NULL
+en_86,NULL
 en_87,NULL
 en_88,NULL
 en_89,NULL
@@ -117,7 +116,7 @@ en_115,"Stone Golem"
 en_116,"Skeleton Axeman"
 en_117,"Skeleton Spear"
 en_118,"Shelob"
-en_119,"Hobgoblin Berserker"
+en_119,"Hobgoblin"
 en_120,"Lizardman"
 en_121,"Owlbear"
 en_122,"Troglodyte"
@@ -163,7 +162,7 @@ en_161,"Bertrand"
 en_162,"Olga"
 en_163,"Boyce"
 en_164,"Brooks"
-en_165,"Cyril[Polymorph]"
+en_165,"Cyril [Polymorph]"
 en_166,"Zeke"
 en_167,"Cordelia"
 en_168,"Chad"
@@ -406,21 +405,21 @@ en_404,"Lawful"
 en_405,"Chaotic"
 en_406,"Neutral"
 en_407,"Weapon-Dagger"
-en_408,NULL
-en_409,NULL
-en_410,NULL
-en_411,NULL
-en_412,NULL
-en_413,NULL
-en_414,NULL
-en_415,NULL
-en_416,NULL
-en_417,NULL
-en_418,NULL
-en_419,NULL
-en_420,NULL
-en_421,NULL
-en_422,NULL
+en_408,"食物補給"
+en_409,"哥布林兜裆布"
+en_410,"哥布林尾骨"
+en_411,"占卜结果"
+en_412,"Percy妈妈的信物"
+en_413,"合作的线索"
+en_414,"豺狼人铃铛"
+en_415,"铁块"
+en_416,"兽人法师袍"
+en_417,"熊肉"
+en_418,"熊皮"
+en_419,"黑魔法晶石"
+en_420,"阿提拉王的信件"
+en_421,"伪造的兽人信件"
+en_422,"兽人战士残骸"
 en_423,NULL
 en_424,NULL
 en_425,NULL
@@ -1607,9 +1606,9 @@ en_1605,"Celebration Emissary"
 en_1606,"Evil Cerberus"
 en_1607,"Mini Advanced Scroll of Polymorph (Bound)"
 en_1608,"Celebration Cake(Quest Exclusive)"
-en_1609,"Dwarf Peasant"
-en_1610,"Lesser Goblin"
-en_1611,"Hobgoblin"
+en_1609,"Weaken Dwarf"
+en_1610,"Weaken Goblin"
+en_1611,"Weaken Hobgoblin"
 en_1612,"Weaken Gnoll"
 en_1613,"Kurtz"
 en_1614,"Source of Life"
@@ -2188,3 +2187,106 @@ en_2186,NULL
 en_2187,NULL
 en_2188,NULL
 en_2189,NULL
+en_40000,"Dwarf Peasant"
+en_40001,"Lesser Goblin"
+en_40002,"Deadly Lotus"
+en_40003,"Drake Servant"
+en_40004,"Soldier"
+en_40005,"Invading Dwarf Theif"
+en_40006,"Invading Dwarf"
+en_40007,"Invading Lesser Goblin"
+en_40008,"Island Deadly Lotus"
+en_40009,"Hobgoblin Farmwrecker"
+en_40010,"Invading Dwarf Warrior"
+en_40011,"Invading Dwarf Servant"
+en_40012,"Graveyard Lotus"
+en_40013,"Deceased Villager"
+en_40014,"Invading Orc Fighter"
+en_40015,"Invading Orc"
+en_40016,"Summoned Dead"
+en_40017,"Devourer Lotus"
+en_40018,"Evil Watcher"
+en_40019,"Invading Goblin"
+en_40020,"Coastal Hobgoblin"
+en_40021,"Coastal Hobgoblin Berserker"
+en_40022,"Island Golem"
+en_40023,"Lesser Island Shelob"
+en_40024,"Invading Orc Ritualist"
+en_40025,"Island Werewolf"
+en_40026,"Island Shelob"
+en_40027,"Island Ungoliant"
+en_40028,"Island Lycanthrope"
+en_40029,"Island Werewolf Fighter"
+en_40030,"Expedition Friar"
+en_40031,"Fallen Swordsman"
+en_40032,"Cave Werewolf"
+en_40033,"Fallen Axeman"
+en_40034,"Fallen Bowman"
+en_40035,"Fallen Spearman"
+en_40036,"Cave Shelob"
+en_40037,"Cave Golem"
+en_40038,"Cave Lycanthrope"
+en_40039,"Cave Ungoliant"
+en_40040,"Fallen Mage"
+en_40041,"Evil Eye"
+en_40042,"Goblin Bandit"
+en_40043,"Goblin Looter"
+en_40044,"Hobgoblin Pillager"
+en_40045,"Hobgoblin Patrol"
+en_40046,"Riverside Orc Fighter"
+en_40047,"Riverside Orc Archer"
+en_40048,"Riverside Orc Mage"
+en_40049,"Enraged Bear"
+en_40050,"Swamp Bugbear"
+en_40051,"Swamp Golem"
+en_40052,"Runestone Golem"
+en_40053,"Swamp Zombie"
+en_40054,"Swamp Ghoul"
+en_40055,"Swamp Ghast"
+en_40056,NULL
+en_40057,"Skel Swordsman"
+en_40058,"Skel Axeman"
+en_40059,"Skel Spearman"
+en_40060,"Skel Bowman"
+en_40061,"Skel Mage"
+en_40062,"Skel Guard (Sword)"
+en_40063,"Skel Guard (Axe)"
+en_40064,"Skel Guard (Bow)"
+en_40065,"Orc Fighter Vanguard"
+en_40066,"Orc Archer Vanguard"
+en_40067,"Orc Mage Vanguard"
+en_40068,"Ancient Swordsman"
+en_40069,"Ancient Axeman"
+en_40070,"Ancient Spearman"
+en_40071,"Ancient Bowman"
+en_40072,"Ancient Mage"
+en_40073,"Ancient Elder Mage"
+en_40074,"Guardian Watcher"
+en_40075,"Dungeon Ungoliant"
+en_40076,"Dungeon Werewolf"
+en_40077,"Dungeon Gnoll"
+en_40078,"Dungeon Thri-Kreen"
+en_40079,"Hellhound"
+en_40080,"Ancient General"
+en_40081,"Ancient Guard (Sword)"
+en_40082,"Ancient Guard (Axe)"
+en_40083,"Ancient Guard (Bow)"
+en_40084,"Promise Island Defender"
+en_40085,"Hostile Dwarf"
+en_40086,"Gnoll Invader"
+en_40087,"Bear"
+en_42008,"食物補給"
+en_42009,"哥布林兜裆布"
+en_42010,"哥布林尾骨"
+en_42011,"占卜结果"
+en_42012,"Percy妈妈的信物"
+en_42013,"合作的线索"
+en_42014,"豺狼人铃铛"
+en_42015,"铁块"
+en_42016,"兽人法师袍"
+en_42017,"熊肉"
+en_42018,"熊皮"
+en_42019,"黑魔法晶石"
+en_42020,"阿提拉王的信件"
+en_42021,"伪造的兽人信件"
+en_42022,"兽人战士残骸"
