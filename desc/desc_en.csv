@@ -357,21 +357,21 @@ en_354,"Bold Potion"
 en_355,"Practice Magic Potion"
 en_356,"This special preserved brewed liquor is refreshing after drinking. \nAfter use, MR+10, Range and Close Range Attack +3."
 en_357,"This Golden wheat should be packed in a special container to preserve its freshness, so that it can be use to create liquor."
-en_358,"馬洛斯主線道具-食物補給"
-en_359,"馬洛斯主線道具-哥布林兜裆布"
-en_360,"馬洛斯主線道具-哥布林尾骨"
-en_361,"馬洛斯主線道具-占卜结果"
-en_362,"馬洛斯主線道具-Percy妈妈的信物"
-en_363,"馬洛斯主線道具-合作的线索"
-en_364,"馬洛斯主線道具-豺狼人铃铛"
-en_365,"馬洛斯主線道具-铁块"
-en_366,"馬洛斯主線道具-兽人法师袍"
-en_367,"馬洛斯主線道具-熊肉"
-en_368,"馬洛斯主線道具-熊皮"
-en_369,"馬洛斯主線道具-黑魔法晶石"
-en_370,"馬洛斯主線道具-阿提拉王的信件"
-en_371,"馬洛斯主線道具-伪造的兽人信件"
-en_372,"馬洛斯主線道具-兽人战士残骸"
+en_358,NULL
+en_359,NULL
+en_360,NULL
+en_361,NULL
+en_362,NULL
+en_363,NULL
+en_364,NULL
+en_365,NULL
+en_366,NULL
+en_367,NULL
+en_368,NULL
+en_369,NULL
+en_370,NULL
+en_371,NULL
+en_372,NULL
 en_373,NULL
 en_374,NULL
 en_375,NULL
@@ -1449,3 +1449,18 @@ en_1446,"\f3Range Damage +4 \nDamage Reduce +2 \f>\nHero Amulet Lv.6 [DEX]: Symb
 en_1447,"A special Advanced Sroll of Polymorph, which allows you to polymorph into a Death Knight. \n\f=Expired date: 20-12-2018 10:00"
 en_1448,"Summon thorns from the ground to entangle your enemy and slowing them. \nCategory: Skill level 3 (Class) \nEffect: Chance to lower target's movement speed, along with disabling Haste effect for 15 secs. \nLearning requirement: \nElf: Level 30"
 en_1449,"Use the power of the wind to accelerate yourself. \nCategory: Skill level 6 (Class) \nEffect: Increase evasion rate from close range physical attack by 50% for 5 secs. If the spellcaster is in Haste state 2, the evasion rate will increase by 100%. \nLearning requirement: \nElf: Level 50"
+en_42008,"食物補給。"
+en_42009,"既软且暖，温和地保护着哥布林的裆部。"
+en_42010,"跟人类的尾骨有点不同。"
+en_42011,"Tiago为Percy占卜吉凶的结果。"
+en_42012,"属于Percy妈妈的物件。"
+en_42013,"揭示豺狼人和霍哥布林不正当关系的物件。"
+en_42014,"长在豺狼人身上，看起来好像一对铃铛的肉，制成药品可以提升某方面的能力，但制作方式据说已失传。"
+en_42015,"制作武器的原料。"
+en_42016,"制作防具的原料。"
+en_42017,"食物。"
+en_42018,"制作衣物及防具的原料。"
+en_42019,"护法者用于操纵怪物的宝石。"
+en_42020,"写着阿提拉王交给护法者的任务。"
+en_42021,"Themis模仿兽人字迹伪造的信件，用于激怒护法者，离间护法者与兽人的关系，瓦解他们的联盟。"
+en_42022,"击败兽人战士后从其身上掉落或分离的部分。"
