@@ -405,21 +405,21 @@ en_404,"Lawful"
 en_405,"Chaotic"
 en_406,"Neutral"
 en_407,"Weapon-Dagger"
-en_408,"食物補給"
-en_409,"哥布林兜裆布"
-en_410,"哥布林尾骨"
-en_411,"占卜结果"
-en_412,"Percy妈妈的信物"
-en_413,"合作的线索"
-en_414,"豺狼人铃铛"
-en_415,"铁块"
-en_416,"兽人法师袍"
-en_417,"熊肉"
-en_418,"熊皮"
-en_419,"黑魔法晶石"
-en_420,"阿提拉王的信件"
-en_421,"伪造的兽人信件"
-en_422,"兽人战士残骸"
+en_408,NULL
+en_409,NULL
+en_410,NULL
+en_411,NULL
+en_412,NULL
+en_413,NULL
+en_414,NULL
+en_415,NULL
+en_416,NULL
+en_417,NULL
+en_418,NULL
+en_419,NULL
+en_420,NULL
+en_421,NULL
+en_422,NULL
 en_423,NULL
 en_424,NULL
 en_425,NULL
@@ -2274,6 +2274,8 @@ en_40084,"Promise Island Defender"
 en_40085,"Hostile Dwarf"
 en_40086,"Gnoll Invader"
 en_40087,"Bear"
+en_40088,"Casey"
+en_40089,"Orc_Cheiftan"
 en_42008,"食物補給"
 en_42009,"哥布林兜裆布"
 en_42010,"哥布林尾骨"
@@ -2289,6 +2291,20 @@ en_42019,"黑魔法晶石"
 en_42020,"阿提拉王的信件"
 en_42021,"伪造的兽人信件"
 en_42022,"兽人战士残骸"
+en_42023,"哥布林短劍"
+en_42024,"哥布林療傷藥"
+en_42025,"哥布林鋼珠"
+en_42026,"草編項鏈"
+en_42027,"獸人護身符"
+en_42028,"箭毒劑"
+en_42029,"蛤蟆干"
+en_42030,"喪尸的蛆蟲"
+en_42031,"食屍鬼的舌頭"
+en_42032,"人狼的尖牙"
+en_42033,"護法者的項鏈"
+en_42034,"食腐魔的螯"
+en_42035,"熊地精精力藥"
+en_42036,"咒石哥倫的青苔"
 en_45100,"Short Boots"
 en_45101,"Long Boots"
 en_45200,"Adventurer's Gloves"
