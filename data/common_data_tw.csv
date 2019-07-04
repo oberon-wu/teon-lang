@@ -24,3 +24,5 @@ id,key,value,desc
 23,MAX_ATTR_ENCHANT_LEVEL,5,X
 24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,7,attr enchant min enchant level limit
 25,MAX_DIFF_LEVEL,15,monster change color level
+26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
+27,MAX_VIP_EMOJI_ID,100,id range in (32-100)
