@@ -1,7 +1,7 @@
 id,key,value,desc
-1,EULA_VERSION,1,玩家守t版本，提高版本可以出锢示玩家守t
-2,ENABLE_DOCUMENT_CHECK,0,破解版zy檫晷，1殚_0殛P檩
-3,LOGIN_BROWSER_URL,(null),登介面c出面接
-4,LOGIN_BACKGROUND_TW,"login_bg_1,login_bg_2,login_bg_3",登介面背景D（tw)
-5,LOGIN_BACKGROUND_CN,"login_bg_1,login_bg_2,login_bg_3",登介面背景D（cn)
-6,LOGIN_BACKGROUND_DURATION,1000,"登背景播放r殓,1000等於1秒"
+1,EULA_VERSION,1,"terms version,upgrade version will show terms again"
+2,ENABLE_DOCUMENT_CHECK,0,"check document"
+3,LOGIN_BROWSER_URL,(null),"login bg click url"
+4,LOGIN_BACKGROUND_TW,"login_bg_1,login_bg_2,login_bg_3","login bg(tw)"
+5,LOGIN_BACKGROUND_CN,"login_bg_1,login_bg_2,login_bg_3","login bg(cn)"
+6,LOGIN_BACKGROUND_DURATION,1000,"login bg play delay ms"
