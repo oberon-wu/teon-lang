@@ -38,3 +38,4 @@
 <item>yVn6AliyNfzpFyDjqFl8eRc2cbmXNaOvpblEfsk/qiw=</item>               <!-- com.apowersoft.mirror -->
 <item>L4NASUapDi/AxvINnGR3FA==</item>               					<!-- com.zhushou.cc -->
 <item>MrYLUjjb0h63GOsKi2++5e0bq9RxrFUbB0Yq3y0zKIM=</item>               <!-- com.sigma_rt.totalcontrol -->
+<item>71BwBB77G+UaFsymnr7WPF3wXjhsPBEKja5OG089Qr8=</item>               <!-- com.android.flysilkworm -->
