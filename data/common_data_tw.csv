@@ -26,3 +26,5 @@ id,key,value,desc
 25,MAX_DIFF_LEVEL,15,monster change color level
 26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
 27,MAX_VIP_EMOJI_ID,100,id range in (32-100)
+28,VIP_COST_ITEM_GFX,"10341,14,2,30",vip cost item cfg
+29,VIP_BOOK_MARK,"10,1,7,8,10,10",bookmark cfg
