@@ -1,0 +1,32 @@
+id,key,value,desc
+1,ENABLE_CHAT_EMOJI_UI,1,0:(not display)  1:(display ui)
+2,ACTION_WAND_RANGE,20,range
+3,ACTION_SPELL_DIR_RANGE,20,range
+4,ACTION_SPELL_NO_DIR_RANGE,20,range
+5,ACTION_BLOW_RANGE,8,range
+6,ENABLE_INVITE_FEATURE,0,0:(disable)  1:(enable)
+7,MARKET_DEFAULT_INDEX,1,default index
+8,MARKET_SPELLBOOK_INDEX,1,default index
+9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8",x
+10,GME_ENABLE_OPEN,1,0:(not display gme ui)  1:(display gme ui)
+11,INHERIT_ENCHANCE_LEVEL_F1,5000,for formula
+12,INHERIT_ENCHANCE_LEVEL_F2,5000,for formula
+13,INHERIT_ITEM_USE_LEVEL_F1,2200,for formula
+14,INHERIT_ITEM_USE_LEVEL_F2,1200,for formula
+15,INHERIT_BLESSED,"2,2200,2000,2,800",for formula
+16,INHERIT_NORMAL,"2,1500,1000,2,500",for formula
+17,INHERIT_LEVEL_MAX_DIFF,3,max diff  
+18,JACKPOT_SETTING,"5,10,600000,600000000",speed_min speed_max_time line
+19,OPEN_NEW_ATTR_PANEL,1,0:(display old ui) 1:(display new ui)
+20,SKILLACTION,"18,19,30,31",object skill action
+21,IMITATE_GFX,"373,374,375,376,377,378,379,380",monster model gfx id
+22,DISABLE_ATTR_ENCHANT_KIND,3,disable bit value
+23,ATTR_ENCHANT_MAX_LEVEL,5,attr enchant max level limit
+24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,7,attr enchant min enchant level limit
+25,MAX_DIFF_LEVEL,15,monster change color level
+26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
+27,MAX_VIP_EMOJI_ID,100,id range in (32-100)
+28,VIP_COST_ITEM_GFX,"10341,14,2,30",vip cost item cfg
+29,VIP_BOOK_MARK,"10,1,7,8,10,10",bookmark cfg
+30,VIP_EXTRA_EQUIP_SLOTS,1,vip extra equip slots
+31,_COMMON_OPEN_NEW_FEED_BACK,1,1:server zendesk api 0:client sdk
