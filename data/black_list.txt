@@ -42,3 +42,6 @@
 <item>SEBnahig7TM7G3KXad/mjtwetUvUi4KgtE5tpnHf5Ek=</item>               <!-- com.thirdparty.superuser -->
 <item>edvjCN3wlF1UKOOfJiFUXzl+oMFyscg2E+aiv8QpNEg=</item>               <!-- com.vphone.launcher -->
 <item>qZMzZbQ7ttBnOI8C5xc4b53u10YfLm2fhz3Bui+fBiE=</item>               <!-- com.android.ld.appstore -->
+<item>n2GJhJjLb/UNF/ryfKUdoQ==</item>                                   <!-- com.kop.zkop -->
+<item>BzS/eCwxJ9DDLrkWQX1jOoPlS3gpsf4oZqo/TE7DiQI=</item>               <!-- com.tiantian.ime -->
+<item>Mvfhp2a/ILYLycSdrNFhAcC6ef1CDNl2MTb6eYSVoqM=</item>               <!-- com.microvirt.market -->
