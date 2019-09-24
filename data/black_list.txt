@@ -45,3 +45,4 @@
 <item>n2GJhJjLb/UNF/ryfKUdoQ==</item>                                   <!-- com.kop.zkop -->
 <item>BzS/eCwxJ9DDLrkWQX1jOoPlS3gpsf4oZqo/TE7DiQI=</item>               <!-- com.tiantian.ime -->
 <item>Mvfhp2a/ILYLycSdrNFhAcC6ef1CDNl2MTb6eYSVoqM=</item>               <!-- com.microvirt.market -->
+<item>UqsbtZZOycTNBROT0UN65LKAGNsl41o49YwPGIU=</item>                    <!-- com.microvirt.launcher2 -->
