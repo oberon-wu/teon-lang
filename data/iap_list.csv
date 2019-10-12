@@ -3,3 +3,4 @@ id,platform,os,product_id,detail,price,html_name,action_name
 4,tw,ios,com.lakoo.teon.oath15days,1本,NTD 190,paypass15,paypass15
 7,cn,wx,com.lakoo.teoncn.wx.oath15,1本,40元,paypass15,paypass15
 8,cn,wc,com.lakoo.teoncn.wc.oath15,1本,40元,paypass15,paypass15
+8,cn,ios,com.lakoo.teoncn.oath15days,1本,40元,paypass15,paypass15
