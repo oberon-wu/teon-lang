@@ -30,5 +30,5 @@ id,key,value,desc
 29,VIP_BOOK_MARK,"10,1,2,3,10,10",bookmark cfg
 30,VIP_EXTRA_EQUIP_SLOTS,1,vip extra equip slots
 31,_COMMON_OPEN_NEW_FEED_BACK,1,1:server zendesk api 0:client sdk
-32,_POLY_COMMENT_CLOSE,0,close polymorph
+32,_POLY_COMMENT_CLOSE,1,close polymorph
 33,_POLY_COMMENT_DATA,"0,10338,21",poly dir index & decomposeItem gfx
