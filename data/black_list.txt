@@ -45,5 +45,6 @@
 <item>n2GJhJjLb/UNF/ryfKUdoQ==</item>                                   <!-- com.kop.zkop -->
 <item>BzS/eCwxJ9DDLrkWQX1jOoPlS3gpsf4oZqo/TE7DiQI=</item>               <!-- com.tiantian.ime -->
 <item>Mvfhp2a/ILYLycSdrNFhAcC6ef1CDNl2MTb6eYSVoqM=</item>               <!-- com.microvirt.market -->
-<item>UqsbtZZOycTNBROT0UN65LKAGNsl41o49YwPGIU=</item>                   <!-- com.microvirt.launcher2 -->
+<item>4pu+UqsbtZZOycTNBROT0UN65LKAGNsl41o49YwPGIU=</item>               <!-- com.microvirt.launcher2 -->
 <item>0r69vDX/c9iqlynmEitW4hsuZh64WF3/uhHDoCTI0nw=</item>               <!-- com.mumu.launcher -->
+<item>T2v7vIDM++kqORX+jebTaGvwS2PRH/zmJhnS20Ab/+s=</item>               <!-- com.redfinger.appstore -->
