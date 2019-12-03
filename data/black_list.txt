@@ -48,3 +48,4 @@
 <item>4pu+UqsbtZZOycTNBROT0UN65LKAGNsl41o49YwPGIU=</item>               <!-- com.microvirt.launcher2 -->
 <item>0r69vDX/c9iqlynmEitW4hsuZh64WF3/uhHDoCTI0nw=</item>               <!-- com.mumu.launcher -->
 <item>T2v7vIDM++kqORX+jebTaGvwS2PRH/zmJhnS20Ab/+s=</item>               <!-- com.redfinger.appstore -->
+<item>3LZBA9KvTnbHq4aBaYMtlA==</item>                                   <!-- com.ld.yunstore -->
