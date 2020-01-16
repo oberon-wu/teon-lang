@@ -1,4 +1,4 @@
-﻿﻿de_0,"Weniger Heilung","Stellt für das Ziel geringe LP wieder her. Kann auch Schaden am Untoten verursachen.\nAnforderung:\nKöniglich:Ebene 10\nMagier:Ebene 4\nElf:Ebene 8\nRitter:Ebene 20."
+﻿de_0,"Weniger Heilung","Stellt für das Ziel geringe LP wieder her. Kann auch Schaden am Untoten verursachen.\nAnforderung:\nKöniglich:Ebene 10\nMagier:Ebene 4\nElf:Ebene 8\nRitter:Ebene 20."
 de_1,Licht,"Verwendet Magie, um eine Lichtquelle zu beschwören, die einen Bereich um Zaubernden für 3600 s beleuchtet.\nAnforderung:\nKöniglich:Ebene 10\nMagier:Ebene 4\nElf:Ebene 8\nRitter:Ebene 10."
 de_2,Schild,"Formt ein Schutzschild und erhöht eigene AC um 2 Punkte. Nicht stapelbar.\nAnforderung:\nKöniglich:Ebene 10\nMagier:Ebene 4\nElf:Ebene 8\nRitter:Ebene 30."
 de_3,Energieriegel,"Verschießt einen magischen Pfeil, der dem Ziel geringen Schaden zufügt.Magierklasse verbraucht 0 Mana, wenn sie diesen Zauber unter Level 30 einsetzen. Elfen- und Königsklasse verbraucht 0 Mana, wenn sie diesen Zauber unter Level 20 einsetzen.\nAnforderung:\nKöniglich:Ebene 10\nMagier:Ebene 4\nElf:Ebene 8\nRitter:Ebene 50."
