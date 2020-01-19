@@ -1,0 +1,162 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import os
+import time
+import csv
+import struct
+import sys
+import codecs
+
+def rmdirandfile(gen_dir):
+	if os.path.exists(gen_dir):
+		for file_path in os.listdir(gen_dir):
+			file_path = os.path.join(gen_dir, file_path)
+			os.remove(file_path)
+		os.rmdir(gen_dir)
+
+def main():
+	# define stdout utf-8
+	sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
+	# key = lang type, value = is distinguish lang
+	type_dict = { 'localization': True, 'name': True, 'desc': True, 'materials': True, 'skill': True, 'zone': True, 'character': True, 'buff': True, 'data': False }
+	lang_list = [ 'tw', 'cn', 'en', 'fr', 'de', 'it', 'pt', 'ru', 'es' ]
+	generateTimeStampGMT = time.strftime("%y%m%d%H%M%S")
+	this_generation_id = 0
+	current_dir = os.path.dirname(os.path.abspath(__file__))
+	lang_gen_dir = os.path.join(current_dir, 'langGen')
+
+	idxpaker_filename = os.path.join(current_dir, 'idxpaker')
+	if not os.path.exists(idxpaker_filename):
+		print("idxpaker: %s not exist" % idxpaker_filename)
+		return
+
+	rmdirandfile(lang_gen_dir)
+	
+	os.mkdir(lang_gen_dir, mode=0o777)
+	type_real_count = 0
+	lang_real_count = 0
+	all_count = 0
+	langfile_count = 0
+	for key, value in type_dict.items():
+		check_count = 0
+		filesNameList = []
+		dir_path = os.path.join(current_dir, key)
+		if not value:
+			for fileName in os.listdir(dir_path):
+				filename_lenSize = len(fileName)
+				if filename_lenSize > 19:
+					print("dir:%s, fileName:%s size error, now size %d" % (dir_path, fileName, filename_lenSize))
+					return
+				if fileName != '.' and fileName != '..' and not fileName.startswith('.'):
+					filesNameList.append(fileName)
+		else:
+			for lang in lang_list:
+				fileName = '%s%s%s%s' % (key, '_', lang, '.csv')
+				filesNameList.append(fileName)
+		for fileName in filesNameList:
+			lineList = []
+			file_path = os.path.join(dir_path, fileName)
+			if not os.path.exists(file_path):
+				continue
+			with open(file_path, 'r', encoding='utf-8-sig') as csvfile:
+				reader = csv.reader(csvfile)
+				if not value:
+					for line in reader:
+						if line[0] != None:
+							lineList.append(line)
+				else:
+					# lang type csv allow entry skipping
+					nextEntryIndex = 0
+					for line in reader:
+						if line[0] != None and len(line[0]) > 3:
+							entryIndex = int(line[0][3:])
+							if entryIndex < nextEntryIndex:
+								print("file_path:%s, invalid entry index:%d, expect >= %d" % (file_path, entryIndex, nextEntryIndex))
+								return
+							while nextEntryIndex < entryIndex:
+								defaultEntry = [ "" for i in range(len(line))]
+								lineList.append(defaultEntry)
+								nextEntryIndex += 1
+						lineList.append(line)
+						nextEntryIndex += 1
+			row_count = len(lineList)
+			if row_count <= 0:
+				print("file_path:%s can not empty" % file_path)
+				return
+			column_count = len(lineList[0])
+			fileNameSpt = os.path.splitext(fileName)
+			if fileNameSpt[1] == '.csv':
+				langfile_name = "%s%s" % (fileNameSpt[0], ".lang")
+				langfile_path = os.path.join(lang_gen_dir, langfile_name)
+				with open(langfile_path, 'ab') as f:
+					# print("langfile_path:%s, row_count:%d, column_count:%d" % (langfile_path, row_count, column_count))
+					f.write(struct.pack('<III', row_count, column_count - 1, this_generation_id))
+					f.write(generateTimeStampGMT.encode('utf-8'))
+					f.write(chr(0).encode('utf-8'))
+					for i in range(row_count):
+						for j in range(1, column_count):
+							content = lineList[i][j]
+							strCount = len(content)
+							strQuote = content.count('"')
+							strDoubleQuote = content.count('""')
+							if i < row_count - 1 and 0 == strCount and lineList[i][0] != "":
+								print("file_path:%s, empty error line:%d" % (file_path, i))
+								return
+							if len(lineList[i]) > column_count:
+								print("file_path:%s, column error line :%d-%d" % (file_path, i, j))
+								return
+							if 0 != strQuote % 2 or 0 != strDoubleQuote % 2:
+								print("file_path:%s, quote error line :%d" % (file_path, i))
+								return
+							f.write(content.encode('utf-8'))
+							f.write(chr(0).encode('utf-8'))
+			all_count += row_count
+			check_count += 1
+			langfile_count += 1
+		if check_count > 0:
+			type_real_count += 1
+		if check_count > lang_real_count:
+			lang_real_count = check_count
+	# check dialog name len
+	dialog_gen_dir = os.path.join(current_dir, 'dialog')
+	dialogCount = 0
+	for fileName in os.listdir(dialog_gen_dir):
+		filename_lenSize = len(fileName)
+		if filename_lenSize > 20:
+			print("dir:%s, fileName:%s size error, now size %d" % (dir_path, fileName, filename_lenSize))
+			return
+		if fileName != '.' or fileName != '..':
+			dialogCount += 1
+	
+	print("=== SUCCESS: TYPE:%d LANG:%d ALL:%d" % (type_real_count, lang_real_count, all_count))
+
+
+	output_lang = os.path.join(current_dir, 'Lang')
+	output_text = os.path.join(current_dir, 'Text')
+
+	lang_pak = "%s%s" % (output_lang, '.pak')
+	lang_idx = "%s%s" % (output_lang, '.idx')
+	text_pak = "%s%s" % (output_text, '.pak')
+	text_idx = "%s%s" % (output_text, '.idx')
+
+	if os.path.exists(lang_pak):
+		os.remove(lang_pak)
+	if os.path.exists(lang_idx):
+		os.remove(lang_idx)
+	if os.path.exists(text_pak):
+		os.remove(text_pak)
+	if os.path.exists(text_idx):
+		os.remove(text_idx)
+
+	cmd = "%s -src=%s -out=%s" % (idxpaker_filename, lang_gen_dir, output_lang)
+	result = os.system(cmd)
+	print("exec cmd:%s result:%d" % (cmd, result))
+	cmd = "%s -src=%s -out=%s" % (idxpaker_filename, dialog_gen_dir, output_text)
+	result = os.system(cmd)
+	print("exec cmd:%s result:%d" % (cmd, result))
+
+	rmdirandfile(lang_gen_dir)
+
+if __name__ == '__main__':
+	main()
