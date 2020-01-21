@@ -21,7 +21,7 @@ id,key,value,desc
 20,SKILLACTION,"18,19,30,31",object skill action
 21,IMITATE_GFX,"373,374,375,376,377,378,379,380",monster model gfx id
 22,DISABLE_ATTR_ENCHANT_KIND,0,disable bit value
-23,ATTR_ENCHANT_MAX_LEVEL,5,attr enchant max level limit
+23,ATTR_ENCHANT_MAX_LEVEL,2,attr enchant max level limit
 24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,6,attr enchant min enchant level limit
 25,MAX_DIFF_LEVEL,15,monster change color level
 26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
@@ -32,4 +32,5 @@ id,key,value,desc
 31,_COMMON_OPEN_NEW_FEED_BACK,1,1:server zendesk api 0:client sdk
 32,_POLY_COMMENT_CLOSE,0,close polymorph
 33,_POLY_COMMENT_DATA,"0,10338,21",poly dir index & decomposeItem gfx
-34, ENABLE_NEW_ENCHANT_PANEL,0,0:(disable)  1:(enable)
+34,ENABLE_NEW_ENCHANT_PANEL,0,0:(disable)  1:(enable)
+35,ATTR_ENCHANT_MIN_EQUIP_LEVEL,0,attr enchant min equip level limit
