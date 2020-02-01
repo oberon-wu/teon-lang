@@ -33,3 +33,5 @@ id,key,value,desc
 32,_POLY_COMMENT_CLOSE,0,close polymorph
 33,_POLY_COMMENT_DATA,"0,10338,21",poly dir index & decomposeItem gfx
 34,ENABLE_NEW_ENCHANT_PANEL,1,0:(disable)  1:(enable)
+35,ATTR_ENCHANT_MIN_EQUIP_LEVEL,50,attr enchant min equip level limit
+36,ATTR_ENCHANT_CRYSTAL_ITEM_IDS,"",attr enchant crystal item ids
