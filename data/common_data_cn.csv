@@ -38,3 +38,6 @@ id,key,value,desc
 37,SUBSCRIPTION_ENABLE_SERVER_IDS,"null",subscription enable server ids
 38,DARK_ELF_ENABLE,0,0:(disable)  1:(enable)
 39,CLAN_SETTING,"30000,100,100,1800,10,1276,3",clan config
+40,LEADERBOARD_ENABLE,0,0:(disable)  1:(enable)
+41,LEADERBOARD_DEFAULT_INDEX,"1,2",default index
+
