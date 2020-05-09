@@ -1,4 +1,4 @@
-id,mapid,image_count,image_origin_x,image_origin_y,gamemap_origin_x,gamemap_origin_y, gamemap_max_x, gamemap_max_y, scale
+id,mapid,image_count,image_origin_x,image_origin_y,gamemap_origin_x,gamemap_origin_y, gamemap_max_x, gamemap_max_y,scale
 1,0,2,0,357,32512,32544,32959,32991,1
 2,100,1,0,154,32640,32672,32831,32863,1
 3,103,1,0,155,32640,32672,32831,32863,1
