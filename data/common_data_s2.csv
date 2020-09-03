@@ -49,3 +49,4 @@ id,key,value,desc
 48,CARD_INFO,"50,0,10",maxCardItemCount isDisplayCardBox maxMaterialCardCount 
 49,MALL_CURRENCY_ITEM_ID, 59999, item id of currency in mall
 50,REFERRAL_REWARD_ENABLE,0,0:(disable) 1:(enable)
+51,TEMP_SKILL_CONSUME_MP_RATE,50,temp skill consume mp rate
