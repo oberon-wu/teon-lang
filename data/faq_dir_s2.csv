@@ -48,5 +48,6 @@ id,dirs,langIndex,dialogName
 46,2.16.0,"2212","faq_37"
 47,2.17.0,"2213","faq_38"
 48,3.0.0,"1158","help-rule1"
-49,4.0.0,"1159","faq-contact"
-50,5.0.0,"1160","Producerlist"
+49,4.0.0,"2492","privacy"
+50,5.0.0,"1159","faq-contact"
+51,6.0.0,"1160","Producerlist"
