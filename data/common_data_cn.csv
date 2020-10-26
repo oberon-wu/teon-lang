@@ -51,3 +51,4 @@ id,key,value,desc
 50,REFERRAL_REWARD_ENABLE,0,0:(disable) 1:(enable)
 51,TEMP_SKILL_CONSUME_MP_RATE,75,temp skill consume mp rate
 52,SHOW_OATH_LEVEL,35,show oath panel player level
+53,GLORY_ENABLE,1,0:(disable) 1:(enable)
