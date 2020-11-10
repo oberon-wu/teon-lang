@@ -44,7 +44,7 @@ id,key,value,desc
 43,CLAN_HOUSE_AUCTION_ENABLE,1,0:(disable)  1:(enable)
 44,REDPACKET_ENABLE,0,0:(disable)  1:(enable)
 45,PVP_DISPLAY,"1,10,2;11,20,3;21,100,4","startRank,endRank,colorId;startRank1,endRank1,colorId1"
-46,VERIFY_IDENTITY_CODE,1, 0:(disable)  1:(enable) 
+46,VERIFY_IDENTITY_CODE,0, 0:(disable)  1:(enable) 
 47,ENABLE_MALL,1,0:(disable)  1:(enable) 
 48,CARD_INFO,"50,0,10",maxCardItemCount isDisplayCardBox maxMaterialCardCount 
 49,MALL_CURRENCY_ITEM_ID, 60001, item id of currency in mall
