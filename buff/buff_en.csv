@@ -170,3 +170,12 @@ en_168,Clan House Buff,0,5770,"Magic Damage +4, Addtional Magic Damage +4"
 en_169,Clan House Buff,0,5771,"Physical Damage +7"
 en_170,Will of fortress,1090,5729,"Physical Damage +6, Magic Damage +5, Physical Accuracy +1"
 en_171,Hell Status,0,5774,"Cannot leave Hell until curse gone"
+en_172,小型侦查天眼,0,5782,持续时间内侦查自身2格内范围
+en_173,大型侦查天眼,0,5783,持续时间内侦查自身3格内范围
+en_174,石化,0,5786,持续扣血
+en_175,大地之魂,0,5254,被物理攻击时有机率使攻击者中缓速术
+en_176,灼魂之火,0,5250,物理攻击有机率灼烧掉角色的2个增益状态
+en_177,大地屏障,157,5804,受到其他玩家的物理和魔法伤害-15%
+en_178,Teon祝福之力,0,5805,使用Teon直播勋章後获得的增益祝福
+en_179,禁止协助,0,5807,不可接受其他玩家的协助
+en_180,灵魂升华,0,5227,补位，防止客户端崩掉
