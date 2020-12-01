@@ -53,3 +53,4 @@ id,key,value,desc
 52,SHOW_OATH_LEVEL,35,show oath panel player level
 53,GLORY_ENABLE,0,0:(disable) 1:(enable)
 54,SOUL_ENABLE,1,0:(disable) 1:(enable)
+55,PANTS_ENABLE,1,0:(disable) 1:(enable)
