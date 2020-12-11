@@ -1,15 +1,84 @@
 <html>
 <body>
-<font fg=FFA500>防沉迷规则</font><br />
-1. 通过玩家的游戏数据作出防沉迷处理，涉及数据包括在线时间及杀怪数量，数据以游戏账号为单位。<br />
-2. 在线时间设置，当玩家在线时间达到8小时后会出现疲劳状态开始衰减游戏收益，初始为1%，每增加1小时增加1%，直至统计周期重置。<br />
-3. 击杀怪物数量设置，玩家在统计周期内击杀数量达到2500只怪物后会出现疲劳状态开始衰减游戏收益，初始为5%，每增加100只怪物增加5%，直至完全衰减完毕或统计周期重置。<br />
-4. 因与怪物等级差导致的衰减会叠加防沉迷衰减产生。例如：原怪物收益为400金币，因等级衰减至300金币，而当杀怪数达到2550（衰减达到5%），在线时间为9小时时（衰减达到2%），衰减后收益为：300x（100-2-5）%=279金币。<br />
-5. 防沉迷规则的统计周期为当日10时至次日10时，服务器每日日常重启时重置。<br />
-6. 防沉迷游戏影响收益范围包括：金币，正义值，经验，物品掉落。<br />
-7. 击杀Boss获得收益不受防沉迷规则影响。<br />
-8. 部分限次限时地图不受防沉迷规则影响,击杀怪物不会统计到每日击杀怪物的统计之内。（例如：狩猎山脉，冰雪之地，隐藏之谷等）<br />
-9. 新注册账号24小时内不受防沉迷规则影响。<br />
+<font fg=FFA500>Buff Status</font><br />
+        Meaning：Status that can enhance or weaken character in a period of time. For example, +Melee Damage, Haste, HP/MP Recover, etc.<br />
+<br />
+<font fg=FFA500>Buffs which usually can be found in game</font><br />
+<br />
+<img src=#5203.0 />Magical Shield: AC-2<br />
+<br />
+<img src=#5282.0 />Holy Weapon: Increase Physical Hit and extra damage to undead monsters<br />
+<br />
+<img src=#5283.0 />Enchant Weapon: Weapon Damage+2<br />
+<br />
+<img src=#5205.0 />Decrease Weigh: Carrying Capacity Increased<br />
+<br />
+<img src=#5284.0 />Blessed Armor: AC-3<br />
+<br />
+<img src=#5209.0 />Enhance DEX: DEX+5<br />
+<br />
+<img src=#5210.0 />Magic Barrier: Counter magic attack for once<br />
+<br />
+<img src=#5207.0 />Meditate: Faster MP recovery, will be deactivated once moving or attacking<br />
+<br />
+<img src=#5215.0 />Enhance STR: STR+5<br />
+<br />
+<img src=#5285.0 />Bless Weapon: Melee Damage+2, Melee Hit+2<br />
+<br />
+<img src=#5256.0 />Reduction Armor: Reduce damage received, the higher level, the greater damage reduced<br />
+<br />
+<img src=#5255.0 />Solid Shield: Increase evasion rate, cannot be activated when the shield is uneqipped<br />
+<br />
+<img src=#5257.0 />Counter Barrier: Chance to reflect Melee Damage<br />
+<br />
+<img src=#5260.0 />Brave Aura: Melee and Range Damage+5<br />
+<br />
+<img src=#5228.0 />Resist Magic: MR+10%<br />
+<br />
+<img src=#5230.0 />Clear Mind: WIS+3<br />
+<br />
+<img src=#5235.0 />Fire Weapon: Melee Damage+4<br />
+<br />
+<img src=#5233.0 />Earth Skin: Ac-6<br />
+<br />
+<img src=#5516.0 />Maximum HP: Maximum HP Increased<br />
+<br />
+<img src=#5515.0 />Maximum MP: Maximum MP Increased<br />
+<br />
+<img src=#5249.0 />Soul of Flame: Weapon damage maximum<br />
+<br />
+<img src=#5281.0 />Storm Walk: Increase evasion rate in PVP about physical attacks, reduce Magic Defense<br />
+<br />
+<img src=#5671.0 />Wind Shot: Ranged Hit+6<br />
+<br />
+<img src=#5672.0 />Aqua Protect: Evasion Rate+5, Avoid+8<br />
+<br />
+<img src=#5261.0 />Glowing Aura: Spell Power+2, Extra Magic Damage+3<br />
+<br />
+<img src=#5708.0 />Hit Up: Physical Hit+3<br />
+<br />
+<img src=#5709.0 />Damage Up: Physical Damage+4<br />
+<br />
+<img src=#5710.0 />Avoid Up: Avoid+5<br />
+<br />
+<img src=#5711.0 />Dark Dodge: Avoid increase, also increase evasion rate in PVP<br />
+<br />
+<img src=#5713.0 />Dark Fang: Physical Damage+8<br />
+<br />
+<img src=#5724.0 />Curse Bleed: Have a chance to attack enemy with bleed status in this 4 seconds.<br />
+<br />
+<img src=#5765.0 />Wind Shadow: Attack enemy and ignore part of evasion rate and avoid.<br />
+<br />
+<img src=#5719.0 />Double Destory: Have a chance to attack with double power<br />
+<br />
+<img src=#5554.0 />EXP Bonus: Increase EXP<br />
+<br />
+<img src=#5286.0 />Polymorph State: Transformed into a monster, receive monster's ability<br />
+<br />
+<img src=#5365.0 />Faster MP Recover: MP Recover Speed Increased<br />
+<br />
+<img src=#5697.0 />MP Recover: Required additional MP recover in duration time<br />
+<br />
 <br />
 </body>
 </html>
