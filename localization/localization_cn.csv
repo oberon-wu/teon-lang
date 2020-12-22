@@ -2579,3 +2579,5 @@ cn_2577,"你暂时没有拥有娃娃，可寻找NPC伊蒂丝[魔法娃娃]获取
 cn_2578,"阵营战中，不能互动"
 cn_2579,"延时宝箱"
 cn_2580,"宝藏"
+cn_2581,"This is a Random Treasure Box (RTB) type of item. When you use this item in your inventory, you will randomly obtain one of the items listed below. The percentage shown at the bottom means the chance of this item will appear when you open a RTB."
+cn_2582,"Guaranteed"
