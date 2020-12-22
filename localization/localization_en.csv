@@ -2579,3 +2579,5 @@ en_2577,"你暂时没有拥有娃娃，可寻找NPC伊蒂丝[魔法娃娃]获取
 en_2578,"阵营战中，不能互动"
 en_2579,"Delay Treasure Box"
 en_2580,"Treasure"
+en_2581,"This is a Random Treasure Box (RTB) type of item. When you use this item in your inventory, you will randomly obtain one of the items listed below. The percentage shown at the bottom means the chance of this item will appear when you open a RTB."
+en_2582,"Guaranteed"
