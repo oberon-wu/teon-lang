@@ -389,7 +389,7 @@ en_387,"　　　 Difficulties: ★★★★★They have mastered the ancient kn
 en_388,"　　　 Difficulties: ★★☆The Elves strive to return peace and freedom to all lands. They are trained to be balanced warriors, able to use different types of weapons and spells."
 en_389,"STR: Affects combat closed attack damage, accuracy and your ability to carry items.\nDEX: Determines your ranged attack damage and accuracy, especially with missile weapons, like bows.\nCON: Control how much HP/HP Regen and you will gain when you level up; also your avoid.\nWIS: Affects your innate magic resistance, your treatment, andalso how much MP/MP Regen you will gain each level.\nINT: Determines your spellpower, affects your casting success rate and the thrift magical value when you cast.\nCHA: Affects how many dogs or tamed mobs you can have at one time and how much clan members Royal Class can invite to clan(not inclued the additional Cha from equipments). It also effects closed range critical rate of Royals and Knights."
 en_390,"Do you want to delete the selected character “%s”?"
-en_391,"\f=[NORMAL]"
+en_391,"\f=[NORM]"
 en_392,"\f2[SAFE]"
 en_393,"\f3[PK]"
 en_394,"\f6!!!Invalid region!!!"
