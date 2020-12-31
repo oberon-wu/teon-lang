@@ -1447,7 +1447,7 @@ en_1445,"Amulet of Heroism Lv.6 [INT]: Symbol of an outstanding hero which grant
 en_1446,"Amulet of Heroism Lv.6 [DEX]: Symbol of an outstanding hero which grants DEX."
 en_1447,"A special Advanced Sroll of Polymorph, which allows you to polymorph into a Death Knight. \n\f=Expired date: 03-01-2019 10:00"
 en_1448,"Summon thorns from the ground to entangle your enemy and slowing them. \nCategory: Skill level 3 (Class) \nEffect: Chance to lower target's movement speed, along with disabling Haste effect for 15 secs. During the effective time, Advanced Haste is forbidden. The success rate is related to the level difference between both sides. \nLearning requirement: \nElf: Level 30"
-en_1449,"Use the power of the wind to accelerate yourself. \nCategory: Skill level 6 (Class) \nEffect: Increase evasion rate from close range physical damage by 50% for 5 secs. If the spellcaster is in Haste state 2, the avoid will increase by 100%. \nLearning requirement: \nElf: Level 50"
+en_1449,"Use the power of the wind to accelerate yourself. \nCategory: Skill level 6 (Class) \nEffect: Increase evasion rate from close range physical damage by 50% for 5 secs. If the spellcaster is in Advanced Haste, the avoid will increase by 100%. \nLearning requirement: \nElf: Level 50"
 en_1450,"Recover a higer amount of HP after use."
 en_1451,"Has a chance to receive Scroll of Almighty after launching in the specific location."
 en_1452,"Broken Orc Arrow"
