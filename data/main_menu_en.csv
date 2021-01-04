@@ -1,4 +1,4 @@
-name,langId,btnName,btnHighlightName,
+name,langId,btnName,btnHighlightName
 Char,57,"ui_character","ui_character_hl"
 Bag,58,"ui_bag","ui_bag_hl"
 Poly,1631,"ui_poly_m","ui_poly_m_hl"
