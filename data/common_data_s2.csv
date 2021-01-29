@@ -61,5 +61,5 @@ id,key,value,desc
 60,DOLL_RESET_TALENT_ITEMS,"10341,43,68102;3,3,3,3,3,3","gfxId,frameId,itemId;itemCount0,..itemCount5"
 61,DOLL_UPGRADE_TALENT_ITEMS,"0,0,0;1,1,2,3,4,5","gfxId,frameId,itemId;itemCount0,..itemCount5, 40424"
 62,WORLD_MAP_BACKGROUND_NAME,"world_map_3","world map background name"
-63,MEMBER_SHORTCUT_BLINK,"","icon blink config"
+63,MEMBER_SHORTCUT_BLINK,"(null)","icon blink config"
 64,ITEM_EXPIRY_SHOW,86400,"show clock image time"
