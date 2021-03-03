@@ -104,7 +104,7 @@ en_102,PK Phy Recuction,1083,5677,"PK physical damage reduction+15%"
 en_103,Heroic Potion,1086,5683,"Increase accuracy, damage, ac and mp recover"
 en_104,Summon CD,1085,5682,"Only one monster summon once"
 en_105,Phy Hit Up,1087,5701,"Melee Hit+2, Ranged Hit+2"
-en_106,Bounce Attack,89,5700,"Attacker weapon damage has percentage to be 0"
+en_106,Bounce Attack,89,5700,"Attacker melee weapon damage has percentage to be 0"
 en_107,MP Regen,1066,5697,"Required additional MP recover in duration time"
 en_108,HP Regen Rune,6000,5705,"Recover 30 HP per second in 5 seconds"
 en_109,MP Regen Rune,6001,5704,"Recover 10 MP per second in 5 seconds"
@@ -169,16 +169,16 @@ en_167,Clan House Buff,0,5769,"Physical Damage+6"
 en_168,Clan House Buff,0,5770,"Magic Damage+4, Addtional Magic Damage+4"
 en_169,Clan House Buff,0,5771,"Physical Damage+7"
 en_170,Will of fortress,1090,5729,"Physical Damage+6, Magic Damage+5, Physical Hit+1"
-en_171,Hell,0,5774,"Cannot leave Hell until curse gone"
-en_172,小型侦查天眼,0,5782,持续时间内侦查自身2格内范围
-en_173,大型侦查天眼,0,5783,持续时间内侦查自身3格内范围
-en_174,石化,0,5786,持续扣血
-en_175,大地之魂,0,5254,被物理攻击时有机率使攻击者中缓速术
-en_176,灼魂之火,0,5250,物理攻击有机率灼烧掉角色的2个增益状态
-en_177,大地屏障,157,5804,受到其他玩家的物理和魔法伤害-15%
-en_178,Teon祝福之力,0,5805,使用Teon直播勋章後获得的增益祝福
-en_179,禁止协助,0,5807,不可接受其他玩家的协助
-en_180,灵魂升华,0,5227,提升20%的体力及魔力最大值
-en_181,娃娃出战,0,5821,魔法娃娃出战中
-en_182,精准目标,1042,5367,补位，防止客户端崩掉
-en_183,Auto EXP Gain,0,5812,Keep Gaining EXP 
+en_171,Hell,0,5774,"Cannot leave Hell until the curse gone"
+en_172,小型侦查天眼,0,5782,"持续时间内侦查自身2格内范围"
+en_173,大型侦查天眼,0,5783,"持续时间内侦查自身3格内范围"
+en_174,石化,0,5786,"持续扣血"
+en_175,大地之魂,0,5254,"被物理攻击时有机率使攻击者中缓速术"
+en_176,灼魂之火,0,5250,"物理攻击有机率灼烧掉角色的2个增益状态"
+en_177,Earth Barrier,157,5804,"Unable to attack"
+en_178,Teon祝福之力,0,5805,"使用Teon直播勋章後获得的增益祝福"
+en_179,禁止协助,0,5807,"不可接受其他玩家的协助"
+en_180,Advance Spirit,0,5227,"Increase target's maximum HP and MP by 20% while activated."
+en_181,Magical Doll Effect,0,5821,"The present of Magical Doll makes you more powerful"
+en_182,Precise Target,1042,5367,"You will have extra damage when you under physical attack"
+en_183,Auto EXP Gain,0,5812,"Keep Gaining EXP"
