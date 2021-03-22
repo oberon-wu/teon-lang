@@ -67,3 +67,5 @@ id,key,value,desc
 66,MAP_LOC_ENABLE,0,0:(disable) 1:(enable)
 67,MAX_PROTECTED_ADV_LV,"13,10","max_protected_adv_lv_wpn,max_protected_adv_lv_amr"
 68,FAQ_RANSOM_LOOT,25,"ransom&loot rule faq id"
+69,COMMON_DATA_ROW_TIME_POINT_MAX,999999,"max time point"
+70,COMMON_DATA_ROW_TEON_COIN_MAX,9999,"max teon coin"

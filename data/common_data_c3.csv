@@ -47,7 +47,7 @@ id,key,value,desc
 46,VERIFY_IDENTITY_CODE,1, 0:(disable)  1:(enable) 
 47,ENABLE_MALL,4,0:(disable)  1:(enable) 
 48,CARD_INFO,"50,0,10",maxCardItemCount isDisplayCardBox maxMaterialCardCount 
-49,MALL_CURRENCY_ITEM_ID, 59999, item id of currency in mall
+49,MALL_CURRENCY_ITEM_ID, 60001, item id of currency in mall
 50,REFERRAL_REWARD_ENABLE,1,0:(disable) 1:(enable)
 51,TEMP_SKILL_CONSUME_MP_RATE,75,temp skill consume mp rate
 52,SHOW_OATH_LEVEL,35,show oath panel player level
@@ -67,3 +67,5 @@ id,key,value,desc
 66,MAP_LOC_ENABLE,0,0:(disable) 1:(enable)
 67,MAX_PROTECTED_ADV_LV,"13,10","max_protected_adv_lv_wpn,max_protected_adv_lv_amr"
 68,FAQ_RANSOM_LOOT,25,"ransom&loot rule faq id"
+69,COMMON_DATA_ROW_TIME_POINT_MAX,999999,"max time point"
+70,COMMON_DATA_ROW_TEON_COIN_MAX,9999,"max teon coin"
