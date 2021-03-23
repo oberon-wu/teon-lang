@@ -34,7 +34,7 @@ en_32,Hell Lightning,"Summon lightning to strike down your enemies which cause a
 en_33,Greater Heal,"Recover a great amount of HP for the target, and it can also make damage to the undead. \n\nLearning requirement: \nMage: Level 20 \nElf: Level 40."
 en_34,Tame Monster,"Have a chance to enamore monsters and make them follow you. Success Rate depend on target HP and grade gap between each oterh. \n\nLearning requirement: \nMage: Level 20 \nElf: Level 40"
 en_35,Remove Curse,"Emit a holy light to remove the curse on the target. \n\nLearning requirement: \nMage: Level 20 \nElf: Level 40."
-en_36,Ice Cone,"Throw ice spikes that deals damage to the enemy. \n\nLearning requirement: \nMage: Level 20 \nElf: Level 40"
+en_36,Cone of Cold,"Throw ice spikes that deals damage to the enemy. \n\nLearning requirement: \nMage: Level 20 \nElf: Level 40"
 en_37,Mana Drain,"Have a chance to absorb target's MP and convert of the MP absorbed for yourself. Success Rate depend on self INT and target MR. If the target magic amount is lower than 20%(monsters) and 40%(players), the spell will absorb 0. \n\nLearning requirement: \nMage: Level \nElf: Level 40."
 en_38,Dark Shadow,"Summon a dark shadow which have a chance to blind your enemy for 24 seconds. The melee and ranged accurate will be reduced by 40%. Casting this spell will reduce your Lwaful value by 10. Success Rate depend on self INT and target blind resistance. \n\nLearning Requirement: \nMage: Level 20 \nElf: Level 40"
 en_39,Create Puppet,"Summon a puppet from your enemy, which can help the spell caster during combat. \n\nLearning Requirement: \nMage: Level 24 \nElf: Level 48"
