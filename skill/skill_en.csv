@@ -93,7 +93,7 @@ en_91,Mind Conversion,"Convert 8 points of your own HP into 2 points of MP. \n\n
 en_92,Return to World Tree,"The spellcaster can be immediately teleported to the World tree in Elven Garden except in areas where teleport is prohibited. \n\nLearning Requirement: \nElf: Level 10"
 en_93,Triple Arrow,"Launch 3 arrows all at once to your enemy. \nYou need to equip a bow in order to cast this spell. When Dex is haigher than 25, the magic this skill need will be cut down according to Int and Dex. \n\nLearning Requirement: \nElf: Level 30."
 en_94,Element Weaken,"Have a chance to reduce 50 elemental resistance of target according to your strengthen one. Success Rate depend on grade gap of each oterh. \n\nLearning requirement: \nElf: Level 40"
-en_95,Counter Magic,"Grant the spell caster chance to reflect magic attacks for a period of time while this spell is being activated. \n\nLearning Requirement: \nElf: Level 50"
+en_95,Counter Mirror,"Grant the spell caster chance to reflect magic attacks for a period of time while this spell is being activated. \n\nLearning Requirement: \nElf: Level 50"
 en_96,Clear Mind,"Increase the spell caster's wisdom by 3 points and magic recovery by 2 points. Cannot be stacked. \n\nLearning requirement: \nElf: Level 20."
 en_97,Resist Element,"Increase all elemental resistance by 10. \n\nLearning requirement: \nElf: Level 20"
 en_98,Release Element,"Have a chance to release monsters which were summoned or tamed. Success Rate depend on starget HP and grade gap of each oterh. \n\nLearning requirement: \nElf: Level 30"
