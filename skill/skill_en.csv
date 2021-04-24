@@ -136,7 +136,7 @@ en_134,Weakness,"Have a chance to lower target's 15 physical damage and 5 magica
 en_135,Curse: Darkness,"Use Curse: Darkness to obstruct the enemies and have a chance to blind them. It last 24 seconds. Casting this spell will reduce your Lawful value by 10. Success Rate depend on self INT and target MR. \n\nLearning requirement: \nMage:Level 20 \nElf:Level 40"
 en_136,Wind Walk,"Improve all the spellcaster speed to Advanced Haste. If you have 18 original DEX points or total DEX points reached 35, you will have addtional acceleration effect of physical attack. \n\nLearning requirement: \nMage: Level 28"
 en_137,Bless Weapon,"Empower weapons to increase hit rate and damage. \n\nLearning requirement: \nMage: Level 24 \nElf :Level 48."
-en_138,Disease,"Have a chance to lower target's AC 20 points and MR 30 points. Casting this spell will reduce you 10 Lawful value. Success Rate depend on self INT and target MR. \n\nLearning Requirement: \nMage: Level 24 \nElf: Level 48"
+en_138,Disease,"Have a chance to lower target's AC 20 points and MR 30 points. Casting this spell will reduce you 10 Lawful value. Success Rate depend on self INT and target MR. \n\nLearning Requirement: \nMage: Level 28"
 en_139,Wind Shot,"Increase target's range hit by 6 points. \n\nLearning Requirement: \nElf: Level 30"
 en_140,Aqua Protect,"Protect target with water elements, increase target evasion by 5 points and avoid by 8. \n\nLearning requirement: \n Elf: Level 40"
 en_141,Storm Shot,"Increase range damage by 8 points. \n\nLearning requirement: \nElf: Level 50"
