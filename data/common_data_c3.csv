@@ -70,4 +70,4 @@ id,key,value,desc
 69,COMMON_DATA_ROW_TIME_POINT_MAX,999999,"max time point"
 70,COMMON_DATA_ROW_TEON_COIN_MAX,9999,"max teon coin"
 71,POINTS_BASE_ATTR_MAX,35,"base attr max"
-72,REBORN_POINTS_BASE_ATTR_MAX,55,"reborn base attr max"
+72,REBORN_POINTS_BASE_ATTR_MAX,45,"reborn base attr max"
