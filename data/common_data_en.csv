@@ -71,3 +71,4 @@ id,key,value,desc
 70,COMMON_DATA_ROW_TEON_COIN_MAX,9999,"max teon coin"
 71,POINTS_BASE_ATTR_MAX,35,"base attr max"
 72,REBORN_POINTS_BASE_ATTR_MAX,45,"reborn base attr max"
+73,DARK_ELF_UNLOCK,1,0:(lock) 1:(unlock)
