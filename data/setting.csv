@@ -5,4 +5,4 @@ id,key,value,desc
 4,LOGIN_BACKGROUND_TW,"login_bg_7,login_bg_2,login_bg_3","login bg(tw)"
 5,LOGIN_BACKGROUND_CN,"login_bg_4,login_bg_5,login_bg_6","login bg(cn)"
 6,LOGIN_BACKGROUND_DURATION,1000,"login bg play delay ms"
-7,LOGIN_BACKGROUND_EN,"login_bg_8,login_bg_9,login_bg_10","login bg(en)"
+7,LOGIN_BACKGROUND_EN,"opening_9,opening_10,opening_11,opening_12,opening_13,opening_14","login bg(en)"
