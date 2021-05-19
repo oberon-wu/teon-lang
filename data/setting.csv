@@ -6,3 +6,6 @@ id,key,value,desc
 5,LOGIN_BACKGROUND_CN,"login_bg_4,login_bg_5,login_bg_6","login bg(cn)"
 6,LOGIN_BACKGROUND_DURATION,1000,"login bg play delay ms"
 7,LOGIN_BACKGROUND_EN,"opening_9,opening_10,opening_11,opening_12,opening_13,opening_14","login bg(en)"
+8,BLOCK_SIMULATOR_TW,1,0:(disable) 1:(enable)
+9,BLOCK_SIMULATOR_CN,0,0:(disable) 1:(enable)
+10,BLOCK_SIMULATOR_EN,0,0:(disable) 1:(enable)
