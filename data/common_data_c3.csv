@@ -82,3 +82,4 @@ id,key,value,desc
 81,COMMON_DATA_ROW_BLACKLIST_MAX,20,"back list max count"
 82,NPC_LEVEL_DIFF_NAME_COLOR,1,0:(disable) 1:(enable)
 83,TITLE_ENABLED,0,0:(disable) 1:(enable)
+84,SLEEP_PAGE_ENABLED,0,0:(disable) 1:(enable)
