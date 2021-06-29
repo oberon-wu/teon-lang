@@ -81,3 +81,4 @@ id,key,value,desc
 80,COMMON_DATA_ROW_BUDDY_MAX,120,"buddy list max count"
 81,COMMON_DATA_ROW_BLACKLIST_MAX,20,"back list max count"
 82,NPC_LEVEL_DIFF_NAME_COLOR,0,0:(disable) 1:(enable)
+83,TITLE_ENABLED,1,0:(disable) 1:(enable)
