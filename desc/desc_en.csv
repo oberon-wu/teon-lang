@@ -841,7 +841,7 @@ en_839,"A ring engraved with mysterious incantations that can summon a specific 
 en_840,"It is said that the Cloak of Invisibility was woven with magical ice silk. It makes you invisible. You can move around, but can't do anything else while wearing it."
 en_841,"This Edin spell book contains elementary magic skills. \n Category: Skill level 4 (Common) \n Effect: Cast a wind spell that increase target's dexterity by 5 points. Can't be stack. \nLearning Requirement: \nMage: Level 16 \nElf: Level 32"
 en_842,"Nestro the mastersmith has refined his skills in weapon crafting. He named this masterpiece after himself."
-en_843,"This mysterious crystal engraved with the ancient writings of elves and contains an amazing magic power! \n Category: Skill level 3 (Class) \n Effect: Increase all elemental resistance by 50%. \nLearning requirement: \nElf: Level 30"
+en_843,"This mysterious crystal engraved with the ancient writings of elves and contains an amazing magic power! \n Category: Skill level 3 (Class) \n Effect: Increase corresponding of your awake elemental resistance by 50. \nLearning requirement: \nElf: Level 30"
 en_844,"Broken soul crystal fragments"
 en_845,"This Edin spell book contains elementary magic skills. \n Category: Skill level 1 (Common) \n Effect: Empower weapons to increase damage. The empowered weapon will deal additional damage to the undead. \nLearning Requirement: \nRoyal: Level 10 \nMage: Level 4 \nElf: Level 8 \nKnight: Level 40 \nDark Elf: Level 15"
 en_846,"A red key"
