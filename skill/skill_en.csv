@@ -152,7 +152,7 @@ en_150,Hit Up,"Increase melee and range hit by 3 points. \n\nLearning requiremen
 en_151,Attack Up,"Increase melee and range damage by 4 points. Can not coexist with Shadow Fang. \n\nLearning requirement: \nDark Elf: Level 45"
 en_152,Avoid Up,"Increase avoid by 5 points. \n\nLearning requirement: \nDark Elf: Level 45."
 en_153,Uncanny Dodge,"Increase avoid by 8 points. Have additional 20% avoid and 30% evasion when you are under attacked. \n\nLearning requirement: \nDark Elf: Level 60."
-en_154,Blind Hiding,"Hide in the smog and become invisible in 6 seconds. Have 12 seconds weak periosd, with AC increased by 20 points，MR reduced 30 points and all physical damage reduce by 20 points. \n\nLearning requirement: \nDark Elf: Level 60."
+en_154,Stealth,"Hide in the smog and become invisible in 6 seconds. Have 12 seconds weak periosd, with AC increased by 20 points，MR reduced 30 points and all physical damage reduce by 20 points. \n\nLearning requirement: \nDark Elf: Level 60."
 en_155,Shadow Fang,"Show the fangs in the shadow, increase all physical damage points by 8 points. Can not coexist with Attack Up. \n\nLearning requirement: \nDark Elf: Level 60"
 en_156,Bloodfury Scythe,"Anger fills the veins, throwing 2 knives to the same enemy once in a short time. \nYou need to equip a gauntlet in order to cast this spell. \n\nLearning requirement: \nDark Elf: Level 45, and awake as Cursed Line."
 en_157,Curse: Weakness,"Cursed enemy to become weakness in the period of time. Have a chance to attack enemy with weakness status in this 4 seconds. \nYou need to equip a gauntlet in order to cast this spell. \nWeakness: reduce 10% physical damage. \n\nLearning requirement: \nDark Elf: Level 45, and awake as Cursed Line."
