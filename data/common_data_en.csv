@@ -83,6 +83,5 @@ id,key,value,desc
 82,NPC_LEVEL_DIFF_NAME_COLOR,0,0:(disable) 1:(enable)
 83,SLEEP_PAGE_ENABLED,0,0:(disable) 1:(enable)
 84,TITLE_ENABLED,1,0:(disable) 1:(enable)
-84,SLEEP_PAGE_ENABLED,0,0:(disable) 1:(enable)
 85,TIME_POINT_ENABLE,0,0:(disable) 1:(enable)
 86,REBIRTH_BONUS_STATUS,"4,8",rebirth bonus init point
