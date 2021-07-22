@@ -2,33 +2,32 @@
 <body>
 <font fg=FFA500>Definition</font><br />
 Value that shows if the character is good or evil.<br />
-When you kill another player, NPC in a village or a town guard, your Lawful Value will decrease and become Chaos Status;<br />
-Hunting monsters will increase your Lawful Value and thus bring you to the Lawful Status;<br />
-Newly created characters belong to the Neutral State.<br />
+When you kill another player, NPC in a village or a town guard, your Lawful Value will decrease and gradually become Chaos Status;<br />
+Hunting monsters will increase your Lawful Value and gradually become Lawful Status;<br />
 <br />
-<font fg=FFA500>Neutral State</font><br />
-Newly created characters belong to the Neutral State;<br />
-Players whose Lawful Value is between <font fg=FFFF00> -1000 </font> and <font fg=FFFF00> +1000 </font> belong to neutral state;<br />
+<font fg=FFA500>Neutral Status</font><br />
+Newly created characters' Lawful Value are 0.<br />
+Characters whose Lawful Value is between <font fg=FFFF00> -1000 </font> and <font fg=FFFF00> +1000 </font> belong to neutral status;<br />
 ID will be displayed in white.<br />
 <br />
-<font fg=FFA500>Lawful State</font><br />
-Lawful State<br />
-         Players earn Lawful Value when killing monsters. The Lawful Value rewarded by different monsters are distinct.<br />
-Lawful Value<br />
-         Players whose Lawful Value is between <font fg=FFFF00> +1001 </font> and <font fg=FFFF00> +32767 </font> belong to Lawful State. ID will be displayed in blue.<br />
-Rewards<br />
+<font fg=FFA500>Lawful Status</font><br />
+Lawful Status:<br />
+         Players earn Lawful Value when killing most of monsters. The Lawful Value rewarded by different monsters are distinct.<br />
+Lawful Value:<br />
+         Players whose Lawful Value is between <font fg=FFFF00> +1001 </font> and <font fg=FFFF00> +32767 </font> belong to Lawful Status. ID will be displayed in blue.<br />
+Rewards:<br />
          Those with higher Lawful Value have lower chance to drop items upon death and receive higher healing when using a healing magic.<br />
 <br />
 <font fg=FFA500>Chaos Status</font><br />
-Evil State<br />
-         Upon killing another player, the difference between your and the victim's Lawful Value will be reduced from that of yours.<br />
-Lawful Value<br />
-         Players whose Lawful Value is between <font fg=FFFF00> -1001 </font> and <font fg=FFFF00> -32768 </font> belong to Evil State. ID will be displayed in red.<br />
-Penalty<br />
+Chaos Status:<br />
+         When killing a non-Chaos-Status character, your Lawful Value will reduce by the difference between you and the victim. Killing a Chaos-Status character will not affect your Lawful Value.<br />
+Lawful Value:<br />
+         Players whose Lawful Value is between <font fg=FFFF00> -32768 </font> and <font fg=FFFF00> -1001 </font> belong to Chaos Status. ID will be displayed in red.<br />
+Penalty:<br />
          Your character's name is displayed in red so other players can identify you easily.<br />
-         Some NPCs in the village will not interact with characters of Chaos Status.<br />
-         Increased item drop rate upon death.<br />
-         Decreased healing effect from healing magics. Effects of evil magic spell will be enchanted.<br />
+         Some NPCs will not interact with characters in Chaos Status.<br />
+         Increased item drop rate from death penalty.<br />
+         Decreased healing effect from healing spells. Effects of evil spells will be enhanced.<br />
 
 </body>
 </html>
