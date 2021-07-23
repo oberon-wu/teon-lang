@@ -1,46 +1,56 @@
 <html>
 <body>
 <font fg=FFA500>PK Related</font><br />
-Applicable Areas<br />
-        Non-PK Zones<br />
-Name Status<br />
-        Pink name: A temporary status showing that the player has attacked another non-pink or red named players, or has casted healing spell on pink or red named players.<br />
-        Red name: This status appears when the player's Karma is at or below -1000.<br />
-        Normal status: Blue or white names indicate the player is in normal status.<br />
+<font fg=FFFF00>Non-PK Zones</font><br />
+Name Status:<br />
+        Pink name: A temporary status showing that the character has attacked another non-pink or non-red named characters, or has casted healing spell on pink or red named characters.<br />
+        Red name: This status appears when the character's Lawful is below -1000.<br />
+        Normal status: Blue or white names indicate the character is in normal status.<br />
         Display priorities: Red > Pink > Normal<br />
-Penalties<br />
-        1. In normal status, attacking a normal status player or cast healing spell on a pink or red named player will receive a pink-name-penalty for 60 seconds.<br />
-        2. In pink name status, attacking a normal status player or cast healing spell on a pink or red named player will receive a pink-name-penalty for 60 seconds.<br />
-        3. When the remaining time of pink name status is below 30 seconds, if the player is attacked by other characters or followers, the time of the player's pink name status will be reset to a 30 seconds.<br />
-        4. In red name status, attacking a normal status player or cast healing spell on a pink or red named player will NOT receive a pink-name-penalty.<br />
-        5. In any status, attacking a red or pink-named player will NOT receive a pink-name-penalty.<br />
-        6. If the pink name status is removed, the hate list will be reset. The player who has been attacked needs to turn on PK mode to fight back.<br />
-Murder Penalties<br />
-        1. Killing a normal status player will be punished by justice and lose certain Karma.<br />
-        2. Killing a normal status player will cause the guards to chase after you for 48 hours (real time).<br />
-        3. Killing a normal status player, muderer's PK point will be added by 1 when the level difference between murderer and the player who was killed is less then 5. PK point will be added by 3 when the difference are between 6 and 10. PK point will be added by 5 when the difference is larger than 10.<br />
-        4. When the accumulated PK point reaches 100, the character will be teleported to the hell area. Before PK point reaching 100, players can use items to reduce PK point.<br />
-        5. To leave the hell, player needs to survive for 5 minutes (real time) after being teleported to the hell or die for 20 times.<br />
+Pink-Name Rules:<br />
+        1. In normal status, attacking a normal status character or cast healing spell on a pink or red named character will receive a pink-name-penalty for 60 seconds.<br />
+        2. In pink name status, attacking a normal status character or cast healing spell on a pink or red named character will reset the pink-name-penalty to 60 seconds.<br />
+        3. When the remaining time of pink name status is below 30 seconds, attacked by other characters or followers will reset the pink-name-penalty to 30 seconds.<br />
+        4. In red name status, attacking a normal status character or cast healing spell on a pink or red named character will NOT receive a pink-name-penalty.<br />
+        5. In any status, attacking a red or pink-named character will NOT receive a pink-name-penalty.<br />
+        6. If the pink name status is removed, the hate list will be reset. The character who has been attacked needs to turn on PK mode to fight back.<br />
+Murder Penalties:<br />
+        1. Killing a normal status character will be punished by justice and lose certain Lawful.<br />
+        2. Killing a normal status character will cause the guards to chase after you for 48 hours (real time).<br />
+        3. Killing a normal status character will increase your PK point, based on your level minus victim's:<br />
+        If the difference is less than or equal to 5, including your level is lower than the victim's, PK point increased by 1.<br />
+        If the difference is between 6 and 10, PK point increased by 3.<br />
+        If the difference is greater than 10, PK point increased by 5.<br />
+        4. When the accumulated PK point reaches 100, the character will be teleported to the hell area. Before PK point reaching 100, characters can use items to reduce PK point.<br />
+        5. To leave the hell, character needs to survive for 5 minutes (real time) after being teleported to the hell or die for 20 times.<br />
         6. PK point will become 0 when the character leave the hell.<br />
-        7. In any state, killing a red or pink named player will not receive any penalty and will not increase PK point.<br />
+        7. In any state, killing a red or pink named character will not receive any penalty and will not increase PK point.<br />
+        8. Start from level 50, if the level between your character and the victim's is less than or equal to 5, you have a chance to get a part of victim's lost EXP as reward. (check Death Penalty below)<br />
 <br />
+<font fg=FFFF00>PK Zones</font><br />
+Murder Penalties:<br />
+        1. Killing a normal status character will not be punished or lose Lawful Value.<br />
+        2. Killing a normal status character will not cause the gaurds to chase after you.<br />
+        3. Killing a normal status character will not increase PK point.<br />
+        4. The victim will receive death penalty.<br />
+        5. Start from level 50, if the level between your character and the victim's is less than or equal to 5, you have a chance to get a part of victim's lost EXP as reward. (check Death Penalty below)<br />
 <font fg=FFA500>Death Penalty</font><br />
-According to different character's level and different causes of death, character will received different death penalties.<br />
+According to different death reasons, character will receive different death penalties.<br />
 1. EXP penalty after dead: <br />
-        a. Experience deducted when killed by a monster<br />
+        a. EXP loss when killed by a monster<br />
         ⑴ Lv.1 to 10: 0%<br />
         ⑵ Lv.11 to 44: 5% of your current level<br />
         ⑶ Lv.45: 4.5% of your current level<br />
         ⑷ Lv.46: 4% of your current level<br />
         ⑸ Lv.47: 3.5% of your current level<br />
         ⑹ Lv.48: 3% of your current level<br />
-        ⑺ Lv.49 and up: 2.5% of your current<br />
-        b. Experience deducted when killed by other players<br />
+        ⑺ Lv.49 and up: 2.5% of your current level<br />
+        b. Experience deducted when killed by other characters<br />
         Twice as much as killed by a monster.<br />
-2. Items Drop or Spell Forgotten after dead<br />
-        1. There is a chance to drop any item or equipment upon death. The chance is based on your karma. Higher karma would result in a smaller chance to drop your itemms or equipment.<br />
-        2. Only unbound items or equipment would be dropped. If a bound item is to be dropped, it will be discarded instead.<br />
-        3. There is a chance to forget one of your learned spells upon death. Karma would not affect the chance to forget.<br />
+2. Item Drops or Spell Forgets after dead<br />
+        1. There is a chance to drop any item or equipment upon death. The chance is based on your Lawful Value. Higher Lawful Value would result in a lower chance to drop your items or equipment.<br />
+        2. Only tradable items or equipment would be dropped.<br />
+        3. There is a chance to forget one of your learned spells upon death. Lawful Value would not affect the chance.<br />
 
 </body>
 </html>
