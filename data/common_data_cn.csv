@@ -89,3 +89,4 @@ id,key,value,desc
 88,MAX_LOG_COUNT, 300, show max log count
 89,MAX_EXP_RATE, 50, max clan exp rate
 90,MAX_MODIFY_COUNT, 3, max modify exp rate conut
+91,REVERT_DEATH_EXP,1,0:(disable) 1:(enable) restart revert death exp
