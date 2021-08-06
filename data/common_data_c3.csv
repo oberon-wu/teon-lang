@@ -48,7 +48,7 @@ id,key,value,desc
 47,ENABLE_MALL,4,0:(disable)  1:(enable) 
 48,CARD_INFO,"50,0,10",maxCardItemCount isDisplayCardBox maxMaterialCardCount 
 49,MALL_CURRENCY_ITEM_ID, 60001, item id of currency in mall
-50,REFERRAL_REWARD_ENABLE,1,0:(disable) 1:(enable)
+50,REFERRAL_REWARD_ENABLE,0,0:(disable) 1:(enable)
 51,TEMP_SKILL_CONSUME_MP_RATE,75,temp skill consume mp rate
 52,SHOW_OATH_LEVEL,35,show oath panel player level
 53,GLORY_ENABLE,0,0:(disable) 1:(enable)
