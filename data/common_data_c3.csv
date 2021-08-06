@@ -90,3 +90,5 @@ id,key,value,desc
 89,MAX_EXP_RATE, 50, max clan exp rate
 90,MAX_MODIFY_COUNT, 3, max modify exp rate conut
 91,REVERT_DEATH_EXP,0,0:(disable) 1:(enable) restart revert death exp
+92,COMMON_DATA_ROW_ATTR_EFFECT_MSG,870,"attr effect msg"
+93,COMMON_DATA_ROW_ATTR_RESET_MSG_FREE,871,"attr reset msg free(rule)"
