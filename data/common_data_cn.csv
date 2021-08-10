@@ -32,7 +32,7 @@ id,key,value,desc
 31,_COMMON_OPEN_NEW_FEED_BACK,1,1:server zendesk api 0:client sdk
 32,_POLY_COMMENT_CLOSE,0,close polymorph
 33,_POLY_COMMENT_DATA,"0,10338,21",poly dir index & decomposeItem gfx
-34,ENABLE_NEW_ENCHANT_PANEL,0,0:(disable)  1:(enable)
+34,ENABLE_NEW_ENCHANT_PANEL,1,0:(disable)  1:(enable)
 35,ATTR_ENCHANT_MIN_EQUIP_LEVEL,0,attr enchant min equip level limit
 36,ATTR_ENCHANT_CRYSTAL_ITEM_IDS,"70031,70032,70033,70034,70035,70036,70037,70038,70039,70040,70041,70042,70043,70044,70045,70046,70047,70048,70049,70050",attr enchant crystal item ids
 37,SUBSCRIPTION_ENABLE_SERVER_IDS,"null",subscription enable server ids
