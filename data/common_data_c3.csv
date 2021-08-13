@@ -92,4 +92,4 @@ id,key,value,desc
 91,REVERT_DEATH_EXP,0,0:(disable) 1:(enable) restart revert death exp
 92,COMMON_DATA_ROW_ATTR_EFFECT_MSG,870,"attr effect msg"
 93,COMMON_DATA_ROW_ATTR_RESET_MSG_FREE,871,"attr reset msg free(rule)"
-94,GM_BATTLE_LOG_ENABLE,1,0:(disable) 1:(enable)
+94,BATTLE_LOG_ENABLE,0,0:(disable) 1:(enable)
