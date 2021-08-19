@@ -20,7 +20,7 @@ id,key,value,desc
 19,ENABLE_NEW_ATTR_PANEL,1,0:(display old ui) 1:(display new ui)
 20,SKILLACTION,"18,19,30,31",object skill action
 21,IMITATE_GFX,"373,374,375,376,377,378,379,380,434,435",monster model gfx id
-22,DISABLE_ATTR_ENCHANT_KIND,6,disable bit value
+22,DISABLE_ATTR_ENCHANT_KIND,2,disable bit value
 23,ATTR_ENCHANT_MAX_LEVEL,2,attr enchant max level limit
 24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,6,attr enchant min enchant level limit
 25,MAX_DIFF_LEVEL,15,monster change color level
@@ -64,7 +64,7 @@ id,key,value,desc
 63,MEMBER_SHORTCUT_BLINK,"20,50","icon blink config"
 64,ITEM_EXPIRY_SHOW,86400,"show clock image time"
 65,MERCENARY_CFG,"10,20,30,40;100000,10,50,100","rate1..rate4;goldMin,tcMin,levelMin,countMax"
-66,MAP_LOC_ENABLE,0,0:(disable) 1:(enable)
+66,MAP_LOC_ENABLE,1,0:(disable) 1:(enable)
 67,MAX_PROTECTED_ADV_LV,"13,10","max_protected_adv_lv_wpn,max_protected_adv_lv_amr"
 68,FAQ_RANSOM_LOOT,26,"ransom&loot rule faq id"
 69,COMMON_DATA_ROW_TIME_POINT_MAX,999999,"max time point"
