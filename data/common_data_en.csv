@@ -27,7 +27,7 @@ id,key,value,desc
 26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
 27,MAX_VIP_EMOJI_ID,100,id range in (32-100)
 28,VIP_COST_ITEM_GFX,"10341,14,2,30",vip cost item cfg
-29,VIP_BOOK_MARK,"10,1,2,3,10,10",bookmark cfg
+29,VIP_BOOK_MARK,"10,1,2,3,10,10,0",bookmark cfg
 30,VIP_EXTRA_EQUIP_SLOTS,1,vip extra equip slots
 31,_COMMON_OPEN_NEW_FEED_BACK,1,1:server zendesk api 0:client sdk
 32,_POLY_COMMENT_CLOSE,0,close polymorph
