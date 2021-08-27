@@ -210,3 +210,4 @@ id,class,skillType,skillId,reqLevel,classAttr,skillLevel,skillAttr,remark
 209,DARKELF,AWAKE,191,60,NIGHT,2,NONE,致命一擊
 210,DARKELF,AWAKE,97,60,NIGHT,2,NONE,破壞盔甲
 211,ELF,AWAKE,192,40,EARTH,4,EARTH,大地屏障
+212,WIZARD,CLASS,67,36,NONE,3,NONE,变形术
