@@ -1,0 +1,97 @@
+id,key,value,desc
+1,ENABLE_CHAT_EMOJI_UI,1,0:(not display)  1:(display ui)
+2,ACTION_WAND_RANGE,20,range
+3,ACTION_SPELL_DIR_RANGE,20,range
+4,ACTION_SPELL_NO_DIR_RANGE,20,range
+5,ACTION_BLOW_RANGE,8,range
+6,ENABLE_INVITE_FEATURE,0,0:(disable)  1:(enable)
+7,MARKET_DEFAULT_INDEX,1,default index
+8,MARKET_SPELLBOOK_INDEX,1,default index
+9,_COMMON_LOTTERYPANEL_ANI_ROUND_TIME,"1,2,7,8",x
+10,GME_ENABLE_OPEN,1,0:(not display gme ui)  1:(display gme ui)
+11,INHERIT_ENCHANCE_LEVEL_F1,5000,for formula
+12,INHERIT_ENCHANCE_LEVEL_F2,5000,for formula
+13,INHERIT_ITEM_USE_LEVEL_F1,2200,for formula
+14,INHERIT_ITEM_USE_LEVEL_F2,1200,for formula
+15,INHERIT_BLESSED,"2,2200,2000,2,800",for formula
+16,INHERIT_NORMAL,"2,1500,1000,2,500",for formula
+17,INHERIT_LEVEL_MAX_DIFF,3,max diff  
+18,JACKPOT_SETTING,"5,10,600000,600000000",speed_min speed_max_time line
+19,ENABLE_NEW_ATTR_PANEL,1,0:(display old ui) 1:(display new ui)
+20,SKILLACTION,"18,19,30,31",object skill action
+21,IMITATE_GFX,"373,374,375,376,377,378,379,380,434,435",monster model gfx id
+22,DISABLE_ATTR_ENCHANT_KIND,0,disable bit value
+23,ATTR_ENCHANT_MAX_LEVEL,9,attr enchant max level limit
+24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,7,attr enchant min enchant level limit
+25,MAX_DIFF_LEVEL,15,monster change color level
+26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
+27,MAX_VIP_EMOJI_ID,100,id range in (32-100)
+28,VIP_COST_ITEM_GFX,"10341,14,2,30",vip cost item cfg
+29,VIP_BOOK_MARK,"10,1,7,8,10,10,0",bookmark cfg
+30,VIP_EXTRA_EQUIP_SLOTS,1,vip extra equip slots
+31,_COMMON_OPEN_NEW_FEED_BACK,0,1:server zendesk api 0:client sdk
+32,_POLY_COMMENT_CLOSE,0,close polymorph
+33,_POLY_COMMENT_DATA,"0,10338,21",poly dir index & decomposeItem gfx
+34,ENABLE_NEW_ENCHANT_PANEL,1,0:(disable)  1:(enable)
+35,ATTR_ENCHANT_MIN_EQUIP_LEVEL,0,attr enchant min equip level limit
+36,ATTR_ENCHANT_CRYSTAL_ITEM_IDS,"0",attr enchant crystal item ids
+37,SUBSCRIPTION_ENABLE_SERVER_IDS,"IOS_REVIEW_1,APPLE_REVIEW",subscription enable server ids
+38,DARK_ELF_ENABLE,1,0:(disable)  1:(enable)
+39,CLAN_SETTING,"30000,100,100,1800,10,1276,3",clan config
+40,LEADERBOARD_ENABLE,1,0:(disable)  1:(enable)
+41,LEADERBOARD_DEFAULT_INDEX,"1,2",default index
+42,SKILLLIST_ENABLE,1,0:(disable)  1:(enable)
+43,CLAN_HOUSE_AUCTION_ENABLE,1,0:(disable)  1:(enable)
+44,REDPACKET_ENABLE,0,0:(disable)  1:(enable)
+45,PVP_DISPLAY,"1,10,2;11,20,3;21,100,4","startRank,endRank,colorId;startRank1,endRank1,colorId1"
+46,VERIFY_IDENTITY_CODE,0, 0:(disable)  1:(enable) 
+47,ENABLE_MALL,0,0:(disable)  1:(enable) 
+48,CARD_INFO,"50,1,10",maxCardItemCount isDisplayCardBox maxMaterialCardCount 
+49,MALL_CURRENCY_ITEM_ID, 59999, item id of currency in mall
+50,REFERRAL_REWARD_ENABLE,0,0:(disable) 1:(enable)
+51,TEMP_SKILL_CONSUME_MP_RATE,75,temp skill consume mp rate
+52,SHOW_OATH_LEVEL,35,show oath panel player level
+53,GLORY_ENABLE,0,0:(disable) 1:(enable)
+54,SOUL_ENABLE,1,0:(disable) 1:(enable)
+55,PANTS_ENABLE,1,0:(disable) 1:(enable)
+56,MAX_DOLL_COUNT,150,max item count
+57,DOLL_FEED_ITEMS,"10913,30,40211;1,1,1,1,1,1","gfxId,frameId,itemId;itemCount0,..itemCount5"
+58,DOLL_BATTLE_ITEMS,"10337,15,40318;1,1,2,4,8,12","gfxId,frameId,itemId;itemCount0,..itemCount5"
+59,DOLL_DECOMPOSE_ITEMS,"10913,30,40211;5,5,20,80,320,1280","gfxId,frameId,itemId;itemCount0,..itemCount5"
+60,DOLL_RESET_TALENT_ITEMS,"10913,31,40212;3,3,3,3,3,3","gfxId,frameId,itemId;itemCount0,..itemCount5"
+61,DOLL_UPGRADE_TALENT_ITEMS,"0,0,0;1,1,2,3,4,5","gfxId,frameId,itemId;itemCount0,..itemCount5, 40424"
+62,WORLD_MAP_BACKGROUND_NAME,"world_map_3","world map background name"
+63,MEMBER_SHORTCUT_BLINK,"(null)","icon blink config"
+64,ITEM_EXPIRY_SHOW,86400,"show clock image time"
+65,MERCENARY_CFG,"10,20,30,40;100000,10,50,100","rate1..rate4;goldMin,tcMin,levelMin,countMax"
+66,MAP_LOC_ENABLE,1,0:(disable) 1:(enable)
+67,MAX_PROTECTED_ADV_LV,"13,10","max_protected_adv_lv_wpn,max_protected_adv_lv_amr"
+68,FAQ_RANSOM_LOOT,25,"ransom&loot rule faq id"
+69,COMMON_DATA_ROW_TIME_POINT_MAX,999999,"max time point"
+70,COMMON_DATA_ROW_TEON_COIN_MAX,9999,"max teon coin"
+71,POINTS_BASE_ATTR_MAX,35,"base attr max"
+72,REBORN_POINTS_BASE_ATTR_MAX,45,"reborn base attr max"
+73,DARK_ELF_UNLOCK,1,0:(lock) 1:(unlock)
+74,COMMON_DATA_ROW_STALL_MAX_ITEM_ROW_COUNT,0,"ROW_STALL_MAX_ITEM_ROW_COUNT"
+75,REBORN_POINTS_BASE_ATTR_MAX,"90,45;100,50","reborn base attr max"
+76,NEW_UDEF_SPEED_ENABLE,1,0:(disable) 1:(enable)
+77,LOADING_BG_FILE_NAME,"opening_16","loading panel background file name"
+78,SHOW_ATTR_ENERGY_ENABLE,1,0:(disable) 1:(enable)
+79,COMMON_DATA_ROW_FEATURE_INFO_OPEN,0,0:(disable) 1:(enable)
+80,COMMON_DATA_ROW_BUDDY_MAX,120,"buddy list max count"
+81,COMMON_DATA_ROW_BLACKLIST_MAX,20,"back list max count"
+82,NPC_LEVEL_DIFF_NAME_COLOR,0,0:(disable) 1:(enable)
+83,SLEEP_PAGE_ENABLED,1,0:(disable) 1:(enable)
+84,TITLE_ENABLED,1,0:(disable) 1:(enable)
+85,TIME_POINT_ENABLE,0,0:(disable) 1:(enable)
+86,REBIRTH_BONUS_STATUS,"4,8",rebirth bonus init point
+87,NEW_CLAN_ENABLED,0,0:(disable) 1:(enable)
+88,MAX_LOG_COUNT, 300, show max log count
+89,MAX_EXP_RATE, 50, max clan exp rate
+90,MAX_MODIFY_COUNT, 3, max modify exp rate conut
+91,REVERT_DEATH_EXP,0,0:(disable) 1:(enable) restart revert death exp
+92,COMMON_DATA_ROW_ATTR_EFFECT_MSG,870,"attr effect msg"
+93,COMMON_DATA_ROW_ATTR_RESET_MSG_FREE,871,"attr reset msg free(rule)"
+94,BATTLE_LOG_ENABLE,1,0:(disable) 1:(enable)
+95,DOLL_RESET_ITEMS,"10341,14,59999;0,0,0,0,0,120","gfxId,frameId,itemId;itemCount0,..itemCount5"
+96,AVATAR_FRAME_OPEN,0,0:(disable) 1:(enable)
