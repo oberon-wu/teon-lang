@@ -41,4 +41,4 @@ id,key,value,desc
 40,LEADERBOARD_ENABLE,1,0:(disable)  1:(enable)
 41,LEADERBOARD_DEFAULT_INDEX,"1,2",default index
 42,NEW_SKILLLIST_ENABLE,1,0:(disable)  1:(enable)
-43,CLAN_HOUSE_AUCTION_ENABLE,0,0:(disable)  1:(enable)
+43,CLAN_HOUSE_AUCTION_ENABLE,1,0:(disable)  1:(enable)
