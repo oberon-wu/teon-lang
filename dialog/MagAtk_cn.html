@@ -1,29 +1,62 @@
 <html>
 <body>
-<font fg=FFA500>1.学习魔法</font><br />
-<img src=#10337.16 /><br />
-不同职业可以学习的魔法和需求等级也不一样。具体可以点击<font fg=FFA500>人物头像</font>打开菜单列表，选择<font fg=FFA500>魔法</font>来查看你可以学习的魔法和等级需求。只要你找到你所需要的<font fg=FFA500>魔法书</font>或者<font fg=FFA500>精灵晶石</font>，达到描述中所注明的学习等级，再对它执行<font fg=FFA500>双击</font>或者<font fg=FFA500>使用</font>的操作，就可以学习该魔法。<br />
-<a link="LearnSpell">了解更多关于学习魔法的说明</a><br />
+在解释影响魔法伤害的各项因素之前，我需要先向你说明两个概念：<font fg=FFA500>随机伤害</font>与<font fg=FFA500>固定伤害</font>。<br />
 <br />
-<font fg=FFA500>2.治疗魔法</font><br />
-
+<font fg=FFA500>随机伤害</font>：顾名思义，即这一部分的伤害结算结果并不是固定的，而是一个<font fg=FFA500>随机的范围值</font>。<br />
 <br />
-<font fg=FFA500>3.攻击魔法</font><br />
-
+<font fg=FFA500>固定伤害</font>：即这个数值所增加的伤害值是固定的。例如<font fg=FFA500>魔法伤害</font>和<font fg=FFA500>额外魔法伤害</font>。<br />
 <br />
-<font fg=FFA500>4.增益魔法</font><br />
-
+<font fg=FFA500>系数</font>：即这个数值会以一定公式比例对伤害值进行影响。例如，增加1点魔攻并不代表最终造成的伤害增加了1点，而是会根据原本造成的伤害，按照一定的百分比增加伤害。一般而言，系数类数值会对伤害较大的魔法造成更加多影响。<br />
 <br />
-<font fg=FFA500>5.负面状态与减益魔法</font><br />
-
+接下来，我会讲解魔法伤害结算的流程。数字代表了结算的先后次序（注意：该结算结果只适用于一般的攻击魔法。特殊攻击魔法/技能，例如<font fg=FFA500>三重矢</font>、<font fg=FFA500>重击</font>、<font fg=FFA500>横扫千军</font>等特殊技能，不适用于以下计算方式）。<br />
 <br />
-<font fg=FFA500>6.魔耗减免</font><br />
-
+<font fg=FFA500>1.魔法基础伤害</font><br />
+每一种魔法都有一定的基础伤害。魔法的基础伤害属于一种<font fg=FFA500>随机伤害</font>。每个魔法有<font fg=FFA500>最大伤害值</font>（即随机范围内可能打出的最大值）和<font fg=FFA500>最小伤害值</font>（即随机范围内可能打出的最小值）。一般而言，等级越高的魔法，<font fg=FFA500>最小伤害值</font>越高，并且<font fg=FFA500>最小伤害值</font>和<font fg=FFA500>最大伤害值</font>的差距越大。<br />
 <br />
-<font fg=FFA500>7.誊写与使用魔法卷轴</font><br />
-
+<font fg=FFA500>2.魔伤</font><br />
+<font fg=FFA500>魔伤</font>会直接增加<font fg=FFA500>1.魔法基础伤害</font>的伤害。<font fg=FFA500>魔伤</font>在计算时属于<font fg=FFA500>固定伤害</font>，会直接按照显示数值增加<font fg=FFA500>1.魔法基础伤害</font>的<font fg=FFA500>最小伤害值</font>和<font fg=FFA500>最大伤害值</font>。假设一个魔法会造成15至20点伤害，增加1点<font fg=FFA500>魔伤</font>之后，该魔法会造成16至21点伤害。<br />
 <br />
-<a link="BattleInfo">返回</a><br />
+<font fg=FFA500>3.元素抗性</font><br />
+1点<font fg=FFA500>元素抗性</font>转化为0.01点<font fg=FFA500>元素防御系数</font>（会在<font fg=FFA500>4.魔攻</font>部分计算结果说明用途）。部分怪物会有<font fg=FFA500>弱属性</font>，即表示这种怪物对应的元素抗性为 -50（即 <font fg=FFA500>元素防御系数</font> = -0.5）。<br />
+<br />
+<font fg=FFA500>4.魔攻</font><br />
+<font fg=FFA500>魔攻</font>的取值为<font fg=FFA500>【 角色智力 - 12 + 装备/状态增加的魔攻值 】</font>。魔攻的<font fg=FFA500>最小取值</font>为1，即如果取值的计算结果小于1的时候，仍然会有1点魔攻。<br />
+有可能会出现这样的情况：<br />
+<font fg=FFA500>骑士</font>的初始智力为8，由此可得骑士的魔攻取值为【 8 - 12 = -4 】。因为<font fg=FFA500>最小取值</font>为1点，所以骑士魔攻会显示为1。此时需要增加至少<font fg=FFA500>5点魔攻</font>（通过加点、装备或者增益魔法），才能将魔攻提升到2点。<br />
+<font fg=FFA500>魔攻</font>是一个<font fg=FFA500>系数</font>，它按照下列公式影响<font fg=FFA500>1.魔法基础伤害</font>和<font fg=FFA500>2.魔伤</font>计算之后的结果： <font fg=FFA500>【 (魔法基础伤害 + 魔伤) x (1 + 魔攻 x 9.375%  - 目标的元素防御系数 ) 】 </font><br />
+<br />
+<font fg=FFA500>5.连续魔法伤害衰减机制</font><br />
+当同一个目标在两秒间隔之内连续受到同一招魔法（无论是否来自同一个施法者）的攻击超过两次，则目标受到的来自同一招魔法的伤害会大幅降低。如果每次受到同一招魔法的攻击间隔都不超过两秒，则伤害衰减的效果会叠加。该效果最多会叠加到衰减2/3的伤害。该衰减的效果只影响到结算魔攻和元素抗性之后的结果。<br />
+<br />
+<font fg=FFA500>6.魔法暴击</font><br />
+1至6级的攻击类<font fg=FFA500>普通魔法</font>会有10%的几率产生暴击。<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升暴击几率。当魔法暴击时，当前的魔法伤害提高至1.5倍。<br />
+<br />
+<font fg=FFA500>7.额外魔法伤害</font><br />
+<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升<font fg=FFA500>额外魔法伤害</font>。部分<font fg=FFA500>装备</font>或者<font fg=FFA500>道具</font>也能提高<font fg=FFA500>额外魔法伤害</font>。<font fg=FFA500>额外魔法伤害</font>不受<font fg=FFA500>4.魔攻</font><br />、<font fg=FFA500>5.连续魔法伤害衰减机制</font>以及<font fg=FFA500>6.魔法暴击</font>影响，属于<font fg=FFA500>固定伤害</font>。<br />
+<br />
+<font fg=FFA500>8.魔伤减免</font><br />
+目标的<font fg=FFA500>魔伤减免</font>数值会对当前已结算的魔法伤害扣除对应的伤害值。属于<font fg=FFA500>固定伤害</font>减免。值得注意的是，<font fg=FFA500>魔伤减免</font>结算在<font fg=FFA500>12.魔法防御</font>之前。<br />
+<br />
+<font fg=FFA500>9.结算圣结界</font><br />
+当目标身上存在圣洁界状态时，当前已结算的魔法伤害会下降至1/2。<br />
+<br />
+<font fg=FFA500>10.镜反射</font><br />
+如果目标身上有镜反射，则会对施法者造成当前已结算的魔法伤害。即所造成的伤害不会对双方的魔法防御进行结算，而且<font fg=FFA500>镜反射</font>所造成的伤害在于反射伤害的角色身上有没有<font fg=FFA500>圣结界</font>，而不是被反射的角色。<br />
+即：A对B施放攻击魔法，B身上有<font fg=FFA500>圣结界<font fg=FFA500>和<font fg=FFA500>镜反射</font>，那么A受到1/2的反射伤害；假如A对B施放魔法，A身上有<font fg=FFA500>圣结界<font fg=FFA500>，B身上有<font fg=FFA500>镜反射<font fg=FFA500>，此时A的<font fg=FFA500>圣结界<font fg=FFA500>并不会生效，而是全额受到来自B的反射伤害。<br />
+<br />
+<font fg=FFA500>11.魔法命中</font><br />
+<font fg=FFA500>魔法命中</font>也会对攻击魔法造成影响。<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升<font fg=FFA500>魔法命中</font>。具体<font fg=FFA500>魔法命中</font>计算方式会在<font fg=FFA500>12.魔法防御</font>计算时说明。<br />
+<br />
+<font fg=FFA500>12.魔法防御</font><br />
+<font fg=FFA500>魔法防御</font>是一个影响魔法伤害的<font fg=FFA500>系数</font>。它的阈值为100。<br />
+当目标的<font fg=FFA500>魔法防御</font>值小于100的时候：<font fg=FFA500>【 当前已结算的魔法伤害 x [ 1 - (目标魔法防御 - 施法者魔法命中) / 2 x 1% ] 】;<br />
+当目标的<font fg=FFA500>魔法防御</font>值大于等于100的时候：<font fg=FFA500>【 当前已结算的魔法伤害 x [ 0.6 - (目标魔法防御 - 施法者魔法命中) / 10 x 1% ] 】;<br />
+当对你施法的目标是怪物时，<font fg=FFA500>魔法防御</font>的结算方式则会改变：每1点<font fg=FFA500>魔法防御</font>代表你拥有<font fg=FFA500>1%的几率</font>令受到来自怪物的魔法伤害<font fg=FFA500>减半</font>。<br />
+<br />
+<font fg=FFA500>13.冻结和石化减免</font><br />
+如果目标处于<font fg=FFA500>冻结</font>或<font fg=FFA500>石化</font>状态，则受到的魔法伤害固定减少15点（最少受到0点伤害，不会为负数）。<br />
+<br />
+<a link="MagInfo">返回</a><br />
 <br /><br />
 </body>
 </html>
