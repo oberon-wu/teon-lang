@@ -4,7 +4,7 @@
 <br />
 <font fg=FFA500>随机伤害</font>：顾名思义，即这一部分的伤害结算结果并不是固定的，而是一个<font fg=FFA500>随机的范围值</font>。<br />
 <br />
-<font fg=FFA500>固定伤害</font>：即这个数值所增加的伤害值是固定的。例如<font fg=FFA500>魔法伤害</font>和<font fg=FFA500>额外魔法伤害</font>。<br />
+<font fg=FFA500>固定伤害</font>：即这个数值所增加的伤害值是固定的。例如<font fg=FFA500>魔伤</font>和<font fg=FFA500>额外魔伤</font>。<br />
 <br />
 <font fg=FFA500>系数</font>：即这个数值会以一定公式比例对伤害值进行影响。例如，增加1点魔攻并不代表最终造成的伤害增加了1点，而是会根据原本造成的伤害，按照一定的百分比增加伤害。一般而言，系数类数值会对伤害较大的魔法造成更加多影响。<br />
 <br />
@@ -20,7 +20,7 @@
 1点<font fg=FFA500>元素抗性</font>转化为0.01点<font fg=FFA500>元素防御系数</font>（会在<font fg=FFA500>4.魔攻</font>部分计算结果说明用途）。部分怪物会有<font fg=FFA500>弱属性</font>，即表示这种怪物对应的元素抗性为 -50（即 <font fg=FFA500>元素防御系数</font> = -0.5）。<br />
 <br />
 <font fg=FFA500>4.魔攻</font><br />
-<font fg=FFA500>魔攻</font>的取值为<font fg=FFA500>【 角色智力 - 12 + 装备/状态增加的魔攻值 】</font>。魔攻的<font fg=FFA500>最小取值</font>为1，即如果取值的计算结果小于1的时候，仍然会有1点魔攻。<br />
+<font fg=FFA500>魔攻</font>取值为<font fg=FFA500>【 角色智力 - 12 + 装备/状态增加的魔攻值 】</font>。魔攻的<font fg=FFA500>最小取值</font>为1，即如果取值的计算结果小于1的时候，仍然会有1点魔攻。<br />
 有可能会出现这样的情况：<br />
 <font fg=FFA500>骑士</font>的初始智力为8，由此可得骑士的魔攻取值为【 8 - 12 = -4 】。因为<font fg=FFA500>最小取值</font>为1点，所以骑士魔攻会显示为1。此时需要增加至少<font fg=FFA500>5点魔攻</font>（通过加点、装备或者增益魔法），才能将魔攻提升到2点。<br />
 <font fg=FFA500>魔攻</font>是一个<font fg=FFA500>系数</font>，它按照下列公式影响<font fg=FFA500>1.魔法基础伤害</font>和<font fg=FFA500>2.魔伤</font>计算之后的结果： <font fg=FFA500>【 (魔法基础伤害 + 魔伤) x (1 + 魔攻 x 9.375%  - 目标的元素防御系数 ) 】 </font><br />
@@ -31,8 +31,8 @@
 <font fg=FFA500>6.魔法暴击</font><br />
 1至6级的攻击类<font fg=FFA500>普通魔法</font>会有10%的几率产生暴击。<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升暴击几率。当魔法暴击时，当前的魔法伤害提高至1.5倍。<br />
 <br />
-<font fg=FFA500>7.额外魔法伤害</font><br />
-<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升<font fg=FFA500>额外魔法伤害</font>。部分<font fg=FFA500>装备</font>或者<font fg=FFA500>道具</font>也能提高<font fg=FFA500>额外魔法伤害</font>。<font fg=FFA500>额外魔法伤害</font>不受<font fg=FFA500>4.魔攻</font><br />、<font fg=FFA500>5.连续魔法伤害衰减机制</font>以及<font fg=FFA500>6.魔法暴击</font>影响，属于<font fg=FFA500>固定伤害</font>。<br />
+<font fg=FFA500>7.额外魔伤</font><br />
+<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升<font fg=FFA500>额外魔伤</font>。部分<font fg=FFA500>装备</font>或者<font fg=FFA500>道具</font>也能提高<font fg=FFA500>额外魔伤</font>。<font fg=FFA500>额外魔伤</font>不受<font fg=FFA500>4.魔攻</font><br />、<font fg=FFA500>5.连续魔法伤害衰减机制</font>以及<font fg=FFA500>6.魔法暴击</font>影响，属于<font fg=FFA500>固定伤害</font>。<br />
 <br />
 <font fg=FFA500>8.魔伤减免</font><br />
 目标的<font fg=FFA500>魔伤减免</font>数值会对当前已结算的魔法伤害扣除对应的伤害值。属于<font fg=FFA500>固定伤害</font>减免。值得注意的是，<font fg=FFA500>魔伤减免</font>结算在<font fg=FFA500>12.魔法防御</font>之前。<br />
@@ -45,7 +45,7 @@
 即：A对B施放攻击魔法，B身上有<font fg=FFA500>圣结界<font fg=FFA500>和<font fg=FFA500>镜反射</font>，那么A受到1/2的反射伤害；假如A对B施放魔法，A身上有<font fg=FFA500>圣结界<font fg=FFA500>，B身上有<font fg=FFA500>镜反射<font fg=FFA500>，此时A的<font fg=FFA500>圣结界<font fg=FFA500>并不会生效，而是全额受到来自B的反射伤害。<br />
 <br />
 <font fg=FFA500>11.魔法命中</font><br />
-<font fg=FFA500>魔法命中</font>也会对攻击魔法造成影响。<font fg=FFA500>法师</font>和<font fg=FFA500>精灵</font>可通过配置<font fg=FFA500>初始智力</font>提升<font fg=FFA500>魔法命中</font>。具体<font fg=FFA500>魔法命中</font>计算方式会在<font fg=FFA500>12.魔法防御</font>计算时说明。<br />
+<font fg=FFA500>魔法命中</font>也会对攻击魔法造成影响。各职业均可通过配置<font fg=FFA500>初始智力</font>提升<font fg=FFA500>魔法命中</font>（规则请咨询<font fg=FFA500>属性点导师</font>）。具体<font fg=FFA500>魔法命中</font>计算方式会在<font fg=FFA500>12.魔法防御</font>计算时说明。<br />
 <br />
 <font fg=FFA500>12.魔法防御</font><br />
 <font fg=FFA500>魔法防御</font>是一个影响魔法伤害的<font fg=FFA500>系数</font>。它的阈值为100。<br />
