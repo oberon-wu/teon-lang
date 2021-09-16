@@ -98,3 +98,4 @@ id,key,value,desc
 97,ENABLE_DIRECT_PARTY_BUDDY,1,0:(disable) 1:(enable)
 98,MULTIPLE_SHORTCUT_COUNT,9,max shortcut count
 99,NEW_RESIST_LAYOUT,1,0:(disable) 1:(enable)
+100,ATTR_PANEL_MODE,0,"0 for now cn,tw,intl,1 for cn3"
