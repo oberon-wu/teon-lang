@@ -10,32 +10,44 @@
 <font fg=FFA500>2.智力命中类型结算方式</font><br />
 <font fg=FFA500>普通魔法</font>和<font fg=FFA500>法师职业魔法</font>中，除了特殊情况以外（例如<font fg=FFA500>魔法相消术</font>在开启PK模式下可100%消除队友的状态），都以<font fg=FFA500>智力命中类型结算方式</font>判定命中概率。<br />
 首先，<font fg=FFA500>智力</font>会按照一定比例，以<font fg=FFA500>强度系数</font>形式影响命中概率，即根据每个技能自身的基础命中强度，受到来自<font fg=FFA500>智力</font>的影响都不一样。<br />
-<a link="ProbInfo2">查看智力转化强度系数列表（进阶）</a><br />
-<br />
+<a link="ProbInfo2">查看智力转化强度系数列表（数值）</a><br />
+其次，玩家<font fg=FFA500>职业</font>和<font fg=FFA500>等级</font>也会额外增加<font fg=FFA500>强度系数</font>。<br />
+<a link="ProbInfo3">查看玩家职业增加强度系数列表（数值）</a><br />
+再者，施法者每增加1点<font fg=FFA500>魔法命中</font>，最终命中几率+2%；目标方每增加1点<font fg=FFA500>魔法防御</font>，最终命中几率-1%。<br />
+最后，假如该魔法能被异常状态抵抗（例如冻结或麻痹），则目标方的每1点<font fg=FFA500>对应的异常状态抗性</font>降低1%命中几率。<br />
 <br />
 <font fg=FFA500>3.其他概率结算方式</font><br />
+其它概率结算方式，例如<font fg=FFA500>冲击之晕</font>是固定概率，不受<font fg=FFA500>智力</font>和<font fg=FFA500>强度系数</font>影响，但是仍然会受到<font fg=FFA500>魔法命中</font>和<font fg=FFA500>对应的异常状态抗性</font>影响。具体可以查看魔法描述中的说明。<br />
 <br />
+<font fg=FFA500>4.中毒效果</font><br />
+毒效果为固定每3秒造成5点中毒伤害。圣结界不会减免中毒伤害。中毒效果可以被<font fg=FFA500>解毒药水</font>、<font fg=FFA500>世界树的树枝</font>、<font fg=FFA500>解毒术</font>、<font fg=FFA500>圣洁之光</font>和<font fg=FFA500>魔法相消术</font>解除。中毒之后如果被<font fg=FFA500>石化</font>，也会解除中毒效果。<br />
 <br />
-<font fg=FFA500>4.毒效果</font><br />
+<font fg=FFA500>5.血毒效果</font><br />
+血毒效果为固定每3秒造成5点中毒伤害。圣结界不会减免血毒伤害。血毒效果只能被<font fg=FFA500>圣洁之光</font>和<font fg=FFA500>魔法相消术</font>解除。<br />
 <br />
-<br />
-<font fg=FFA500>5.麻痹效果</font><br />
-<br />
+<font fg=FFA500>6.麻痹效果</font><br />
+麻痹状态会在一段时间之后才会生效。处于麻痹状态的角色不能移动、攻击、使用道具或施放魔法。在麻痹状态生效前，可以使用<font fg=FFA500>解毒药水</font>、<font fg=FFA500>世界树的树枝</font>、<font fg=FFA500>圣洁之光</font>和<font fg=FFA500>魔法相消术</font>解除。麻痹生效之后，其他角色可以通过对被麻痹的目标使用<font fg=FFA500>圣洁之光</font>和<font fg=FFA500>魔法相消术</font>解除。麻痹中或者麻痹时，如果被<font fg=FFA500>石化</font>，也会解除麻痹效果。<br />
 <br />
 <font fg=FFA500>6.致盲效果</font><br />
-<br />
+被致盲的角色视野会变成漆黑一片。虽然还能够选取攻击目标，但是物理命中率会下降。致盲能够<font fg=FFA500>魔眼之肉</font>和<font fg=FFA500>魔法相消术</font>解除。<br />
 <br />
 <font fg=FFA500>7.眩晕效果</font><br />
-<br />
+处于眩晕状态的角色不能移动、攻击、使用道具或施放魔法。眩晕效果只能被<font fg=FFA500>魔法相消术</font>解除。<br />
 <br />
 <font fg=FFA500>8.冻结效果</font><br />
-<br />
+处于冻结状态的角色不能移动、攻击、使用道具或施放魔法。冻结寒气可扑灭身上的点燃效果，物理和魔法伤害均会被寒气阻挡15点。冻结效果解除前，不会再被其它负面魔法命中（包括冻结）。处于冻结状态时，会100%被<font fg=FFA500>魔法相消术</font>消除所有魔法状态（包括冻结状态）。<br />
 <br />
 <font fg=FFA500>9.石化效果</font><br />
-<br />
+石化状态下，解除中毒、麻痹和点燃等状态，同时免疫除<font fg=FFA500>坏物术</font>以外的所有负面状态，且受到的物理和魔法伤害减少。处于石化状态时，会100%被<font fg=FFA500>魔法相消术</font>消除所有魔法状态（包括石化状态）。<br />
 <br />
 <font fg=FFA500>10.缓速效果</font><br />
+缓速效果会分别影响两种速度：<font fg=FFA500>攻击速度</font>和<font fg=FFA500>移动速度</font>。其中<font fg=FFA500>攻击速度</font>包括了<font fg=FFA500>物理攻击速度</font>和<font fg=FFA500>施法动作速度</font>。<font fg=FFA500>缓速术</font>会同时影响<font fg=FFA500>攻击速度</font>和<font fg=FFA500>移动速度</font>；其它魔法会分别影响<font fg=FFA500>攻击速度</font>或<font fg=FFA500>移动速度</font>。对速度的具体影响可以去<a link="SpeedInfo">了解攻速和移速</a>。<br />
 <br />
+<font fg=FFA500>11.霜化效果</font><br />
+受霜化术影响的角色不能使用任何<font fg=FFA500>药水</font>类道具。霜化效果只能被<font fg=FFA500>魔法相消术</font>解除。<br />
+<br />
+<font fg=FFA500>12.其它异常状态效果</font><br />
+其它特殊的异常状态效果可以参考魔法列表中的描述。<br />
 <br />
 <a link="MagInfo">返回</a><br />
 <br /><br />
