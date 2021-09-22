@@ -213,3 +213,4 @@ id,class,skillType,skillId,reqLevel,classAttr,skillLevel,skillAttr,remark
 212,WIZARD,CLASS,67,36,NONE,3,NONE,变形术
 213,WIZARD,CLASS,64,32,NONE,2,NONE,魔法封印
 214,ROYAL,CLASS,120,28,NONE,2,NONE,幻象术
+215,WIZARD,CLASS,63,32,NONE,2,NONE,治愈风暴
