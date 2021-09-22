@@ -8,28 +8,35 @@
 <br />
 <font fg=FFA500>2.对战状态（紫名）</font><br />
 如果你的<font fg=FFA500>正义值</font>≥0，当你执行还有下列操作时，会让你的角色进入<font fg=FFA500>对战状态</font>，你的角色名字颜色会变为<font fg=FFA500>紫色</font>：<br />
-	对一个<font fg=FFA500>正义值</font>≥0的玩家角色发起<font fg=FFA500>攻击</font>或者施放<font fg=FFA500>负面状态魔法</font>；<br />
-    对一个处于<font fg=FFA500>对战状态</font>的角色发起<font fg=FFA500>攻击</font>或者施放<font fg=FFA500>负面状态魔法</font>；<br />
-    对一个处于<font fg=FFA500>对战状态</font>的角色进行<font fg=FFA500>治疗</font>或者施放<font fg=FFA500>增益魔法</font>；<br />
-    对一个非<font fg=FFA500>红名</font>角色的<font fg=FFA500>随从</font>发起<font fg=FFA500>攻击</font>或者施放<font fg=FFA500>负面状态魔法</font>；<br />
-    对对一个处于<font fg=FFA500>对战状态</font>的<font fg=FFA500>随从</font>进行<font fg=FFA500>治疗</font>或者施放<font fg=FFA500>增益魔法</font>；<br />
-    攻击警卫。<br />
-<font fg=FFA500>对战状态</font>会持续180秒：<br />
-    处于<font fg=FFA500>对战状态</font>的角色，如果再次执行会转变为<font fg=FFA500>对战状态</font>的行为，则重新计算持续时间（换句话说，就是按照最后一下攻击之后的180秒内，角色仍然会是紫名）。<br />
-    处于<font fg=FFA500>对战状态</font>的角色如果死亡，则会立即结束<font fg=FFA500>对战状态</font>。<br />
-    处于<font fg=FFA500>对战状态</font>的角色如果发生<font fg=FFA500>正义值</font>变化，导师正义值小于0的，则会立即<font fg=FFA500>取消对战状态</font>，并且成为<font fg=FFA500>红名</font>。<br />
-    注意：即使不处于<font fg=FFA500>对战状态</font>，假如<font fg=FFA500>正义值</font>因为变化而下降至0以下，也会直接成为<font fg=FFA500>红名</font>。<br />
 <br />
-<font fg=FFA500>3.红名机制</font><br />
-当发生下列情况时，角色会被<font fg=FFA500>红名机制</font>惩罚：<br />
-    在<font fg=FFA500>非战斗区</font>击杀一名不处于<font fg=FFA500>对战状态</font>的角色；<br />
-    角色所控制的随从，在<font fg=FFA500>非战斗区</font>击杀一名不处于<font fg=FFA500>对战状态</font>的角色；<br /><br />
-    在<font fg=FFA500>非战斗区</font>的定义为击杀方和被击杀方<font fg=FFA500>任意一方</font>处于<font fg=FFA500>非战斗区</font>。<br />
-如果会受到<font fg=FFA500>红名惩罚</font>。<font fg=FFA500>红名机制</font>惩罚包括：<br />
-    扣除正义值；<br />
-    增加PK值；<br />
+对一个<font fg=FFA500>正义值</font>≥0的玩家角色（无论对方是否处于<font fg=FFA500>对战状态</font>）发起<font fg=FFA500>攻击</font>或者施放<font fg=FFA500>负面状态魔法</font>；<br />
+对一个处于<font fg=FFA500>对战状态</font>的角色进行<font fg=FFA500>治疗</font>或者施放<font fg=FFA500>增益魔法</font>；<br />
+对一个非<font fg=FFA500>红名</font>角色的<font fg=FFA500>随从</font>（无论该随从是否处于<font fg=FFA500>对战状态</font>）发起<font fg=FFA500>攻击</font>或者施放<font fg=FFA500>负面状态魔法</font>；<br />
+对一个处于<font fg=FFA500>对战状态</font>的<font fg=FFA500>随从</font>进行<font fg=FFA500>治疗</font>或者施放<font fg=FFA500>增益魔法</font>；<br />
 <br />
-<font fg=FFA500>4.随从对战规则</font><br />
+<font fg=FFA500>3.对战状态时长</font><br />
+<font fg=FFA500>对战状态</font>持续180秒；<br />
+处于<font fg=FFA500>对战状态</font>的角色，如果再次执行会转变为<font fg=FFA500>对战状态</font>的行为，则重新计算持续时间（换句话说，就是按照最后一下攻击之后的180秒内，角色仍然会是紫名）。<br />
+处于<font fg=FFA500>对战状态</font>的角色如果死亡，则会立即结束<font fg=FFA500>对战状态</font>。<br />
+处于<font fg=FFA500>对战状态</font>的角色如果发生<font fg=FFA500>正义值</font>变化，导师正义值小于0的，则会立即<font fg=FFA500>取消对战状态</font>，并且成为<font fg=FFA500>红名</font>。<br />
+<br />
+注意：即使不处于<font fg=FFA500>对战状态</font>，假如<font fg=FFA500>正义值</font>因为变化而下降至0以下，也会直接成为<font fg=FFA500>红名</font>。<br />
+<br />
+<font fg=FFA500>4.红名惩罚</font><br />
+当发生下列情况时，角色会受到<font fg=FFA500>红名惩罚</font>：<br />
+<br />
+在<font fg=FFA500>非战斗区</font>击杀一名不处于<font fg=FFA500>对战状态</font>的角色；<br />
+角色所控制的随从，在<font fg=FFA500>非战斗区</font>击杀一名不处于<font fg=FFA500>对战状态</font>的角色；<br />
+注意：在<font fg=FFA500>非战斗区</font>的定义为击杀方和被击杀方<font fg=FFA500>任意一方</font>处于<font fg=FFA500>非战斗区</font>。<br />
+<br />
+<font fg=FFA500>红名惩罚</font>具体如下：<br />
+一、扣除正义值；<br />
+二、增加PK值；<br />
+三、担当PK值达到20时，角色会被传送至<font fg=FFA500>地狱</font>；<br />
+四、限制商店、仓库等功能使用；<br />
+<a link="PvPInfo2">进一步了解红名惩罚（进阶）</a><br />
+<br />
+<font fg=FFA500>5.随从对战规则</font><br />
 随从对战的详细规则，请去咨询<font fg=FFA500>随从导师</font>。<br />
 <br />
 <a link="BattleInfo">返回</a><br />
