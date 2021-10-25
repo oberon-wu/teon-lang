@@ -27,7 +27,7 @@ id,key,value,desc
 26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
 27,MAX_VIP_EMOJI_ID,100,id range in (32-100)
 28,VIP_COST_ITEM_GFX,"10341,14,2,30",vip cost item cfg
-29,VIP_BOOK_MARK,"9,1,2,3,9,10,99",bookmark cfg
+29,VIP_BOOK_MARK,"9,1,2,3,9,10,0",bookmark cfg
 30,VIP_EXTRA_EQUIP_SLOTS,1,vip extra equip slots
 31,_COMMON_OPEN_NEW_FEED_BACK,1,1:server zendesk api 0:client sdk
 32,_POLY_COMMENT_CLOSE,0,close polymorph
@@ -98,7 +98,7 @@ id,key,value,desc
 97,ENABLE_DIRECT_PARTY_BUDDY,1,0:(disable) 1:(enable)
 98,MULTIPLE_SHORTCUT_COUNT,9,max shortcut count
 99,NEW_RESIST_LAYOUT,1,0:(disable) 1:(enable)
-100,ATTR_PANEL_MODE,0,"0 for now cn,tw,intl,1 for cn3"
+100,ATTR_PANEL_MODE,1,"0 for now cn,tw,intl,1 for cn3"
 101,ENABLE_SWITCH_TIME,0,0:(disable) 1:(enable)
 102,FREE_MEMORY_THRESHOLD,30,"mb size of free memory threshold"
 103,ACTOR_DEFAULT_GFX_ID,"181,57,0","default gfx id to replace actor gfx in low memory stat"
