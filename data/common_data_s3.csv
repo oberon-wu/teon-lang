@@ -107,3 +107,4 @@ id,key,value,desc
 106,PKMODE_WARNING,1,0:(disable) 1:(enable)
 107,LAWFUL,"-1,0,1000","chaoticLaful,lawful,offsetLawful"
 108,ENABLE_SHOW_CHAR_ID,1,0:(disable) 1:(enable)
+109,DISPLAY_DROP_EXP,1,0:(disable) 1:(enable)
