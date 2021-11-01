@@ -5,6 +5,7 @@ id,langId,btnName,btnHighlightName,actionId
 3,1631,ui_poly_m,ui_poly_m_hl,3
 4,59,ui_skill,ui_skill_hl,4
 5,60,ui_quest,ui_quest_hl,5
-6,62,ui_social,ui_social_hl,6
-7,64,ui_clan,ui_clan_hl,7
-8,63,ui_setting,ui_setting_hl,8
+6,2889,ui_guide,ui_guide_hl,9
+7,62,ui_social,ui_social_hl,6
+8,64,ui_clan,ui_clan_hl,7
+9,63,ui_setting,ui_setting_hl,8
