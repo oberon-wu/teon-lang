@@ -104,7 +104,7 @@ id,key,value,desc
 103,ACTOR_DEFAULT_GFX_ID,"181,57,0","default gfx id to replace actor gfx in low memory stat"
 104,IGNORE_GFX_IDS,"224,225,226,227,228,229,230,5349,5350,5523,5524,5525,5620,5621","ignore gfx ids in low memory stat"
 105,COMMON_DATA_ROW_ENABLE_CLAN_TALENT,0,0:(disable) 1:(enable)
-106,PKMODE_WARNING,1,0:(disable) 1:(enable)
+106,PKMODE_WARNING,0,0:(disable) 1:(enable)
 107,LAWFUL,"-1,0,1000","chaoticLaful,lawful,offsetLawful"
 108,ENABLE_SHOW_CHAR_ID,1,0:(disable) 1:(enable)
 109,DISPLAY_DROP_EXP,1,0:(disable) 1:(enable)
