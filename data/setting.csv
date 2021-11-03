@@ -1,5 +1,5 @@
 id,key,value,desc
-1,EULA_VERSION,2,"terms version,upgrade version will show terms again"
+1,EULA_VERSION,3,"terms version,upgrade version will show terms again"
 2,ENABLE_DOCUMENT_CHECK,0,"check document"
 3,LOGIN_BROWSER_URL,(null),"login bg click url"
 4,LOGIN_BACKGROUND_TW,"login_bg_7,login_bg_2,login_bg_3","login bg(tw)"
