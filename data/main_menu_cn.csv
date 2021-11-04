@@ -1,0 +1,11 @@
+id,langId,btnName,btnHighlightName,actionId
+0,57,ui_character,ui_character_hl,0
+1,58,ui_bag,ui_bag_hl,2
+2,2565,ui_doll,ui_doll_hl,1
+2,1631,ui_poly_m,ui_poly_m_hl,3
+3,59,ui_skill,ui_skill_hl,4
+4,60,ui_quest,ui_quest_hl,5
+5,2889,ui_guide,ui_guide_hl,9
+6,62,ui_social,ui_social_hl,6
+7,64,ui_clan,ui_clan_hl,7
+8,63,ui_setting,ui_setting_hl,8
