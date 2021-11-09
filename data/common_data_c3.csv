@@ -110,3 +110,4 @@ id,key,value,desc
 109,DISPLAY_DROP_EXP,1,0:(disable) 1:(enable)
 110,COMMON_DATA_STALL_ENABLED,1,"0:(disable) 1:(enable)"
 111,COMMON_DATA_MAX_CLAN_NAME_LENGHT,24,max clan name lenght
+112,COMMON_DATA_ROW_SHOW_ONLINE_REWARD_SHORTCUT_ENABLE,0,enable show online reward short cut
