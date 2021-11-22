@@ -56,7 +56,7 @@ id,key,value,desc
 55,PANTS_ENABLE,1,0:(disable) 1:(enable)
 56,MAX_DOLL_COUNT,150,max item count
 57,DOLL_FEED_ITEMS,"10913,30,40211;1,1,1,1,1,1","gfxId,frameId,itemId;itemCount0,..itemCount5"
-58,DOLL_BATTLE_ITEMS,"10337,15,40318;1,0,0,0,0,0","gfxId,frameId,itemId;itemCount0,..itemCount5"
+58,DOLL_BATTLE_ITEMS,"10337,15,40318;1,1,2,4,8,12","gfxId,frameId,itemId;itemCount0,..itemCount5"
 59,DOLL_DECOMPOSE_ITEMS,"10913,30,40211;5,5,20,80,320,1280","gfxId,frameId,itemId;itemCount0,..itemCount5"
 60,DOLL_RESET_TALENT_ITEMS,"10913,31,40212;3,3,3,3,3,3","gfxId,frameId,itemId;itemCount0,..itemCount5"
 61,DOLL_UPGRADE_TALENT_ITEMS,"0,0,0;1,1,2,3,4,5","gfxId,frameId,itemId;itemCount0,..itemCount5, 40424"
