@@ -112,3 +112,4 @@ id,key,value,desc
 111,COMMON_DATA_MAX_CLAN_NAME_LENGHT,24,max clan name lenght
 112,COMMON_DATA_ROW_SHOW_ONLINE_REWARD_SHORTCUT_ENABLE,0,enable show online reward short cut
 113,COMMON_DATA_FEEDBACK_LANG_ID,"555,557,558","langid,langid2,langid3,..."
+114,COMMON_DATA_MALL_ENABLE_MIX_TIMEPOIN_COINS,1,"0:(disable) 1:(enable)"
