@@ -116,3 +116,8 @@ id,key,value,desc
 115,COMMON_DATA_POLY_GFX_ID,5286,"polymorph gfx id"
 116,COMMON_DATA_REFERRAL_ACCOUNT_SHORTCUT,0,0:(disable) 1:(enable)
 117,COMMON_DATA_POLY_BUFF_GFX_IDS,"5286,5539","polymorph buff gfx ids"
+118,ADV_ENCHANT_ENABLE_TAB,0,enable bit value
+119,ADV_ENCHANT_ENABLE_KIND,0, enable bit value
+120,ADV_ENCHANT_MAX_LEVEL,0,adv enchant max level limit
+121,ADV_ENCHANT_MIN_ENCHANT_LEVEL,0,adv enchant min enchant level limit
+122,ADV_ENCHANT_CRYSTAL_ITEM_IDS,"0",adv enchant crystal item ids
