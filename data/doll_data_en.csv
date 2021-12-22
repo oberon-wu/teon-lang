@@ -12,7 +12,7 @@ id,dollId,name,level,gfxId,hpMax,hpr,hpc,attrDesc
 11,204,Feury,2,383,1800,2,1,"Melee Dmg +2, Melee Hit +2"
 12,205,Windy,2,387,1800,2,1,"Ranged Dmg +2, Ranged Hit +2"
 13,206,Thory,2,389,1800,2,1,"Magic Dmg +1, MP Regen +2"
-14,207,Sorceress(Special),1,441,1800,2,1,"Exp +20%, HP Regen +1"
+14,207,Sorceress(Special),2,441,1800,2,1,"Exp +20%, HP Regen +1"
 15,301,Reaper,3,457,1800,2,1,"Max HP +200, Para. Resist +10"
 16,302,Snow Queen,3,464,1800,2,1,"Max MP +50, Poison Resist +10"
 17,303,Cyclops,3,455,1800,2,1,"AC -4, Stun Resist +10"
