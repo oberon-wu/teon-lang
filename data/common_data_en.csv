@@ -63,7 +63,7 @@ id,key,value,desc
 62,WORLD_MAP_BACKGROUND_NAME,"world_map_2","world map background name"
 63,MEMBER_SHORTCUT_BLINK,"20,50","icon blink config"
 64,ITEM_EXPIRY_SHOW,86400,"show clock image time"
-65,MERCENARY_CFG,"10,20,30,40;50000,0,50,100","rate1..rate4;goldMin,tcMin,levelMin,countMax"
+65,MERCENARY_CFG,"0,10,20,30;50000,0,50,100","rate1..rate4;goldMin,tcMin,levelMin,countMax"
 66,MAP_LOC_ENABLE,1,0:(disable) 1:(enable)
 67,MAX_PROTECTED_ADV_LV,"13,10","max_protected_adv_lv_wpn,max_protected_adv_lv_amr"
 68,FAQ_RANSOM_LOOT,26,"ransom&loot rule faq id"
