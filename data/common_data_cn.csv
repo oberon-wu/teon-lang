@@ -124,3 +124,4 @@ id,key,value,desc
 123,COMMON_DATA_AUCTION_HOUSE_USE_ETCITEM,"1","0:(disable) 1:(enable)"
 124,COMMON_DATA_ROW_EXTRA_DAMAGE_CHANGE_ENABLED,"0","0:(disable) 1:(enable)" 
 125,COMMON_DATA_ROW_MONSTER_GUIDE_DETAIL_HIDE_INDEX,"8","monster guide detail index"
+126,COMMON_DATA_ROW_POLY_PAGE_ENABLED,1,0:(disable) 1:(enable)
