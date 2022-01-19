@@ -214,3 +214,4 @@ id,class,skillType,skillId,reqLevel,classAttr,skillLevel,skillAttr,remark
 214,ROYAL,CLASS,120,28,NONE,2,NONE,幻象术
 215,WIZARD,CLASS,63,32,NONE,2,NONE,治愈风暴
 216,ROYAL,CLASS,196,45,NONE,3,NONE,神圣牺牲
+217,WIZARD,CLASS,57,32,NONE,2,WATER,全部治愈术
