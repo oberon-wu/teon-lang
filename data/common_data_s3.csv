@@ -125,3 +125,4 @@ id,key,value,desc
 124,COMMON_DATA_ROW_EXTRA_DAMAGE_CHANGE_ENABLED,"1","0:(disable) 1:(enable)" 
 125,COMMON_DATA_ROW_MONSTER_GUIDE_DETAIL_HIDE_INDEX,"(null)","monster guide detail index"
 126,COMMON_DATA_ROW_POLY_PAGE_ENABLED,0,0:(disable) 1:(enable)
+127,COMMON_DATA_ROW_ELEMENTAL_DAMAGE_ENABLED,1,0:(disable) 1:(enable)
