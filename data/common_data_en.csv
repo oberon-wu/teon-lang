@@ -126,3 +126,6 @@ id,key,value,desc
 125,COMMON_DATA_ROW_MONSTER_GUIDE_DETAIL_HIDE_INDEX,"8","monster guide detail index"
 126,COMMON_DATA_ROW_POLY_PAGE_ENABLED,0,0:(disable) 1:(enable)
 127,COMMON_DATA_ROW_ELEMENTAL_DAMAGE_ENABLED,0,0:(disable) 1:(enable)
+128,ADV_ENCHANT_EXTRACT_ITEM_IDS,"0",adv enchant extract item ids
+129,ADV_ENCHANT_BLEND_ITEM_IDS,"0",adv enchant blend item ids
+130,ADV_ENCHANT_TRANSFORM_ITEM_IDS,"0",adv enchant transform item ids
