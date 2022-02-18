@@ -1,5 +1,5 @@
 id,maxLv,startRange,endRange,colorHex
-1,99,-99,-15,"00f700"
-2,99,-14,0,"ffffff"
-3,99,1,9,"ef9cef"
+1,99,-99,-31,"00f700"
+2,99,-30,-6,"ffffff"
+3,99,-5,9,"ef9cef"
 4,99,10,99,"f70000"
