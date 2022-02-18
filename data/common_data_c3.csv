@@ -53,7 +53,7 @@ id,key,value,desc
 52,SHOW_OATH_LEVEL,35,show oath panel player level
 53,GLORY_ENABLE,0,0:(disable) 1:(enable)
 54,SOUL_ENABLE,0,0:(disable) 1:(enable)
-55,PANTS_ENABLE,0,0:(disable) 1:(enable)
+55,PANTS_ENABLE,1,0:(disable) 1:(enable)
 56,MAX_DOLL_COUNT,150,max item count
 57,DOLL_FEED_ITEMS,"10341,10,68101;1,1,2,4,8,10","gfxId,frameId,itemId;itemCount0,..itemCount5"
 58,DOLL_BATTLE_ITEMS,"10337,15,40318;1,1,2,4,8,10","gfxId,frameId,itemId;itemCount0,..itemCount5"
