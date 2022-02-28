@@ -20,8 +20,8 @@ id,key,value,desc
 19,ENABLE_NEW_ATTR_PANEL,1,0:(display old ui) 1:(display new ui)
 20,SKILLACTION,"18,19,30,31",object skill action
 21,IMITATE_GFX,"373,374,375,376,377,378,379,380,434,435",monster model gfx id
-22,DISABLE_ATTR_ENCHANT_KIND,2,disable bit value
-23,ATTR_ENCHANT_MAX_LEVEL,2,attr enchant max level limit
+22,DISABLE_ATTR_ENCHANT_KIND,0,disable bit value
+23,ATTR_ENCHANT_MAX_LEVEL,5,attr enchant max level limit
 24,ATTR_ENCHANT_MIN_ENCHANT_LEVEL,6,attr enchant min enchant level limit
 25,MAX_DIFF_LEVEL,15,monster change color level
 26,MAX_PAID_EMOJI_ID,31,id range in (1-31)
@@ -53,7 +53,7 @@ id,key,value,desc
 52,SHOW_OATH_LEVEL,35,show oath panel player level
 53,GLORY_ENABLE,0,0:(disable) 1:(enable)
 54,SOUL_ENABLE,0,0:(disable) 1:(enable)
-55,PANTS_ENABLE,0,0:(disable) 1:(enable)
+55,PANTS_ENABLE,1,0:(disable) 1:(enable)
 56,MAX_DOLL_COUNT,150,max item count
 57,DOLL_FEED_ITEMS,"10341,10,68101;1,1,1,1,1,1","gfxId,frameId,itemId;itemCount0,..itemCount5"
 58,DOLL_BATTLE_ITEMS,"10337,15,40318;1,1,1,1,1,1","gfxId,frameId,itemId;itemCount0,..itemCount5"
