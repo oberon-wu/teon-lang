@@ -129,3 +129,4 @@ id,key,value,desc
 128,ADV_ENCHANT_EXTRACT_ITEM_IDS,"42033,42034",adv enchant extract item ids
 129,ADV_ENCHANT_BLEND_ITEM_IDS,"42020,42021,42022,42023,42024,42025",adv enchant blend item ids
 130,ADV_ENCHANT_TRANSFORM_ITEM_IDS,"42036",adv enchant transform item ids
+131,MARKET_SHOW_MIN_UNIT_PRICE,1,0:(disable) 1:(enable)
