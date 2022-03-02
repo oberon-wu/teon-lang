@@ -2611,17 +2611,17 @@ tw_2609,"\f22.19 魔法娃娃系統"
 tw_2610,"四階魔力球"
 tw_2611,"五階魔力球"
 tw_2612,"魔力球碎片"
-tw_2613,"Time left"
-tw_2614,"Price:"
-tw_2615,"Trophy"
-tw_2616,"Collect"
-tw_2617,"Give Up"
-tw_2618,"(if you confirm to redeem this item, it can't be give up)"
-tw_2619,"(if you confirm to give up this item, it can't be recover)"
-tw_2620,"You have nothing to redeem.\nTap the [?] icon on the top right to know\nmore about Redeem."
-tw_2621,"You have no trophy now.\nTap the [?] icon on the top right to know\nmore about Trophy."
-tw_2622,"Rules about Redeem"
-tw_2623,"Rules about Trophy"
+tw_2613,"剩餘時間"
+tw_2614,"價格:"
+tw_2615,"贖回"
+tw_2616,"領取"
+tw_2617,"放棄"
+tw_2618,"確認贖回該道具嗎？"
+tw_2619,"確認放棄該道具嗎？"
+tw_2620,"目前沒有東西可以贖回。"
+tw_2621,"目前沒有戰利品。"
+tw_2622,"贖回規則"
+tw_2623,"戰利品領取規則"
 tw_2624,"赎回系统规则_内容"
 tw_2625,"战利品系统规则_内容"
 tw_2626,"\f2鎖定的材料不能用於%s"
@@ -3205,48 +3205,51 @@ tw_3203,"復仇"
 tw_3204,"已過期"
 tw_3205,"PVP規則"
 tw_3206,"PVP規則內容"
-tw_3207,体力
+tw_3207,體力
 tw_3208,魔力
-tw_3209,负重减免
-tw_3210,额外负重
-tw_3211,体力恢复
-tw_3212,魔力恢复
-tw_3213,魔复药水效果
-tw_3214,治愈药水最大效果
+tw_3209,負重減免
+tw_3210,額外負重
+tw_3211,體力恢復
+tw_3212,魔力恢復
+tw_3213,魔復藥水效果
+tw_3214,治愈藥水最大效果
 tw_3215,物理防御
 tw_3216,魔法防御
-tw_3217,近战命中
-tw_3218,PVP近战命中
-tw_3219,远程命中
-tw_3220,PVP远程命中
-tw_3221,近战物攻
-tw_3222,PVP近战物攻
-tw_3223,远程物攻
-tw_3224,PVP远程物攻
-tw_3225,PVP额外魔伤
-tw_3226,额外魔伤
-tw_3227,魔法攻击
-tw_3228,魔法伤害
-tw_3229,物伤减免
-tw_3230,魔伤减免
-tw_3231,PVP物伤减免
-tw_3232,PVP魔伤减免
+tw_3217,近戰命中
+tw_3218,PVP近戰命中
+tw_3219,遠程命中
+tw_3220,PVP遠程命中
+tw_3221,近戰物攻
+tw_3222,PVP近戰物攻
+tw_3223,遠程物攻
+tw_3224,PVP遠程物攻
+tw_3225,PVP額外魔傷
+tw_3226,額外魔傷
+tw_3227,魔法攻擊
+tw_3228,魔法傷害
+tw_3229,物傷減免
+tw_3230,魔傷減免
+tw_3231,PVP物傷減免
+tw_3232,PVP魔傷減免
 tw_3233,力量
 tw_3234,敏捷
 tw_3235,智力
-tw_3236,体质
+tw_3236,體質
 tw_3237,精神
 tw_3238,毅力
-tw_3239,抵抗眩晕
+tw_3239,抵抗眩暈
 tw_3240,抵抗致盲
 tw_3241,抵抗石化
 tw_3242,抵抗麻痹
-tw_3243,抵抗冰冻
+tw_3243,抵抗冰凍
 tw_3244,火防
 tw_3245,水防
-tw_3246,风防
+tw_3246,風防
 tw_3247,土防
 tw_3248,魔法命中
-tw_3249,经验加成
-tw_3250,职业最大HP
-tw_3251,职业最大MP
+tw_3249,經驗加成
+tw_3250,職業最大HP
+tw_3251,職業最大MP
+tw_3252,"%uH %uM %uS"
+tw_3253,"領取戰利品"
+tw_3254,"確認後將獲得該物品"
