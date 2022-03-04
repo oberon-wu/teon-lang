@@ -131,4 +131,5 @@ id,key,value,desc
 130,ADV_ENCHANT_TRANSFORM_ITEM_IDS,"0",adv enchant transform item ids
 131,MARKET_SHOW_MIN_UNIT_PRICE,1,0:(disable) 1:(enable)
 132,MARKET_SHOW_TAX_AT_EARNING,0,0:(disable) 1:(enable)
-133,MARKET_SHOW_VIP_NO_TAX,0,0:(disable) 1:(enable)
+133,MARKET_SHOW_VIP_NO_TAX,0,0:(disable) 1:(enable
+134,MARKET_SHOW_TAX_AT_BUY,0,0:(disable) 1:(enable)
