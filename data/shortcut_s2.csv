@@ -4,7 +4,6 @@ mail,1,248,4
 reward,2,290,4
 leaderboard,3,205,42
 navigation,4,248,42
-gme,6,290,42
-castle,9,205,80
-pvplog,10,248,80
-redeem,5,290,80
+pvplog,10,290,42
+redeem,5,205,80
+castle,9,248,80
