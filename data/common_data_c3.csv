@@ -134,3 +134,4 @@ id,key,value,desc
 133,MARKET_SHOW_VIP_NO_TAX,0,0:(disable) 1:(enable)
 134,MARKET_SHOW_TAX_AT_BUY,0,0:(disable) 1:(enable)
 135,ITEM_GUIDE_ACTIVITY,1,0:(disable) 1:(enable)
+136,ITEM_GUIDE_CATEGORY_MAXCOUNT,10,"once display item guide category maxcount"
