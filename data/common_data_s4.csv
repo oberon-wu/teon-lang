@@ -60,7 +60,7 @@ id,key,value,desc
 59,DOLL_DECOMPOSE_ITEMS,"10913,30,40211;5,5,20,80,320,1280","gfxId,frameId,itemId;itemCount0,..itemCount5"
 60,DOLL_RESET_TALENT_ITEMS,"10913,31,40212;3,3,3,3,3,3","gfxId,frameId,itemId;itemCount0,..itemCount5"
 61,DOLL_UPGRADE_TALENT_ITEMS,"0,0,0;1,1,2,3,4,5","gfxId,frameId,itemId;itemCount0,..itemCount5, 40424"
-62,WORLD_MAP_BACKGROUND_NAME,"world_map_3","world map background name"
+62,WORLD_MAP_BACKGROUND_NAME,"world_map_5","world map background name"
 63,MEMBER_SHORTCUT_BLINK,"(null)","icon blink config"
 64,ITEM_EXPIRY_SHOW,86400,"show clock image time"
 65,MERCENARY_CFG,"10,20,30,40;100000,10,50,100","rate1..rate4;goldMin,tcMin,levelMin,countMax"
