@@ -73,7 +73,7 @@ id,key,value,desc
 72,REBORN_POINTS_BASE_ATTR_MAX,45,"reborn base attr max"
 73,DARK_ELF_UNLOCK,1,0:(lock) 1:(unlock)
 74,COMMON_DATA_ROW_STALL_MAX_ITEM_ROW_COUNT,0,"ROW_STALL_MAX_ITEM_ROW_COUNT"
-75,REBORN_POINTS_BASE_ATTR_MAX,"90,45;100,50","reborn base attr max"
+75,REBORN_POINTS_BASE_ATTR_MAX,"90,45;120,50","reborn base attr max"
 76,NEW_UDEF_SPEED_ENABLE,1,0:(disable) 1:(enable)
 77,LOADING_BG_FILE_NAME,"opening_16","loading panel background file name"
 78,SHOW_ATTR_ENERGY_ENABLE,1,0:(disable) 1:(enable)
