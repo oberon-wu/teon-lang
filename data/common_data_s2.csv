@@ -107,7 +107,7 @@ id,key,value,desc
 106,PKMODE_WARNING,0,0:(disable) 1:(enable)
 107,LAWFUL,"-1,0,1000","chaoticLaful,lawful,offsetLawful"
 108,ENABLE_SHOW_CHAR_ID,1,0:(disable) 1:(enable)
-109,DISPLAY_DROP_EXP,1,0:(disable) 1:(enable)
+109,DISPLAY_DROP_EXP,0,0:(disable) 1:(enable)
 110,COMMON_DATA_STALL_ENABLED,0,"0:(disable) 1:(enable)"
 111,COMMON_DATA_MAX_CLAN_NAME_LENGHT,24,max clan name lenght
 112,COMMON_DATA_ROW_SHOW_ONLINE_REWARD_SHORTCUT_ENABLE,0,enable show online reward short cut
