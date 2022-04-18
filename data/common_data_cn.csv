@@ -82,7 +82,7 @@ id,key,value,desc
 81,COMMON_DATA_ROW_BLACKLIST_MAX,20,"back list max count"
 82,NPC_LEVEL_DIFF_NAME_COLOR,0,0:(disable) 1:(enable)
 83,SLEEP_PAGE_ENABLED,0,0:(disable) 1:(enable)
-84,TITLE_ENABLED,1,0:(disable) 1:(enable)
+84,TITLE_ENABLED,0,0:(disable) 1:(enable)
 85,TIME_POINT_ENABLE,0,0:(disable) 1:(enable)
 86,REBIRTH_BONUS_STATUS,"4,8",rebirth bonus init point
 87,NEW_CLAN_ENABLED,0,0:(disable) 1:(enable)
