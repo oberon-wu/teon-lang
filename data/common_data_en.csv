@@ -138,3 +138,4 @@ id,key,value,desc
 137,COMMON_DATA_ROW_ALLOW_ASSIGN_RANK_TRAINEE,0,0:(disable) 1:(enable)
 138,COMMON_DATA_ROW_BONUS_MAX_LEVEL,100,max bonus level
 139,COMMON_DATA_ROW_ALLOW_ASSIGN_RANK_TRAINEE,0,0:(disable) 1:(enable)
+140,COMMON_DATA_ROW_DELETE_ACCOUNT_CONFIRM,"确认删除",confirm delete account input text
