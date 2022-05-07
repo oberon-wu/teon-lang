@@ -133,7 +133,7 @@ id,key,value,desc
 132,MARKET_SHOW_TAX_AT_EARNING,0,0:(disable) 1:(enable)
 133,MARKET_SHOW_VIP_NO_TAX,1,0:(disable) 1:(enable)
 134,MARKET_SHOW_TAX_AT_BUY,0,0:(disable) 1:(enable)
-135,ITEM_GUIDE_ACTIVITY,0,0:(disable) 1:(enable)
+135,ITEM_GUIDE_ACTIVITY,1,0:(disable) 1:(enable)
 136,ITEM_GUIDE_CATEGORY_MAXCOUNT,10,"once display item guide category maxcount"
 137,COMMON_DATA_ROW_ALLOW_ASSIGN_RANK_TRAINEE,0,0:(disable) 1:(enable)
 138,COMMON_DATA_ROW_BONUS_MAX_LEVEL,100,max bonus level
