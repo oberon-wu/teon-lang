@@ -93,7 +93,7 @@ id,key,value,desc
 92,COMMON_DATA_ROW_ATTR_EFFECT_MSG,870,"attr effect msg"
 93,COMMON_DATA_ROW_ATTR_RESET_MSG_FREE,871,"attr reset msg free(rule)"
 94,BATTLE_LOG_ENABLE,1,0:(disable) 1:(enable)
-95,DOLL_RESET_ITEMS,"10341,14,59999;0,0,0,0,0,96","gfxId,frameId,itemId;itemCount0,..itemCount5"
+95,DOLL_RESET_ITEMS,"10341,14,59999;0,0,0,0,0,120","gfxId,frameId,itemId;itemCount0,..itemCount5"
 96,AVATAR_FRAME_OPEN,0,0:(disable) 1:(enable)
 97,ENABLE_DIRECT_PARTY_BUDDY,0,0:(disable) 1:(enable)
 98,MULTIPLE_SHORTCUT_COUNT,2,max shortcut count
